@@ -2,7 +2,7 @@ import pdfplumber  # https://github.com/jsvine/pdfplumber
 import polars as pl  # https://www.pola.rs/
 
 
-def FormattedTable(table):
+def formatted_table(table):
     """
     Checks if the table is empty
     -----------------------------------------------------------------------
@@ -22,7 +22,7 @@ def FormattedTable(table):
         return []
 
 
-def ExtractFromMultiplePages(pages):
+def extract_from_multiple_pages(pages):
     """
 
     Takes a list of pdfplumber.page objects as input then
@@ -33,7 +33,7 @@ def ExtractFromMultiplePages(pages):
     df = pl.DataFrame()
     for page in pages:
         table = page.extract_table()
-        table = FormattedTable(table)
+        table = formatted_table(table)
         df = df.vstack(pl.DataFrame(table, orient="row"))
     return df
 
@@ -42,6 +42,6 @@ file = r""  # input pdf filepath
 pdf = pdfplumber.open(file)
 pages = pdf.pages[:]  # pages to be converted
 
-data = ExtractFromMultiplePages(pages)
+data = extract_from_multiple_pages(pages)
 
 data.write_csv(file.split(".")[0] + ".csv")
