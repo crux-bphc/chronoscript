@@ -75,10 +75,10 @@ if __name__ == "__main__":
             }
         )
 
-        if final_json[course_code]["sections"][section].get("exams") is None:
-            final_json[course_code]["sections"][section]["exams"] = dict()
+        if final_json[course_code].get("exams") is None:
+            final_json[course_code]["exams"] = dict()
 
-        final_json[course_code]["sections"][section]["exams"].update(
+        final_json[course_code]["exams"].update(
             {
                 "midsem": row["midsem"],
                 "compre": row["compre"],
