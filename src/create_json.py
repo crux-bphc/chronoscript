@@ -71,7 +71,7 @@ if __name__ == "__main__":
             {
                 "room": row["room"],
                 "days": list(row["days"].split()),
-                "hours": list(row["hours"].split()),
+                "hours": [int(x) for x in list(row["hours"].split())],
             }
         )
 
