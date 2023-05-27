@@ -40,7 +40,7 @@ def convert_timetable_to_csv(pages: list[pdfplumber.page.Page]) -> pd.DataFrame(
 
 if __name__ == "__main__":
     pdf: pdfplumber.pdf.PDF = pdfplumber.open(file)
-    pages: list[pdfplumber.page.Page] = pdf.pages[page_range[0] : page_range[1] + 1]
+    pages: list[pdfplumber.page.Page] = pdf.pages[page_range[0] - 1 : page_range[1] + 1]
 
     data: pd.DataFrame = convert_timetable_to_csv(pages)
     data.to_csv("output.csv", index=False)  # output csv filepath
