@@ -1,47 +1,40 @@
-import pdfplumber  # https://github.com/jsvine/pdfplumber
-import polars as pl  # https://www.pola.rs/
+import pdfplumber
+import pandas as pd
 
 
-def formatted_table(table):
-    """
-    Checks if the table is empty
-    -----------------------------------------------------------------------
-    Formats the table to:
-    1) remove column headers
-    2) replaces \\n with whitespace to avoid formatting issues in final csv
-            e.g.  10/07\\n9:30 - 11:00AM  -->    10/07   9:30 - 11:00AM
-
-    """
-    if table:
-        table = table[2:]
-        for item in table:
-            if "\n" in item[-2]:
-                item[-2] = item[-2].replace("\n", "  ")
-                return table
-    else:
-        return []
+def remove_headers(
+    table: list[list[str]], remove_rows_containing_any_of: list[str]
+) -> list[list[str]]:
+    new_table: list[list[str]] = []
+    for row in table:
+        transfer: bool = True
+        for string in remove_rows_containing_any_of:
+            if string in row:
+                transfer: bool = False
+                break
+        if transfer:
+            new_table.append(row)
+    return new_table
 
 
-def extract_from_multiple_pages(pages):
-    """
-
-    Takes a list of pdfplumber.page objects as input then
-    Iterates through the list of pages extracting tables on each page
-    and adding it to the final dataframe to be converted into csv file
-
-    """
-    df = pl.DataFrame()
+def convert_timetable_to_csv(pages: list[pdfplumber.page.Page]) -> pd.DataFrame():
+    df = pd.DataFrame()
     for page in pages:
         table = page.extract_table()
-        table = formatted_table(table)
-        df = df.vstack(pl.DataFrame(table, orient="row"))
+        table = remove_headers(
+            table,
+            [
+                "TIMETABLE & EXAMS DIVISION TIMETABLE SECOND SEMESTER 2022-2023\nI YEAR FD(2022)",
+                "COM\nCOD",
+            ],
+        )
+        df = pd.concat([df, pd.DataFrame(table)])
     return df
 
 
-file = r""  # input pdf filepath
-pdf = pdfplumber.open(file)
-pages = pdf.pages[:]  # pages to be converted
+file: str = r"Timetable_II_sem_2022_-23_of_FD_I_Year.pdf"  # input pdf filepath
+pdf: pdfplumber.pdf.PDF = pdfplumber.open(file)
+pages: list[pdfplumber.page.Page] = pdf.pages[7:19]  # pages to extract from
 
-data = extract_from_multiple_pages(pages)
-
-data.write_csv(file.split(".")[0] + ".csv")
+data: pd.DataFrame = convert_timetable_to_csv(pages)
+data.to_csv("output.csv", index=False)  # output csv filepath
