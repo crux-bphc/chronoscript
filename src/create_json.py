@@ -35,11 +35,12 @@ def convert_all_sets_to_list_recursive(obj: dict) -> dict:
 
 
 if __name__ == "__main__":
-    # Read the csv file
-    tt = pd.read_csv("output.csv")
-    final_json = {}
+    tt: pd.DataFrame = pd.read_csv("output.csv")
+    final_json: dict = {}
     tt.columns = columns
     tt.drop(columns=["L", "P", "U"], inplace=True)
+
+    # Filling all empty rows with the previous row's value for simplicity
     tt.fillna(method="ffill", inplace=True)
 
     for _, row in tt.iterrows():
@@ -85,7 +86,7 @@ if __name__ == "__main__":
             }
         )
 
-    # pretty print the json file
+    # convert file to serializable format
     convert_all_sets_to_list_recursive(final_json)
     # output the json file
     json.dump(final_json, open("timetable.json", "w"), indent=4)
