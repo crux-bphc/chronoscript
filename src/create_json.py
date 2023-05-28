@@ -46,6 +46,8 @@ def remove_duplicate_dicts(l: list[dict]) -> list[dict]:
             seen.add(t)
             new_l.append(d)
 
+    return new_l
+
 
 if __name__ == "__main__":
     tt: pd.DataFrame = pd.read_csv("output.csv")
@@ -90,8 +92,8 @@ if __name__ == "__main__":
         final_json[course_code]["sections"][section]["schedule"].append(
             {
                 "room": row["room"],
-                "days": list(row["days"].split()),
-                "hours": [int(x) for x in list(row["hours"].split())],
+                "days": tuple(row["days"].split()),
+                "hours": tuple([int(x) for x in list(row["hours"].split())]),
             }
         )
 
