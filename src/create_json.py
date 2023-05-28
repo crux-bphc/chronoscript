@@ -42,19 +42,25 @@ if __name__ == "__main__":
 
     # Filling all empty rows with the previous row's value for simplicity
     tt.fillna(method="ffill", inplace=True)
+    tt.to_csv("output2.csv", index=False)
 
     for _, row in tt.iterrows():
         course_code = row["course_code"]
 
         if final_json.get(course_code) is None:
             final_json[course_code] = {}
-        final_json[course_code]["name"] = row["course_name"]
-
+        if final_json[course_code].get("course_name") is None:
+            final_json[course_code]["course_name"] = row["course_name"]
         if final_json[course_code].get("sections") is None:
             final_json[course_code]["sections"] = {}
 
         section = int(row["section"])
-
+        if row["course_name"] == "Tutorial":
+            section = "T" + str(section)
+        elif row["course_name"] == "Practical":
+            section = "P" + str(section)
+        else:
+            section = "L" + str(section)
         if final_json[course_code]["sections"].get(section) is None:
             final_json[course_code]["sections"][section] = {}
 
@@ -66,9 +72,9 @@ if __name__ == "__main__":
         )
 
         if final_json[course_code]["sections"][section].get("schedule") is None:
-            final_json[course_code]["sections"][section]["schedule"] = dict()
+            final_json[course_code]["sections"][section]["schedule"] = []
 
-        final_json[course_code]["sections"][section]["schedule"].update(
+        final_json[course_code]["sections"][section]["schedule"].append(
             {
                 "room": row["room"],
                 "days": list(row["days"].split()),
@@ -77,9 +83,9 @@ if __name__ == "__main__":
         )
 
         if final_json[course_code].get("exams") is None:
-            final_json[course_code]["exams"] = dict()
+            final_json[course_code]["exams"] = []
 
-        final_json[course_code]["exams"].update(
+        final_json[course_code]["exams"].append(
             {
                 "midsem": row["midsem"],
                 "compre": row["compre"],
