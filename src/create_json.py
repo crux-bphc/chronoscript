@@ -57,7 +57,6 @@ if __name__ == "__main__":
 
     # Filling all empty rows with the previous row's value for simplicity
     tt.fillna(method="ffill", inplace=True)
-    tt.to_csv("output2.csv", index=False)
 
     for _, row in tt.iterrows():
         course_code = row["course_code"]
