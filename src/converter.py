@@ -10,9 +10,9 @@ headers: list[str] = [
 ]
 
 # page range to extract the timetable from
-page_range: list[int] = [7, 18]
+page_range: list[int] = [7, 68]
 # path to the pdf file
-file: str = r"Timetable_II_sem_2022_-23_of_FD_I_Year.pdf"
+file: str = r"tt.pdf"
 
 
 def remove_headers(
