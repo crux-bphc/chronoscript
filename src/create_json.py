@@ -82,6 +82,13 @@ if __name__ == "__main__":
             }
         )
 
+        final_json[course_code]["sections"][section]["schedule"] = list(
+            {
+                v["room"]: v
+                for v in final_json[course_code]["sections"][section]["schedule"]
+            }.values()
+        )
+
         if final_json[course_code].get("exams") is None:
             final_json[course_code]["exams"] = []
 
@@ -90,6 +97,10 @@ if __name__ == "__main__":
                 "midsem": row["midsem"],
                 "compre": row["compre"],
             }
+        )
+
+        final_json[course_code]["exams"] = list(
+            {v["midsem"]: v for v in final_json[course_code]["exams"]}.values()
         )
 
     # convert file to serializable format
