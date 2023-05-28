@@ -2,13 +2,17 @@ import pdfplumber
 import pandas as pd
 
 # global variables
+
+# headers to remove from the table (occur >= 1 time (atleast 1 per page))
 headers: list[str] = [
     "TIMETABLE & EXAMS DIVISION TIMETABLE SECOND SEMESTER 2022-2023\nI YEAR FD(2022)",
     "COM\nCOD",
 ]
 
-page_range: list[int] = [7, 18]  # pages to extract from (inclusive of both ends)
-file: str = r"Timetable_II_sem_2022_-23_of_FD_I_Year.pdf"  # input pdf filepath
+# page range to extract the timetable from
+page_range: list[int] = [7, 68]
+# path to the pdf file
+file: str = r"tt.pdf"
 
 
 def remove_headers(
@@ -40,7 +44,8 @@ def convert_timetable_to_csv(pages: list[pdfplumber.page.Page]) -> pd.DataFrame(
 
 if __name__ == "__main__":
     pdf: pdfplumber.pdf.PDF = pdfplumber.open(file)
-    pages: list[pdfplumber.page.Page] = pdf.pages[page_range[0] : page_range[1] + 1]
+    pages: list[pdfplumber.page.Page] = pdf.pages[page_range[0] - 1 : page_range[1] + 1]
 
     data: pd.DataFrame = convert_timetable_to_csv(pages)
-    data.to_csv("output.csv", index=False)  # output csv filepath
+    # output the dataframe to csv
+    data.to_csv("output.csv", index=False)
