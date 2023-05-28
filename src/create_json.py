@@ -34,6 +34,19 @@ def convert_all_sets_to_list_recursive(obj: dict) -> dict:
     return obj
 
 
+def remove_duplicate_dicts(l: list[dict]) -> list[dict]:
+    """
+    Remove duplicate dictionaries from a list of dictionaries
+    """
+    seen = set()
+    new_l = []
+    for d in l:
+        t = tuple(sorted(d.items()))
+        if t not in seen:
+            seen.add(t)
+            new_l.append(d)
+
+
 if __name__ == "__main__":
     tt: pd.DataFrame = pd.read_csv("output.csv")
     final_json: dict = {}
@@ -82,11 +95,10 @@ if __name__ == "__main__":
             }
         )
 
-        final_json[course_code]["sections"][section]["schedule"] = list(
-            {
-                v["room"]: v
-                for v in final_json[course_code]["sections"][section]["schedule"]
-            }.values()
+        final_json[course_code]["sections"][section][
+            "schedule"
+        ] = remove_duplicate_dicts(
+            final_json[course_code]["sections"][section]["schedule"]
         )
 
         if final_json[course_code].get("exams") is None:
@@ -99,8 +111,8 @@ if __name__ == "__main__":
             }
         )
 
-        final_json[course_code]["exams"] = list(
-            {v["midsem"]: v for v in final_json[course_code]["exams"]}.values()
+        final_json[course_code]["exams"] = remove_duplicate_dicts(
+            final_json[course_code]["exams"]
         )
 
     # convert file to serializable format
