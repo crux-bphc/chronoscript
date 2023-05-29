@@ -39,36 +39,35 @@ def separate_sections_into_types(
     Returns:
         dict: dictionary of courses' sections separated into lectures, tutorials and practicals
     """
-
-    # currently written only for CDCs
-
     sep = {}
-    for cdc in filtered_json["CDCs"]:
-        lectures = []
-        tutorials = []
-        practicals = []
-        # inner dictionary we'll be continuously referring to
-        ref = filtered_json["CDCs"][cdc]
-        for section in ref["sections"]:
-            if section.startswith("L"):
-                lectures.append(section)
-            elif section.startswith("T"):
-                tutorials.append(section)
-            elif section.startswith("P"):
-                practicals.append(section)
-        sep[cdc] = {
-            "L": lectures,
-            "T": tutorials,
-            "P": practicals,
-        }
-        # if list is empty remove the key-value pair
-        # we need to remove it as it causes problems when using woth itertools.product()
-        if not lectures:
-            del sep[cdc]["L"]
-        if not tutorials:
-            del sep[cdc]["T"]
-        if not practicals:
-            del sep[cdc]["P"]
+
+    for type in filtered_json:
+        for course in filtered_json[type]:
+            lectures = []
+            tutorials = []
+            practicals = []
+            # inner dictionary we'll be continuously referring to
+            ref = filtered_json[type][course]
+            for section in ref["sections"]:
+                if section.startswith("L"):
+                    lectures.append(section)
+                elif section.startswith("T"):
+                    tutorials.append(section)
+                elif section.startswith("P"):
+                    practicals.append(section)
+            sep[course] = {
+                "L": lectures,
+                "T": tutorials,
+                "P": practicals,
+            }
+            # if list is empty remove the key-value pair
+            # we need to remove it as it causes problems when using woth itertools.product()
+            if not lectures:
+                del sep[course]["L"]
+            if not tutorials:
+                del sep[course]["T"]
+            if not practicals:
+                del sep[course]["P"]
 
     return sep
 
@@ -85,32 +84,31 @@ def generate_intra_combinations(
         dict: dictionary of all possible combinations of sections within each course
     """
 
-    # again, written only for CDCs as of now
     sep = separate_sections_into_types(filtered_json)
     combs = {}
-    for cdc in sep:
+    for course in sep:
         sections = []
         # first check is the type of section (L, T or P) is present in the course
-        if sep[cdc].get("L") is not None:
+        if sep[course].get("L") is not None:
             # number of lecture sections
-            nLs = len(sep[cdc]["L"])
+            nLs = len(sep[course]["L"])
             # list of lecture sections
             Ls = ["L" + str(i + 1) for i in range(nLs)]
             sections.append(Ls)
-        if sep[cdc].get("P") is not None:
+        if sep[course].get("P") is not None:
             # number of practical sections
-            nPs = len(sep[cdc]["P"])
+            nPs = len(sep[course]["P"])
             Ps = ["P" + str(i + 1) for i in range(nPs)]
             # list of practical sections
             sections.append(Ps)
-        if sep[cdc].get("T") is not None:
+        if sep[course].get("T") is not None:
             # number of tutorial sections
-            nTs = len(sep[cdc]["T"])
+            nTs = len(sep[course]["T"])
             # list of tutorial sections
             Ts = ["T" + str(i + 1) for i in range(nTs)]
             sections.append(Ts)
         # generate all possible combinations of sections (exhaustive and inclusive of clashes)
-        combs[cdc] = list(product(*sections))
+        combs[course] = list(product(*sections))
     return combs
 
 
@@ -126,15 +124,13 @@ def generate_exhaustive_timetables(
         list: list of all possible timetables (exhaustive and inclusive of clashes)
     """
 
-    # written only for CDCs as of now
-
     combs = generate_intra_combinations(filtered_json)
     timetables = []
-    cdcs = []
-    for cdc in combs:
+    courses = []
+    for course in combs:
         # format (course, section combination for that course)
-        cdcs.append([(str(cdc), comb) for comb in combs[cdc]])
-    timetables = list(product(*cdcs))
+        courses.append([(str(course), comb) for comb in combs[course]])
+    timetables = list(product(*courses))
     return timetables
 
 
@@ -149,19 +145,26 @@ def remove_clashes(
         list: list of timetables without clashes
     """
 
-    # written only for CDCs as of now
-
     filtered = []
     for timetable in timetables:
         # times currently held as "in use" by some course's section
         # format "DH" where D is the day and H is the hour
         times = []
         clashes = False
-        for cdc in timetable:
-            # cdc[1] as that has the section details, cdc[0] hold course code
-            for sec in cdc[1]:
+        for course in timetable:
+            # course[1] as that has the section details, course[0] hold course code
+            for sec in course[1]:
                 # the schedule of the section from the main json file
-                sched = json["CDCs"][cdc[0]]["sections"][sec]["schedule"]
+                if course[0] in json["CDCs"]:
+                    sched = json["CDCs"][course[0]]["sections"][sec]["schedule"]
+                elif course[0] in json["DEls"]:
+                    sched = json["DEls"][course[0]]["sections"][sec]["schedule"]
+                elif course[0] in json["HUELs"]:
+                    sched = json["HUELs"][course[0]]["sections"][sec]["schedule"]
+                elif course[0] in json["OPELs"]:
+                    sched = json["OPELs"][course[0]]["sections"][sec]["schedule"]
+                else:
+                    raise Exception("Course code not found in any category")
                 # ts denotes all slots needed for the section
                 ts = []
                 for i in range(len(sched)):
@@ -190,15 +193,13 @@ def remove_clashes(
 if __name__ == "__main__":
     # Global Variables
 
-    CDCs = ["CS F342", "CS F363", "CS F364"]
+    CDCs = ["CS F211", "CS F212", "CS F241"]
 
-    # Currently not working with electives
-
-    DEls = []
+    DEls = ["BITS F464", "CS F469"]
 
     OPELs = []
 
-    HUELs = []
+    HUELs = ["HSS F346"]
 
     # Load the json file created
 
