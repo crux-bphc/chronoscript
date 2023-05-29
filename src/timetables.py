@@ -151,3 +151,52 @@ def generate_exhaustive_timetables(
         cdcs.append([(str(cdc), comb) for comb in combs[cdc]])
     timetables = list(product(*cdcs))
     return timetables
+
+
+def remove_clashes(
+    timetables: Annotated[list, "exhaustive list of all possible timetables"],
+    json: Annotated[dict, "main timetable json file (or) filtered json file"],
+):
+    """
+    Function that filters out timetables with clashes
+
+    Returns:
+        list: list of timetables without clashes
+    """
+
+    # written only for CDCs as of now
+
+    filtered = []
+    for timetable in timetables:
+        # times currently held as "in use" by some course's section
+        # format "DH" where D is the day and H is the hour
+        times = []
+        clashes = False
+        for cdc in timetable:
+            # cdc[1] as that has the section details, cdc[0] hold course code
+            for sec in cdc[1]:
+                # the schedule of the section from the main json file
+                sched = json["CDCs"][cdc[0]]["sections"][sec]["schedule"]
+                # ts denotes all slots needed for the section
+                ts = []
+                for i in range(len(sched)):
+                    ts.extend(list(product(sched[i]["days"], sched[i]["hours"])))
+                # converting it to the string of required format "DH"
+                ts = [str(t[0]) + str(t[1]) for t in ts]
+                # if any slot in ts is already in times, then there is a clash
+                # if so, mark it as clashes and dont add it to the filtered list
+                for t in ts:
+                    if t in times:
+                        clashes = True
+                        break
+                    else:
+                        times.append(t)
+                if clashes:
+                    break
+            if clashes:
+                break
+        # if no clashes, add it to the filtered list
+        if not clashes:
+            filtered.append(timetable)
+
+    return filtered
