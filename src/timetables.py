@@ -70,6 +70,8 @@ def separate_sections_into_types(
         if not practicals:
             del sep[cdc]["P"]
 
+    return sep
+
 
 def generate_intra_combinations(
     filtered_json: Annotated[
