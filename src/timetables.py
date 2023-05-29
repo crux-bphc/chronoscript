@@ -1,5 +1,6 @@
 import json
 from itertools import product
+from operator import itemgetter
 from typing import Annotated
 
 
@@ -136,7 +137,7 @@ def generate_exhaustive_timetables(
 
 def remove_clashes(
     timetables: Annotated[list, "exhaustive list of all possible timetables"],
-    json: Annotated[dict, "main timetable json file (or) filtered json file"],
+    json: Annotated[dict, "filtered json file"],
 ):
     """
     Function that filters out timetables with clashes
@@ -190,12 +191,89 @@ def remove_clashes(
     return filtered
 
 
+def day_wise_filter(
+    timetables: Annotated[list, "list of timetables without clashes"],
+    json: Annotated[dict, "filtered json file"],
+    free_days: Annotated[list[str], "list of days to be free if possible"],
+    lite_order: Annotated[
+        list[str],
+        "increasing order of how lite you want days to be (earlier means more lite)",
+    ],
+    filter: Annotated[bool, "whether to filter or to just sort"] = False,
+    strong: Annotated[bool, "whether to use strong filter or not"] = False,
+) -> list:
+    # format: (n days matched free, timetable)
+    matches_free_days: list[tuple] = []
+    # format: (daily scores in a list [0, 4, 5, ...], timetable)
+    others: list[tuple] = []
+
+    day_dict = {
+        "M": 0,
+        "T": 1,
+        "W": 2,
+        "Th": 3,
+        "F": 4,
+        "S": 5,
+        "Su": 6,
+    }
+
+    for timetable in timetables:
+        schedule = {
+            "M": [],
+            "T": [],
+            "W": [],
+            "Th": [],
+            "F": [],
+            "S": [],
+            "Su": [],
+        }
+        for course in timetable:
+            for sec in course[1]:
+                if course[0] in json["CDCs"]:
+                    sched = json["CDCs"][course[0]]["sections"][sec]["schedule"]
+                elif course[0] in json["DEls"]:
+                    sched = json["DEls"][course[0]]["sections"][sec]["schedule"]
+                elif course[0] in json["HUELs"]:
+                    sched = json["HUELs"][course[0]]["sections"][sec]["schedule"]
+                elif course[0] in json["OPELs"]:
+                    sched = json["OPELs"][course[0]]["sections"][sec]["schedule"]
+                else:
+                    raise Exception("Course code not found in any category")
+                for i in range(len(sched)):
+                    for day in sched[i]["days"]:
+                        schedule[day].append(sched[i]["hours"])
+        daily_scores = [len(v) for k, v in schedule.items()]
+        daily_scores = [daily_scores[day_dict[day]] for day in lite_order]
+        n_free = 0
+        for day in free_days:
+            if len(schedule[day]) == 0:
+                n_free += 1
+        if n_free > 0 and not strong:
+            matches_free_days.append((n_free, daily_scores, timetable))
+        elif n_free == len(free_days):
+            matches_free_days.append((n_free, daily_scores, timetable))
+        else:
+            others.append((n_free, daily_scores, timetable))
+
+    matches_free_days = sorted(matches_free_days, key=itemgetter(0), reverse=True)
+    matches_free_days = sorted(matches_free_days, key=itemgetter(1))
+
+    others = sorted(others, key=itemgetter(0), reverse=True)
+    others = sorted(others, key=itemgetter(1))
+
+    if filter:
+        return [i for i in matches_free_days]
+
+    else:
+        return [i for i in matches_free_days] + [i for i in others]
+
+
 if __name__ == "__main__":
     # Global Variables
 
     CDCs = ["CS F211", "CS F212", "CS F241"]
 
-    DEls = ["BITS F464", "CS F469"]
+    DEls = ["CS F469", "BITS F464"]
 
     OPELs = []
 
@@ -214,3 +292,17 @@ if __name__ == "__main__":
     )
 
     print("Number of timetables without clashes:", len(timetables_without_clashes))
+
+    in_my_preference_order = day_wise_filter(
+        timetables_without_clashes,
+        filtered_json,
+        ["S"],
+        ["S", "Su", "M", "T", "W", "Th", "F"],
+        filter=True,
+        strong=False,
+    )
+    print("Number of timetables after filter: ", len(in_my_preference_order))
+    if len(in_my_preference_order) > 0:
+        print(in_my_preference_order[0])
+    else:
+        print("No timetables found")
