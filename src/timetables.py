@@ -89,7 +89,9 @@ def separate_sections_into_types(
 
 
 def generate_intra_combinations(
-    filtered_json: Annotated[dict, "filtered json file"]
+    filtered_json: Annotated[
+        dict, "filtered json file, i.e, with only courses selected"
+    ]
 ) -> dict:
     """
     Function that generates all possible combinations of sections within each course
@@ -125,3 +127,27 @@ def generate_intra_combinations(
         # generate all possible combinations of sections (exhaustive and inclusive of clashes)
         combs[cdc] = list(product(*sections))
     return combs
+
+
+def generate_exhaustive_timetables(
+    filtered_json: Annotated[
+        dict, "filtered json file, i.e, with only courses selected"
+    ]
+) -> list:
+    """
+    Function that generates all possible timetables (exhaustive and inclusive of clashes)
+
+    Returns:
+        list: list of all possible timetables (exhaustive and inclusive of clashes)
+    """
+
+    # written only for CDCs as of now
+
+    combs = generate_intra_combinations(filtered_json)
+    timetables = []
+    cdcs = []
+    for cdc in combs:
+        # format (course, section combination for that course)
+        cdcs.append([(str(cdc), comb) for comb in combs[cdc]])
+    timetables = list(product(*cdcs))
+    return timetables
