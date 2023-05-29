@@ -3,23 +3,6 @@ from itertools import product
 from typing import Annotated
 
 
-# Global Variables
-
-CDCs = ["CS F342", "CS F363", "CS F364"]
-
-# Currently not working with electives
-
-DEls = []
-
-OPELs = []
-
-HUELs = []
-
-# Load the json file created
-
-tt_json = json.load(open("timetable.json", "r"))
-
-
 def get_filtered_json(
     json: Annotated[dict, "main timetable json file"],
     CDCs: Annotated[list[str], "list of BITS codes for CDCs selected"],
@@ -200,3 +183,31 @@ def remove_clashes(
             filtered.append(timetable)
 
     return filtered
+
+
+if __name__ == "__main__":
+    # Global Variables
+
+    CDCs = ["CS F342", "CS F363", "CS F364"]
+
+    # Currently not working with electives
+
+    DEls = []
+
+    OPELs = []
+
+    HUELs = []
+
+    # Load the json file created
+
+    tt_json = json.load(open("timetable.json", "r"))
+
+    filtered_json = get_filtered_json(tt_json, CDCs, DEls, HUELs, OPELs)
+
+    exhaustive_list_of_timetables = generate_exhaustive_timetables(filtered_json)
+
+    timetables_without_clashes = remove_clashes(
+        exhaustive_list_of_timetables, filtered_json
+    )
+
+    print("Number of timetables without clashes:", len(timetables_without_clashes))
