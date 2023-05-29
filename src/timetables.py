@@ -14,8 +14,15 @@ def get_filtered_json(
     """
     Function to filter the main timetable json file to only include the selected courses
 
+    Args:
+        json (dict): main timetable json file
+        CDCs (list[str]): list of BITS codes for CDCs selected
+        DEls (list[str]): list of BITS codes for DEls selected
+        HUELs (list[str]): list of BITS codes for HUELs selected
+        OPELs (list[str]): list of BITS codes for OPELs selected
+
     Returns:
-        dict: filtered json file
+        dict: filtered json file, i.e, with only courses selected
     """
     filtered_json = {"CDCs": {}, "DEls": {}, "HUELs": {}, "OPELs": {}}
     for CDC in CDCs:
@@ -36,6 +43,9 @@ def separate_sections_into_types(
 ) -> dict:
     """
     Function to separate the sections into lectures, tutorials and practicals
+
+    Args:
+        filtered_json (dict): filtered json file, i.e, with only courses selected
 
     Returns:
         dict: dictionary of courses' sections separated into lectures, tutorials and practicals
@@ -81,6 +91,9 @@ def generate_intra_combinations(
     """
     Function that generates all possible combinations of sections within each course
 
+    Args:
+        filtered_json (dict): filtered json file, i.e, with only courses selected
+
     Returns:
         dict: dictionary of all possible combinations of sections within each course
     """
@@ -121,6 +134,9 @@ def generate_exhaustive_timetables(
     """
     Function that generates all possible timetables (exhaustive and inclusive of clashes)
 
+    Args:
+        filtered_json (dict): filtered json file, i.e, with only courses selected
+
     Returns:
         list: list of all possible timetables (exhaustive and inclusive of clashes)
     """
@@ -138,9 +154,13 @@ def generate_exhaustive_timetables(
 def remove_clashes(
     timetables: Annotated[list, "exhaustive list of all possible timetables"],
     json: Annotated[dict, "filtered json file"],
-):
+) -> list:
     """
     Function that filters out timetables with clashes
+
+    Args:
+        timetables (list): exhaustive list of all possible timetables
+        json (dict): filtered json file
 
     Returns:
         list: list of timetables without clashes
@@ -202,6 +222,20 @@ def day_wise_filter(
     filter: Annotated[bool, "whether to filter or to just sort"] = False,
     strong: Annotated[bool, "whether to use strong filter or not"] = False,
 ) -> list:
+    """
+    Function that filters out timetables based on the number of free days and the lite order. Lite order is the order in which you want the days to be lite. For example, if you want Saturday to be the most lite day, then lite_order = ["S", "Su", "M", "T", "W", "Th", "F"] (set the order of the other 6 accordingly))
+
+    Args:
+        timetables (list): list of timetables without clashes
+        json (dict): filtered json file, i.e, with only courses selected
+        free_days (list): list of days to be free if possible
+        lite_order (list): increasing order of how lite you want days to be (earlier means more lite)
+        filter (bool, optional): whether to filter or to just sort. Defaults to False.
+        strong (bool, optional): whether to use strong filter or not. Defaults to False.
+
+    Returns:
+        list: list of timetables after filtering. They are sorted based on how many of the free days they have and how lite the days are.
+    """
     # format: (n days matched free, timetable)
     matches_free_days: list[tuple] = []
     # format: (daily scores in a list [0, 4, 5, ...], timetable)
@@ -218,6 +252,8 @@ def day_wise_filter(
     }
 
     for timetable in timetables:
+        # will contain the hours of each day where there is a class
+        # used for calculating the daily scores and if it matches the free days
         schedule = {
             "M": [],
             "T": [],
@@ -229,6 +265,7 @@ def day_wise_filter(
         }
         for course in timetable:
             for sec in course[1]:
+                # getting the schedule of the selected section
                 if course[0] in json["CDCs"]:
                     sched = json["CDCs"][course[0]]["sections"][sec]["schedule"]
                 elif course[0] in json["DEls"]:
@@ -239,15 +276,21 @@ def day_wise_filter(
                     sched = json["OPELs"][course[0]]["sections"][sec]["schedule"]
                 else:
                     raise Exception("Course code not found in any category")
+                # since no clashes, we can just append the hours to the schedule
                 for i in range(len(sched)):
                     for day in sched[i]["days"]:
                         schedule[day].append(sched[i]["hours"])
+        # calculating the daily scores
         daily_scores = [len(v) for k, v in schedule.items()]
+        # reordering the daily scores to match the lite order
         daily_scores = [daily_scores[day_dict[day]] for day in lite_order]
+
         n_free = 0
         for day in free_days:
             if len(schedule[day]) == 0:
                 n_free += 1
+
+        # if not strong filter, then if atleast some of the required free days are free, then add it to the list
         if n_free > 0 and not strong:
             matches_free_days.append((n_free, daily_scores, timetable))
         elif n_free == len(free_days):
@@ -255,6 +298,7 @@ def day_wise_filter(
         else:
             others.append((n_free, daily_scores, timetable))
 
+    # sorting based on the number of free days (descending) and then the daily scores (ascending)
     matches_free_days = sorted(matches_free_days, key=itemgetter(0), reverse=True)
     matches_free_days = sorted(matches_free_days, key=itemgetter(1))
 
@@ -269,8 +313,7 @@ def day_wise_filter(
 
 
 if __name__ == "__main__":
-    # Global Variables
-
+    # need to get these as inputs
     CDCs = ["CS F211", "CS F212", "CS F241"]
 
     DEls = ["CS F469", "BITS F464"]
@@ -279,8 +322,7 @@ if __name__ == "__main__":
 
     HUELs = ["HSS F346"]
 
-    # Load the json file created
-
+    # load the json file created
     tt_json = json.load(open("timetable.json", "r"))
 
     filtered_json = get_filtered_json(tt_json, CDCs, DEls, HUELs, OPELs)
