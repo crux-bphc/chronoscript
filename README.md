@@ -98,7 +98,7 @@ Here, the `hours` column should ideally just have `13` like the other courses, h
 
 ![MACRO](images/MACRO_mistake.png)
 
-Here, the word `Tutorial` should be in the row below, and the corresponding section should be marked as `1`. So once again, we need to fix this in the generated csv file.
+Here, the word `Tutorial` should be in the row below, and the corresponding section should be marked as `1` (latter fix is optional, as script takes care of it). So once again, we need to fix this in the generated csv file.
 
 ## Features we are working on (in no particular order)
 
