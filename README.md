@@ -91,6 +91,8 @@ Format: `(number of free days matched, [number of hours of classes per day, in o
 
 2. This can be be visualized as a pandas dataframe using the `visualize.py` script, by specifying the index of the timetable you want to visualize. (`0`: most ideal, `n-1` or `-1`: least ideal) (where `n` denotes number of timetables generated)
 
+3. Run `poetry run python visualize.py` to visualize the timetable.
+
 ### Example outputs
 
 ![class sched](images/class.png)
