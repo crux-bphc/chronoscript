@@ -2,6 +2,23 @@ import pandas as pd
 import json
 import tabulate
 
+conversion_dict = {
+    1: "8 - 8:50AM",
+    2: "9 - 9:50AM",
+    3: "10 - 10:50AM",
+    4: "11 - 11:50AM",
+    5: "12 - 12:50PM",
+    6: "1 - 1:50PM",
+    7: "2 - 2:50PM",
+    8: "3 - 3:50PM",
+    9: "4 - 4:50PM",
+    10: "5 - 5:50PM",
+    11: "6 - 6:50PM",
+    12: "7 - 7:50PM",
+    13: "8 - 8:50PM",
+    14: "9 - 9:50PM",
+}
+
 
 def convert_timetable_to_pandas_dataframe(timetables: list[dict], index: int):
     """
@@ -30,7 +47,9 @@ def convert_timetable_to_pandas_dataframe(timetables: list[dict], index: int):
                         "Course": course,
                         "Section": section,
                         "Days": " ".join(schedule["days"]),
-                        "Time": " ".join([str(i) for i in schedule["hours"]]),
+                        "Time": ", ".join(
+                            [conversion_dict[i] for i in schedule["hours"]]
+                        ),
                     },
                     index=[0],
                 )
