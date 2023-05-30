@@ -211,6 +211,65 @@ def remove_clashes(
     return filtered
 
 
+def remove_exam_clashes(
+    timetables: Annotated[list, "list of timetables without any clashes (classes)"],
+    json: Annotated[dict, "filtered json file"],
+):
+    """
+    Function that filters out timetables with exam clashes.
+
+    Args:
+        timetables (list): list of timetables without any clashes (classes)
+        json (dict): filtered json file
+
+    Returns:
+        list: list of timetables without any clashes (classes and exams)
+    """
+    no_exam_clashes = []
+    for timetable in timetables:
+        mids_times = []
+        compres_times = []
+        clashes = False
+        for course in timetable:
+            # get exam times
+            if course[0] in json["CDCs"]:
+                mid = json["CDCs"][course[0]]["exams"][0]["midsem"]
+                compre = json["CDCs"][course[0]]["exams"][0]["compre"]
+            elif course[0] in json["DEls"]:
+                mid = json["DEls"][course[0]]["exams"][0]["midsem"]
+                compre = json["DEls"][course[0]]["exams"][0]["compre"]
+            elif course[0] in json["HUELs"]:
+                mid = json["HUELs"][course[0]]["exams"][0]["midsem"]
+                compre = json["HUELs"][course[0]]["exams"][0]["compre"]
+            elif course[0] in json["OPELs"]:
+                mid = json["OPELs"][course[0]]["exams"][0]["midsem"]
+                compre = json["OPELs"][course[0]]["exams"][0]["compre"]
+            else:
+                raise Exception("Course code not found in any category")
+            mids_times.append(mid)
+            compres_times.append(compre)
+        # see if more than one course has the same exam time
+        for i in range(len(mids_times)):
+            for j in range(i + 1, len(mids_times)):
+                if mids_times[i] == mids_times[j]:
+                    clashes = True
+                    break
+            if clashes:
+                break
+        if not clashes:
+            for i in range(len(compres_times)):
+                for j in range(i + 1, len(compres_times)):
+                    if compres_times[i] == compres_times[j]:
+                        clashes = True
+                        break
+                if clashes:
+                    break
+        # add to filtered list only if no clashes
+        if not clashes:
+            no_exam_clashes.append(timetable)
+    return no_exam_clashes
+
+
 def day_wise_filter(
     timetables: Annotated[list, "list of timetables without clashes"],
     json: Annotated[dict, "filtered json file"],
@@ -333,6 +392,10 @@ if __name__ == "__main__":
         exhaustive_list_of_timetables, filtered_json
     )
 
+    timetables_without_clashes = remove_exam_clashes(
+        timetables_without_clashes, filtered_json
+    )
+
     print("Number of timetables without clashes:", len(timetables_without_clashes))
 
     in_my_preference_order = day_wise_filter(
@@ -340,11 +403,11 @@ if __name__ == "__main__":
         filtered_json,
         ["S"],
         ["S", "Su", "M", "T", "W", "Th", "F"],
-        filter=True,
+        filter=False,
         strong=False,
     )
     print("Number of timetables after filter: ", len(in_my_preference_order))
     if len(in_my_preference_order) > 0:
-        print(in_my_preference_order[0])
+        print(in_my_preference_order[0], "\n", in_my_preference_order[-1])
     else:
         print("No timetables found")
