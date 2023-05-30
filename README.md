@@ -1,6 +1,15 @@
 # Chronoscript
 
-Scripts and terminal tools that make creating your BITS timetables easier.
+Chronofactorem exists, yes. It helps you make your timetable while checking for possible clashes, yes. But is it the timetable that matches your need the most? Maybe, you'd never know for sure.
+
+Depending on the courses you want, and the CDCs you need to take, there can be thousands of possible timetables. Going through each of them is a .. not so fun task. Well, to an extent you can now automate this.
+
+Chronoscript currently automates the process of:
+
+1. Converting the timetable pdf to a csv file.
+2. Converting the csv file to a json file. (used for the chronofactorem website and the timetables script).
+3. Generating all possible timetables with the given set of courses (without class hours **or** exam timing clashes).
+4. Filters them and sorts them based on your needs. (days you want free, or days you want _liter_ than others).
 
 ## Important information
 
