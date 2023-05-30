@@ -371,6 +371,74 @@ def day_wise_filter(
         return [i for i in matches_free_days] + [i for i in others]
 
 
+def export_to_json(timetables: list, filtered_json: dict, n_export: int = 100) -> None:
+    """
+    Function that exports your timetables to a json file (in the sorted order)
+
+    Args:
+        timetables (list): list of timetables
+        filtered_json (dict): filtered json file, i.e, with only courses selected
+        n_export (int, optional): number of timetables to export. Defaults to 100.
+
+    Returns:
+        None
+    """
+    export = []
+    for timetable in timetables:
+        export_tt = {}
+        export_tt["free_matched"] = timetable[0]
+        export_tt["daily_scores"] = timetable[1]
+        export_tt["timetable"] = {}
+        for course in timetable[2]:
+            export_tt["timetable"][course[0]] = {}
+            export_tt["timetable"][course[0]]["sections"] = {}
+            for sec in course[1]:
+                export_tt["timetable"][course[0]]["sections"][sec] = {}
+                export_tt["timetable"][course[0]]["sections"][sec]["schedule"] = []
+                if course[0] in filtered_json["CDCs"]:
+                    sched = filtered_json["CDCs"][course[0]]["sections"][sec][
+                        "schedule"
+                    ]
+                elif course[0] in filtered_json["DEls"]:
+                    sched = filtered_json["DEls"][course[0]]["sections"][sec][
+                        "schedule"
+                    ]
+                elif course[0] in filtered_json["HUELs"]:
+                    sched = filtered_json["HUELs"][course[0]]["sections"][sec][
+                        "schedule"
+                    ]
+                elif course[0] in filtered_json["OPELs"]:
+                    sched = filtered_json["OPELs"][course[0]]["sections"][sec][
+                        "schedule"
+                    ]
+                else:
+                    raise Exception("Course code not found in any category")
+                for i in range(len(sched)):
+                    export_tt["timetable"][course[0]]["sections"][sec][
+                        "schedule"
+                    ].append(
+                        {
+                            "days": sched[i]["days"],
+                            "hours": sched[i]["hours"],
+                        }
+                    )
+            if course[0] in filtered_json["CDCs"]:
+                exam = filtered_json["CDCs"][course[0]]["exams"][0]
+            elif course[0] in filtered_json["DEls"]:
+                exam = filtered_json["DEls"][course[0]]["exams"][0]
+            elif course[0] in filtered_json["HUELs"]:
+                exam = filtered_json["HUELs"][course[0]]["exams"][0]
+            elif course[0] in filtered_json["OPELs"]:
+                exam = filtered_json["OPELs"][course[0]]["exams"][0]
+            else:
+                raise Exception("Course code not found in any category")
+            export_tt["timetable"][course[0]]["exams"] = exam
+        export.append(export_tt)
+        if len(export) == n_export:
+            break
+    json.dump(export, open("my_timetables.json", "w"), indent=4)
+
+
 if __name__ == "__main__":
     # need to get these as inputs
     CDCs = ["CS F211", "CS F212", "BITS F225", "CS F241"]
@@ -433,3 +501,5 @@ if __name__ == "__main__":
         )
     else:
         print("No timetables found")
+
+    export_to_json(in_my_preference_order, filtered_json)
