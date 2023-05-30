@@ -50,19 +50,19 @@ def convert_timetable_to_csv(pages: list[pdfplumber.page.Page]) -> pd.DataFrame(
 
 if __name__ == "__main__":
     # headers to remove from the table
-    headers: list[str] = []
+    headers: list[str] = ["COM\nCOD"]
 
     # page range to extract the timetable from
     # [from, to]
-    page_range: list[int] = []
+    page_range: list[int] = [7, 68]
 
     # path to the pdf file
-    file: str = r""
+    file: str = r"tt.pdf"
 
     pdf: pdfplumber.pdf.PDF = pdfplumber.open(file)
 
     # might need to play around with the +-1, depending on how the pdf is formatted and how pdfplumber extracts the pages
-    pages: list[pdfplumber.page.Page] = pdf.pages[page_range[0] - 1 : page_range[1] + 1]
+    pages: list[pdfplumber.page.Page] = pdf.pages[page_range[0] - 1 : page_range[1]]
 
     data: pd.DataFrame = convert_timetable_to_csv(pages)
 
