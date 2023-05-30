@@ -41,24 +41,17 @@ def remove_duplicate_dicts(l: list[dict]) -> list[dict]:
     return new_l
 
 
-if __name__ == "__main__":
-    # reorder the columns as and when needed
-    columns = [
-        "serial",
-        "course_code",
-        "course_name",
-        "L",
-        "P",
-        "U",
-        "section",
-        "instructor",
-        "room",
-        "days",
-        "hours",
-        "midsem",
-        "compre",
-    ]
+def create_json_file(
+    timetable: pd.DataFrame, columns: list[str], output_file: str
+) -> None:
+    """
+    Function to create a json file from a timetable dataframe.
 
+    Args:
+        timetable (pd.DataFrame): The timetable dataframe to create the json file from.
+        columns (list[str]): The columns of the dataframe.
+        output_file (str): The name of the output json file.
+    """
     tt: pd.DataFrame = pd.read_csv("output.csv")
     final_json: dict = {}
     tt.columns = columns
@@ -143,3 +136,26 @@ if __name__ == "__main__":
     convert_all_sets_to_list_recursive(final_json)
     # output the json file
     json.dump(final_json, open("timetable.json", "w"), indent=4)
+
+
+if __name__ == "__main__":
+    # reorder the columns as and when needed
+    columns = [
+        "serial",
+        "course_code",
+        "course_name",
+        "L",
+        "P",
+        "U",
+        "section",
+        "instructor",
+        "room",
+        "days",
+        "hours",
+        "midsem",
+        "compre",
+    ]
+
+    timetable = pd.read_csv("output.csv")
+
+    create_json_file(timetable, columns, "timetable.json")
