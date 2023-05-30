@@ -91,6 +91,14 @@ Format: `(number of free days matched, [number of hours of classes per day, in o
 
 2. This can be be visualized as a pandas dataframe using the `visualize.py` script, by specifying the index of the timetable you want to visualize. (`0`: most ideal, `n-1` or `-1`: least ideal) (where `n` denotes number of timetables generated)
 
+### Example outputs
+
+![class sched](images/class.png)
+
+![mids sched](images/mids.png)
+
+![compre sched](images/compre.png)
+
 ## Fixing errors in the CSV file
 
 In some cases there can be formatting errors/course detail errors are present in the PDF given by the administration. In such cases, the CSV file generated will have errors. We will need to fix these before creating our `timetable.json` file.
