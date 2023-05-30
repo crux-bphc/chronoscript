@@ -373,7 +373,7 @@ def day_wise_filter(
 
 if __name__ == "__main__":
     # need to get these as inputs
-    CDCs = ["CS F211", "CS F212", "CS F241"]
+    CDCs = ["CS F211", "CS F212", "BITS F225", "CS F241"]
 
     DEls = ["CS F469", "BITS F464"]
 
@@ -392,11 +392,19 @@ if __name__ == "__main__":
         exhaustive_list_of_timetables, filtered_json
     )
 
+    print(
+        "Number of timetables without clashes (classes):",
+        len(timetables_without_clashes),
+    )
+
     timetables_without_clashes = remove_exam_clashes(
         timetables_without_clashes, filtered_json
     )
 
-    print("Number of timetables without clashes:", len(timetables_without_clashes))
+    print(
+        "Number of timetables without clashes (classes and exams):",
+        len(timetables_without_clashes),
+    )
 
     in_my_preference_order = day_wise_filter(
         timetables_without_clashes,
@@ -406,8 +414,18 @@ if __name__ == "__main__":
         filter=False,
         strong=False,
     )
+
     print("Number of timetables after filter: ", len(in_my_preference_order))
+
     if len(in_my_preference_order) > 0:
-        print(in_my_preference_order[0], "\n", in_my_preference_order[-1])
+        print(
+            "-----------------------------------------------------",
+            "\nHighest match:\n",
+            in_my_preference_order[0],
+            "\n\n",
+            "-----------------------------------------------------",
+            "\nLowest match:\n",
+            in_my_preference_order[-1],
+        )
     else:
         print("No timetables found")
