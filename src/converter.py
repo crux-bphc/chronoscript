@@ -57,7 +57,7 @@ if __name__ == "__main__":
     page_range: list[int] = [7, 68]
 
     # path to the pdf file
-    file: str = r"tt.pdf"
+    file: str = r"timetable.pdf"
 
     pdf: pdfplumber.pdf.PDF = pdfplumber.open(file)
 

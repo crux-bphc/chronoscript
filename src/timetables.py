@@ -381,6 +381,10 @@ if __name__ == "__main__":
 
     HUELs = ["HSS F346"]
 
+    free_days = ["S"]
+
+    lite_order = ["S", "Su", "M", "T", "W", "Th", "F"]
+
     # load the json file created
     tt_json = json.load(open("timetable.json", "r"))
 
@@ -409,8 +413,8 @@ if __name__ == "__main__":
     in_my_preference_order = day_wise_filter(
         timetables_without_clashes,
         filtered_json,
-        ["S"],
-        ["S", "Su", "M", "T", "W", "Th", "F"],
+        free_days,
+        lite_order,
         filter=False,
         strong=False,
     )
