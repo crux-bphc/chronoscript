@@ -4,7 +4,7 @@ Scripts and terminal tools that make creating your BITS timetables easier.
 
 ## Important information
 
-1. This is **not** an official BITS project. We work with the timetable pdf that is made available to all students, and if there are any errors in details/formatting of the timetable, the tool may not work as expected. So, it after the timetables are formed, it is advised to verify the timetable of your choice with the official timetable pdf (including exams).
+1. This is **not** an official BITS project. We work with the timetable pdf that is made available to all students, and if there are any errors in details/formatting of the timetable, the tool may not work as expected. So, after the timetables are formed, it is advised to verify the timetable of your choice with the official timetable pdf (including exams).
 
 2. The scripts generate multiple possible/permutations of the timetables which do not have any clashes, it is very compute heavy. This is why it is not going to be incorporated as part of the chronofactorem website as of now, and can only be run locally.
 
@@ -30,9 +30,9 @@ Scripts and terminal tools that make creating your BITS timetables easier.
 
 2. `cd` to the src directory.
 
-3. Run `poetry install` to install all the dependencies.
+3. Run `poetry shell` to activate the virtual environment.
 
-4. Run `poetry shell` to activate the virtual environment.
+4. Run `poetry install` to install all the dependencies.
 
 5. Open `converter.py` and navigate to the bottom of the file.
 
