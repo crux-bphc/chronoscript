@@ -52,11 +52,6 @@ def convert_timetable_to_pandas_dataframe(
                 "2 - 2:50PM",
                 "3 - 3:50PM",
                 "4 - 4:50PM",
-                "5 - 5:50PM",
-                "6 - 6:50PM",
-                "7 - 7:50PM",
-                "8 - 8:50PM",
-                "9 - 9:50PM",
             ],
             index=["M", "T", "W", "Th", "F", "S"],
         )
