@@ -1,5 +1,5 @@
-*.csv
-*.json
+
+my_timetables.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

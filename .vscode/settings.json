@@ -1,0 +1,9 @@
+{
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.black-formatter"
+	},
+	"python.formatting.provider": "none",
+	"conventionalCommits.scopes": [
+		"add variable values that match the example pdf"
+	]
+}
