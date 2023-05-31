@@ -61,7 +61,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 
 4. Run `poetry install` to install all the dependencies.
 
-5. If there are any particular course sections you'd like to avoid, remove them from the [json](.src/timetables.json) file.
+5. If there are any particular course sections you'd like to avoid, remove them from the [json](./src/timetables.json) file.
 
 **Note:** We are currently working on a feature that allows you to do this interactively, but for now you'll have to do it manually.
 
