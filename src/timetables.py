@@ -364,6 +364,30 @@ def day_wise_filter(
     others = sorted(others, key=itemgetter(0), reverse=True)
     others = sorted(others, key=itemgetter(1))
 
+    # reorder back to original order (M, T, W, Th, F, S, Su)
+    original_order = {
+        "M": lite_order.index("M"),
+        "T": lite_order.index("T"),
+        "W": lite_order.index("W"),
+        "Th": lite_order.index("Th"),
+        "F": lite_order.index("F"),
+        "S": lite_order.index("S"),
+        "Su": lite_order.index("Su"),
+    }
+    for i in range(len(matches_free_days)):
+        matches_free_days[i] = (
+            matches_free_days[i][0],
+            [matches_free_days[i][1][original_order[day]] for day in original_order],
+            matches_free_days[i][2],
+        )
+
+    for i in range(len(others)):
+        others[i] = (
+            others[i][0],
+            [others[i][1][original_order[day]] for day in original_order],
+            others[i][2],
+        )
+
     if filter:
         return [i for i in matches_free_days]
 
