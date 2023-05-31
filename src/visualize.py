@@ -20,13 +20,16 @@ conversion_dict = {
 }
 
 
-def convert_timetable_to_pandas_dataframe(timetables: list[dict], index: int):
+def convert_timetable_to_pandas_dataframe(
+    timetables: list[dict], index: int, condensed: bool = True
+):
     """
     Function to convert timetable to pandas dataframe for better visualization
 
     Args:
         timetables (list[dict]): List of timetables
         index (int): Index of timetable to be converted to pandas dataframe
+        condensed (bool, optional): Whether to condense the dataframe or not. Defaults to True.
 
     Returns:
         class_df (pd.DataFrame): Dataframe containing class schedule
@@ -35,25 +38,53 @@ def convert_timetable_to_pandas_dataframe(timetables: list[dict], index: int):
     """
     timetable = timetables[index]
     timetable = timetable["timetable"]
-    class_df = pd.DataFrame(columns=["Course", "Section", "Days", "Time"])
+    if condensed:
+        class_df = pd.DataFrame(columns=["Course", "Section", "Days", "Time"])
+    else:
+        class_df = pd.DataFrame(
+            columns=[
+                "8 - 8:50AM",
+                "9 - 9:50AM",
+                "10 - 10:50AM",
+                "11 - 11:50AM",
+                "12 - 12:50PM",
+                "1 - 1:50PM",
+                "2 - 2:50PM",
+                "3 - 3:50PM",
+                "4 - 4:50PM",
+                "5 - 5:50PM",
+                "6 - 6:50PM",
+                "7 - 7:50PM",
+                "8 - 8:50PM",
+                "9 - 9:50PM",
+            ],
+            index=["M", "T", "W", "Th", "F", "S"],
+        )
     midsem_df = pd.DataFrame(columns=["Course", "Date", "Time"])
     compre_df = pd.DataFrame(columns=["Course", "Date", "Time"])
 
     for course in timetable:
         for section in timetable[course]["sections"]:
             for schedule in timetable[course]["sections"][section]["schedule"]:
-                temp = pd.DataFrame(
-                    {
-                        "Course": course,
-                        "Section": section,
-                        "Days": " ".join(schedule["days"]),
-                        "Time": ", ".join(
-                            [conversion_dict[i] for i in schedule["hours"]]
-                        ),
-                    },
-                    index=[0],
-                )
-                class_df = pd.concat([class_df, temp])
+                if condensed:
+                    temp = pd.DataFrame(
+                        {
+                            "Course": course,
+                            "Section": section,
+                            "Days": " ".join(schedule["days"]),
+                            "Time": ", ".join(
+                                [conversion_dict[i] for i in schedule["hours"]]
+                            ),
+                        },
+                        index=[0],
+                    )
+                    class_df = pd.concat([class_df, temp])
+                else:
+                    for day in schedule["days"]:
+                        for hour in schedule["hours"]:
+                            class_df.loc[day, conversion_dict[hour]] = (
+                                course + " " + section
+                            )
         exam_details = timetable[course]["exams"]
 
         temp = pd.DataFrame(
@@ -77,10 +108,13 @@ def convert_timetable_to_pandas_dataframe(timetables: list[dict], index: int):
         )
 
         compre_df = pd.concat([compre_df, temp])
+    if condensed:
+        class_df = class_df.sort_values(by=["Days", "Time"])
+        class_df.reset_index(drop=True, inplace=True)
+        class_df.index += 1
 
-    class_df = class_df.sort_values(by=["Days", "Time"])
-    class_df.reset_index(drop=True, inplace=True)
-    class_df.index += 1
+    else:
+        class_df.fillna("", inplace=True)
 
     midsem_df = midsem_df.sort_values(by=["Date"])
     midsem_df.reset_index(drop=True, inplace=True)
@@ -97,7 +131,7 @@ if __name__ == "__main__":
     index = 0
     with open("my_timetables.json", "r") as f:
         timetables = json.load(f)
-    dfs = convert_timetable_to_pandas_dataframe(timetables, index)
+    dfs = convert_timetable_to_pandas_dataframe(timetables, index, False)
     print("======================================================\n")
     print("Class Schedule:\n\n")
     print(tabulate.tabulate(dfs[0], headers="keys", tablefmt="fancy_grid"))
