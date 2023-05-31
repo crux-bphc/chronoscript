@@ -1,8 +1,10 @@
 # Chronoscript
 
-Chronofactorem exists, yes. It helps you make your timetable while checking for possible clashes, yes. But is it the timetable that matches your need the most? Maybe, you'd never know for sure.
+Chronofactorem exists, yes. It helps you easily make your timetable while checking for possible clashes, yes. But is it the timetable that matches your need the most? Maybe, you'd never know for sure.
 
-Depending on the courses you want, and the CDCs you need to take, there can be thousands of possible timetables. Going through each of them is a .. not so fun task. Well, to an extent you can now automate this.
+Depending on the courses you want, and the CDCs you need to take, there can be thousands of possible timetables _(psst.. CS 2-2 (2022-23) had over **30,000** timetables)_.
+
+Going through each of them is a .. not so fun task. Well, to an extent you can now automate this.
 
 Chronoscript currently automates the process of:
 
@@ -10,6 +12,8 @@ Chronoscript currently automates the process of:
 2. Converting the csv file to a json file. (used for the chronofactorem website and the timetables script).
 3. Generating all possible timetables with the given set of courses (without class hours **or** exam timing clashes).
 4. Filters them and sorts them based on your needs. (days you want free, or days you want _liter_ than others).
+
+**Note:** The first two features are mainly for future developers, and not for users. However, instructions to use those features have been provided as well.
 
 ## Important information
 
@@ -31,7 +35,21 @@ Chronoscript currently automates the process of:
 
 2. Poetry (package manager for python) `1.5.0` is recommended. (Installation instructions for all platforms [here](https://python-poetry.org/docs/#installation))
 
-3. The timetable pdf as given by the administration.
+Quick installation instructions For Linux/MacOS/WSL, run the following command in your terminal:
+
+```bash
+
+curl -sSL https://install.python-poetry.org | python3 -
+
+```
+
+**Note:** Make sure you add poetry to your path variable as well.
+
+[**Common issue in adding poetry to path in MacOS**](https://github.com/python-poetry/poetry/issues/507)
+
+3. **Optional**: If you wish to create you timetable form the PDF directly, you will also need the timetable pdf as given by the administration.
+
+**Note:** Using the updated CSV/JSON file provided in the repository is recommended, as at least some, if not all errors have already been removed. If you wish to create your own CSV/JSON file, follow the instructions in the [Generating the CSV file](#generating-the-csv-and-json-file) section.
 
 ## Usage instructions
 
@@ -42,6 +60,52 @@ Chronoscript currently automates the process of:
 3. Run `poetry shell` to activate the virtual environment.
 
 4. Run `poetry install` to install all the dependencies.
+
+5. If there are any particular course sections you'd like to avoid, remove them from the [json](.src/timetables.json) file.
+
+**Note:** We are currently working on a feature that allows you to do this interactively, but for now you'll have to do it manually.
+
+6. Open `timetables.py` and navigate to the bottom of the file.
+
+7. Modify the `CDCs`, `DELs`, `OPELs` and `HUELs` variables with the course codes you definitely want in your timetable.
+
+8. Modify the `free_days` variable with the days you want to have free if possible.
+
+9. Modify the `lite_order` variable with the relative order of _liteness_ you want to have in your timetable. For example, if my order is
+
+```python
+["S", "M", "Su", "F", "T", "W", "Th"]
+```
+
+, then I want to have a timetable with the least number of hours on Saturday, then Monday, then Sunday, and so on.
+
+10. Run `poetry run python timetables.py` to generate the timetables.
+
+The console output will show you the rough results of your filters, and the number of timetables generated.
+
+It additionally prints out the timetable that most suits your needs, and the one that matches your minimum requirements but is the furthest from your ideal timetable.
+
+Format: `(number of free days matched, [number of hours of classes per day, in order of the lite_order variable], timetable)`
+
+**Note**: This is used only for testing purposes and those who are comfortable with the script. You can visualize them as tables in the next step.
+
+## Further instructions
+
+1. You will now have a `my_timetables.json` file created.
+
+2. This can be be visualized as tables using the `visualize.py` script, by specifying the index of the timetable you want to visualize. (`0`: most ideal, `n-1` or `-1`: least ideal) (where `n` denotes number of timetables generated)
+
+3. Run `poetry run python visualize.py` to visualize the timetable.
+
+### Example outputs
+
+![class sched](images/class.png)
+
+![mids sched](images/mids.png)
+
+![compre sched](images/compre.png)
+
+## Generating the CSV and JSON file
 
 5. Open `converter.py` and navigate to the bottom of the file.
 
@@ -56,50 +120,6 @@ Chronoscript currently automates the process of:
 10. In the general case, there shouldn't be any need to modify the variables. However, if there is a column reorder in the csv file, you can modify the `columns` variable to match the order of the columns in the csv file.
 
 11. Run `poetry run python create_json.py` to generate the json file.
-
-12. If there are any particular course sections you'd like to avoid, remove them from the json file generated.
-
-**Note:** We are currently working on a feature that allows you to do this interactively, but for now you'll have to do it manually.
-
-13. Open `timetables.py` and navigate to the bottom of the file.
-
-14. Modify the `CDCs`, `DELs`, `OPELs` and `HUELs` variables with the course codes you definitely want in your timetable.
-
-15. Modify the `free_days` variable with the days you want to have free if possible.
-
-16. Modify the `lite_order` variable with the relative order of _liteness_ you want to have in your timetable. For example, if my order is
-
-```python
-["S", "M", "Su", "F", "T", "W", "Th"]
-```
-
-, then I want to have a timetable with the least number of hours on Saturday, then Monday, then Sunday, and so on.
-
-17. Run `poetry run python timetables.py` to generate the timetables.
-
-The console output will show you the rough results of your filters, and the number of timetables generated.
-
-It additionally prints out the timetable that most suits your needs, and the one that matches your minimum requirements but is the furthest from your ideal timetable.
-
-Format: `(number of free days matched, [number of hours of classes per day, in order of the lite_order variable], timetable)`
-
-**Note**: This is used only for testing purposes and those who are comfortable with the script. You can visualize them as tables in the next step.
-
-## Further instructions
-
-1. You will now have a `my_timetables.json` file created.
-
-2. This can be be visualized as a pandas dataframe using the `visualize.py` script, by specifying the index of the timetable you want to visualize. (`0`: most ideal, `n-1` or `-1`: least ideal) (where `n` denotes number of timetables generated)
-
-3. Run `poetry run python visualize.py` to visualize the timetable.
-
-### Example outputs
-
-![class sched](images/class.png)
-
-![mids sched](images/mids.png)
-
-![compre sched](images/compre.png)
 
 ## Fixing errors in the CSV file
 
