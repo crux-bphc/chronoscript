@@ -99,11 +99,25 @@ Format: `(number of free days matched, [number of hours of classes per day, in o
 
 ### Example outputs
 
+#### Class schedule: condensed
+
+![class sched](images/class_condensed.png)
+
+#### Class schedule: expanded
+
 ![class sched](images/class.png)
+
+#### Midsem schedule
 
 ![mids sched](images/mids.png)
 
+#### Compre schedule
+
 ![compre sched](images/compre.png)
+
+#### Matching your ideal timetable
+
+![ideal](images/tts.png)
 
 ## Generating the CSV and JSON file
 
@@ -145,6 +159,8 @@ Here, the word `Tutorial` should be in the row below, and the corresponding sect
 
 2. Functionality to balance out the timetables across the week, so that you don't have too many classes on one day and too few on another.
 
-3. (Tentative) Functionality to add any course under a department that follows your filters to satisfy a course requirement.
+3. Functionality to sort timetables by exam liteness. (and set priority to exam liteness over class liteness, or vice versa)
 
-4. (Tentative) Working with first-year timetables.
+4. (Tentative) Functionality to add any course under a department that follows your filters to satisfy a course requirement.
+
+5. (Tentative) Working with first-year timetables.
