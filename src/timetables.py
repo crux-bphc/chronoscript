@@ -443,7 +443,7 @@ if __name__ == "__main__":
     # need to get these as inputs
     CDCs = ["CS F211", "CS F212", "BITS F225", "CS F241"]
 
-    DEls = ["CS F469", "BITS F464"]
+    DEls = ["CS F469"]
 
     OPELs = []
 
