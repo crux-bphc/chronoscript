@@ -170,7 +170,7 @@ def remove_clashes(
     for timetable in timetables:
         # times currently held as "in use" by some course's section
         # format "DH" where D is the day and H is the hour
-        times = []
+        times: dict[str, bool] = dict()
         clashes = False
         for course in timetable:
             # course[1] as that has the section details, course[0] hold course code
@@ -195,11 +195,11 @@ def remove_clashes(
                 # if any slot in ts is already in times, then there is a clash
                 # if so, mark it as clashes and dont add it to the filtered list
                 for t in ts:
-                    if t in times:
+                    if times.get(t) is not None:
                         clashes = True
                         break
                     else:
-                        times.append(t)
+                        times[t] = True
                 if clashes:
                     break
             if clashes:
