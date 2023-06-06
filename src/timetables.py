@@ -227,8 +227,8 @@ def remove_exam_clashes(
     """
     no_exam_clashes = []
     for timetable in timetables:
-        mids_times = []
-        compres_times = []
+        mids_times: dict[str, int] = dict()
+        compres_times: dict[str, int] = dict()
         clashes = False
         for course in timetable:
             # get exam times
@@ -246,24 +246,33 @@ def remove_exam_clashes(
                 compre = json["OPELs"][course[0]]["exams"][0]["compre"]
             else:
                 raise Exception("Course code not found in any category")
-            mids_times.append(mid)
-            compres_times.append(compre)
+            mids_times[mid] = mids_times.get(mid, 0) + 1
+            compres_times[compre] = compres_times.get(compre, 0) + 1
         # see if more than one course has the same exam time
-        for i in range(len(mids_times)):
-            for j in range(i + 1, len(mids_times)):
-                if mids_times[i] == mids_times[j]:
-                    clashes = True
-                    break
-            if clashes:
+        for time in mids_times:
+            if mids_times[time] > 1:
+                clashes = True
                 break
         if not clashes:
-            for i in range(len(compres_times)):
-                for j in range(i + 1, len(compres_times)):
-                    if compres_times[i] == compres_times[j]:
-                        clashes = True
-                        break
-                if clashes:
+            for time in compres_times:
+                if compres_times[time] > 1:
+                    clashes = True
                     break
+        # for i in range(len(mids_times)):
+        #     for j in range(i + 1, len(mids_times)):
+        #         if mids_times[i] == mids_times[j]:
+        #             clashes = True
+        #             break
+        #     if clashes:
+        #         break
+        # if not clashes:
+        #     for i in range(len(compres_times)):
+        #         for j in range(i + 1, len(compres_times)):
+        #             if compres_times[i] == compres_times[j]:
+        #                 clashes = True
+        #                 break
+        #         if clashes:
+        #             break
         # add to filtered list only if no clashes
         if not clashes:
             no_exam_clashes.append(timetable)
