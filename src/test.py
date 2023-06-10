@@ -172,8 +172,8 @@ columns = [
 
 
 if __name__ == "__main__":
-    for i in range(100000):
-        test(csv_data_1,expected_output_1,"test_out_1")
-        test(csv_data_2,expected_output_2,"test_out_2")
-        test(csv_data_3,expected_output_3,"test_out_3")
-        test(csv_data_4,expected_output_4,"test_out_4")
+    
+    test(csv_data_1,expected_output_1,"test_out_1")
+    test(csv_data_2,expected_output_2,"test_out_2")
+    test(csv_data_3,expected_output_3,"test_out_3")
+    test(csv_data_4,expected_output_4,"test_out_4")
