@@ -52,7 +52,7 @@ def create_json_file(
         columns (list[str]): The columns of the dataframe.
         output_file (str): The name of the output json file.
     """
-    tt: pd.DataFrame = pd.read_csv("output.csv")
+    tt: pd.DataFrame = timetable
     final_json: dict = {}
     tt.columns = columns
     tt.drop(columns=["serial", "L", "P", "U"], inplace=True)
@@ -135,7 +135,7 @@ def create_json_file(
     # convert file to serializable format
     convert_all_sets_to_list_recursive(final_json)
     # output the json file
-    json.dump(final_json, open("timetable.json", "w"), indent=4)
+    json.dump(final_json, open(output_file, "w"), indent=4)
 
 
 if __name__ == "__main__":
