@@ -1,5 +1,6 @@
 {
     "AN F312": {
+        "units": 3.0,
         "course_name": "AIRCRAFT PROPULSION",
         "sections": {
             "L1": {
@@ -21,6 +22,7 @@
                 ]
             }
         },
+        "IC": "SAYAN DAS",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -29,6 +31,7 @@
         ]
     },
     "AN F314": {
+        "units": 3.0,
         "course_name": "INTRODUCTION TO FLIGHT",
         "sections": {
             "L1": {
@@ -50,6 +53,7 @@
                 ]
             }
         },
+        "IC": "JAYAPRAKASH K S",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -58,12 +62,13 @@
         ]
     },
     "BIO F215": {
+        "units": 3.0,
         "course_name": "BIOPHYSICS",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Kirtimaan Syal",
-                    "DEBASHREE B"
+                    "DEBASHREE B",
+                    "Kirtimaan Syal"
                 ],
                 "schedule": [
                     {
@@ -96,6 +101,7 @@
                 ]
             }
         },
+        "IC": "DEBASHREE B",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -104,6 +110,7 @@
         ]
     },
     "BIO F217": {
+        "units": 3.0,
         "course_name": "LAB FOR WATER SANITATION &\nSOLID WASTE MANAGEMENT",
         "sections": {
             "L1": {
@@ -142,6 +149,7 @@
                 ]
             }
         },
+        "IC": "P SANKAR GANESH",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -150,12 +158,13 @@
         ]
     },
     "BIO F241": {
+        "units": 3.0,
         "course_name": "ECOLOGY & ENVIRONMENTAL\nSCIENCE",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Supratim Ghosh",
-                    "P SANKAR GANESH"
+                    "P SANKAR GANESH",
+                    "Supratim Ghosh"
                 ],
                 "schedule": [
                     {
@@ -173,8 +182,8 @@
             },
             "T1": {
                 "instructor": [
-                    "Supratim Ghosh",
-                    "P Sankar Ganesh"
+                    "P Sankar Ganesh",
+                    "Supratim Ghosh"
                 ],
                 "schedule": [
                     {
@@ -189,6 +198,7 @@
                 ]
             }
         },
+        "IC": "P SANKAR GANESH",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -197,6 +207,7 @@
         ]
     },
     "BIO F242": {
+        "units": 3.0,
         "course_name": "INTRODUCTION TO\nBIOINFORMATICS",
         "sections": {
             "L1": {
@@ -235,6 +246,7 @@
                 ]
             }
         },
+        "IC": "SHUVADEEP MAITY",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -243,6 +255,7 @@
         ]
     },
     "BIO F243": {
+        "units": 3.0,
         "course_name": "GENETICS",
         "sections": {
             "L1": {
@@ -289,6 +302,7 @@
                 ]
             }
         },
+        "IC": "NAGA MOHAN K",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -297,6 +311,7 @@
         ]
     },
     "BIO F244": {
+        "units": 4.0,
         "course_name": "INSTRU METHODS OF ANAL",
         "sections": {
             "L1": {
@@ -317,14 +332,14 @@
             },
             "P1": {
                 "instructor": [
-                    "Aishwarya Natarajan",
-                    "Lakesh Kumar Sahoo",
-                    "Ashna Fathima",
-                    "Raunak Sharma",
+                    "Gireesha T Mohannath",
+                    "Sridev Mohapatra",
                     "Murali Krishna Ramgopal",
                     "TRINATH JAMMA",
-                    "Gireesha T Mohannath",
-                    "Sridev Mohapatra"
+                    "Aishwarya Natarajan",
+                    "Raunak Sharma",
+                    "Lakesh Kumar Sahoo",
+                    "Ashna Fathima"
                 ],
                 "schedule": [
                     {
@@ -347,9 +362,11 @@
                 "midsem": "15/03 9.30 - 11.00AM",
                 "compre": "12/05 FN"
             }
-        ]
+        ],
+        "IC": "TRINATH JAMMA"
     },
     "BIO F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -372,6 +389,7 @@
                 ]
             }
         },
+        "IC": "SHUVADEEP MAITY",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -380,12 +398,13 @@
         ]
     },
     "BIO F341": {
+        "units": 3.0,
         "course_name": "DEVELOPMENTAL BIOLOGY",
         "sections": {
             "L1": {
                 "instructor": [
-                    "VIVEK SHARMA",
-                    "K Pranav Narayan"
+                    "K Pranav Narayan",
+                    "VIVEK SHARMA"
                 ],
                 "schedule": [
                     {
@@ -418,6 +437,7 @@
                 ]
             }
         },
+        "IC": "VIVEK SHARMA",
         "exams": [
             {
                 "midsem": "15/03 4.00 - 5.30PM",
@@ -426,12 +446,13 @@
         ]
     },
     "BIO F342": {
+        "units": 3.0,
         "course_name": "IMMUNOLOGY",
         "sections": {
             "L1": {
                 "instructor": [
-                    "VIDYA RAJESH",
-                    "Trinath Jamma"
+                    "Trinath Jamma",
+                    "VIDYA RAJESH"
                 ],
                 "schedule": [
                     {
@@ -449,8 +470,8 @@
             },
             "T1": {
                 "instructor": [
-                    "Trinath Jamma",
-                    "Vidya Rajesh"
+                    "Vidya Rajesh",
+                    "Trinath Jamma"
                 ],
                 "schedule": [
                     {
@@ -465,6 +486,7 @@
                 ]
             }
         },
+        "IC": "VIDYA RAJESH",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -473,6 +495,7 @@
         ]
     },
     "BIO F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -492,6 +515,7 @@
                 ]
             }
         },
+        "IC": "SHUVADEEP MAITY",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -500,6 +524,7 @@
         ]
     },
     "BIO F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -519,6 +544,7 @@
                 ]
             }
         },
+        "IC": "SHUVADEEP MAITY",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -527,6 +553,7 @@
         ]
     },
     "BIO F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -546,6 +573,7 @@
                 ]
             }
         },
+        "IC": "SHUVADEEP MAITY",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -554,6 +582,7 @@
         ]
     },
     "BIO F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -573,6 +602,7 @@
                 ]
             }
         },
+        "IC": "SHUVADEEP MAITY",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -581,6 +611,7 @@
         ]
     },
     "BIO F417": {
+        "units": 3.0,
         "course_name": "BIOMOLECULAR MODELING",
         "sections": {
             "L1": {
@@ -602,6 +633,7 @@
                 ]
             }
         },
+        "IC": "DEBASHREE B",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -610,6 +642,7 @@
         ]
     },
     "BIO F451": {
+        "units": 3.0,
         "course_name": "BIOPROCESS TECHNOLOGY",
         "sections": {
             "L1": {
@@ -632,6 +665,7 @@
                 ]
             }
         },
+        "IC": "SUPRATIM GHOSH",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -640,6 +674,7 @@
         ]
     },
     "BIO G523": {
+        "units": 5.0,
         "course_name": "ADV & APPLIED MICROBIO",
         "sections": {
             "L1": {
@@ -664,8 +699,8 @@
             "P1": {
                 "instructor": [
                     "Naresh Patnaik",
-                    "Anannya Dhanwal",
-                    "Ruchi Jain Dey"
+                    "Ruchi Jain Dey",
+                    "Anannya Dhanwal"
                 ],
                 "schedule": [
                     {
@@ -682,6 +717,7 @@
                 ]
             }
         },
+        "IC": "RUCHI JAIN DEY",
         "exams": [
             {
                 "midsem": "13/03 2.00 - 3.30PM",
@@ -690,6 +726,7 @@
         ]
     },
     "BIO G542": {
+        "units": 5.0,
         "course_name": "ADVANCED CELL AND\nMOLECULAR BIOLOGY",
         "sections": {
             "L1": {
@@ -732,6 +769,7 @@
                 ]
             }
         },
+        "IC": "PIYUSH KHANDELIA",
         "exams": [
             {
                 "midsem": "15/03 11.30 - 1.00PM",
@@ -740,6 +778,7 @@
         ]
     },
     "BIO G570": {
+        "units": 1.0,
         "course_name": "RECENT DEVELOPMENTS IN\nBIOLOGY",
         "sections": {
             "L1": {
@@ -759,6 +798,7 @@
                 ]
             }
         },
+        "IC": "PRAGYA KOMAL",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -767,6 +807,7 @@
         ]
     },
     "BIO G643": {
+        "units": 5.0,
         "course_name": "PLANT BIOTECHNOLOGY",
         "sections": {
             "L1": {
@@ -810,6 +851,7 @@
                 ]
             }
         },
+        "IC": "SRIDEV MOHAPATRA",
         "exams": [
             {
                 "midsem": "16/03 9.30 - 11.00AM",
@@ -818,6 +860,7 @@
         ]
     },
     "BIOT F346": {
+        "units": 3.0,
         "course_name": "GENOMICS",
         "sections": {
             "L1": {
@@ -839,6 +882,7 @@
                 ]
             }
         },
+        "IC": "AMARTYA SANYAL",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -847,6 +891,7 @@
         ]
     },
     "BITS C790T": {
+        "units": 2.0,
         "course_name": "INDEPENDENT STUDY",
         "sections": {
             "L1": {
@@ -868,6 +913,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -876,6 +922,7 @@
         ]
     },
     "BITS C791T": {
+        "units": 1.0,
         "course_name": "TEACHING PRACTICE I",
         "sections": {
             "L1": {
@@ -897,6 +944,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -905,6 +953,7 @@
         ]
     },
     "BITS C797T": {
+        "units": 1.0,
         "course_name": "PHD SEMINAR",
         "sections": {
             "L1": {
@@ -926,6 +975,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -934,6 +984,7 @@
         ]
     },
     "BITS C799T": {
+        "units": 10.0,
         "course_name": "PHD THESIS",
         "sections": {
             "L1": {
@@ -955,6 +1006,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -963,6 +1015,7 @@
         ]
     },
     "BITS E593": {
+        "units": 5.0,
         "course_name": "READING COURSE I",
         "sections": {
             "L1": {
@@ -984,6 +1037,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -992,6 +1046,7 @@
         ]
     },
     "BITS E594": {
+        "units": 5.0,
         "course_name": "READING COURSE II",
         "sections": {
             "L1": {
@@ -1013,6 +1068,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -1021,12 +1077,13 @@
         ]
     },
     "BITS E661": {
+        "units": 5.0,
         "course_name": "RESEARCH METHODOLOGY I",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Vogeti Rishith Kumar",
-                    "K SRINIVASA RAJU"
+                    "K SRINIVASA RAJU",
+                    "Vogeti Rishith Kumar"
                 ],
                 "schedule": [
                     {
@@ -1042,6 +1099,7 @@
                 ]
             }
         },
+        "IC": "K SRINIVASA RAJU",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -1050,6 +1108,7 @@
         ]
     },
     "BITS E793T": {
+        "units": 1.0,
         "course_name": "PRACTICE LECT SERIES I",
         "sections": {
             "L1": {
@@ -1070,6 +1129,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -1078,6 +1138,7 @@
         ]
     },
     "BITS F214": {
+        "units": 3.0,
         "course_name": "SCIENCE TECH & MODERNITY",
         "sections": {
             "L1": {
@@ -1099,6 +1160,7 @@
                 ]
             }
         },
+        "IC": "BISWANATH DASH",
         "exams": [
             {
                 "midsem": "14/03 2.00 - 3.30PM",
@@ -1107,6 +1169,7 @@
         ]
     },
     "BITS F219": {
+        "units": 3.0,
         "course_name": "PROCESS ENGINEERING",
         "sections": {
             "L1": {
@@ -1128,10 +1191,10 @@
             },
             "P1": {
                 "instructor": [
+                    "Suraj.s",
                     "Swati Biswas",
-                    "Manthan S Hiremath",
                     "Manisha Malani",
-                    "Suraj.s"
+                    "Manthan S Hiremath"
                 ],
                 "schedule": [
                     {
@@ -1163,6 +1226,7 @@
                 ]
             }
         },
+        "IC": "SWATI BISWAS",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -1171,13 +1235,14 @@
         ]
     },
     "BITS F225": {
+        "units": 3.0,
         "course_name": "ENVIRONMENTAL STUDIES",
         "sections": {
             "L1": {
                 "instructor": [
-                    "NILANJAN DEY",
+                    "Trinath Jamma",
                     "Anmala Jagadeesh",
-                    "Trinath Jamma"
+                    "NILANJAN DEY"
                 ],
                 "schedule": [
                     {
@@ -1194,6 +1259,7 @@
                 ]
             }
         },
+        "IC": "NILANJAN DEY",
         "exams": [
             {
                 "midsem": "16/03 2.00 - 3.30PM",
@@ -1202,6 +1268,7 @@
         ]
     },
     "BITS F232": {
+        "units": 4.0,
         "course_name": "FOUNDATIONS OF DATA\nSTRUCTURES AND ALGORITHMS",
         "sections": {
             "L1": {
@@ -1260,8 +1327,8 @@
             },
             "P3": {
                 "instructor": [
-                    "Tathagata Ray",
-                    "S Rasagna Vakkalanka"
+                    "S Rasagna Vakkalanka",
+                    "Tathagata Ray"
                 ],
                 "schedule": [
                     {
@@ -1277,6 +1344,7 @@
                 ]
             }
         },
+        "IC": "CHITTARANJAN HOTA",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -1285,6 +1353,7 @@
         ]
     },
     "BITS F314": {
+        "units": 3.0,
         "course_name": "GAME THEORY AND ITS\nAPPLICATIONS",
         "sections": {
             "L1": {
@@ -1306,6 +1375,7 @@
                 ]
             }
         },
+        "IC": "DURGESH C PATHAK",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -1314,6 +1384,7 @@
         ]
     },
     "BITS F315": {
+        "units": 3.0,
         "course_name": "INTRODUCTION TO COGNITIVE\nNEUROSCIENCE",
         "sections": {
             "L1": {
@@ -1335,6 +1406,7 @@
                 ]
             }
         },
+        "IC": "SRINIVAS PRASAD K",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -1343,6 +1415,7 @@
         ]
     },
     "BITS F327": {
+        "units": 3.0,
         "course_name": "ARTIFICIAL INTELLIGENCE FOR\nROBOTICS",
         "sections": {
             "L1": {
@@ -1380,6 +1453,7 @@
                 ]
             }
         },
+        "IC": "ABHISHEK SARKAR",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -1388,6 +1462,7 @@
         ]
     },
     "BITS F385": {
+        "units": 3.0,
         "course_name": "INTRO TO GENDER STUDIES",
         "sections": {
             "L1": {
@@ -1409,6 +1484,7 @@
                 ]
             }
         },
+        "IC": "TONY SEBASTIAN",
         "exams": [
             {
                 "midsem": "15/03 2.00 - 3.30PM",
@@ -1417,6 +1493,7 @@
         ]
     },
     "BITS F399": {
+        "units": 3.0,
         "course_name": "HUMANISTIC THEO OF SC & TECH",
         "sections": {
             "L1": {
@@ -1438,6 +1515,7 @@
                 ]
             }
         },
+        "IC": "BISWANATH DASH",
         "exams": [
             {
                 "midsem": "16/03 9.30 - 11.00AM",
@@ -1446,6 +1524,7 @@
         ]
     },
     "BITS F412": {
+        "units": 20.0,
         "course_name": "PRACTICE SCHOOL II",
         "sections": {
             "L1": {
@@ -1467,6 +1546,7 @@
                 ]
             }
         },
+        "IC": "SP REGALLA",
         "exams": [
             {
                 "midsem": "16/03 9.30 - 11.00AM",
@@ -1475,6 +1555,7 @@
         ]
     },
     "BITS F413": {
+        "units": 20.0,
         "course_name": "PRACTICE SCHOOL II",
         "sections": {
             "L1": {
@@ -1496,6 +1577,7 @@
                 ]
             }
         },
+        "IC": "SP REGALLA",
         "exams": [
             {
                 "midsem": "16/03 9.30 - 11.00AM",
@@ -1504,6 +1586,7 @@
         ]
     },
     "BITS F415": {
+        "units": 4.0,
         "course_name": "INTRODUCTION TO MEMS",
         "sections": {
             "L1": {
@@ -1526,8 +1609,8 @@
             },
             "P1": {
                 "instructor": [
-                    "Abhishek Kumar",
                     "Sanket Goel",
+                    "Abhishek Kumar",
                     "Pavar Sai Kumar"
                 ],
                 "schedule": [
@@ -1545,8 +1628,8 @@
             },
             "P2": {
                 "instructor": [
-                    "Abhishek Kumar",
                     "Sanket Goel",
+                    "Abhishek Kumar",
                     "Pavar Sai Kumar"
                 ],
                 "schedule": [
@@ -1563,6 +1646,7 @@
                 ]
             }
         },
+        "IC": "SANKET GOEL",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -1571,6 +1655,7 @@
         ]
     },
     "BITS F421T": {
+        "units": 16.0,
         "course_name": "THESIS",
         "sections": {
             "L1": {
@@ -1591,6 +1676,7 @@
                 ]
             }
         },
+        "IC": "SRIDHAR RAJU",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -1599,6 +1685,7 @@
         ]
     },
     "BITS F422T": {
+        "units": 16.0,
         "course_name": "THESIS",
         "sections": {
             "L1": {
@@ -1619,6 +1706,7 @@
                 ]
             }
         },
+        "IC": "SRIDHAR RAJU",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -1627,6 +1715,7 @@
         ]
     },
     "BITS F423T": {
+        "units": 9.0,
         "course_name": "THESIS",
         "sections": {
             "L1": {
@@ -1647,6 +1736,7 @@
                 ]
             }
         },
+        "IC": "SRIDHAR RAJU",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -1655,6 +1745,7 @@
         ]
     },
     "BITS F424T": {
+        "units": 9.0,
         "course_name": "THESIS",
         "sections": {
             "L1": {
@@ -1675,6 +1766,7 @@
                 ]
             }
         },
+        "IC": "SRIDHAR RAJU",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -1683,6 +1775,7 @@
         ]
     },
     "BITS F428": {
+        "units": 3.0,
         "course_name": "ESSENTIALS OF STRATE MGT",
         "sections": {
             "L1": {
@@ -1704,6 +1797,7 @@
                 ]
             }
         },
+        "IC": "R RAGHUNATHAN",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -1712,6 +1806,7 @@
         ]
     },
     "BITS F441": {
+        "units": 3.0,
         "course_name": "ROBOTICS",
         "sections": {
             "L1": {
@@ -1733,6 +1828,7 @@
                 ]
             }
         },
+        "IC": "YV DASESWARA RAO",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -1741,6 +1837,7 @@
         ]
     },
     "BITS F442": {
+        "units": 3.0,
         "course_name": "REMOTE SENS & IMAGE PROC",
         "sections": {
             "L1": {
@@ -1762,6 +1859,7 @@
                 ]
             }
         },
+        "IC": "K RAJITHA",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -1770,13 +1868,14 @@
         ]
     },
     "BITS F463": {
+        "units": 3.0,
         "course_name": "CRYPTOGRAPHY",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Praneeta Krishnaprasad Mag",
+                    "G GEETHAKUMARI",
                     "Chillara Anil Kumar",
-                    "G GEETHAKUMARI"
+                    "Praneeta Krishnaprasad Mag"
                 ],
                 "schedule": [
                     {
@@ -1793,6 +1892,7 @@
                 ]
             }
         },
+        "IC": "G GEETHAKUMARI",
         "exams": [
             {
                 "midsem": "18/03 9.30 - 11.00AM",
@@ -1801,14 +1901,15 @@
         ]
     },
     "BITS F464": {
+        "units": 3.0,
         "course_name": "MACHINE LEARNING",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Chaitra C R",
                     "Chavali Lalitha",
-                    "NL BHANUMURTHY",
-                    "P. Priyanka Chowdary"
+                    "Chaitra C R",
+                    "P. Priyanka Chowdary",
+                    "NL BHANUMURTHY"
                 ],
                 "schedule": [
                     {
@@ -1825,6 +1926,7 @@
                 ]
             }
         },
+        "IC": "NL BHANUMURTHY",
         "exams": [
             {
                 "midsem": "12/03 9.30 - 11.00AM",
@@ -1833,6 +1935,7 @@
         ]
     },
     "BITS G513": {
+        "units": 5.0,
         "course_name": "STUDY IN ADVANCED TOPICS",
         "sections": {
             "L1": {
@@ -1854,6 +1957,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "12/03 9.30 - 11.00AM",
@@ -1862,6 +1966,7 @@
         ]
     },
     "BITS G529": {
+        "units": 6.0,
         "course_name": "RESEARCH PROJECT I",
         "sections": {
             "L1": {
@@ -1883,6 +1988,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "12/03 9.30 - 11.00AM",
@@ -1891,6 +1997,7 @@
         ]
     },
     "BITS G539": {
+        "units": 6.0,
         "course_name": "RESEARCH PROJECT II",
         "sections": {
             "L1": {
@@ -1912,6 +2019,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "12/03 9.30 - 11.00AM",
@@ -1920,6 +2028,7 @@
         ]
     },
     "BITS G540": {
+        "units": 4.0,
         "course_name": "RESEARCH PRACTICE",
         "sections": {
             "L1": {
@@ -1941,6 +2050,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "12/03 9.30 - 11.00AM",
@@ -1949,6 +2059,7 @@
         ]
     },
     "BITS G563T": {
+        "units": 16.0,
         "course_name": "DISSERTATION",
         "sections": {
             "L1": {
@@ -1970,6 +2081,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "12/03 9.30 - 11.00AM",
@@ -1978,6 +2090,7 @@
         ]
     },
     "BITS G629T": {
+        "units": 16.0,
         "course_name": "DISSERTATION",
         "sections": {
             "L1": {
@@ -1999,6 +2112,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "12/03 9.30 - 11.00AM",
@@ -2007,6 +2121,7 @@
         ]
     },
     "BITS G639": {
+        "units": 20.0,
         "course_name": "PRACTICE SCHOOL",
         "sections": {
             "L1": {
@@ -2028,6 +2143,7 @@
                 ]
             }
         },
+        "IC": "SP REGALLA",
         "exams": [
             {
                 "midsem": "12/03 9.30 - 11.00AM",
@@ -2036,6 +2152,7 @@
         ]
     },
     "BITS G649": {
+        "units": 5.0,
         "course_name": "READING COURSE",
         "sections": {
             "L1": {
@@ -2057,6 +2174,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "12/03 9.30 - 11.00AM",
@@ -2065,6 +2183,7 @@
         ]
     },
     "BITS G661": {
+        "units": 5.0,
         "course_name": "RESEARCH METHODOLOGY I",
         "sections": {
             "L1": {
@@ -2086,6 +2205,7 @@
                 ]
             }
         },
+        "IC": "KARTHIK CHETAN",
         "exams": [
             {
                 "midsem": "14/03 2.00 - 3.30PM",
@@ -2094,6 +2214,7 @@
         ]
     },
     "CE F241": {
+        "units": 3.0,
         "course_name": "ANALYSIS OF STRUCTURES",
         "sections": {
             "L1": {
@@ -2131,6 +2252,7 @@
                 ]
             }
         },
+        "IC": "RAGHU PISKA",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -2139,6 +2261,7 @@
         ]
     },
     "CE F242": {
+        "units": 3.0,
         "course_name": "CONSTRUCTION PLANNING &\nTECH",
         "sections": {
             "L1": {
@@ -2177,6 +2300,7 @@
                 ]
             }
         },
+        "IC": "CHANDU PARIMI",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -2185,6 +2309,7 @@
         ]
     },
     "CE F243": {
+        "units": 4.0,
         "course_name": "SOIL MECHANICS",
         "sections": {
             "L1": {
@@ -2207,8 +2332,8 @@
             },
             "P1": {
                 "instructor": [
-                    "Ankur Abhishek",
-                    "Meenu Krishnan"
+                    "Meenu Krishnan",
+                    "Ankur Abhishek"
                 ],
                 "schedule": [
                     {
@@ -2241,6 +2366,7 @@
                 ]
             }
         },
+        "IC": "ANASUA GUHARAY",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -2249,6 +2375,7 @@
         ]
     },
     "CE F244": {
+        "units": 4.0,
         "course_name": "HIGHWAY ENGINEERING",
         "sections": {
             "L1": {
@@ -2313,6 +2440,7 @@
                 ]
             }
         },
+        "IC": "V VINAYAKA RAM",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -2321,6 +2449,7 @@
         ]
     },
     "CE F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -2340,6 +2469,7 @@
                 ]
             }
         },
+        "IC": "ANMALA JAGADEESH",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -2348,6 +2478,7 @@
         ]
     },
     "CE F321": {
+        "units": 3.0,
         "course_name": "ENGINEERING HYDROLOGY",
         "sections": {
             "L1": {
@@ -2385,6 +2516,7 @@
                 ]
             }
         },
+        "IC": "K SRINIVASA RAJU",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -2393,6 +2525,7 @@
         ]
     },
     "CE F342": {
+        "units": 4.0,
         "course_name": "WATER & WASTEWATER TREAT",
         "sections": {
             "L1": {
@@ -2481,6 +2614,7 @@
                 ]
             }
         },
+        "IC": "MURARI R R VARMA",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -2489,6 +2623,7 @@
         ]
     },
     "CE F343": {
+        "units": 3.0,
         "course_name": "DESIGN OF STEEL STRUCTURES",
         "sections": {
             "L1": {
@@ -2527,6 +2662,7 @@
                 ]
             }
         },
+        "IC": "CHANDU PARIMI",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -2535,6 +2671,7 @@
         ]
     },
     "CE F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -2554,6 +2691,7 @@
                 ]
             }
         },
+        "IC": "K RAJITHA",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -2562,6 +2700,7 @@
         ]
     },
     "CE F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -2581,6 +2720,7 @@
                 ]
             }
         },
+        "IC": "K RAJITHA",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -2589,6 +2729,7 @@
         ]
     },
     "CE F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -2608,6 +2749,7 @@
                 ]
             }
         },
+        "IC": "RAGHU PISKA",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -2616,6 +2758,7 @@
         ]
     },
     "CE F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -2635,6 +2778,7 @@
                 ]
             }
         },
+        "IC": "RAGHU PISKA",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -2643,6 +2787,7 @@
         ]
     },
     "CE F411": {
+        "units": 3.0,
         "course_name": "OPER RESEARCH FOR ENGIN",
         "sections": {
             "L1": {
@@ -2664,6 +2809,7 @@
                 ]
             }
         },
+        "IC": "A VASAN",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -2672,6 +2818,7 @@
         ]
     },
     "CE F415": {
+        "units": 3.0,
         "course_name": "DES OF PREST CONC STRUCT",
         "sections": {
             "L1": {
@@ -2693,6 +2840,7 @@
                 ]
             }
         },
+        "IC": "BAHURUDEEN A",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -2701,6 +2849,7 @@
         ]
     },
     "CE F416": {
+        "units": 4.0,
         "course_name": "COMP APPL IN CIVIL ENGG",
         "sections": {
             "L1": {
@@ -2749,6 +2898,7 @@
                 ]
             }
         },
+        "IC": "ARKAMITRA KAR",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -2757,6 +2907,7 @@
         ]
     },
     "CE F423": {
+        "units": 3.0,
         "course_name": "GREEN BUILD & ENER CONSE",
         "sections": {
             "L1": {
@@ -2778,6 +2929,7 @@
                 ]
             }
         },
+        "IC": "MURARI R R VARMA",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -2786,6 +2938,7 @@
         ]
     },
     "CE F425": {
+        "units": 3.0,
         "course_name": "AIRPORT RAIL & WATERWAYS",
         "sections": {
             "L1": {
@@ -2807,6 +2960,7 @@
                 ]
             }
         },
+        "IC": "V VINAYAKA RAM",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -2815,6 +2969,7 @@
         ]
     },
     "CE F426": {
+        "units": 3.0,
         "course_name": "GEOSYN & REIN SOIL STR",
         "sections": {
             "L1": {
@@ -2836,6 +2991,7 @@
                 ]
             }
         },
+        "IC": "ANASUA GUHARAY",
         "exams": [
             {
                 "midsem": "18/03 9.30 - 11.00AM",
@@ -2844,6 +3000,7 @@
         ]
     },
     "CE F435": {
+        "units": 3.0,
         "course_name": "INTRODUCTION TO FEM",
         "sections": {
             "L1": {
@@ -2865,6 +3022,7 @@
                 ]
             }
         },
+        "IC": "PN RAO",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -2873,6 +3031,7 @@
         ]
     },
     "CE G514": {
+        "units": 4.0,
         "course_name": "STRUCTURAL OPTIMIZATION",
         "sections": {
             "L1": {
@@ -2894,6 +3053,7 @@
                 ]
             }
         },
+        "IC": "A VASAN",
         "exams": [
             {
                 "midsem": "15/03 11.30 - 1.00PM",
@@ -2902,6 +3062,7 @@
         ]
     },
     "CE G518": {
+        "units": 4.0,
         "course_name": "PAVEMENT ANALYSIS & DES",
         "sections": {
             "L1": {
@@ -2940,6 +3101,7 @@
                 ]
             }
         },
+        "IC": "SRIDHAR RAJU",
         "exams": [
             {
                 "midsem": "13/03 2.00 - 3.30PM",
@@ -2948,6 +3110,7 @@
         ]
     },
     "CE G566": {
+        "units": 4.0,
         "course_name": "PUBLIC TRANSPORTATION",
         "sections": {
             "L1": {
@@ -2986,6 +3149,7 @@
                 ]
             }
         },
+        "IC": "PRASANTA KUMAR SAHU",
         "exams": [
             {
                 "midsem": "15/03 11.30 - 1.00PM",
@@ -2994,6 +3158,7 @@
         ]
     },
     "CE G570": {
+        "units": 4.0,
         "course_name": "HIGHWAY CONSTRUCTION\nTECHNOLOG",
         "sections": {
             "L1": {
@@ -3032,6 +3197,7 @@
                 ]
             }
         },
+        "IC": "SRIDHAR RAJU",
         "exams": [
             {
                 "midsem": "16/03 9.30 - 11.00AM",
@@ -3040,6 +3206,7 @@
         ]
     },
     "CE G575": {
+        "units": 4.0,
         "course_name": "FREIGHT TRANSPORTATION",
         "sections": {
             "L1": {
@@ -3078,6 +3245,7 @@
                 ]
             }
         },
+        "IC": "PRASANTA KUMAR SAHU",
         "exams": [
             {
                 "midsem": "17/03 9.30 - 11.00AM",
@@ -3086,6 +3254,7 @@
         ]
     },
     "CE G613": {
+        "units": 4.0,
         "course_name": "ADV CONCRETE STRUCTURES",
         "sections": {
             "L1": {
@@ -3125,6 +3294,7 @@
                 ]
             }
         },
+        "IC": "BAHURUDEEN A",
         "exams": [
             {
                 "midsem": "16/03 9.30 - 11.00AM",
@@ -3133,6 +3303,7 @@
         ]
     },
     "CE G615": {
+        "units": 4.0,
         "course_name": "EARTHQUAKE ENGINEERING",
         "sections": {
             "L1": {
@@ -3171,6 +3342,7 @@
                 ]
             }
         },
+        "IC": "MOHAN S C",
         "exams": [
             {
                 "midsem": "13/03 2.00 - 3.30PM",
@@ -3179,6 +3351,7 @@
         ]
     },
     "CE G616": {
+        "units": 4.0,
         "course_name": "BRIDGE ENGINEERING",
         "sections": {
             "L1": {
@@ -3217,6 +3390,7 @@
                 ]
             }
         },
+        "IC": "PN RAO",
         "exams": [
             {
                 "midsem": "17/03 9.30 - 11.00AM",
@@ -3225,6 +3399,7 @@
         ]
     },
     "CHE F241": {
+        "units": 3.0,
         "course_name": "HEAT TRANSFER",
         "sections": {
             "L1": {
@@ -3265,6 +3440,7 @@
                 ]
             }
         },
+        "IC": "IYMAN ABRAR",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -3273,6 +3449,7 @@
         ]
     },
     "CHE F242": {
+        "units": 3.0,
         "course_name": "NUM METHOD FOR CHEM ENGG",
         "sections": {
             "L1": {
@@ -3310,6 +3487,7 @@
                 ]
             }
         },
+        "IC": "VIKRANT KUMAR S",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -3318,6 +3496,7 @@
         ]
     },
     "CHE F243": {
+        "units": 3.0,
         "course_name": "MATERIAL SCIENCE &\nENGINEERING",
         "sections": {
             "L1": {
@@ -3365,6 +3544,7 @@
                 ]
             }
         },
+        "IC": "DEBIRUPA MITRA",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -3373,6 +3553,7 @@
         ]
     },
     "CHE F244": {
+        "units": 3.0,
         "course_name": "SEPARATION PROCESSES I",
         "sections": {
             "L1": {
@@ -3410,6 +3591,7 @@
                 ]
             }
         },
+        "IC": "BALAJI KRISHNAMURTHY",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -3418,6 +3600,7 @@
         ]
     },
     "CHE F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -3437,6 +3620,7 @@
                 ]
             }
         },
+        "IC": "RAMENDRA KISHOR PAL",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -3445,18 +3629,19 @@
         ]
     },
     "CHE F341": {
+        "units": 3.0,
         "course_name": "CHEMICAL ENGG LAB II",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Suresh Kanuri",
-                    "Dubbaka Vidya",
                     "Nandini Bhandaru",
                     "SATYAPAUL SINGH AMART",
                     "C Jhansi",
+                    "Suresh Kanuri",
+                    "Karthik Chetan",
                     "Sadamanti Sireesha",
-                    "Afkham Mir",
-                    "Karthik Chetan"
+                    "Dubbaka Vidya",
+                    "Afkham Mir"
                 ],
                 "schedule": [
                     {
@@ -3474,6 +3659,7 @@
                 ]
             }
         },
+        "IC": "SATYAPAUL SINGH AMART",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -3482,6 +3668,7 @@
         ]
     },
     "CHE F342": {
+        "units": 3.0,
         "course_name": "PROCESS DYN & CONTROL",
         "sections": {
             "L1": {
@@ -3504,8 +3691,8 @@
             },
             "T1": {
                 "instructor": [
-                    "Vadlakonda Ravi Kiran Varm",
-                    "Jaideep Chatterjee"
+                    "Jaideep Chatterjee",
+                    "Vadlakonda Ravi Kiran Varm"
                 ],
                 "schedule": [
                     {
@@ -3520,6 +3707,7 @@
                 ]
             }
         },
+        "IC": "JAIDEEP CHATTERJEE",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -3528,6 +3716,7 @@
         ]
     },
     "CHE F343": {
+        "units": 3.0,
         "course_name": "PROCESS DES PRINCIPLE II",
         "sections": {
             "L1": {
@@ -3552,8 +3741,8 @@
             "T1": {
                 "instructor": [
                     "Malayanur Srilekha",
-                    "Arnab Dutta",
-                    "Satyapaul Singh Amarthaluri"
+                    "Satyapaul Singh Amarthaluri",
+                    "Arnab Dutta"
                 ],
                 "schedule": [
                     {
@@ -3568,6 +3757,7 @@
                 ]
             }
         },
+        "IC": "ARNAB DUTTA",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -3576,6 +3766,7 @@
         ]
     },
     "CHE F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -3595,6 +3786,7 @@
                 ]
             }
         },
+        "IC": "DEBIRUPA MITRA",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -3603,6 +3795,7 @@
         ]
     },
     "CHE F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -3622,6 +3815,7 @@
                 ]
             }
         },
+        "IC": "DEBIRUPA MITRA",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -3630,6 +3824,7 @@
         ]
     },
     "CHE F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -3649,6 +3844,7 @@
                 ]
             }
         },
+        "IC": "SATYAPAUL SINGH AMART",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -3657,6 +3853,7 @@
         ]
     },
     "CHE F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -3676,6 +3873,7 @@
                 ]
             }
         },
+        "IC": "SATYAPAUL SINGH AMART",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -3684,6 +3882,7 @@
         ]
     },
     "CHE F412": {
+        "units": 3.0,
         "course_name": "PROCESS EQUIPMENT DESIGN",
         "sections": {
             "L1": {
@@ -3706,6 +3905,7 @@
                 ]
             }
         },
+        "IC": "RAMESH BABU A",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -3714,6 +3914,7 @@
         ]
     },
     "CHE F419": {
+        "units": 3.0,
         "course_name": "CHEMICAL PROCESS TECH",
         "sections": {
             "L1": {
@@ -3735,6 +3936,7 @@
                 ]
             }
         },
+        "IC": "RAMENDRA KISHOR PAL",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -3743,6 +3945,7 @@
         ]
     },
     "CHE F498": {
+        "units": 3.0,
         "course_name": "COLLOIDS AND INTERFACE\nENGINEERING",
         "sections": {
             "L1": {
@@ -3765,6 +3968,7 @@
                 ]
             }
         },
+        "IC": "JAIDEEP CHATTERJEE",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -3773,6 +3977,7 @@
         ]
     },
     "CHE G522": {
+        "units": 4.0,
         "course_name": "POLYMER TECHNOLOGY",
         "sections": {
             "L1": {
@@ -3812,6 +4017,7 @@
                 ]
             }
         },
+        "IC": "D PURNIMA",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -3820,6 +4026,7 @@
         ]
     },
     "CHE G552": {
+        "units": 5.0,
         "course_name": "ADV TRANSPORT PHENOMENA",
         "sections": {
             "L1": {
@@ -3842,6 +4049,7 @@
                 ]
             }
         },
+        "IC": "BALAJI KRISHNAMURTHY",
         "exams": [
             {
                 "midsem": "15/03 2.00 - 3.30PM",
@@ -3850,12 +4058,13 @@
         ]
     },
     "CHE G641": {
+        "units": 5.0,
         "course_name": "REACTION ENGINEERING",
         "sections": {
             "L1": {
                 "instructor": [
-                    "SRIKANTA DINDA",
-                    "Iyman Abrar"
+                    "Iyman Abrar",
+                    "SRIKANTA DINDA"
                 ],
                 "schedule": [
                     {
@@ -3891,6 +4100,7 @@
                 ]
             }
         },
+        "IC": "SRIKANTA DINDA",
         "exams": [
             {
                 "midsem": "17/03 9.30 - 11.00AM",
@@ -3899,6 +4109,7 @@
         ]
     },
     "CHEM F223": {
+        "units": 3.0,
         "course_name": "COLLOID & SURFACE CHEM",
         "sections": {
             "L1": {
@@ -3920,6 +4131,7 @@
                 ]
             }
         },
+        "IC": "RAMAKRISHNAN G",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -3928,12 +4140,13 @@
         ]
     },
     "CHEM F241": {
+        "units": 3.0,
         "course_name": "INORGANIC CHEMISTRY II",
         "sections": {
             "L1": {
                 "instructor": [
-                    "HIMANSHU AGGARWAL",
-                    "Sounak Roy"
+                    "Sounak Roy",
+                    "HIMANSHU AGGARWAL"
                 ],
                 "schedule": [
                     {
@@ -3951,8 +4164,8 @@
             },
             "T1": {
                 "instructor": [
-                    "Himanshu Aggarwal",
-                    "Sounak Roy"
+                    "Sounak Roy",
+                    "Himanshu Aggarwal"
                 ],
                 "schedule": [
                     {
@@ -3967,6 +4180,7 @@
                 ]
             }
         },
+        "IC": "HIMANSHU AGGARWAL",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -3975,14 +4189,15 @@
         ]
     },
     "CHEM F242": {
+        "units": 3.0,
         "course_name": "CHEMICAL EXPER I",
         "sections": {
             "L1": {
                 "instructor": [
-                    "ARIJIT MUKHERJEE",
-                    "Soumen Khan",
                     "Ronak Lazarus",
-                    "Nilanjan Dey"
+                    "Soumen Khan",
+                    "Nilanjan Dey",
+                    "ARIJIT MUKHERJEE"
                 ],
                 "schedule": [
                     {
@@ -4000,6 +4215,7 @@
                 ]
             }
         },
+        "IC": "ARIJIT MUKHERJEE",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -4008,12 +4224,13 @@
         ]
     },
     "CHEM F243": {
+        "units": 3.0,
         "course_name": "ORGANIC CHEMISTRY II",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Arijit Mukherjee",
-                    "MANAB CHAKRAVARTY"
+                    "MANAB CHAKRAVARTY",
+                    "Arijit Mukherjee"
                 ],
                 "schedule": [
                     {
@@ -4047,6 +4264,7 @@
                 ]
             }
         },
+        "IC": "MANAB CHAKRAVARTY",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -4055,6 +4273,7 @@
         ]
     },
     "CHEM F244": {
+        "units": 3.0,
         "course_name": "PHYSICAL CHEMISTRY III",
         "sections": {
             "L1": {
@@ -4092,6 +4311,7 @@
                 ]
             }
         },
+        "IC": "K SUMITHRA",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -4100,6 +4320,7 @@
         ]
     },
     "CHEM F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -4119,6 +4340,7 @@
                 ]
             }
         },
+        "IC": "DURBA ROY",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -4127,6 +4349,7 @@
         ]
     },
     "CHEM F329": {
+        "units": 4.0,
         "course_name": "ANALYTICAL CHEMISTRY",
         "sections": {
             "L1": {
@@ -4165,6 +4388,7 @@
                 ]
             }
         },
+        "IC": "N RAJESH",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -4173,6 +4397,7 @@
         ]
     },
     "CHEM F336": {
+        "units": 4.0,
         "course_name": "NANOCHEMISTRY",
         "sections": {
             "L1": {
@@ -4211,6 +4436,7 @@
                 ]
             }
         },
+        "IC": "BALAJI GOPALAN",
         "exams": [
             {
                 "midsem": "18/03 9.30 - 11.00AM",
@@ -4219,14 +4445,15 @@
         ]
     },
     "CHEM F341": {
+        "units": 4.0,
         "course_name": "CHEMICAL EXPER II",
         "sections": {
             "L1": {
                 "instructor": [
                     "ANIL KUMAR B M",
-                    "Subit Kumar Saha",
                     "Dyagala Shalini",
-                    "SATYA NARAYAN GUIN"
+                    "SATYA NARAYAN GUIN",
+                    "Subit Kumar Saha"
                 ],
                 "schedule": [
                     {
@@ -4244,6 +4471,7 @@
                 ]
             }
         },
+        "IC": "ANIL KUMAR B M",
         "exams": [
             {
                 "midsem": "18/03 9.30 - 11.00AM",
@@ -4252,6 +4480,7 @@
         ]
     },
     "CHEM F342": {
+        "units": 3.0,
         "course_name": "ORGANIC CHEMISTRY IV",
         "sections": {
             "L1": {
@@ -4289,6 +4518,7 @@
                 ]
             }
         },
+        "IC": "ANUPAM BHATTACHARYA",
         "exams": [
             {
                 "midsem": "15/03 4.00 - 5.30PM",
@@ -4297,6 +4527,7 @@
         ]
     },
     "CHEM F343": {
+        "units": 3.0,
         "course_name": "INORGANIC CHEMISTRY III",
         "sections": {
             "L1": {
@@ -4334,6 +4565,7 @@
                 ]
             }
         },
+        "IC": "R KRISHNAN",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -4342,6 +4574,7 @@
         ]
     },
     "CHEM F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -4361,6 +4594,7 @@
                 ]
             }
         },
+        "IC": "ANUPAM BHATTACHARYA",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -4369,6 +4603,7 @@
         ]
     },
     "CHEM F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -4388,6 +4623,7 @@
                 ]
             }
         },
+        "IC": "ANUPAM BHATTACHARYA",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -4396,6 +4632,7 @@
         ]
     },
     "CHEM F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -4415,6 +4652,7 @@
                 ]
             }
         },
+        "IC": "DURBA ROY",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -4423,6 +4661,7 @@
         ]
     },
     "CHEM F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -4442,6 +4681,7 @@
                 ]
             }
         },
+        "IC": "DURBA ROY",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -4450,12 +4690,13 @@
         ]
     },
     "CHEM F412": {
+        "units": 3.0,
         "course_name": "PHOTOCHEM & LASER SPECTR",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Subit Kumar Saha",
-                    "DURBA ROY"
+                    "DURBA ROY",
+                    "Subit Kumar Saha"
                 ],
                 "schedule": [
                     {
@@ -4472,6 +4713,7 @@
                 ]
             }
         },
+        "IC": "DURBA ROY",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -4480,6 +4722,7 @@
         ]
     },
     "CHEM F414": {
+        "units": 3.0,
         "course_name": "BIO & CHEMICAL SENSORS",
         "sections": {
             "L1": {
@@ -4501,6 +4744,7 @@
                 ]
             }
         },
+        "IC": "J SUBBALAKSHMI",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -4509,6 +4753,7 @@
         ]
     },
     "CHEM G551": {
+        "units": 5.0,
         "course_name": "ADV ORGANIC CHEMISTRY",
         "sections": {
             "L1": {
@@ -4530,6 +4775,7 @@
                 ]
             }
         },
+        "IC": "TANMAY CHATTERJEE",
         "exams": [
             {
                 "midsem": "17/03 11.30 - 1.00PM",
@@ -4538,6 +4784,7 @@
         ]
     },
     "CHEM G552": {
+        "units": 5.0,
         "course_name": "ADVANCED INORGANIC\nCHEMISTRY",
         "sections": {
             "L1": {
@@ -4559,6 +4806,7 @@
                 ]
             }
         },
+        "IC": "SATYA NARAYAN GUIN",
         "exams": [
             {
                 "midsem": "13/03 2.00 - 3.30PM",
@@ -4567,6 +4815,7 @@
         ]
     },
     "CS F211": {
+        "units": 4.0,
         "course_name": "DATA STRUCTURES & ALGO",
         "sections": {
             "L1": {
@@ -4589,8 +4838,8 @@
             },
             "P1": {
                 "instructor": [
-                    "Anand Agrawal",
-                    "Barsha Mitra"
+                    "Barsha Mitra",
+                    "Anand Agrawal"
                 ],
                 "schedule": [
                     {
@@ -4607,8 +4856,8 @@
             },
             "P2": {
                 "instructor": [
-                    "Anand Agrawal",
-                    "Barsha Mitra"
+                    "Barsha Mitra",
+                    "Anand Agrawal"
                 ],
                 "schedule": [
                     {
@@ -4724,6 +4973,7 @@
                 ]
             }
         },
+        "IC": "NL BHANUMURTHY",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -4732,6 +4982,7 @@
         ]
     },
     "CS F212": {
+        "units": 4.0,
         "course_name": "DATA BASE SYSTEMS",
         "sections": {
             "L1": {
@@ -4808,8 +5059,8 @@
             },
             "P4": {
                 "instructor": [
-                    "Harsha Varun Marisetty",
-                    "Prajna Devi Upadhyay"
+                    "Prajna Devi Upadhyay",
+                    "Harsha Varun Marisetty"
                 ],
                 "schedule": [
                     {
@@ -4889,6 +5140,7 @@
                 ]
             }
         },
+        "IC": "R GURURAJ",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -4897,6 +5149,7 @@
         ]
     },
     "CS F213": {
+        "units": 4.0,
         "course_name": "OBJECT ORIENTED PROG",
         "sections": {
             "L1": {
@@ -4919,8 +5172,8 @@
             },
             "P1": {
                 "instructor": [
-                    "Deepa Kumari",
-                    "Abhijit Das"
+                    "Abhijit Das",
+                    "Deepa Kumari"
                 ],
                 "schedule": [
                     {
@@ -4955,8 +5208,8 @@
             },
             "P3": {
                 "instructor": [
-                    "Prerna Saurabh",
-                    "Aritra Mukherjee"
+                    "Aritra Mukherjee",
+                    "Prerna Saurabh"
                 ],
                 "schedule": [
                     {
@@ -4973,8 +5226,8 @@
             },
             "P4": {
                 "instructor": [
-                    "Deepa Kumari",
-                    "Subhrakanta Panda"
+                    "Subhrakanta Panda",
+                    "Deepa Kumari"
                 ],
                 "schedule": [
                     {
@@ -4990,6 +5243,7 @@
                 ]
             }
         },
+        "IC": "ABHIJIT DAS",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -4998,6 +5252,7 @@
         ]
     },
     "CS F241": {
+        "units": 4.0,
         "course_name": "MICROPROC & INTERFACING",
         "sections": {
             "L1": {
@@ -5056,8 +5311,8 @@
             },
             "P2": {
                 "instructor": [
-                    "Pn Sidhartha",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Pn Sidhartha"
                 ],
                 "schedule": [
                     {
@@ -5074,8 +5329,8 @@
             },
             "P3": {
                 "instructor": [
-                    "Ramya K",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Ramya K"
                 ],
                 "schedule": [
                     {
@@ -5092,8 +5347,8 @@
             },
             "P4": {
                 "instructor": [
-                    "Sourav Nandi",
-                    "Battina Sindhu"
+                    "Battina Sindhu",
+                    "Sourav Nandi"
                 ],
                 "schedule": [
                     {
@@ -5110,8 +5365,8 @@
             },
             "P5": {
                 "instructor": [
-                    "Sourav Nandi",
-                    "Battina Sindhu"
+                    "Battina Sindhu",
+                    "Sourav Nandi"
                 ],
                 "schedule": [
                     {
@@ -5128,8 +5383,8 @@
             },
             "P6": {
                 "instructor": [
-                    "Mrunali Dnyaneshwar Wagh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Mrunali Dnyaneshwar Wagh"
                 ],
                 "schedule": [
                     {
@@ -5164,8 +5419,8 @@
             },
             "P8": {
                 "instructor": [
-                    "Ritesh Kumar Singh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Ritesh Kumar Singh"
                 ],
                 "schedule": [
                     {
@@ -5182,8 +5437,8 @@
             },
             "P9": {
                 "instructor": [
-                    "Ch Suresh Kumar",
-                    "Sree Rama Amrutha Lahari"
+                    "Sree Rama Amrutha Lahari",
+                    "Ch Suresh Kumar"
                 ],
                 "schedule": [
                     {
@@ -5236,8 +5491,8 @@
             },
             "P12": {
                 "instructor": [
-                    "Mrunali Dnyaneshwar Wagh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Mrunali Dnyaneshwar Wagh"
                 ],
                 "schedule": [
                     {
@@ -5254,8 +5509,8 @@
             },
             "P13": {
                 "instructor": [
-                    "Kurakula Anudeep",
-                    "Pn Sidhartha"
+                    "Pn Sidhartha",
+                    "Kurakula Anudeep"
                 ],
                 "schedule": [
                     {
@@ -5290,8 +5545,8 @@
             },
             "P15": {
                 "instructor": [
-                    "Manish Laxminarayan Bhaiy",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Manish Laxminarayan Bhaiy"
                 ],
                 "schedule": [
                     {
@@ -5308,8 +5563,8 @@
             },
             "P16": {
                 "instructor": [
-                    "Kurakula Anudeep",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Kurakula Anudeep"
                 ],
                 "schedule": [
                     {
@@ -5485,6 +5740,7 @@
                 ]
             }
         },
+        "IC": "TO BE ANNOUNCED",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -5493,6 +5749,7 @@
         ]
     },
     "CS F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -5512,6 +5769,7 @@
                 ]
             }
         },
+        "IC": "JABEZ J CHRISTOPHER",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -5520,6 +5778,7 @@
         ]
     },
     "CS F303": {
+        "units": 4.0,
         "course_name": "COMPUTER NETWORKS",
         "sections": {
             "L1": {
@@ -5542,8 +5801,8 @@
             },
             "P1": {
                 "instructor": [
-                    "Mandan Naresh",
-                    "Pragati Shrivastava"
+                    "Pragati Shrivastava",
+                    "Mandan Naresh"
                 ],
                 "schedule": [
                     {
@@ -5560,8 +5819,8 @@
             },
             "P2": {
                 "instructor": [
-                    "Mandan Naresh",
-                    "DipanJan Chakraborty"
+                    "DipanJan Chakraborty",
+                    "Mandan Naresh"
                 ],
                 "schedule": [
                     {
@@ -5596,8 +5855,8 @@
             },
             "P4": {
                 "instructor": [
-                    "Afrin Alam",
-                    "DipanJan Chakraborty"
+                    "DipanJan Chakraborty",
+                    "Afrin Alam"
                 ],
                 "schedule": [
                     {
@@ -5679,6 +5938,7 @@
                 ]
             }
         },
+        "IC": "PRAGATI SHRIVASTAVA",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -5687,6 +5947,7 @@
         ]
     },
     "CS F315": {
+        "units": 3.0,
         "course_name": "INFORMATION AND\nCOMMUNICATION TECH. AND DEV.",
         "sections": {
             "L1": {
@@ -5708,6 +5969,7 @@
                 ]
             }
         },
+        "IC": "DIPANJAN CHAKRABORTY",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -5716,6 +5978,7 @@
         ]
     },
     "CS F317": {
+        "units": 3.0,
         "course_name": "REINFORCEMENT LEARNING",
         "sections": {
             "L1": {
@@ -5738,6 +6001,7 @@
                 ]
             }
         },
+        "IC": "PARESH SAXENA",
         "exams": [
             {
                 "midsem": "18/03 9.30 - 11.00AM",
@@ -5746,6 +6010,7 @@
         ]
     },
     "CS F342": {
+        "units": 4.0,
         "course_name": "COMPUTER ARCHITECTURE",
         "sections": {
             "L1": {
@@ -5786,8 +6051,8 @@
             },
             "P2": {
                 "instructor": [
-                    "Sharvani Gadgil",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Sharvani Gadgil"
                 ],
                 "schedule": [
                     {
@@ -5804,8 +6069,8 @@
             },
             "P3": {
                 "instructor": [
-                    "Jisy N K",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Jisy N K"
                 ],
                 "schedule": [
                     {
@@ -5821,6 +6086,7 @@
                 ]
             }
         },
+        "IC": "TO BE ANNOUNCED",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -5829,6 +6095,7 @@
         ]
     },
     "CS F363": {
+        "units": 3.0,
         "course_name": "COMPILER CONSTRUCTION",
         "sections": {
             "L1": {
@@ -5850,8 +6117,8 @@
             },
             "P1": {
                 "instructor": [
-                    "Raghunath Reddy M",
-                    "S Vishwanath Reddy"
+                    "S Vishwanath Reddy",
+                    "Raghunath Reddy M"
                 ],
                 "schedule": [
                     {
@@ -5985,6 +6252,7 @@
                 ]
             }
         },
+        "IC": "RAGHUNATH REDDY M",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -5993,6 +6261,7 @@
         ]
     },
     "CS F364": {
+        "units": 3.0,
         "course_name": "DESIGN & ANAL OF ALGO",
         "sections": {
             "L1": {
@@ -6032,8 +6301,8 @@
             },
             "T2": {
                 "instructor": [
-                    "Anand Agrawal",
-                    "Manjanna B"
+                    "Manjanna B",
+                    "Anand Agrawal"
                 ],
                 "schedule": [
                     {
@@ -6066,8 +6335,8 @@
             },
             "T4": {
                 "instructor": [
-                    "Apurba Das",
-                    "Priyanka Rushikesh Chaudh"
+                    "Priyanka Rushikesh Chaudh",
+                    "Apurba Das"
                 ],
                 "schedule": [
                     {
@@ -6082,6 +6351,7 @@
                 ]
             }
         },
+        "IC": "TATHAGATA RAY",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -6090,6 +6360,7 @@
         ]
     },
     "CS F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -6109,6 +6380,7 @@
                 ]
             }
         },
+        "IC": "JABEZ J CHRISTOPHER",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -6117,6 +6389,7 @@
         ]
     },
     "CS F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -6136,6 +6409,7 @@
                 ]
             }
         },
+        "IC": "JABEZ J CHRISTOPHER",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -6144,13 +6418,14 @@
         ]
     },
     "CS F372": {
+        "units": 3.0,
         "course_name": "OPERATING SYSTEMS",
         "sections": {
             "L1": {
                 "instructor": [
+                    "BARSHA MITRA/Guest Faculty",
                     "Pattiwar Shravan Kumar",
                     "S Rasagna Vakkalanka",
-                    "BARSHA MITRA/Guest Faculty",
                     "Mekala Kiran"
                 ],
                 "schedule": [
@@ -6176,6 +6451,7 @@
         ]
     },
     "CS F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -6197,6 +6473,7 @@
                 ]
             }
         },
+        "IC": "JABEZ J CHRISTOPHER",
         "exams": [
             {
                 "midsem": "17/03 11.30 - 1.00PM",
@@ -6205,6 +6482,7 @@
         ]
     },
     "CS F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -6226,6 +6504,7 @@
                 ]
             }
         },
+        "IC": "JABEZ J CHRISTOPHER",
         "exams": [
             {
                 "midsem": "17/03 11.30 - 1.00PM",
@@ -6234,6 +6513,7 @@
         ]
     },
     "CS F402": {
+        "units": 3.0,
         "course_name": "COMPUTATIONAL GEOMETRY",
         "sections": {
             "L1": {
@@ -6255,6 +6535,7 @@
                 ]
             }
         },
+        "IC": "MANJANNA B",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -6263,14 +6544,15 @@
         ]
     },
     "CS F407": {
+        "units": 3.0,
         "course_name": "ARTIFICIAL INTELLIGENCE",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Chavali Lalitha",
-                    "Attarde Pranjali Devidas",
                     "JABEZ J CHRISTOPHER",
-                    "Nida Fatima"
+                    "Nida Fatima",
+                    "Chavali Lalitha",
+                    "Attarde Pranjali Devidas"
                 ],
                 "schedule": [
                     {
@@ -6287,6 +6569,7 @@
                 ]
             }
         },
+        "IC": "JABEZ J CHRISTOPHER",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -6295,6 +6578,7 @@
         ]
     },
     "CS F413": {
+        "units": 3.0,
         "course_name": "INTERNETWORKING TECH",
         "sections": {
             "L1": {
@@ -6316,6 +6600,7 @@
                 ]
             }
         },
+        "IC": "NIKUMANI CHOUDHURY",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -6324,12 +6609,13 @@
         ]
     },
     "CS F415": {
+        "units": 3.0,
         "course_name": "DATA MINING",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Prerna Saurabh",
                     "MANIK GUPTA",
+                    "Prerna Saurabh",
                     "Harsha Varun Marisetty"
                 ],
                 "schedule": [
@@ -6347,6 +6633,7 @@
                 ]
             }
         },
+        "IC": "MANIK GUPTA",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -6355,6 +6642,7 @@
         ]
     },
     "CS F441": {
+        "units": 3.0,
         "course_name": "SEL TOPICS FROM COMP SC",
         "sections": {
             "L1": {
@@ -6376,6 +6664,7 @@
                 ]
             }
         },
+        "IC": "RAJIB RANJAN MAITI",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -6384,12 +6673,13 @@
         ]
     },
     "CS F469": {
+        "units": 3.0,
         "course_name": "INFORMATION RETRIEVAL",
         "sections": {
             "L1": {
                 "instructor": [
-                    "K Simran",
                     "Pooja",
+                    "K Simran",
                     "ARUNA MALAPATI"
                 ],
                 "schedule": [
@@ -6407,6 +6697,7 @@
                 ]
             }
         },
+        "IC": "ARUNA MALAPATI",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -6415,6 +6706,7 @@
         ]
     },
     "CS G513": {
+        "units": 4.0,
         "course_name": "NETWORK SECURITY",
         "sections": {
             "L1": {
@@ -6453,6 +6745,7 @@
                 ]
             }
         },
+        "IC": "G GEETHAKUMARI",
         "exams": [
             {
                 "midsem": "17/03 11.30 - 1.00PM",
@@ -6461,6 +6754,7 @@
         ]
     },
     "CS G516": {
+        "units": 4.0,
         "course_name": "ADVANCED DATABASE SYSTEMS",
         "sections": {
             "L1": {
@@ -6499,6 +6793,7 @@
                 ]
             }
         },
+        "IC": "SUBHRAKANTA PANDA",
         "exams": [
             {
                 "midsem": "13/03 2.00 - 3.30PM",
@@ -6507,6 +6802,7 @@
         ]
     },
     "CS G520": {
+        "units": 4.0,
         "course_name": "ADVANCED DATA MINING",
         "sections": {
             "L1": {
@@ -6545,6 +6841,7 @@
                 ]
             }
         },
+        "IC": "ANEESH SREEVALLABH C",
         "exams": [
             {
                 "midsem": "15/03 11.30 - 1.00PM",
@@ -6553,6 +6850,7 @@
         ]
     },
     "CS G523": {
+        "units": 5.0,
         "course_name": "SOFTWARE FOR EMBEDDED SYS",
         "sections": {
             "L1": {
@@ -6592,6 +6890,7 @@
                 ]
             }
         },
+        "IC": "CHETAN KUMAR V",
         "exams": [
             {
                 "midsem": "13/03 2.00 - 3.30PM",
@@ -6600,6 +6899,7 @@
         ]
     },
     "CS G524": {
+        "units": 5.0,
         "course_name": "ADV COMPUTER ARCHITECTURE",
         "sections": {
             "L1": {
@@ -6638,6 +6938,7 @@
                 ]
             }
         },
+        "IC": "ARITRA MUKHERJEE",
         "exams": [
             {
                 "midsem": "16/03 9.30 - 11.00AM",
@@ -6646,6 +6947,7 @@
         ]
     },
     "DE G513": {
+        "units": 5.0,
         "course_name": "TRIBOLOGY",
         "sections": {
             "L1": {
@@ -6685,6 +6987,7 @@
                 ]
             }
         },
+        "IC": "PRABAKARAN SARAVANA",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -6693,6 +6996,7 @@
         ]
     },
     "DE G514": {
+        "units": 5.0,
         "course_name": "FRACTURE MECHANICS",
         "sections": {
             "L1": {
@@ -6741,6 +7045,7 @@
                 ]
             }
         },
+        "IC": "AMOL VUPPULURI",
         "exams": [
             {
                 "midsem": "15/03 11.30 - 1.00PM",
@@ -6749,6 +7054,7 @@
         ]
     },
     "ECE F241": {
+        "units": 4.0,
         "course_name": "MICROPROC & INTERFACING",
         "sections": {
             "L1": {
@@ -6807,8 +7113,8 @@
             },
             "P2": {
                 "instructor": [
-                    "Pn Sidhartha",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Pn Sidhartha"
                 ],
                 "schedule": [
                     {
@@ -6825,8 +7131,8 @@
             },
             "P3": {
                 "instructor": [
-                    "Ramya K",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Ramya K"
                 ],
                 "schedule": [
                     {
@@ -6843,8 +7149,8 @@
             },
             "P4": {
                 "instructor": [
-                    "Sourav Nandi",
-                    "Battina Sindhu"
+                    "Battina Sindhu",
+                    "Sourav Nandi"
                 ],
                 "schedule": [
                     {
@@ -6861,8 +7167,8 @@
             },
             "P5": {
                 "instructor": [
-                    "Sourav Nandi",
-                    "Battina Sindhu"
+                    "Battina Sindhu",
+                    "Sourav Nandi"
                 ],
                 "schedule": [
                     {
@@ -6879,8 +7185,8 @@
             },
             "P6": {
                 "instructor": [
-                    "Mrunali Dnyaneshwar Wagh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Mrunali Dnyaneshwar Wagh"
                 ],
                 "schedule": [
                     {
@@ -6915,8 +7221,8 @@
             },
             "P8": {
                 "instructor": [
-                    "Ritesh Kumar Singh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Ritesh Kumar Singh"
                 ],
                 "schedule": [
                     {
@@ -6933,8 +7239,8 @@
             },
             "P9": {
                 "instructor": [
-                    "Ch Suresh Kumar",
-                    "Sree Rama Amrutha Lahari"
+                    "Sree Rama Amrutha Lahari",
+                    "Ch Suresh Kumar"
                 ],
                 "schedule": [
                     {
@@ -6987,8 +7293,8 @@
             },
             "P12": {
                 "instructor": [
-                    "Mrunali Dnyaneshwar Wagh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Mrunali Dnyaneshwar Wagh"
                 ],
                 "schedule": [
                     {
@@ -7005,8 +7311,8 @@
             },
             "P13": {
                 "instructor": [
-                    "Kurakula Anudeep",
-                    "Pn Sidhartha"
+                    "Pn Sidhartha",
+                    "Kurakula Anudeep"
                 ],
                 "schedule": [
                     {
@@ -7041,8 +7347,8 @@
             },
             "P15": {
                 "instructor": [
-                    "Manish Laxminarayan Bhaiy",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Manish Laxminarayan Bhaiy"
                 ],
                 "schedule": [
                     {
@@ -7059,8 +7365,8 @@
             },
             "P16": {
                 "instructor": [
-                    "Kurakula Anudeep",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Kurakula Anudeep"
                 ],
                 "schedule": [
                     {
@@ -7236,6 +7542,7 @@
                 ]
             }
         },
+        "IC": "TO BE ANNOUNCED",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -7244,12 +7551,13 @@
         ]
     },
     "ECE F242": {
+        "units": 3.0,
         "course_name": "CONTROL SYSTEMS",
         "sections": {
             "L1": {
                 "instructor": [
-                    "JOYJIT MUKHERJEE",
-                    "Joyjit Mukherjee"
+                    "Joyjit Mukherjee",
+                    "JOYJIT MUKHERJEE"
                 ],
                 "schedule": [
                     {
@@ -7275,8 +7583,8 @@
             },
             "L2": {
                 "instructor": [
-                    "Harish Vijay Dixit",
-                    "Ankur Bhattacharjee"
+                    "Ankur Bhattacharjee",
+                    "Harish Vijay Dixit"
                 ],
                 "schedule": [
                     {
@@ -7397,6 +7705,7 @@
                 ]
             }
         },
+        "IC": "JOYJIT MUKHERJEE",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -7405,6 +7714,7 @@
         ]
     },
     "ECE F243": {
+        "units": 3.0,
         "course_name": "SIGNALS & SYSTEMS",
         "sections": {
             "L1": {
@@ -7540,6 +7850,7 @@
                 ]
             }
         },
+        "IC": "BVVSN PRABHAKAR RAO",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -7548,6 +7859,7 @@
         ]
     },
     "ECE F244": {
+        "units": 3.0,
         "course_name": "MICROELECTRONIC CIRCUITS",
         "sections": {
             "L1": {
@@ -7665,6 +7977,7 @@
                 ]
             }
         },
+        "IC": "SYED ERSHAD AHMED",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -7673,6 +7986,7 @@
         ]
     },
     "ECE F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -7692,6 +8006,7 @@
                 ]
             }
         },
+        "IC": "STP SRINIVAS",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -7700,12 +8015,13 @@
         ]
     },
     "ECE F312": {
+        "units": 1.0,
         "course_name": "EM FIELDS LAB MICRO ENGG LAB",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Neha Parmar",
-                    "RUNA KUMARI"
+                    "RUNA KUMARI",
+                    "Neha Parmar"
                 ],
                 "schedule": [
                     {
@@ -7721,6 +8037,7 @@
                 ]
             }
         },
+        "IC": "RUNA KUMARI",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -7729,6 +8046,7 @@
         ]
     },
     "ECE F341": {
+        "units": 4.0,
         "course_name": "ANALOG ELECTRONICS",
         "sections": {
             "L1": {
@@ -7805,8 +8123,8 @@
             },
             "P3": {
                 "instructor": [
-                    "Vanmathi S",
-                    "Rajesh Kumar Tripathy"
+                    "Rajesh Kumar Tripathy",
+                    "Vanmathi S"
                 ],
                 "schedule": [
                     {
@@ -7823,8 +8141,8 @@
             },
             "P4": {
                 "instructor": [
-                    "BVVSN Prabhakar Rao",
-                    "Nishchitha N K"
+                    "Nishchitha N K",
+                    "BVVSN Prabhakar Rao"
                 ],
                 "schedule": [
                     {
@@ -7841,8 +8159,8 @@
             },
             "P5": {
                 "instructor": [
-                    "BVVSN Prabhakar Rao",
-                    "Nishchitha N K"
+                    "Nishchitha N K",
+                    "BVVSN Prabhakar Rao"
                 ],
                 "schedule": [
                     {
@@ -8007,6 +8325,7 @@
                 ]
             }
         },
+        "IC": "PRASANT KUMAR P",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -8015,6 +8334,7 @@
         ]
     },
     "ECE F343": {
+        "units": 3.0,
         "course_name": "COMMUNICATION NETWORKS",
         "sections": {
             "L1": {
@@ -8068,6 +8388,7 @@
                 ]
             }
         },
+        "IC": "S K SAHOO",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -8076,6 +8397,7 @@
         ]
     },
     "ECE F344": {
+        "units": 3.0,
         "course_name": "INFO THEORY & CODING",
         "sections": {
             "L1": {
@@ -8129,6 +8451,7 @@
                 ]
             }
         },
+        "IC": "ATRI MUKHOPADHYAY",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -8137,6 +8460,7 @@
         ]
     },
     "ECE F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -8156,6 +8480,7 @@
                 ]
             }
         },
+        "IC": "PRATYUSH CHAKRABORT",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -8164,6 +8489,7 @@
         ]
     },
     "ECE F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -8183,6 +8509,7 @@
                 ]
             }
         },
+        "IC": "PRATYUSH CHAKRABORT",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -8191,6 +8518,7 @@
         ]
     },
     "ECE F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -8210,6 +8538,7 @@
                 ]
             }
         },
+        "IC": "JOYJIT MUKHERJEE",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -8218,6 +8547,7 @@
         ]
     },
     "ECE F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -8237,6 +8567,7 @@
                 ]
             }
         },
+        "IC": "JOYJIT MUKHERJEE",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -8245,6 +8576,7 @@
         ]
     },
     "ECE F416": {
+        "units": 3.0,
         "course_name": "DIGITAL COMMUNICATION",
         "sections": {
             "L1": {
@@ -8266,6 +8598,7 @@
                 ]
             }
         },
+        "IC": "GOPAL KRISHNA KAMATH",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -8274,6 +8607,7 @@
         ]
     },
     "ECON F211": {
+        "units": 3.0,
         "course_name": "PRINCIPLES OF ECONOMICS",
         "sections": {
             "L1": {
@@ -8460,9 +8794,11 @@
                 "midsem": "16/03 2.00 - 3.30PM",
                 "compre": "16/05 FN"
             }
-        ]
+        ],
+        "IC": "ARCHANA SRIVASTAVA"
     },
     "ECON F212": {
+        "units": 3.0,
         "course_name": "FUNDA OF FIN AND ACCOUNT",
         "sections": {
             "L1": {
@@ -8484,6 +8820,7 @@
                 ]
             }
         },
+        "IC": "T NAGARAJU",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -8492,6 +8829,7 @@
         ]
     },
     "ECON F215": {
+        "units": 3.0,
         "course_name": "COMPUTATIONAL METHODS FOR\nECON",
         "sections": {
             "L1": {
@@ -8513,6 +8851,7 @@
                 ]
             }
         },
+        "IC": "BHEEMESHWAR REDDY A",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -8521,6 +8860,7 @@
         ]
     },
     "ECON F241": {
+        "units": 3.0,
         "course_name": "ECONOMETRIC METHODS",
         "sections": {
             "L1": {
@@ -8558,6 +8898,7 @@
                 ]
             }
         },
+        "IC": "BHEEMESHWAR REDDY A",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -8566,6 +8907,7 @@
         ]
     },
     "ECON F242": {
+        "units": 3.0,
         "course_name": "MICROECONOMICS",
         "sections": {
             "L1": {
@@ -8603,6 +8945,7 @@
                 ]
             }
         },
+        "IC": "VIVEKANANDA MUKHERJE",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -8611,12 +8954,13 @@
         ]
     },
     "ECON F243": {
+        "units": 3.0,
         "course_name": "MACROECONOMICS",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Sunny Kumar Singh",
-                    "SUNNY KUMAR SINGH"
+                    "SUNNY KUMAR SINGH",
+                    "Sunny Kumar Singh"
                 ],
                 "schedule": [
                     {
@@ -8657,6 +9001,7 @@
                 ]
             }
         },
+        "IC": "SUNNY KUMAR SINGH",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -8665,6 +9010,7 @@
         ]
     },
     "ECON F244": {
+        "units": 3.0,
         "course_name": "ECONOMIC OF GROWTH & DEV",
         "sections": {
             "L1": {
@@ -8702,6 +9048,7 @@
                 ]
             }
         },
+        "IC": "SUDATTA BANERJEE",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -8710,6 +9057,7 @@
         ]
     },
     "ECON F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -8729,6 +9077,7 @@
                 ]
             }
         },
+        "IC": "ARCHANA SRIVASTAVA",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -8737,6 +9086,7 @@
         ]
     },
     "ECON F315": {
+        "units": 3.0,
         "course_name": "FINANCIAL MANAGEMENT",
         "sections": {
             "L1": {
@@ -8758,6 +9108,7 @@
                 ]
             }
         },
+        "IC": "NIVEDITA SINHA",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -8766,6 +9117,7 @@
         ]
     },
     "ECON F341": {
+        "units": 3.0,
         "course_name": "PUBLIC FIN THEO & POLICY",
         "sections": {
             "L1": {
@@ -8803,6 +9155,7 @@
                 ]
             }
         },
+        "IC": "MINI THOMAS",
         "exams": [
             {
                 "midsem": "15/03 4.00 - 5.30PM",
@@ -8811,6 +9164,7 @@
         ]
     },
     "ECON F342": {
+        "units": 3.0,
         "course_name": "APPLIED ECONOMETRICS",
         "sections": {
             "L1": {
@@ -8848,6 +9202,7 @@
                 ]
             }
         },
+        "IC": "RISHI KUMAR",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -8856,6 +9211,7 @@
         ]
     },
     "ECON F343": {
+        "units": 3.0,
         "course_name": "ECONOMIC ANAL OF PUB POL",
         "sections": {
             "L1": {
@@ -8893,6 +9249,7 @@
                 ]
             }
         },
+        "IC": "DURGESH C PATHAK",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -8901,6 +9258,7 @@
         ]
     },
     "ECON F345": {
+        "units": 3.0,
         "course_name": "BEHAVIORAL ECONOMICS",
         "sections": {
             "L1": {
@@ -8922,6 +9280,7 @@
                 ]
             }
         },
+        "IC": "DUSHYANT KUMAR",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -8930,6 +9289,7 @@
         ]
     },
     "ECON F354": {
+        "units": 3.0,
         "course_name": "DERIVATIVES & RISK MGMT",
         "sections": {
             "L1": {
@@ -8969,6 +9329,7 @@
                 ]
             }
         },
+        "IC": "TO BE ANNOUNCED",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -8977,6 +9338,7 @@
         ]
     },
     "ECON F355": {
+        "units": 3.0,
         "course_name": "BUSS ANAL & VALUATION",
         "sections": {
             "L1": {
@@ -9016,6 +9378,7 @@
                 ]
             }
         },
+        "IC": "TO BE ANNOUNCED",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -9024,6 +9387,7 @@
         ]
     },
     "ECON F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -9045,6 +9409,7 @@
                 ]
             }
         },
+        "IC": "ARCHANA SRIVASTAVA",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -9053,6 +9418,7 @@
         ]
     },
     "ECON F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -9074,6 +9440,7 @@
                 ]
             }
         },
+        "IC": "ARCHANA SRIVASTAVA",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -9082,6 +9449,7 @@
         ]
     },
     "ECON F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -9103,6 +9471,7 @@
                 ]
             }
         },
+        "IC": "ARCHANA SRIVASTAVA",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -9111,6 +9480,7 @@
         ]
     },
     "ECON F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -9132,6 +9502,7 @@
                 ]
             }
         },
+        "IC": "ARCHANA SRIVASTAVA",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -9140,6 +9511,7 @@
         ]
     },
     "ECON F411": {
+        "units": 3.0,
         "course_name": "PROJECT APPRAISAL",
         "sections": {
             "L1": {
@@ -9161,6 +9533,7 @@
                 ]
             }
         },
+        "IC": "SUNNY KUMAR SINGH",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -9169,6 +9542,7 @@
         ]
     },
     "ECON F412": {
+        "units": 3.0,
         "course_name": "SECUR ANAL & PORTFOL MGT",
         "sections": {
             "L1": {
@@ -9190,6 +9564,7 @@
                 ]
             }
         },
+        "IC": "SHREYA BISWAS",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -9198,6 +9573,7 @@
         ]
     },
     "ECON F416": {
+        "units": 3.0,
         "course_name": "REGIONAL ECONOMICS",
         "sections": {
             "L1": {
@@ -9219,6 +9595,7 @@
                 ]
             }
         },
+        "IC": "VIVEKANANDA MUKHERJE",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -9227,6 +9604,7 @@
         ]
     },
     "ECON F419": {
+        "units": 3.0,
         "course_name": "ADVANCED MICROECONOMICS",
         "sections": {
             "L1": {
@@ -9248,6 +9626,7 @@
                 ]
             }
         },
+        "IC": "DUSHYANT KUMAR",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -9256,6 +9635,7 @@
         ]
     },
     "ECON F434": {
+        "units": 3.0,
         "course_name": "INTERNATIONAL BUSINESS",
         "sections": {
             "L1": {
@@ -9277,6 +9657,7 @@
                 ]
             }
         },
+        "IC": "ARCHANA SRIVASTAVA",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -9285,6 +9666,7 @@
         ]
     },
     "ECON F435": {
+        "units": 3.0,
         "course_name": "MARKETING RESEARCH",
         "sections": {
             "L1": {
@@ -9306,6 +9688,7 @@
                 ]
             }
         },
+        "IC": "C H YAGANTI",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -9314,6 +9697,7 @@
         ]
     },
     "EEE F241": {
+        "units": 4.0,
         "course_name": "MICROPROC & INTERFACING",
         "sections": {
             "L1": {
@@ -9372,8 +9756,8 @@
             },
             "P2": {
                 "instructor": [
-                    "Pn Sidhartha",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Pn Sidhartha"
                 ],
                 "schedule": [
                     {
@@ -9390,8 +9774,8 @@
             },
             "P3": {
                 "instructor": [
-                    "Ramya K",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Ramya K"
                 ],
                 "schedule": [
                     {
@@ -9408,8 +9792,8 @@
             },
             "P4": {
                 "instructor": [
-                    "Sourav Nandi",
-                    "Battina Sindhu"
+                    "Battina Sindhu",
+                    "Sourav Nandi"
                 ],
                 "schedule": [
                     {
@@ -9426,8 +9810,8 @@
             },
             "P5": {
                 "instructor": [
-                    "Sourav Nandi",
-                    "Battina Sindhu"
+                    "Battina Sindhu",
+                    "Sourav Nandi"
                 ],
                 "schedule": [
                     {
@@ -9444,8 +9828,8 @@
             },
             "P6": {
                 "instructor": [
-                    "Mrunali Dnyaneshwar Wagh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Mrunali Dnyaneshwar Wagh"
                 ],
                 "schedule": [
                     {
@@ -9480,8 +9864,8 @@
             },
             "P8": {
                 "instructor": [
-                    "Ritesh Kumar Singh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Ritesh Kumar Singh"
                 ],
                 "schedule": [
                     {
@@ -9498,8 +9882,8 @@
             },
             "P9": {
                 "instructor": [
-                    "Ch Suresh Kumar",
-                    "Sree Rama Amrutha Lahari"
+                    "Sree Rama Amrutha Lahari",
+                    "Ch Suresh Kumar"
                 ],
                 "schedule": [
                     {
@@ -9552,8 +9936,8 @@
             },
             "P12": {
                 "instructor": [
-                    "Mrunali Dnyaneshwar Wagh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Mrunali Dnyaneshwar Wagh"
                 ],
                 "schedule": [
                     {
@@ -9570,8 +9954,8 @@
             },
             "P13": {
                 "instructor": [
-                    "Kurakula Anudeep",
-                    "Pn Sidhartha"
+                    "Pn Sidhartha",
+                    "Kurakula Anudeep"
                 ],
                 "schedule": [
                     {
@@ -9606,8 +9990,8 @@
             },
             "P15": {
                 "instructor": [
-                    "Manish Laxminarayan Bhaiy",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Manish Laxminarayan Bhaiy"
                 ],
                 "schedule": [
                     {
@@ -9624,8 +10008,8 @@
             },
             "P16": {
                 "instructor": [
-                    "Kurakula Anudeep",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Kurakula Anudeep"
                 ],
                 "schedule": [
                     {
@@ -9801,6 +10185,7 @@
                 ]
             }
         },
+        "IC": "TO BE ANNOUNCED",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -9809,12 +10194,13 @@
         ]
     },
     "EEE F242": {
+        "units": 3.0,
         "course_name": "CONTROL SYSTEMS",
         "sections": {
             "L1": {
                 "instructor": [
-                    "JOYJIT MUKHERJEE",
-                    "Joyjit Mukherjee"
+                    "Joyjit Mukherjee",
+                    "JOYJIT MUKHERJEE"
                 ],
                 "schedule": [
                     {
@@ -9840,8 +10226,8 @@
             },
             "L2": {
                 "instructor": [
-                    "Harish Vijay Dixit",
-                    "Ankur Bhattacharjee"
+                    "Ankur Bhattacharjee",
+                    "Harish Vijay Dixit"
                 ],
                 "schedule": [
                     {
@@ -9962,6 +10348,7 @@
                 ]
             }
         },
+        "IC": "JOYJIT MUKHERJEE",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -9970,6 +10357,7 @@
         ]
     },
     "EEE F243": {
+        "units": 3.0,
         "course_name": "SIGNALS & SYSTEMS",
         "sections": {
             "L1": {
@@ -10105,6 +10493,7 @@
                 ]
             }
         },
+        "IC": "BVVSN PRABHAKAR RAO",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -10113,6 +10502,7 @@
         ]
     },
     "EEE F244": {
+        "units": 3.0,
         "course_name": "MICROELECTRONIC CIRCUITS",
         "sections": {
             "L1": {
@@ -10230,6 +10620,7 @@
                 ]
             }
         },
+        "IC": "SYED ERSHAD AHMED",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -10238,12 +10629,13 @@
         ]
     },
     "EEE F245": {
+        "units": 1.0,
         "course_name": "CONTROL SYSTEMS LABORATORY",
         "sections": {
             "L1": {
                 "instructor": [
-                    "JOYJIT MUKHERJEE",
-                    "Manoj Samal"
+                    "Manoj Samal",
+                    "JOYJIT MUKHERJEE"
                 ],
                 "schedule": [
                     {
@@ -10260,8 +10652,8 @@
             },
             "L2": {
                 "instructor": [
-                    "Gorityala Aishvaria",
-                    "Joyjit Mukherjee"
+                    "Joyjit Mukherjee",
+                    "Gorityala Aishvaria"
                 ],
                 "schedule": [
                     {
@@ -10278,8 +10670,8 @@
             },
             "L3": {
                 "instructor": [
-                    "Priyalatha. P",
-                    "Ankur Bhattacharjee"
+                    "Ankur Bhattacharjee",
+                    "Priyalatha. P"
                 ],
                 "schedule": [
                     {
@@ -10296,9 +10688,9 @@
             },
             "L4": {
                 "instructor": [
-                    "Priyalatha. P",
+                    "Manoj Samal",
                     "Gorityala Aishvaria",
-                    "Manoj Samal"
+                    "Priyalatha. P"
                 ],
                 "schedule": [
                     {
@@ -10314,6 +10706,7 @@
                 ]
             }
         },
+        "IC": "JOYJIT MUKHERJEE",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -10322,14 +10715,15 @@
         ]
     },
     "EEE F246": {
+        "units": 2.0,
         "course_name": "ELECTRICAL & ELECTRONIC\nCIRCUITS LABORATORY",
         "sections": {
             "L1": {
                 "instructor": [
+                    "Naresh Bahadursha",
                     "Sanjana Mathew",
                     "PRATYUSH CHAKRABORT",
-                    "Syed Ershad Ahmed",
-                    "Naresh Bahadursha"
+                    "Syed Ershad Ahmed"
                 ],
                 "schedule": [
                     {
@@ -10348,9 +10742,9 @@
             },
             "L2": {
                 "instructor": [
-                    "Sayan Kanungo",
-                    "Aditya Tiwari",
                     "Venkateswaran R",
+                    "Aditya Tiwari",
+                    "Sayan Kanungo",
                     "Shaswati Dash"
                 ],
                 "schedule": [
@@ -10369,6 +10763,7 @@
                 ]
             }
         },
+        "IC": "PRATYUSH CHAKRABORT",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -10377,6 +10772,7 @@
         ]
     },
     "EEE F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -10399,6 +10795,7 @@
                 ]
             }
         },
+        "IC": "STP SRINIVAS",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -10407,6 +10804,7 @@
         ]
     },
     "EEE F312": {
+        "units": 3.0,
         "course_name": "POWER SYSTEMS",
         "sections": {
             "L1": {
@@ -10460,6 +10858,7 @@
                 ]
             }
         },
+        "IC": "ALIVELU MANGA PARIMI",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -10468,6 +10867,7 @@
         ]
     },
     "EEE F341": {
+        "units": 4.0,
         "course_name": "ANALOG ELECTRONICS",
         "sections": {
             "L1": {
@@ -10544,8 +10944,8 @@
             },
             "P3": {
                 "instructor": [
-                    "Vanmathi S",
-                    "Rajesh Kumar Tripathy"
+                    "Rajesh Kumar Tripathy",
+                    "Vanmathi S"
                 ],
                 "schedule": [
                     {
@@ -10562,8 +10962,8 @@
             },
             "P4": {
                 "instructor": [
-                    "BVVSN Prabhakar Rao",
-                    "Nishchitha N K"
+                    "Nishchitha N K",
+                    "BVVSN Prabhakar Rao"
                 ],
                 "schedule": [
                     {
@@ -10580,8 +10980,8 @@
             },
             "P5": {
                 "instructor": [
-                    "BVVSN Prabhakar Rao",
-                    "Nishchitha N K"
+                    "Nishchitha N K",
+                    "BVVSN Prabhakar Rao"
                 ],
                 "schedule": [
                     {
@@ -10746,6 +11146,7 @@
                 ]
             }
         },
+        "IC": "PRASANT KUMAR P",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -10754,6 +11155,7 @@
         ]
     },
     "EEE F342": {
+        "units": 4.0,
         "course_name": "POWER ELECTRONICS",
         "sections": {
             "L1": {
@@ -10795,9 +11197,9 @@
             },
             "P2": {
                 "instructor": [
-                    "Santhi Durganjali Challa",
+                    "TO BE ANNOUNCED",
                     "Mithun Mondal",
-                    "TO BE ANNOUNCED"
+                    "Santhi Durganjali Challa"
                 ],
                 "schedule": [
                     {
@@ -10899,6 +11301,7 @@
                 ]
             }
         },
+        "IC": "TO BE ANNOUNCED",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -10907,12 +11310,13 @@
         ]
     },
     "EEE F348": {
+        "units": 2.0,
         "course_name": "FPGA BASED SYSTEM DESIGN LAB",
         "sections": {
             "L1": {
                 "instructor": [
-                    "AMIT KUMAR PANDA",
-                    "Himanshi Awasthi"
+                    "Himanshi Awasthi",
+                    "AMIT KUMAR PANDA"
                 ],
                 "schedule": [
                     {
@@ -10948,6 +11352,7 @@
                 ]
             }
         },
+        "IC": "AMIT KUMAR PANDA",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -10956,6 +11361,7 @@
         ]
     },
     "EEE F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -10977,6 +11383,7 @@
                 ]
             }
         },
+        "IC": "PRATYUSH CHAKRABORT",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -10985,6 +11392,7 @@
         ]
     },
     "EEE F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -11006,6 +11414,7 @@
                 ]
             }
         },
+        "IC": "PRATYUSH CHAKRABORT",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -11014,6 +11423,7 @@
         ]
     },
     "EEE F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -11035,6 +11445,7 @@
                 ]
             }
         },
+        "IC": "JOYJIT MUKHERJEE",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -11043,6 +11454,7 @@
         ]
     },
     "EEE F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -11064,6 +11476,7 @@
                 ]
             }
         },
+        "IC": "JOYJIT MUKHERJEE",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -11072,6 +11485,7 @@
         ]
     },
     "EEE F416": {
+        "units": 3.0,
         "course_name": "DIGITAL COMMUNICATION",
         "sections": {
             "L1": {
@@ -11093,6 +11507,7 @@
                 ]
             }
         },
+        "IC": "GOPAL KRISHNA KAMATH",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -11101,6 +11516,7 @@
         ]
     },
     "EEE F428": {
+        "units": 3.0,
         "course_name": "ENERGY STORAGE SYSTEMS",
         "sections": {
             "L1": {
@@ -11122,6 +11538,7 @@
                 ]
             }
         },
+        "IC": "ANKUR BHATTACHARJEE",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -11130,6 +11547,7 @@
         ]
     },
     "EEE F435": {
+        "units": 3.0,
         "course_name": "DIGITAL IMAGE PROCESSING",
         "sections": {
             "L1": {
@@ -11151,6 +11569,7 @@
                 ]
             }
         },
+        "IC": "RAJESH KUMAR TRIPATHY",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -11159,12 +11578,13 @@
         ]
     },
     "EEE F474": {
+        "units": 4.0,
         "course_name": "ANTENNA THEORY AND DESIGN",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Harish Vijay Dixit",
-                    "SOURAV NANDI"
+                    "SOURAV NANDI",
+                    "Harish Vijay Dixit"
                 ],
                 "schedule": [
                     {
@@ -11199,6 +11619,7 @@
                 ]
             }
         },
+        "IC": "SOURAV NANDI",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -11207,6 +11628,7 @@
         ]
     },
     "EEE F477": {
+        "units": 3.0,
         "course_name": "MODELING OF FIELD-EFFECT\nNANO DEVICES",
         "sections": {
             "L1": {
@@ -11228,6 +11650,7 @@
                 ]
             }
         },
+        "IC": "SAYAN KANUNGO",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -11236,6 +11659,7 @@
         ]
     },
     "EEE F478": {
+        "units": 2.0,
         "course_name": "POWER SYSTEMS LAB",
         "sections": {
             "L1": {
@@ -11258,6 +11682,7 @@
                 ]
             }
         },
+        "IC": "ALIVELU MANGA PARIMI",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -11266,6 +11691,7 @@
         ]
     },
     "EEE G592": {
+        "units": 5.0,
         "course_name": "MOBILE & PERSONAL\nCOMMUNICATION",
         "sections": {
             "L1": {
@@ -11305,6 +11731,7 @@
                 ]
             }
         },
+        "IC": "PRASHANT WALI",
         "exams": [
             {
                 "midsem": "13/03 2.00 - 3.30PM",
@@ -11313,6 +11740,7 @@
         ]
     },
     "EEE G622": {
+        "units": 5.0,
         "course_name": "ADVANCED DIGITAL\nCOMMUNICATION",
         "sections": {
             "L1": {
@@ -11352,6 +11780,7 @@
                 ]
             }
         },
+        "IC": "PRASHANT WALI",
         "exams": [
             {
                 "midsem": "15/03 11.30 - 1.00PM",
@@ -11360,6 +11789,7 @@
         ]
     },
     "FIN F311": {
+        "units": 3.0,
         "course_name": "DERIVATIVES & RISK MGMT",
         "sections": {
             "L1": {
@@ -11399,6 +11829,7 @@
                 ]
             }
         },
+        "IC": "TO BE ANNOUNCED",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -11407,6 +11838,7 @@
         ]
     },
     "FIN F313": {
+        "units": 3.0,
         "course_name": "SECUR ANAL & PORTFOL MGT",
         "sections": {
             "L1": {
@@ -11428,6 +11860,7 @@
                 ]
             }
         },
+        "IC": "SHREYA BISWAS",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -11436,6 +11869,7 @@
         ]
     },
     "FIN F315": {
+        "units": 3.0,
         "course_name": "FINANCIAL MANAGEMENT",
         "sections": {
             "L1": {
@@ -11457,6 +11891,7 @@
                 ]
             }
         },
+        "IC": "NIVEDITA SINHA",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -11465,6 +11900,7 @@
         ]
     },
     "FIN F414": {
+        "units": 3.0,
         "course_name": "FINANCIAL RISK ANALYTICS AND\nMANAGEMENT",
         "sections": {
             "L1": {
@@ -11486,6 +11922,7 @@
                 ]
             }
         },
+        "IC": "T NAGARAJU",
         "exams": [
             {
                 "midsem": "15/03 11.30 - 1.00PM",
@@ -11494,6 +11931,7 @@
         ]
     },
     "GS F223": {
+        "units": 3.0,
         "course_name": "INTRO TO MASS COMM",
         "sections": {
             "L1": {
@@ -11515,6 +11953,7 @@
                 ]
             }
         },
+        "IC": "SPANDAN BHATTACHARYA",
         "exams": [
             {
                 "midsem": "14/03 2.00 - 3.30PM",
@@ -11523,6 +11962,7 @@
         ]
     },
     "GS F312": {
+        "units": 3.0,
         "course_name": "APPLIED PHILOSOPHY",
         "sections": {
             "L1": {
@@ -11544,6 +11984,7 @@
                 ]
             }
         },
+        "IC": "JAYESH A K",
         "exams": [
             {
                 "midsem": "15/03 2.00 - 3.30PM",
@@ -11552,6 +11993,7 @@
         ]
     },
     "GS F333": {
+        "units": 3.0,
         "course_name": "PUBLIC ADMINISTRATION",
         "sections": {
             "L1": {
@@ -11573,6 +12015,7 @@
                 ]
             }
         },
+        "IC": "LAVANYA SURESH",
         "exams": [
             {
                 "midsem": "14/03 2.00 - 3.30PM",
@@ -11581,6 +12024,7 @@
         ]
     },
     "HSS F222": {
+        "units": 3.0,
         "course_name": "LINGUISTICS",
         "sections": {
             "L1": {
@@ -11602,6 +12046,7 @@
                 ]
             }
         },
+        "IC": "PRANESH BHARGAVA",
         "exams": [
             {
                 "midsem": "15/03 2.00 - 3.30PM",
@@ -11610,6 +12055,7 @@
         ]
     },
     "HSS F235": {
+        "units": 3.0,
         "course_name": "INTRODUCTORY PHILOSOPHY",
         "sections": {
             "L1": {
@@ -11631,6 +12077,7 @@
                 ]
             }
         },
+        "IC": "JAYESH A K",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -11639,6 +12086,7 @@
         ]
     },
     "HSS F237": {
+        "units": 3.0,
         "course_name": "CONTEMPORARY INDIAN ENGLISH\nFICTION",
         "sections": {
             "L1": {
@@ -11660,6 +12108,7 @@
                 ]
             }
         },
+        "IC": "VIJAY KUMAR TADAKAMAL",
         "exams": [
             {
                 "midsem": "14/03 2.00 - 3.30PM",
@@ -11668,6 +12117,7 @@
         ]
     },
     "HSS F316": {
+        "units": 3.0,
         "course_name": "POP LITER & CULT OF S ASIA",
         "sections": {
             "L1": {
@@ -11689,6 +12139,7 @@
                 ]
             }
         },
+        "IC": "MAYA VINAY",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -11697,6 +12148,7 @@
         ]
     },
     "HSS F317": {
+        "units": 3.0,
         "course_name": "INTRO TO GLOBALIZATION",
         "sections": {
             "L1": {
@@ -11718,6 +12170,7 @@
                 ]
             }
         },
+        "IC": "HARSH MITTAL",
         "exams": [
             {
                 "midsem": "15/03 2.00 - 3.30PM",
@@ -11726,6 +12179,7 @@
         ]
     },
     "HSS F334": {
+        "units": 3.0,
         "course_name": "SRIMAD BHAGAVAD GITA",
         "sections": {
             "L1": {
@@ -11747,6 +12201,7 @@
                 ]
             }
         },
+        "IC": "ARUNA LOLLA",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -11755,6 +12210,7 @@
         ]
     },
     "HSS F335": {
+        "units": 3.0,
         "course_name": "LITERARY CRITICISM",
         "sections": {
             "L1": {
@@ -11776,6 +12232,7 @@
                 ]
             }
         },
+        "IC": "SHILPAA ANAND",
         "exams": [
             {
                 "midsem": "15/03 2.00 - 3.30PM",
@@ -11784,6 +12241,7 @@
         ]
     },
     "HSS F338": {
+        "units": 3.0,
         "course_name": "COMPARATIVE INDIAN LIT",
         "sections": {
             "L1": {
@@ -11805,6 +12263,7 @@
                 ]
             }
         },
+        "IC": "MG PRASUNA",
         "exams": [
             {
                 "midsem": "15/03 2.00 - 3.30PM",
@@ -11813,6 +12272,7 @@
         ]
     },
     "HSS F340": {
+        "units": 3.0,
         "course_name": "POST COLONIAL LITERATURE",
         "sections": {
             "L1": {
@@ -11834,6 +12294,7 @@
                 ]
             }
         },
+        "IC": "VIJAY KUMAR TADAKAMAL",
         "exams": [
             {
                 "midsem": "16/03 9.30 - 11.00AM",
@@ -11842,6 +12303,7 @@
         ]
     },
     "HSS F342": {
+        "units": 3.0,
         "course_name": "ADV COMMUNICATIVE ENG",
         "sections": {
             "L1": {
@@ -11863,6 +12325,7 @@
                 ]
             }
         },
+        "IC": "PRANESH BHARGAVA",
         "exams": [
             {
                 "midsem": "14/03 2.00 - 3.30PM",
@@ -11871,6 +12334,7 @@
         ]
     },
     "HSS F346": {
+        "units": 3.0,
         "course_name": "INTERNATIONAL RELATIONS",
         "sections": {
             "L1": {
@@ -11892,6 +12356,7 @@
                 ]
             }
         },
+        "IC": "SUCHISMITA SATPATHY",
         "exams": [
             {
                 "midsem": "14/03 2.00 - 3.30PM",
@@ -11900,6 +12365,7 @@
         ]
     },
     "HSS F349": {
+        "units": 3.0,
         "course_name": "ECOCRITICISM",
         "sections": {
             "L1": {
@@ -11921,6 +12387,7 @@
                 ]
             }
         },
+        "IC": "TONY SEBASTIAN",
         "exams": [
             {
                 "midsem": "16/03 9.30 - 11.00AM",
@@ -11929,6 +12396,7 @@
         ]
     },
     "HSS F361": {
+        "units": 3.0,
         "course_name": "URBAN POLICY AND GOVERNANCE",
         "sections": {
             "L1": {
@@ -11950,6 +12418,7 @@
                 ]
             }
         },
+        "IC": "SUCHISMITA SATPATHY",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -11958,6 +12427,7 @@
         ]
     },
     "HSS F362": {
+        "units": 3.0,
         "course_name": "LOCAL GOVERNANCE AND\nPARTICIPATION",
         "sections": {
             "L1": {
@@ -11979,6 +12449,7 @@
                 ]
             }
         },
+        "IC": "LAVANYA SURESH",
         "exams": [
             {
                 "midsem": "16/03 9.30 - 11.00AM",
@@ -11987,6 +12458,7 @@
         ]
     },
     "HSS F365": {
+        "units": 3.0,
         "course_name": "SCIENCE OF SUSTAINABLE\nHAPPINESS",
         "sections": {
             "L1": {
@@ -12008,6 +12480,7 @@
                 ]
             }
         },
+        "IC": "ARUNA LOLLA",
         "exams": [
             {
                 "midsem": "14/03 2.00 - 3.30PM",
@@ -12016,6 +12489,7 @@
         ]
     },
     "HSS F368": {
+        "units": 3.0,
         "course_name": "ASIAN CINEMAS AND CULTURES",
         "sections": {
             "L1": {
@@ -12037,6 +12511,7 @@
                 ]
             }
         },
+        "IC": "SPANDAN BHATTACHARYA",
         "exams": [
             {
                 "midsem": "15/03 2.00 - 3.30PM",
@@ -12045,6 +12520,7 @@
         ]
     },
     "HSS F369": {
+        "units": 3.0,
         "course_name": "CASTE AND GENDER IN INDIA",
         "sections": {
             "L1": {
@@ -12066,6 +12542,7 @@
                 ]
             }
         },
+        "IC": "SHILPAA ANAND",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -12074,6 +12551,7 @@
         ]
     },
     "INSTR F241": {
+        "units": 4.0,
         "course_name": "MICROPROC & INTERFACING",
         "sections": {
             "L1": {
@@ -12132,8 +12610,8 @@
             },
             "P2": {
                 "instructor": [
-                    "Pn Sidhartha",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Pn Sidhartha"
                 ],
                 "schedule": [
                     {
@@ -12150,8 +12628,8 @@
             },
             "P3": {
                 "instructor": [
-                    "Ramya K",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Ramya K"
                 ],
                 "schedule": [
                     {
@@ -12168,8 +12646,8 @@
             },
             "P4": {
                 "instructor": [
-                    "Sourav Nandi",
-                    "Battina Sindhu"
+                    "Battina Sindhu",
+                    "Sourav Nandi"
                 ],
                 "schedule": [
                     {
@@ -12186,8 +12664,8 @@
             },
             "P5": {
                 "instructor": [
-                    "Sourav Nandi",
-                    "Battina Sindhu"
+                    "Battina Sindhu",
+                    "Sourav Nandi"
                 ],
                 "schedule": [
                     {
@@ -12204,8 +12682,8 @@
             },
             "P6": {
                 "instructor": [
-                    "Mrunali Dnyaneshwar Wagh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Mrunali Dnyaneshwar Wagh"
                 ],
                 "schedule": [
                     {
@@ -12240,8 +12718,8 @@
             },
             "P8": {
                 "instructor": [
-                    "Ritesh Kumar Singh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Ritesh Kumar Singh"
                 ],
                 "schedule": [
                     {
@@ -12258,8 +12736,8 @@
             },
             "P9": {
                 "instructor": [
-                    "Ch Suresh Kumar",
-                    "Sree Rama Amrutha Lahari"
+                    "Sree Rama Amrutha Lahari",
+                    "Ch Suresh Kumar"
                 ],
                 "schedule": [
                     {
@@ -12312,8 +12790,8 @@
             },
             "P12": {
                 "instructor": [
-                    "Mrunali Dnyaneshwar Wagh",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Mrunali Dnyaneshwar Wagh"
                 ],
                 "schedule": [
                     {
@@ -12330,8 +12808,8 @@
             },
             "P13": {
                 "instructor": [
-                    "Kurakula Anudeep",
-                    "Pn Sidhartha"
+                    "Pn Sidhartha",
+                    "Kurakula Anudeep"
                 ],
                 "schedule": [
                     {
@@ -12366,8 +12844,8 @@
             },
             "P15": {
                 "instructor": [
-                    "Manish Laxminarayan Bhaiy",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Manish Laxminarayan Bhaiy"
                 ],
                 "schedule": [
                     {
@@ -12384,8 +12862,8 @@
             },
             "P16": {
                 "instructor": [
-                    "Kurakula Anudeep",
-                    "TO BE ANNOUNCED"
+                    "TO BE ANNOUNCED",
+                    "Kurakula Anudeep"
                 ],
                 "schedule": [
                     {
@@ -12561,6 +13039,7 @@
                 ]
             }
         },
+        "IC": "TO BE ANNOUNCED",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -12569,12 +13048,13 @@
         ]
     },
     "INSTR F242": {
+        "units": 3.0,
         "course_name": "CONTROL SYSTEMS",
         "sections": {
             "L1": {
                 "instructor": [
-                    "JOYJIT MUKHERJEE",
-                    "Joyjit Mukherjee"
+                    "Joyjit Mukherjee",
+                    "JOYJIT MUKHERJEE"
                 ],
                 "schedule": [
                     {
@@ -12600,8 +13080,8 @@
             },
             "L2": {
                 "instructor": [
-                    "Harish Vijay Dixit",
-                    "Ankur Bhattacharjee"
+                    "Ankur Bhattacharjee",
+                    "Harish Vijay Dixit"
                 ],
                 "schedule": [
                     {
@@ -12722,6 +13202,7 @@
                 ]
             }
         },
+        "IC": "JOYJIT MUKHERJEE",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -12730,6 +13211,7 @@
         ]
     },
     "INSTR F243": {
+        "units": 3.0,
         "course_name": "SIGNALS & SYSTEMS",
         "sections": {
             "L1": {
@@ -12865,6 +13347,7 @@
                 ]
             }
         },
+        "IC": "BVVSN PRABHAKAR RAO",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -12873,6 +13356,7 @@
         ]
     },
     "INSTR F244": {
+        "units": 3.0,
         "course_name": "MICROELECTRONIC CIRCUITS",
         "sections": {
             "L1": {
@@ -12990,6 +13474,7 @@
                 ]
             }
         },
+        "IC": "SYED ERSHAD AHMED",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -12998,6 +13483,7 @@
         ]
     },
     "INSTR F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -13017,6 +13503,7 @@
                 ]
             }
         },
+        "IC": "STP SRINIVAS",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -13025,6 +13512,7 @@
         ]
     },
     "INSTR F341": {
+        "units": 4.0,
         "course_name": "ANALOG ELECTRONICS",
         "sections": {
             "L1": {
@@ -13101,8 +13589,8 @@
             },
             "P3": {
                 "instructor": [
-                    "Vanmathi S",
-                    "Rajesh Kumar Tripathy"
+                    "Rajesh Kumar Tripathy",
+                    "Vanmathi S"
                 ],
                 "schedule": [
                     {
@@ -13119,8 +13607,8 @@
             },
             "P4": {
                 "instructor": [
-                    "BVVSN Prabhakar Rao",
-                    "Nishchitha N K"
+                    "Nishchitha N K",
+                    "BVVSN Prabhakar Rao"
                 ],
                 "schedule": [
                     {
@@ -13137,8 +13625,8 @@
             },
             "P5": {
                 "instructor": [
-                    "BVVSN Prabhakar Rao",
-                    "Nishchitha N K"
+                    "Nishchitha N K",
+                    "BVVSN Prabhakar Rao"
                 ],
                 "schedule": [
                     {
@@ -13303,6 +13791,7 @@
                 ]
             }
         },
+        "IC": "PRASANT KUMAR P",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -13311,6 +13800,7 @@
         ]
     },
     "INSTR F342": {
+        "units": 4.0,
         "course_name": "POWER ELECTRONICS",
         "sections": {
             "L1": {
@@ -13352,9 +13842,9 @@
             },
             "P2": {
                 "instructor": [
-                    "Santhi Durganjali Challa",
+                    "TO BE ANNOUNCED",
                     "Mithun Mondal",
-                    "TO BE ANNOUNCED"
+                    "Santhi Durganjali Challa"
                 ],
                 "schedule": [
                     {
@@ -13456,6 +13946,7 @@
                 ]
             }
         },
+        "IC": "TO BE ANNOUNCED",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -13464,6 +13955,7 @@
         ]
     },
     "INSTR F343": {
+        "units": 3.0,
         "course_name": "INDUS INSTRUMENT & CONT",
         "sections": {
             "L1": {
@@ -13517,6 +14009,7 @@
                 ]
             }
         },
+        "IC": "PONNALAGU R N",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -13525,6 +14018,7 @@
         ]
     },
     "INSTR F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -13544,6 +14038,7 @@
                 ]
             }
         },
+        "IC": "PRATYUSH CHAKRABORT",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -13552,6 +14047,7 @@
         ]
     },
     "INSTR F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -13571,6 +14067,7 @@
                 ]
             }
         },
+        "IC": "PRATYUSH CHAKRABORT",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -13579,6 +14076,7 @@
         ]
     },
     "INSTR F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -13598,6 +14096,7 @@
                 ]
             }
         },
+        "IC": "JOYJIT MUKHERJEE",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -13606,6 +14105,7 @@
         ]
     },
     "INSTR F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -13625,6 +14125,7 @@
                 ]
             }
         },
+        "IC": "JOYJIT MUKHERJEE",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -13633,6 +14134,7 @@
         ]
     },
     "IS F341": {
+        "units": 4.0,
         "course_name": "SOFTWARE ENGINEERING",
         "sections": {
             "L1": {
@@ -13672,6 +14174,7 @@
                 ]
             }
         },
+        "IC": "NARASIMHA BOLLOJU",
         "exams": [
             {
                 "midsem": "18/03 9.30 - 11.00AM",
@@ -13680,6 +14183,7 @@
         ]
     },
     "MATH F113": {
+        "units": 3.0,
         "course_name": "PROBABILITY AND STATISTICS",
         "sections": {
             "L1": {
@@ -13725,6 +14229,7 @@
         ]
     },
     "MATH F213": {
+        "units": 3.0,
         "course_name": "DISCRETE MATHEMATICS",
         "sections": {
             "L1": {
@@ -13746,6 +14251,7 @@
                 ]
             }
         },
+        "IC": "PK SAHOO",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -13754,6 +14260,7 @@
         ]
     },
     "MATH F231": {
+        "units": 3.0,
         "course_name": "NUMBER THEORY",
         "sections": {
             "L1": {
@@ -13775,6 +14282,7 @@
                 ]
             }
         },
+        "IC": "DEBOPAM CHAKRABORTH",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -13783,6 +14291,7 @@
         ]
     },
     "MATH F241": {
+        "units": 3.0,
         "course_name": "MATHEMATICAL METHODS",
         "sections": {
             "L1": {
@@ -13836,6 +14345,7 @@
                 ]
             }
         },
+        "IC": "K BHARGAV KUMAR",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -13844,6 +14354,7 @@
         ]
     },
     "MATH F242": {
+        "units": 3.0,
         "course_name": "OPERATIONS RESEARCH",
         "sections": {
             "L1": {
@@ -13906,6 +14417,7 @@
                 ]
             }
         },
+        "IC": "SAJITH P",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -13914,6 +14426,7 @@
         ]
     },
     "MATH F243": {
+        "units": 3.0,
         "course_name": "GRAPHS AND NETWORKS",
         "sections": {
             "L1": {
@@ -13967,6 +14480,7 @@
                 ]
             }
         },
+        "IC": "A MICHAEL ALPHONSE",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -13975,6 +14489,7 @@
         ]
     },
     "MATH F244": {
+        "units": 3.0,
         "course_name": "MEASURE & INTEGRATION",
         "sections": {
             "L1": {
@@ -14028,6 +14543,7 @@
                 ]
             }
         },
+        "IC": "SHARAN GOPAL",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -14036,6 +14552,7 @@
         ]
     },
     "MATH F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -14055,6 +14572,7 @@
                 ]
             }
         },
+        "IC": "K BHARGAV KUMAR",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -14063,6 +14581,7 @@
         ]
     },
     "MATH F341": {
+        "units": 3.0,
         "course_name": "INTRO TO FUNCTIONAL ANAL",
         "sections": {
             "L1": {
@@ -14116,6 +14635,7 @@
                 ]
             }
         },
+        "IC": "JHUMA SEN GUPTA",
         "exams": [
             {
                 "midsem": "15/03 4.00 - 5.30PM",
@@ -14124,6 +14644,7 @@
         ]
     },
     "MATH F342": {
+        "units": 3.0,
         "course_name": "DIFFERENTIAL GEOMETRY",
         "sections": {
             "L1": {
@@ -14177,6 +14698,7 @@
                 ]
             }
         },
+        "IC": "SUSHIL BHUNIA",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -14185,6 +14707,7 @@
         ]
     },
     "MATH F343": {
+        "units": 3.0,
         "course_name": "PARTIAL DIFF EQUATIONS",
         "sections": {
             "L1": {
@@ -14238,6 +14761,7 @@
                 ]
             }
         },
+        "IC": "G MURALI MOHAN REDDY",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -14246,6 +14770,7 @@
         ]
     },
     "MATH F353": {
+        "units": 3.0,
         "course_name": "STATISTICAL INFER & APP",
         "sections": {
             "L1": {
@@ -14267,6 +14792,7 @@
                 ]
             }
         },
+        "IC": "SAYAN GHOSH",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -14275,6 +14801,7 @@
         ]
     },
     "MATH F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -14296,6 +14823,7 @@
                 ]
             }
         },
+        "IC": "SAJITH P",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -14304,6 +14832,7 @@
         ]
     },
     "MATH F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -14325,6 +14854,7 @@
                 ]
             }
         },
+        "IC": "SAJITH P",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -14333,6 +14863,7 @@
         ]
     },
     "MATH F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -14354,6 +14885,7 @@
                 ]
             }
         },
+        "IC": "SABYASACHI DEY",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -14362,6 +14894,7 @@
         ]
     },
     "MATH F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -14383,6 +14916,7 @@
                 ]
             }
         },
+        "IC": "SABYASACHI DEY",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -14391,6 +14925,7 @@
         ]
     },
     "MATH F420": {
+        "units": 3.0,
         "course_name": "MATHEMATICAL MODELLING",
         "sections": {
             "L1": {
@@ -14412,6 +14947,7 @@
                 ]
             }
         },
+        "IC": "SANTANU KOLEY",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -14420,6 +14956,7 @@
         ]
     },
     "MATH F424": {
+        "units": 4.0,
         "course_name": "APPLIED STOCHASTIC PROCESS",
         "sections": {
             "L1": {
@@ -14441,6 +14978,7 @@
                 ]
             }
         },
+        "IC": "NIRMAN GANGULY",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -14449,6 +14987,7 @@
         ]
     },
     "MATH F456": {
+        "units": 3.0,
         "course_name": "COSMOLOGY",
         "sections": {
             "L1": {
@@ -14470,6 +15009,7 @@
                 ]
             }
         },
+        "IC": "B MISHRA",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -14478,6 +15018,7 @@
         ]
     },
     "MATH F471": {
+        "units": 3.0,
         "course_name": "NONLINEAR OPTIMIZATION",
         "sections": {
             "L1": {
@@ -14499,6 +15040,7 @@
                 ]
             }
         },
+        "IC": "K VENKATA RATNAM",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -14507,6 +15049,7 @@
         ]
     },
     "MATH F481": {
+        "units": 3.0,
         "course_name": "COMMUTATIVE ALGEBRA",
         "sections": {
             "L1": {
@@ -14528,6 +15071,7 @@
                 ]
             }
         },
+        "IC": "PRATYUSHA CHATTOPADH",
         "exams": [
             {
                 "midsem": "18/03 9.30 - 11.00AM",
@@ -14536,6 +15080,7 @@
         ]
     },
     "ME F218": {
+        "units": 2.0,
         "course_name": "ADVANCED MECHANICS OF\nSOLIDS",
         "sections": {
             "L1": {
@@ -14558,8 +15103,8 @@
             },
             "T1": {
                 "instructor": [
-                    "Gudlavalleti Deepak Kumar",
-                    "Brajesh Kumar Panigrahi"
+                    "Brajesh Kumar Panigrahi",
+                    "Gudlavalleti Deepak Kumar"
                 ],
                 "schedule": [
                     {
@@ -14592,8 +15137,8 @@
             },
             "T3": {
                 "instructor": [
-                    "Pavan Kumar P",
-                    "Suswanth Poluru"
+                    "Suswanth Poluru",
+                    "Pavan Kumar P"
                 ],
                 "schedule": [
                     {
@@ -14609,8 +15154,8 @@
             },
             "T4": {
                 "instructor": [
-                    "Nitin Ramesh K",
-                    "Suswanth Poluru"
+                    "Suswanth Poluru",
+                    "Nitin Ramesh K"
                 ],
                 "schedule": [
                     {
@@ -14625,6 +15170,7 @@
                 ]
             }
         },
+        "IC": "BRAJESH KUMAR PANIGR",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -14633,6 +15179,7 @@
         ]
     },
     "ME F219": {
+        "units": 4.0,
         "course_name": "MANUFACTURING PROCESSES",
         "sections": {
             "L1": {
@@ -14656,8 +15203,8 @@
             "P1": {
                 "instructor": [
                     "N Suresh Kumar Reddy",
-                    "Gunashekar G",
-                    "Ahsan Ul Haq"
+                    "Ahsan Ul Haq",
+                    "Gunashekar G"
                 ],
                 "schedule": [
                     {
@@ -14674,9 +15221,9 @@
             },
             "P2": {
                 "instructor": [
-                    "Alok Kumar",
                     "Srinivasa Murali Kartheek S",
-                    "Ahsan Ul Haq"
+                    "Ahsan Ul Haq",
+                    "Alok Kumar"
                 ],
                 "schedule": [
                     {
@@ -14694,8 +15241,8 @@
             "P3": {
                 "instructor": [
                     "Ashish Saurabh",
-                    "Alok Kumar",
-                    "Gunashekar G"
+                    "Gunashekar G",
+                    "Alok Kumar"
                 ],
                 "schedule": [
                     {
@@ -14712,8 +15259,8 @@
             },
             "P4": {
                 "instructor": [
-                    "Srinivasa Murali Kartheek S",
                     "Ashish Saurabh",
+                    "Srinivasa Murali Kartheek S",
                     "Danavath Balu"
                 ],
                 "schedule": [
@@ -14748,8 +15295,8 @@
             },
             "T2": {
                 "instructor": [
-                    "Pavan Kumar P",
-                    "P Chennakesava Sai"
+                    "P Chennakesava Sai",
+                    "Pavan Kumar P"
                 ],
                 "schedule": [
                     {
@@ -14798,6 +15345,7 @@
                 ]
             }
         },
+        "IC": "N SURESH KUMAR REDDY",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -14806,6 +15354,7 @@
         ]
     },
     "ME F220": {
+        "units": 4.0,
         "course_name": "HEAT TRANSFER",
         "sections": {
             "L1": {
@@ -14891,8 +15440,8 @@
             },
             "P4": {
                 "instructor": [
-                    "K Monika",
-                    "Mrinal Ketan Jagirdar"
+                    "Mrinal Ketan Jagirdar",
+                    "K Monika"
                 ],
                 "schedule": [
                     {
@@ -14926,8 +15475,8 @@
             },
             "T2": {
                 "instructor": [
-                    "Shaik Gouse Ahammad",
-                    "Mrinal Ketan Jagirdar"
+                    "Mrinal Ketan Jagirdar",
+                    "Shaik Gouse Ahammad"
                 ],
                 "schedule": [
                     {
@@ -14976,6 +15525,7 @@
                 ]
             }
         },
+        "IC": "SATISH K DUBEY",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -14984,6 +15534,7 @@
         ]
     },
     "ME F221": {
+        "units": 3.0,
         "course_name": "MECHANISMS AND MACHINES",
         "sections": {
             "L1": {
@@ -15006,8 +15557,8 @@
             },
             "T1": {
                 "instructor": [
-                    "George Yuvaraj",
-                    "YV Daseswara Rao"
+                    "YV Daseswara Rao",
+                    "George Yuvaraj"
                 ],
                 "schedule": [
                     {
@@ -15040,8 +15591,8 @@
             },
             "T3": {
                 "instructor": [
-                    "Arshad Javed",
-                    "Balija Upendra"
+                    "Balija Upendra",
+                    "Arshad Javed"
                 ],
                 "schedule": [
                     {
@@ -15057,8 +15608,8 @@
             },
             "T4": {
                 "instructor": [
-                    "Balija Upendra",
-                    "Brajesh Kumar Panigrahi"
+                    "Brajesh Kumar Panigrahi",
+                    "Balija Upendra"
                 ],
                 "schedule": [
                     {
@@ -15073,6 +15624,7 @@
                 ]
             }
         },
+        "IC": "YV DASESWARA RAO",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -15081,6 +15633,7 @@
         ]
     },
     "ME F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -15100,6 +15653,7 @@
                 ]
             }
         },
+        "IC": "M SRINIVAS",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -15108,6 +15662,7 @@
         ]
     },
     "ME F318": {
+        "units": 3.0,
         "course_name": "COMPUTER-AIDED DESIGN",
         "sections": {
             "L1": {
@@ -15129,8 +15684,8 @@
             },
             "P1": {
                 "instructor": [
-                    "SP Regalla",
-                    "Vicky Lad"
+                    "Vicky Lad",
+                    "SP Regalla"
                 ],
                 "schedule": [
                     {
@@ -15165,8 +15720,8 @@
             },
             "P3": {
                 "instructor": [
-                    "Mada Rukmini Sai Rupa Sri",
-                    "Aditya Nema"
+                    "Aditya Nema",
+                    "Mada Rukmini Sai Rupa Sri"
                 ],
                 "schedule": [
                     {
@@ -15183,8 +15738,8 @@
             },
             "P4": {
                 "instructor": [
-                    "Mada Rukmini Sai Rupa Sri",
-                    "Kolla Lakshman Rao"
+                    "Kolla Lakshman Rao",
+                    "Mada Rukmini Sai Rupa Sri"
                 ],
                 "schedule": [
                     {
@@ -15201,8 +15756,8 @@
             },
             "T1": {
                 "instructor": [
-                    "SP Regalla",
-                    "Vicky Lad"
+                    "Vicky Lad",
+                    "SP Regalla"
                 ],
                 "schedule": [
                     {
@@ -15266,6 +15821,7 @@
                 ]
             }
         },
+        "IC": "TO BE ANNOUNCED",
         "exams": [
             {
                 "midsem": "18/03 9.30 - 11.00AM",
@@ -15274,12 +15830,13 @@
         ]
     },
     "ME F319": {
+        "units": 3.0,
         "course_name": "VIBRATIONS AND CONTROL",
         "sections": {
             "L1": {
                 "instructor": [
-                    "G R SABAREESH",
-                    "Punnag Chatterjee"
+                    "Punnag Chatterjee",
+                    "G R SABAREESH"
                 ],
                 "schedule": [
                     {
@@ -15331,8 +15888,8 @@
             },
             "T3": {
                 "instructor": [
-                    "Pichika S V V S Narayana",
-                    "Punnag Chatterjee"
+                    "Punnag Chatterjee",
+                    "Pichika S V V S Narayana"
                 ],
                 "schedule": [
                     {
@@ -15363,6 +15920,7 @@
                 ]
             }
         },
+        "IC": "G R SABAREESH",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -15371,6 +15929,7 @@
         ]
     },
     "ME F320": {
+        "units": 3.0,
         "course_name": "ENGINEERING OPTIMIZATION",
         "sections": {
             "L1": {
@@ -15393,8 +15952,8 @@
             },
             "T1": {
                 "instructor": [
-                    "Amit Kumar Gupta",
-                    "Kolla Lakshman Rao"
+                    "Kolla Lakshman Rao",
+                    "Amit Kumar Gupta"
                 ],
                 "schedule": [
                     {
@@ -15460,6 +16019,7 @@
                 ]
             }
         },
+        "IC": "AMIT KUMAR GUPTA",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -15468,12 +16028,13 @@
         ]
     },
     "ME F321": {
+        "units": 3.0,
         "course_name": "DATA MINING IN MECHANICAL SCI",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Alok Kumar",
-                    "KUNDAN KUMAR SINGH"
+                    "KUNDAN KUMAR SINGH",
+                    "Alok Kumar"
                 ],
                 "schedule": [
                     {
@@ -15506,6 +16067,7 @@
                 ]
             }
         },
+        "IC": "KUNDAN KUMAR SINGH",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -15514,12 +16076,13 @@
         ]
     },
     "ME F323": {
+        "units": 3.0,
         "course_name": "ENERGY STORAGE\nTECHNOLOGIES",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Mrinal Ketan Jagirdar",
-                    "R PARAMESHWARAN"
+                    "R PARAMESHWARAN",
+                    "Mrinal Ketan Jagirdar"
                 ],
                 "schedule": [
                     {
@@ -15536,6 +16099,7 @@
                 ]
             }
         },
+        "IC": "R PARAMESHWARAN",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -15544,6 +16108,7 @@
         ]
     },
     "ME F341": {
+        "units": 3.0,
         "course_name": "PRIMEMOVERS & FLUID MACH",
         "sections": {
             "L1": {
@@ -15565,9 +16130,9 @@
             },
             "P1": {
                 "instructor": [
+                    "Kalyani Panigrahi",
                     "KRC Murthy",
-                    "Kandula Uday Kumar Reddy",
-                    "Kalyani Panigrahi"
+                    "Kandula Uday Kumar Reddy"
                 ],
                 "schedule": [
                     {
@@ -15584,9 +16149,9 @@
             },
             "P2": {
                 "instructor": [
-                    "Kandula Uday Kumar Reddy",
+                    "Kalyani Panigrahi",
                     "N Jalaiah",
-                    "Kalyani Panigrahi"
+                    "Kandula Uday Kumar Reddy"
                 ],
                 "schedule": [
                     {
@@ -15603,9 +16168,9 @@
             },
             "P3": {
                 "instructor": [
+                    "S S Deshmukh",
                     "G Prashanth Kumar Reddy",
-                    "Joshua Kumar Saladi",
-                    "S S Deshmukh"
+                    "Joshua Kumar Saladi"
                 ],
                 "schedule": [
                     {
@@ -15641,8 +16206,8 @@
             },
             "T1": {
                 "instructor": [
-                    "Kandukuri Prudviraj",
-                    "S S Deshmukh"
+                    "S S Deshmukh",
+                    "Kandukuri Prudviraj"
                 ],
                 "schedule": [
                     {
@@ -15658,8 +16223,8 @@
             },
             "T2": {
                 "instructor": [
-                    "Kandukuri Prudviraj",
-                    "KRC Murthy"
+                    "KRC Murthy",
+                    "Kandukuri Prudviraj"
                 ],
                 "schedule": [
                     {
@@ -15675,8 +16240,8 @@
             },
             "T3": {
                 "instructor": [
-                    "Meduri Sitaram",
-                    "N Jalaiah"
+                    "N Jalaiah",
+                    "Meduri Sitaram"
                 ],
                 "schedule": [
                     {
@@ -15708,6 +16273,7 @@
                 ]
             }
         },
+        "IC": "S S DESHMUKH",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -15716,6 +16282,7 @@
         ]
     },
     "ME F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -15735,6 +16302,7 @@
                 ]
             }
         },
+        "IC": "PAVAN KUMAR P",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -15743,6 +16311,7 @@
         ]
     },
     "ME F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -15762,6 +16331,7 @@
                 ]
             }
         },
+        "IC": "PAVAN KUMAR P",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -15770,6 +16340,7 @@
         ]
     },
     "ME F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -15789,6 +16360,7 @@
                 ]
             }
         },
+        "IC": "N JALAIAH",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -15797,6 +16369,7 @@
         ]
     },
     "ME F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -15816,6 +16389,7 @@
                 ]
             }
         },
+        "IC": "N JALAIAH",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -15824,6 +16398,7 @@
         ]
     },
     "ME F423": {
+        "units": 4.0,
         "course_name": "MICRO-FLUIDICS & ITS APP",
         "sections": {
             "L1": {
@@ -15862,6 +16437,7 @@
                 ]
             }
         },
+        "IC": "SATISH K DUBEY",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -15870,6 +16446,7 @@
         ]
     },
     "ME F428": {
+        "units": 4.0,
         "course_name": "SMART MATERIALS",
         "sections": {
             "L1": {
@@ -15908,6 +16485,7 @@
                 ]
             }
         },
+        "IC": "PUNNAG CHATTERJEE",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -15916,6 +16494,7 @@
         ]
     },
     "ME F432": {
+        "units": 3.0,
         "course_name": "COMPUTER AIDED MANUFACT",
         "sections": {
             "L1": {
@@ -15953,6 +16532,7 @@
                 ]
             }
         },
+        "IC": "KURRA SURESH",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -15961,6 +16541,7 @@
         ]
     },
     "ME F433": {
+        "units": 4.0,
         "course_name": "SOLAR THERMAL PROCESS ENGG",
         "sections": {
             "L1": {
@@ -15999,6 +16580,7 @@
                 ]
             }
         },
+        "IC": "M SRINIVAS",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -16007,6 +16589,7 @@
         ]
     },
     "ME F482": {
+        "units": 3.0,
         "course_name": "COMBUSTION",
         "sections": {
             "L1": {
@@ -16028,6 +16611,7 @@
                 ]
             }
         },
+        "IC": "N JALAIAH",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -16036,6 +16620,7 @@
         ]
     },
     "ME F484": {
+        "units": 3.0,
         "course_name": "AUTOMOTIVE TECHNOLOGY",
         "sections": {
             "L1": {
@@ -16057,6 +16642,7 @@
                 ]
             }
         },
+        "IC": "SUPRADEEPAN K",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -16065,6 +16651,7 @@
         ]
     },
     "ME G515": {
+        "units": 5.0,
         "course_name": "COMPUT FLUID DYNAMICS",
         "sections": {
             "L1": {
@@ -16088,8 +16675,8 @@
             },
             "P1": {
                 "instructor": [
-                    "Pardha Saradhi Gurugubelli",
-                    "Mrinal Ketan Jagirdar"
+                    "Mrinal Ketan Jagirdar",
+                    "Pardha Saradhi Gurugubelli"
                 ],
                 "schedule": [
                     {
@@ -16106,6 +16693,7 @@
                 ]
             }
         },
+        "IC": "MRINAL KETAN JAGIRDAR",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -16114,6 +16702,7 @@
         ]
     },
     "ME G611": {
+        "units": 5.0,
         "course_name": "COMP AIDED ANAL & DESIGN",
         "sections": {
             "L1": {
@@ -16154,6 +16743,7 @@
                 ]
             }
         },
+        "IC": "KURRA SURESH",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -16162,6 +16752,7 @@
         ]
     },
     "ME G631": {
+        "units": 5.0,
         "course_name": "ADVANCED HEAT TRANSFER",
         "sections": {
             "L1": {
@@ -16202,6 +16793,7 @@
                 ]
             }
         },
+        "IC": "SANTANU PRASAD DATTA",
         "exams": [
             {
                 "midsem": "15/03 11.30 - 1.00PM",
@@ -16210,6 +16802,7 @@
         ]
     },
     "MEL G623": {
+        "units": 5.0,
         "course_name": "ADVANCED VLSI DESIGN",
         "sections": {
             "L1": {
@@ -16259,6 +16852,7 @@
                 ]
             }
         },
+        "IC": "SURYA SHANKAR DAN",
         "exams": [
             {
                 "midsem": "15/03 11.30 - 1.00PM",
@@ -16267,6 +16861,7 @@
         ]
     },
     "MEL G632": {
+        "units": 5.0,
         "course_name": "ANALOG IC DESIGN",
         "sections": {
             "L1": {
@@ -16290,8 +16885,8 @@
             "P1": {
                 "instructor": [
                     "Parikshit Parshuram Sahatiy",
-                    "Gowtham Polumati",
-                    "Venkatarao Selamneni"
+                    "Venkatarao Selamneni",
+                    "Gowtham Polumati"
                 ],
                 "schedule": [
                     {
@@ -16308,6 +16903,7 @@
                 ]
             }
         },
+        "IC": "PARIKSHIT PARSHURAM S",
         "exams": [
             {
                 "midsem": "13/03 2.00 - 3.30PM",
@@ -16316,6 +16912,7 @@
         ]
     },
     "MEL G641": {
+        "units": 5.0,
         "course_name": "CAD FOR IC DESIGN",
         "sections": {
             "L1": {
@@ -16338,8 +16935,8 @@
             },
             "P1": {
                 "instructor": [
-                    "M Aalelai Vendhan",
-                    "S K Chatterjee"
+                    "S K Chatterjee",
+                    "M Aalelai Vendhan"
                 ],
                 "schedule": [
                     {
@@ -16365,6 +16962,7 @@
                 ]
             }
         },
+        "IC": "S K CHATTERJEE",
         "exams": [
             {
                 "midsem": "18/03 11.30 - 1.00PM",
@@ -16373,6 +16971,7 @@
         ]
     },
     "MEL G642": {
+        "units": 4.0,
         "course_name": "VLSI ARCHITECTURE",
         "sections": {
             "L1": {
@@ -16411,6 +17010,7 @@
                 ]
             }
         },
+        "IC": "CHETAN KUMAR V",
         "exams": [
             {
                 "midsem": "17/03 9.30 - 11.00AM",
@@ -16419,6 +17019,7 @@
         ]
     },
     "MF F421": {
+        "units": 4.0,
         "course_name": "SUPPLY CHAIN MANAGEMENT",
         "sections": {
             "L1": {
@@ -16440,6 +17041,7 @@
                 ]
             }
         },
+        "IC": "C P KIRAN",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -16448,6 +17050,7 @@
         ]
     },
     "MF F422": {
+        "units": 3.0,
         "course_name": "SUPPLY CHAIN MODELLING AND\nEMPIRICAL ANALYSIS",
         "sections": {
             "L1": {
@@ -16470,8 +17073,8 @@
             },
             "P1": {
                 "instructor": [
-                    "C P Kiran",
-                    "Vardhanapu Muralidhar"
+                    "Vardhanapu Muralidhar",
+                    "C P Kiran"
                 ],
                 "schedule": [
                     {
@@ -16487,6 +17090,7 @@
                 ]
             }
         },
+        "IC": "C P KIRAN",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -16495,6 +17099,7 @@
         ]
     },
     "MF F485": {
+        "units": 3.0,
         "course_name": "SUSTAINABLE MANUFACTURING",
         "sections": {
             "L1": {
@@ -16516,6 +17121,7 @@
                 ]
             }
         },
+        "IC": "RAVI SHANKER VIDYARTH",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -16524,6 +17130,7 @@
         ]
     },
     "MGTS F211": {
+        "units": 3.0,
         "course_name": "PRINCIPLES OF MANAGEMENT",
         "sections": {
             "L1": {
@@ -16561,6 +17168,7 @@
                 ]
             }
         },
+        "IC": "SWATI ALOK",
         "exams": [
             {
                 "midsem": "15/03 4.00 - 5.30PM",
@@ -16569,6 +17177,7 @@
         ]
     },
     "MGTS F314": {
+        "units": 3.0,
         "course_name": "ESSENTIALS OF FINANCIAL MGT.",
         "sections": {
             "L1": {
@@ -16590,6 +17199,7 @@
                 ]
             }
         },
+        "IC": "NIRANJAN SWAIN",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -16598,6 +17208,7 @@
         ]
     },
     "MGTS F351": {
+        "units": 3.0,
         "course_name": "ORGANISATION BEHAVIOUR",
         "sections": {
             "L1": {
@@ -16619,6 +17230,7 @@
                 ]
             }
         },
+        "IC": "SWATI ALOK",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -16627,6 +17239,7 @@
         ]
     },
     "MSE G512": {
+        "units": 4.0,
         "course_name": "MANUFACT PLANNING & CONT",
         "sections": {
             "L1": {
@@ -16666,6 +17279,7 @@
                 ]
             }
         },
+        "IC": "AMRITHA PRIYADARSHINI",
         "exams": [
             {
                 "midsem": "13/03 2.00 - 3.30PM",
@@ -16674,6 +17288,7 @@
         ]
     },
     "MSE G531": {
+        "units": 5.0,
         "course_name": "CONCURRENT ENGINEERING",
         "sections": {
             "L1": {
@@ -16713,6 +17328,7 @@
                 ]
             }
         },
+        "IC": "PIYUSH CHANDRA VERMA",
         "exams": [
             {
                 "midsem": "15/03 11.30 - 1.00PM",
@@ -16721,6 +17337,7 @@
         ]
     },
     "MST G522": {
+        "units": 5.0,
         "course_name": "ADVANCED COMPOSITES",
         "sections": {
             "L1": {
@@ -16760,6 +17377,7 @@
                 ]
             }
         },
+        "IC": "PAVAN KUMAR P",
         "exams": [
             {
                 "midsem": "18/03 11.30 - 1.00PM",
@@ -16768,6 +17386,7 @@
         ]
     },
     "PHA F214": {
+        "units": 3.0,
         "course_name": "ANATOMY PHYSIO & HYGIENE",
         "sections": {
             "L1": {
@@ -16789,10 +17408,10 @@
             },
             "P1": {
                 "instructor": [
-                    "Lahane Ganesh Panditrao",
-                    "Trupti Ghatage",
                     "Rupal Kothari",
-                    "Arti Dhar"
+                    "Trupti Ghatage",
+                    "Arti Dhar",
+                    "Lahane Ganesh Panditrao"
                 ],
                 "schedule": [
                     {
@@ -16809,10 +17428,10 @@
             },
             "P2": {
                 "instructor": [
-                    "Lahane Ganesh Panditrao",
-                    "Trupti Ghatage",
                     "Rupal Kothari",
-                    "Arti Dhar"
+                    "Trupti Ghatage",
+                    "Arti Dhar",
+                    "Lahane Ganesh Panditrao"
                 ],
                 "schedule": [
                     {
@@ -16844,6 +17463,7 @@
                 ]
             }
         },
+        "IC": "ARTI DHAR",
         "exams": [
             {
                 "midsem": "18/03 11.30 - 1.00PM",
@@ -16852,6 +17472,7 @@
         ]
     },
     "PHA F241": {
+        "units": 3.0,
         "course_name": "PHARMACEUTICAL CHEMISTRY",
         "sections": {
             "L1": {
@@ -16908,6 +17529,7 @@
                 ]
             }
         },
+        "IC": "D SRIRAM",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -16916,6 +17538,7 @@
         ]
     },
     "PHA F242": {
+        "units": 3.0,
         "course_name": "BIOLOGICAL CHEMISTRY",
         "sections": {
             "L1": {
@@ -16937,9 +17560,9 @@
             },
             "P1": {
                 "instructor": [
-                    "Aparajita Ghosh",
+                    "Tarun",
                     "Balram Ghosh",
-                    "Tarun"
+                    "Aparajita Ghosh"
                 ],
                 "schedule": [
                     {
@@ -16971,6 +17594,7 @@
                 ]
             }
         },
+        "IC": "BALRAM GHOSH",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -16979,6 +17603,7 @@
         ]
     },
     "PHA F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -16998,6 +17623,7 @@
                 ]
             }
         },
+        "IC": "ABHIJEET RAJENDRA JOS",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -17006,6 +17632,7 @@
         ]
     },
     "PHA F313": {
+        "units": 4.0,
         "course_name": "INSTRU METHODS OF ANAL",
         "sections": {
             "L1": {
@@ -17028,12 +17655,12 @@
             },
             "P1": {
                 "instructor": [
-                    "Velmurugan K",
-                    "Gupta Suraj Pyarelal Meena",
-                    "Sankar Shridula",
                     "A Sajeli Begum",
-                    "Ch Sai Sanjay",
-                    "Shreya Shashank Chauhan"
+                    "Velmurugan K",
+                    "Sankar Shridula",
+                    "Gupta Suraj Pyarelal Meena",
+                    "Shreya Shashank Chauhan",
+                    "Ch Sai Sanjay"
                 ],
                 "schedule": [
                     {
@@ -17066,6 +17693,7 @@
                 ]
             }
         },
+        "IC": "A SAJELI BEGUM",
         "exams": [
             {
                 "midsem": "14/03 9.30 - 11.00AM",
@@ -17074,6 +17702,7 @@
         ]
     },
     "PHA F341": {
+        "units": 3.0,
         "course_name": "PHARMACOLOGY II",
         "sections": {
             "L1": {
@@ -17095,8 +17724,8 @@
             },
             "P1": {
                 "instructor": [
-                    "Sonam Dolma",
                     "Lavanya S",
+                    "Sonam Dolma",
                     "Onkar Kulkarni"
                 ],
                 "schedule": [
@@ -17114,8 +17743,8 @@
             },
             "P2": {
                 "instructor": [
-                    "Sonam Dolma",
                     "Lavanya S",
+                    "Sonam Dolma",
                     "Onkar Kulkarni"
                 ],
                 "schedule": [
@@ -17148,6 +17777,7 @@
                 ]
             }
         },
+        "IC": "ONKAR KULKARNI",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -17156,6 +17786,7 @@
         ]
     },
     "PHA F342": {
+        "units": 3.0,
         "course_name": "MEDICINAL CHEMISTRY II",
         "sections": {
             "L1": {
@@ -17179,9 +17810,9 @@
                 "instructor": [
                     "SONAL SUKHADEO FANDE",
                     "Sri Ganga",
-                    "P Yogeeswari",
+                    "Purbali Chakraborty",
                     "Darakhshan Begum",
-                    "Purbali Chakraborty"
+                    "P Yogeeswari"
                 ],
                 "schedule": [
                     {
@@ -17200,9 +17831,9 @@
                 "instructor": [
                     "SONAL SUKHADEO FANDE",
                     "Sri Ganga",
-                    "P Yogeeswari",
+                    "Purbali Chakraborty",
                     "Darakhshan Begum",
-                    "Purbali Chakraborty"
+                    "P Yogeeswari"
                 ],
                 "schedule": [
                     {
@@ -17234,6 +17865,7 @@
                 ]
             }
         },
+        "IC": "SONAL SUKHADEO FANDE",
         "exams": [
             {
                 "midsem": "13/03 4.00 - 5.30PM",
@@ -17242,6 +17874,7 @@
         ]
     },
     "PHA F343": {
+        "units": 2.0,
         "course_name": "FORENSIC PHARMACY",
         "sections": {
             "L1": {
@@ -17278,6 +17911,7 @@
                 ]
             }
         },
+        "IC": "BALRAM GHOSH",
         "exams": [
             {
                 "midsem": "14/03 4.00 - 5.30PM",
@@ -17286,6 +17920,7 @@
         ]
     },
     "PHA F344": {
+        "units": 3.0,
         "course_name": "NATURAL DRUGS",
         "sections": {
             "L1": {
@@ -17307,11 +17942,11 @@
             },
             "P1": {
                 "instructor": [
-                    "Sai Shreya",
-                    "Erram Venkatesh",
-                    "Bollareddy Srivarsha Reddy",
                     "A Sajeli Begum",
-                    "P. S Lakshmi Soukya"
+                    "Erram Venkatesh",
+                    "Sai Shreya",
+                    "P. S Lakshmi Soukya",
+                    "Bollareddy Srivarsha Reddy"
                 ],
                 "schedule": [
                     {
@@ -17328,11 +17963,11 @@
             },
             "P2": {
                 "instructor": [
-                    "Sai Shreya",
-                    "Erram Venkatesh",
-                    "Bollareddy Srivarsha Reddy",
                     "A Sajeli Begum",
-                    "P. S Lakshmi Soukya"
+                    "Erram Venkatesh",
+                    "Sai Shreya",
+                    "P. S Lakshmi Soukya",
+                    "Bollareddy Srivarsha Reddy"
                 ],
                 "schedule": [
                     {
@@ -17364,6 +17999,7 @@
                 ]
             }
         },
+        "IC": "A SAJELI BEGUM",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -17372,6 +18008,7 @@
         ]
     },
     "PHA F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -17391,6 +18028,7 @@
                 ]
             }
         },
+        "IC": "ABHIJEET RAJENDRA JOS",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -17399,6 +18037,7 @@
         ]
     },
     "PHA F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -17418,6 +18057,7 @@
                 ]
             }
         },
+        "IC": "ABHIJEET RAJENDRA JOS",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -17426,6 +18066,7 @@
         ]
     },
     "PHA F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -17445,6 +18086,7 @@
                 ]
             }
         },
+        "IC": "ABHIJEET RAJENDRA JOS",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -17453,6 +18095,7 @@
         ]
     },
     "PHA F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -17472,6 +18115,7 @@
                 ]
             }
         },
+        "IC": "ABHIJEET RAJENDRA JOS",
         "exams": [
             {
                 "midsem": "18/03 2.00 - 3.30PM",
@@ -17480,6 +18124,7 @@
         ]
     },
     "PHA F413": {
+        "units": 3.0,
         "course_name": "PHARMA MANG & QUAL CONTR",
         "sections": {
             "L1": {
@@ -17501,6 +18146,7 @@
                 ]
             }
         },
+        "IC": "V V KRISHNA VENUGANTI",
         "exams": [
             {
                 "midsem": "14/03 11.30 - 1.00PM",
@@ -17509,6 +18155,7 @@
         ]
     },
     "PHA F414": {
+        "units": 3.0,
         "course_name": "BIOPHARMACEUTICS",
         "sections": {
             "L1": {
@@ -17530,6 +18177,7 @@
                 ]
             }
         },
+        "IC": "NIRMAL J",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
@@ -17538,6 +18186,7 @@
         ]
     },
     "PHA F417": {
+        "units": 3.0,
         "course_name": "PHARMACOECONOMICS",
         "sections": {
             "L1": {
@@ -17559,6 +18208,7 @@
                 ]
             }
         },
+        "IC": "ABHIJEET RAJENDRA JOS",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -17567,6 +18217,7 @@
         ]
     },
     "PHA G532": {
+        "units": 5.0,
         "course_name": "Q A & REGULATORY AFFAIRS",
         "sections": {
             "L1": {
@@ -17590,8 +18241,8 @@
             "P1": {
                 "instructor": [
                     "Akash C",
-                    "Panchal Kanan Jayesh Pann",
-                    "Sonali Singh"
+                    "Sonali Singh",
+                    "Panchal Kanan Jayesh Pann"
                 ],
                 "schedule": [
                     {
@@ -17609,6 +18260,7 @@
                 ]
             }
         },
+        "IC": "AKASH C",
         "exams": [
             {
                 "midsem": "15/03 11.30 - 1.00PM",
@@ -17617,6 +18269,7 @@
         ]
     },
     "PHA G546": {
+        "units": 3.0,
         "course_name": "PHARMACEUTICAL BIO\nSTATISTICS",
         "sections": {
             "L1": {
@@ -17638,6 +18291,7 @@
                 ]
             }
         },
+        "IC": "R PUNNA RAO",
         "exams": [
             {
                 "midsem": "13/03 2.00 - 3.30PM",
@@ -17646,12 +18300,13 @@
         ]
     },
     "PHA G611": {
+        "units": 5.0,
         "course_name": "ADVANCED PHARMACOLOGY",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Onkar Kulkarni",
-                    "ARTI DHAR"
+                    "ARTI DHAR",
+                    "Onkar Kulkarni"
                 ],
                 "schedule": [
                     {
@@ -17670,9 +18325,9 @@
             "P1": {
                 "instructor": [
                     "Ashutosh Balasaheb Mahale",
-                    "Onkar Kulkarni",
                     "Wadkar Avinash Rudrappa",
-                    "Arti Dhar"
+                    "Arti Dhar",
+                    "Onkar Kulkarni"
                 ],
                 "schedule": [
                     {
@@ -17690,6 +18345,7 @@
                 ]
             }
         },
+        "IC": "ARTI DHAR",
         "exams": [
             {
                 "midsem": "14/03 2.00 - 3.30PM",
@@ -17698,6 +18354,7 @@
         ]
     },
     "PHA G612": {
+        "units": 5.0,
         "course_name": "PHARM KINET & CLINIC PHA",
         "sections": {
             "L1": {
@@ -17720,8 +18377,8 @@
             },
             "P1": {
                 "instructor": [
-                    "Mohd Shareef Khan",
                     "Swagata Sinha",
+                    "Mohd Shareef Khan",
                     "R Punna Rao"
                 ],
                 "schedule": [
@@ -17740,6 +18397,7 @@
                 ]
             }
         },
+        "IC": "R PUNNA RAO",
         "exams": [
             {
                 "midsem": "18/03 11.30 - 1.00PM",
@@ -17748,6 +18406,7 @@
         ]
     },
     "PHA G617": {
+        "units": 5.0,
         "course_name": "ADV DRUG DELIVERY SYSTEM",
         "sections": {
             "L1": {
@@ -17791,6 +18450,7 @@
                 ]
             }
         },
+        "IC": "SWATI BISWAS",
         "exams": [
             {
                 "midsem": "17/03 9.30 - 11.00AM",
@@ -17799,12 +18459,13 @@
         ]
     },
     "PHA G624": {
+        "units": 5.0,
         "course_name": "PRINCIPLES OF TOXICOLOGY",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Abhijeet Rajendra Joshi",
-                    "SRINIVAS PRASAD K"
+                    "SRINIVAS PRASAD K",
+                    "Abhijeet Rajendra Joshi"
                 ],
                 "schedule": [
                     {
@@ -17821,6 +18482,7 @@
                 ]
             }
         },
+        "IC": "SRINIVAS PRASAD K",
         "exams": [
             {
                 "midsem": "17/03 9.30 - 11.00AM",
@@ -17829,6 +18491,7 @@
         ]
     },
     "PHY F215": {
+        "units": 3.0,
         "course_name": "INTRO TO ASTRO & ASTROPH",
         "sections": {
             "L1": {
@@ -17850,6 +18513,7 @@
                 ]
             }
         },
+        "IC": "SUBASH N. KARBELKAR",
         "exams": [
             {
                 "midsem": "17/03 4.00 - 5.30PM",
@@ -17858,6 +18522,7 @@
         ]
     },
     "PHY F241": {
+        "units": 4.0,
         "course_name": "ELECTROMAGNETIC THEORY II",
         "sections": {
             "L1": {
@@ -17897,6 +18562,7 @@
                 ]
             }
         },
+        "IC": "SASHIDEEP GUTTI",
         "exams": [
             {
                 "midsem": "17/03 2.00 - 3.30PM",
@@ -17905,12 +18571,13 @@
         ]
     },
     "PHY F242": {
+        "units": 3.0,
         "course_name": "QUANTUM MECHANICS I",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Asrarul Haque",
-                    "ASRARUL HAQUE"
+                    "ASRARUL HAQUE",
+                    "Asrarul Haque"
                 ],
                 "schedule": [
                     {
@@ -17951,6 +18618,7 @@
                 ]
             }
         },
+        "IC": "ASRARUL HAQUE",
         "exams": [
             {
                 "midsem": "15/03 9.30 - 11.00AM",
@@ -17959,6 +18627,7 @@
         ]
     },
     "PHY F243": {
+        "units": 3.0,
         "course_name": "MATHEMATICAL METHODS OF\nPHYSICS",
         "sections": {
             "L1": {
@@ -17996,6 +18665,7 @@
                 ]
             }
         },
+        "IC": "SWASTIK BHATTACHARYA",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -18004,14 +18674,15 @@
         ]
     },
     "PHY F244": {
+        "units": 2.0,
         "course_name": "MODERN PHYSICS LAB",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Hiwase Prajakta Mohanrao",
                     "Aravinda N Raghavan",
-                    "MEENAKSHI V",
-                    "Aiswarya N M"
+                    "Hiwase Prajakta Mohanrao",
+                    "Aiswarya N M",
+                    "MEENAKSHI V"
                 ],
                 "schedule": [
                     {
@@ -18029,9 +18700,9 @@
             },
             "L2": {
                 "instructor": [
+                    "Meenakshi V",
                     "Hiwase Prajakta Mohanrao",
                     "Aravinda N Raghavan",
-                    "Meenakshi V",
                     "Aiswarya N M"
                 ],
                 "schedule": [
@@ -18049,6 +18720,7 @@
                 ]
             }
         },
+        "IC": "MEENAKSHI V",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -18057,6 +18729,7 @@
         ]
     },
     "PHY F266": {
+        "units": 3.0,
         "course_name": "STUDY PROJECT",
         "sections": {
             "L1": {
@@ -18078,6 +18751,7 @@
                 ]
             }
         },
+        "IC": "SUBRAHMANYA BHIMA SA",
         "exams": [
             {
                 "midsem": "13/03 11.30 - 1.00PM",
@@ -18086,6 +18760,7 @@
         ]
     },
     "PHY F315": {
+        "units": 3.0,
         "course_name": "THEORY OF RELATIVITY",
         "sections": {
             "L1": {
@@ -18107,6 +18782,7 @@
                 ]
             }
         },
+        "IC": "SASHIDEEP GUTTI",
         "exams": [
             {
                 "midsem": "13/03 9.30 - 11.00AM",
@@ -18115,6 +18791,7 @@
         ]
     },
     "PHY F341": {
+        "units": 3.0,
         "course_name": "SOLID STATE PHYSICS",
         "sections": {
             "L1": {
@@ -18152,6 +18829,7 @@
                 ]
             }
         },
+        "IC": "ARAVINDA N RAGHAVAN",
         "exams": [
             {
                 "midsem": "16/03 9.30 - 11.00AM",
@@ -18160,6 +18838,7 @@
         ]
     },
     "PHY F342": {
+        "units": 3.0,
         "course_name": "ATOMIC & MOLECULAR PHY",
         "sections": {
             "L1": {
@@ -18197,6 +18876,7 @@
                 ]
             }
         },
+        "IC": "ARANYA BHUTI BHATTACH",
         "exams": [
             {
                 "midsem": "16/03 4.00 - 5.30PM",
@@ -18205,12 +18885,13 @@
         ]
     },
     "PHY F343": {
+        "units": 3.0,
         "course_name": "NUCLEAR & PARTICLE PHY",
         "sections": {
             "L1": {
                 "instructor": [
-                    "Asrarul Haque",
-                    "RAHUL NIGAM"
+                    "RAHUL NIGAM",
+                    "Asrarul Haque"
                 ],
                 "schedule": [
                     {
@@ -18228,8 +18909,8 @@
             },
             "T1": {
                 "instructor": [
-                    "Rahul Nigam",
-                    "Asrarul Haque"
+                    "Asrarul Haque",
+                    "Rahul Nigam"
                 ],
                 "schedule": [
                     {
@@ -18244,6 +18925,7 @@
                 ]
             }
         },
+        "IC": "RAHUL NIGAM",
         "exams": [
             {
                 "midsem": "15/03 4.00 - 5.30PM",
@@ -18252,6 +18934,7 @@
         ]
     },
     "PHY F344": {
+        "units": 3.0,
         "course_name": "ADVANCED PHYSICS LAB",
         "sections": {
             "L1": {
@@ -18277,6 +18960,7 @@
                 ]
             }
         },
+        "IC": "KANNAN RAMASWAMY",
         "exams": [
             {
                 "midsem": "15/03 4.00 - 5.30PM",
@@ -18285,6 +18969,7 @@
         ]
     },
     "PHY F366": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -18307,6 +18992,7 @@
                 ]
             }
         },
+        "IC": "SUBRAHMANYA BHIMA SA",
         "exams": [
             {
                 "midsem": "15/03 4.00 - 5.30PM",
@@ -18315,6 +19001,7 @@
         ]
     },
     "PHY F367": {
+        "units": 3.0,
         "course_name": "LABORATORY PROJECT",
         "sections": {
             "L1": {
@@ -18337,6 +19024,7 @@
                 ]
             }
         },
+        "IC": "SUBRAHMANYA BHIMA SA",
         "exams": [
             {
                 "midsem": "15/03 4.00 - 5.30PM",
@@ -18345,6 +19033,7 @@
         ]
     },
     "PHY F376": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -18367,6 +19056,7 @@
                 ]
             }
         },
+        "IC": "SUBRAHMANYA BHIMA SA",
         "exams": [
             {
                 "midsem": "15/03 4.00 - 5.30PM",
@@ -18375,6 +19065,7 @@
         ]
     },
     "PHY F377": {
+        "units": 3.0,
         "course_name": "DESIGN PROJECT",
         "sections": {
             "L1": {
@@ -18397,6 +19088,7 @@
                 ]
             }
         },
+        "IC": "SUBRAHMANYA BHIMA SA",
         "exams": [
             {
                 "midsem": "15/03 4.00 - 5.30PM",
@@ -18405,12 +19097,13 @@
         ]
     },
     "PHY F379": {
+        "units": 3.0,
         "course_name": "THIN FILM TECHNOLOGY",
         "sections": {
             "L1": {
                 "instructor": [
-                    "B HARIHARA VENKATARA",
-                    "VSN Murthy"
+                    "VSN Murthy",
+                    "B HARIHARA VENKATARA"
                 ],
                 "schedule": [
                     {
@@ -18427,6 +19120,7 @@
                 ]
             }
         },
+        "IC": "B HARIHARA VENKATARA",
         "exams": [
             {
                 "midsem": "18/03 4.00 - 5.30PM",
@@ -18435,6 +19129,7 @@
         ]
     },
     "PHY F412": {
+        "units": 4.0,
         "course_name": "INTRO TO QUAN FIELD THEO",
         "sections": {
             "L1": {
@@ -18456,6 +19151,7 @@
                 ]
             }
         },
+        "IC": "PRASANT SAMANTRAY",
         "exams": [
             {
                 "midsem": "18/03 9.30 - 11.00AM",
@@ -18464,6 +19160,7 @@
         ]
     },
     "PHY F422": {
+        "units": 3.0,
         "course_name": "GROUP THEORY AND\nAPPLICATIONS",
         "sections": {
             "L1": {
@@ -18485,6 +19182,7 @@
                 ]
             }
         },
+        "IC": "RAHUL NIGAM",
         "exams": [
             {
                 "midsem": "16/03 11.30 - 1.00PM",
