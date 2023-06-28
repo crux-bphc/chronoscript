@@ -42,7 +42,11 @@ def remove_duplicate_dicts(l: list[dict]) -> list[dict]:
 
 
 def create_json_file(
-    timetable: pd.DataFrame, columns: list[str], output_file: str, academic_year: int, semester: int
+    timetable: pd.DataFrame,
+    columns: list[str],
+    output_file: str,
+    academic_year: int,
+    semester: int,
 ) -> None:
     """
     Function to create a json file from a timetable dataframe.
@@ -91,10 +95,6 @@ def create_json_file(
         if course_json[course_code]["sections"][section].get("instructor") is None:
             course_json[course_code]["sections"][section]["instructor"] = set()
 
-        # IC
-        if row["instructor"].upper() == row["instructor"]:
-            course_json[course_code]["IC"] = row["instructor"]
-            
         # add instructor to the set of instructors for the section
         course_json[course_code]["sections"][section]["instructor"].add(
             row["instructor"]
@@ -142,7 +142,7 @@ def create_json_file(
     # convert file to serializable format
     convert_all_sets_to_list_recursive(course_json)
     final_json = {}
-    final_json["metadata"]  = {
+    final_json["metadata"] = {
         "acadYear": academic_year,
         "semester": semester,
     }

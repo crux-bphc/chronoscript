@@ -27,7 +27,6 @@
                     ]
                 }
             },
-            "IC": "SAYAN DAS",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -58,7 +57,6 @@
                     ]
                 }
             },
-            "IC": "JAYAPRAKASH K S",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -72,8 +70,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Kirtimaan Syal",
-                        "DEBASHREE B"
+                        "DEBASHREE B",
+                        "Kirtimaan Syal"
                     ],
                     "schedule": [
                         {
@@ -106,7 +104,6 @@
                     ]
                 }
             },
-            "IC": "DEBASHREE B",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -154,7 +151,6 @@
                     ]
                 }
             },
-            "IC": "P SANKAR GANESH",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -187,8 +183,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "Supratim Ghosh",
-                        "P Sankar Ganesh"
+                        "P Sankar Ganesh",
+                        "Supratim Ghosh"
                     ],
                     "schedule": [
                         {
@@ -203,7 +199,6 @@
                     ]
                 }
             },
-            "IC": "P SANKAR GANESH",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -251,7 +246,6 @@
                     ]
                 }
             },
-            "IC": "SHUVADEEP MAITY",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -265,8 +259,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "NAGA MOHAN K",
-                        "Naga Mohan K"
+                        "Naga Mohan K",
+                        "NAGA MOHAN K"
                     ],
                     "schedule": [
                         {
@@ -307,7 +301,6 @@
                     ]
                 }
             },
-            "IC": "NAGA MOHAN K",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -338,13 +331,13 @@
                 "P1": {
                     "instructor": [
                         "Ashna Fathima",
-                        "Lakesh Kumar Sahoo",
-                        "TRINATH JAMMA",
-                        "Murali Krishna Ramgopal",
-                        "Gireesha T Mohannath",
-                        "Aishwarya Natarajan",
                         "Sridev Mohapatra",
-                        "Raunak Sharma"
+                        "Raunak Sharma",
+                        "Aishwarya Natarajan",
+                        "TRINATH JAMMA",
+                        "Lakesh Kumar Sahoo",
+                        "Gireesha T Mohannath",
+                        "Murali Krishna Ramgopal"
                     ],
                     "schedule": [
                         {
@@ -367,8 +360,7 @@
                     "midsem": "15/03 9.30 - 11.00AM",
                     "compre": "12/05 FN"
                 }
-            ],
-            "IC": "TRINATH JAMMA"
+            ]
         },
         "BIO F266": {
             "units": 3.0,
@@ -394,7 +386,6 @@
                     ]
                 }
             },
-            "IC": "SHUVADEEP MAITY",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -408,8 +399,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "K Pranav Narayan",
-                        "VIVEK SHARMA"
+                        "VIVEK SHARMA",
+                        "K Pranav Narayan"
                     ],
                     "schedule": [
                         {
@@ -442,7 +433,6 @@
                     ]
                 }
             },
-            "IC": "VIVEK SHARMA",
             "exams": [
                 {
                     "midsem": "15/03 4.00 - 5.30PM",
@@ -456,8 +446,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Trinath Jamma",
-                        "VIDYA RAJESH"
+                        "VIDYA RAJESH",
+                        "Trinath Jamma"
                     ],
                     "schedule": [
                         {
@@ -491,7 +481,6 @@
                     ]
                 }
             },
-            "IC": "VIDYA RAJESH",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -520,7 +509,6 @@
                     ]
                 }
             },
-            "IC": "SHUVADEEP MAITY",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -549,7 +537,6 @@
                     ]
                 }
             },
-            "IC": "SHUVADEEP MAITY",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -578,7 +565,6 @@
                     ]
                 }
             },
-            "IC": "SHUVADEEP MAITY",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -607,7 +593,6 @@
                     ]
                 }
             },
-            "IC": "SHUVADEEP MAITY",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -638,7 +623,6 @@
                     ]
                 }
             },
-            "IC": "DEBASHREE B",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -652,8 +636,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "SUPRATIM GHOSH",
-                        "Kirtimaan Syal"
+                        "Kirtimaan Syal",
+                        "SUPRATIM GHOSH"
                     ],
                     "schedule": [
                         {
@@ -670,7 +654,6 @@
                     ]
                 }
             },
-            "IC": "SUPRATIM GHOSH",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -684,8 +667,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Jayati Ray Dutta",
-                        "RUCHI JAIN DEY"
+                        "RUCHI JAIN DEY",
+                        "Jayati Ray Dutta"
                     ],
                     "schedule": [
                         {
@@ -703,8 +686,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Naresh Patnaik",
                         "Anannya Dhanwal",
+                        "Naresh Patnaik",
                         "Ruchi Jain Dey"
                     ],
                     "schedule": [
@@ -722,7 +705,6 @@
                     ]
                 }
             },
-            "IC": "RUCHI JAIN DEY",
             "exams": [
                 {
                     "midsem": "13/03 2.00 - 3.30PM",
@@ -756,8 +738,8 @@
                 "P1": {
                     "instructor": [
                         "Jayasree P J",
-                        "Piyush Khandelia",
-                        "Bakhya Shree Gb"
+                        "Bakhya Shree Gb",
+                        "Piyush Khandelia"
                     ],
                     "schedule": [
                         {
@@ -774,7 +756,6 @@
                     ]
                 }
             },
-            "IC": "PIYUSH KHANDELIA",
             "exams": [
                 {
                     "midsem": "15/03 11.30 - 1.00PM",
@@ -803,7 +784,6 @@
                     ]
                 }
             },
-            "IC": "PRAGYA KOMAL",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -836,10 +816,10 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Gireesha T Mohannath",
+                        "Nikhil P T",
                         "Sridev Mohapatra",
-                        "Abirami T S",
-                        "Nikhil P T"
+                        "Gireesha T Mohannath",
+                        "Abirami T S"
                     ],
                     "schedule": [
                         {
@@ -856,7 +836,6 @@
                     ]
                 }
             },
-            "IC": "SRIDEV MOHAPATRA",
             "exams": [
                 {
                     "midsem": "16/03 9.30 - 11.00AM",
@@ -887,7 +866,6 @@
                     ]
                 }
             },
-            "IC": "AMARTYA SANYAL",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -918,7 +896,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -949,7 +926,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -980,7 +956,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1011,7 +986,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1042,7 +1016,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1073,7 +1046,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1087,8 +1059,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "K SRINIVASA RAJU",
-                        "Vogeti Rishith Kumar"
+                        "Vogeti Rishith Kumar",
+                        "K SRINIVASA RAJU"
                     ],
                     "schedule": [
                         {
@@ -1104,7 +1076,6 @@
                     ]
                 }
             },
-            "IC": "K SRINIVASA RAJU",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1134,7 +1105,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1165,7 +1135,6 @@
                     ]
                 }
             },
-            "IC": "BISWANATH DASH",
             "exams": [
                 {
                     "midsem": "14/03 2.00 - 3.30PM",
@@ -1196,9 +1165,9 @@
                 },
                 "P1": {
                     "instructor": [
+                        "Manthan S Hiremath",
                         "Suraj.s",
                         "Swati Biswas",
-                        "Manthan S Hiremath",
                         "Manisha Malani"
                     ],
                     "schedule": [
@@ -1231,7 +1200,6 @@
                     ]
                 }
             },
-            "IC": "SWATI BISWAS",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -1245,9 +1213,9 @@
             "sections": {
                 "L1": {
                     "instructor": [
+                        "Anmala Jagadeesh",
                         "NILANJAN DEY",
-                        "Trinath Jamma",
-                        "Anmala Jagadeesh"
+                        "Trinath Jamma"
                     ],
                     "schedule": [
                         {
@@ -1264,7 +1232,6 @@
                     ]
                 }
             },
-            "IC": "NILANJAN DEY",
             "exams": [
                 {
                     "midsem": "16/03 2.00 - 3.30PM",
@@ -1296,8 +1263,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Ramaswamy Venkatakrishna",
-                        "Pattiwar Shravan Kumar"
+                        "Pattiwar Shravan Kumar",
+                        "Ramaswamy Venkatakrishna"
                     ],
                     "schedule": [
                         {
@@ -1314,8 +1281,8 @@
                 },
                 "P2": {
                     "instructor": [
-                        "Ramaswamy Venkatakrishna",
-                        "Pattiwar Shravan Kumar"
+                        "Pattiwar Shravan Kumar",
+                        "Ramaswamy Venkatakrishna"
                     ],
                     "schedule": [
                         {
@@ -1332,8 +1299,8 @@
                 },
                 "P3": {
                     "instructor": [
-                        "Tathagata Ray",
-                        "S Rasagna Vakkalanka"
+                        "S Rasagna Vakkalanka",
+                        "Tathagata Ray"
                     ],
                     "schedule": [
                         {
@@ -1349,7 +1316,6 @@
                     ]
                 }
             },
-            "IC": "CHITTARANJAN HOTA",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -1380,7 +1346,6 @@
                     ]
                 }
             },
-            "IC": "DURGESH C PATHAK",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1411,7 +1376,6 @@
                     ]
                 }
             },
-            "IC": "SRINIVAS PRASAD K",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -1458,7 +1422,6 @@
                     ]
                 }
             },
-            "IC": "ABHISHEK SARKAR",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -1489,7 +1452,6 @@
                     ]
                 }
             },
-            "IC": "TONY SEBASTIAN",
             "exams": [
                 {
                     "midsem": "15/03 2.00 - 3.30PM",
@@ -1520,7 +1482,6 @@
                     ]
                 }
             },
-            "IC": "BISWANATH DASH",
             "exams": [
                 {
                     "midsem": "16/03 9.30 - 11.00AM",
@@ -1551,7 +1512,6 @@
                     ]
                 }
             },
-            "IC": "SP REGALLA",
             "exams": [
                 {
                     "midsem": "16/03 9.30 - 11.00AM",
@@ -1582,7 +1542,6 @@
                     ]
                 }
             },
-            "IC": "SP REGALLA",
             "exams": [
                 {
                     "midsem": "16/03 9.30 - 11.00AM",
@@ -1615,8 +1574,8 @@
                 "P1": {
                     "instructor": [
                         "Abhishek Kumar",
-                        "Sanket Goel",
-                        "Pavar Sai Kumar"
+                        "Pavar Sai Kumar",
+                        "Sanket Goel"
                     ],
                     "schedule": [
                         {
@@ -1634,8 +1593,8 @@
                 "P2": {
                     "instructor": [
                         "Abhishek Kumar",
-                        "Sanket Goel",
-                        "Pavar Sai Kumar"
+                        "Pavar Sai Kumar",
+                        "Sanket Goel"
                     ],
                     "schedule": [
                         {
@@ -1651,7 +1610,6 @@
                     ]
                 }
             },
-            "IC": "SANKET GOEL",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1681,7 +1639,6 @@
                     ]
                 }
             },
-            "IC": "SRIDHAR RAJU",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1711,7 +1668,6 @@
                     ]
                 }
             },
-            "IC": "SRIDHAR RAJU",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1741,7 +1697,6 @@
                     ]
                 }
             },
-            "IC": "SRIDHAR RAJU",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1771,7 +1726,6 @@
                     ]
                 }
             },
-            "IC": "SRIDHAR RAJU",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1802,7 +1756,6 @@
                     ]
                 }
             },
-            "IC": "R RAGHUNATHAN",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -1833,7 +1786,6 @@
                     ]
                 }
             },
-            "IC": "YV DASESWARA RAO",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1864,7 +1816,6 @@
                     ]
                 }
             },
-            "IC": "K RAJITHA",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -1897,7 +1848,6 @@
                     ]
                 }
             },
-            "IC": "G GEETHAKUMARI",
             "exams": [
                 {
                     "midsem": "18/03 9.30 - 11.00AM",
@@ -1912,9 +1862,9 @@
                 "L1": {
                     "instructor": [
                         "Chavali Lalitha",
+                        "Chaitra C R",
                         "P. Priyanka Chowdary",
-                        "NL BHANUMURTHY",
-                        "Chaitra C R"
+                        "NL BHANUMURTHY"
                     ],
                     "schedule": [
                         {
@@ -1931,7 +1881,6 @@
                     ]
                 }
             },
-            "IC": "NL BHANUMURTHY",
             "exams": [
                 {
                     "midsem": "12/03 9.30 - 11.00AM",
@@ -1962,7 +1911,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "12/03 9.30 - 11.00AM",
@@ -1993,7 +1941,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "12/03 9.30 - 11.00AM",
@@ -2024,7 +1971,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "12/03 9.30 - 11.00AM",
@@ -2055,7 +2001,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "12/03 9.30 - 11.00AM",
@@ -2086,7 +2031,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "12/03 9.30 - 11.00AM",
@@ -2117,7 +2061,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "12/03 9.30 - 11.00AM",
@@ -2148,7 +2091,6 @@
                     ]
                 }
             },
-            "IC": "SP REGALLA",
             "exams": [
                 {
                     "midsem": "12/03 9.30 - 11.00AM",
@@ -2179,7 +2121,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "12/03 9.30 - 11.00AM",
@@ -2210,7 +2151,6 @@
                     ]
                 }
             },
-            "IC": "KARTHIK CHETAN",
             "exams": [
                 {
                     "midsem": "14/03 2.00 - 3.30PM",
@@ -2257,7 +2197,6 @@
                     ]
                 }
             },
-            "IC": "RAGHU PISKA",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -2305,7 +2244,6 @@
                     ]
                 }
             },
-            "IC": "CHANDU PARIMI",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -2371,7 +2309,6 @@
                     ]
                 }
             },
-            "IC": "ANASUA GUHARAY",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -2385,8 +2322,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "V Vinayaka Ram",
-                        "V VINAYAKA RAM"
+                        "V VINAYAKA RAM",
+                        "V Vinayaka Ram"
                     ],
                     "schedule": [
                         {
@@ -2429,8 +2366,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "V Vinayaka Ram",
-                        "Md Ikramullah Khan"
+                        "Md Ikramullah Khan",
+                        "V Vinayaka Ram"
                     ],
                     "schedule": [
                         {
@@ -2445,7 +2382,6 @@
                     ]
                 }
             },
-            "IC": "V VINAYAKA RAM",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -2474,7 +2410,6 @@
                     ]
                 }
             },
-            "IC": "ANMALA JAGADEESH",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -2521,7 +2456,6 @@
                     ]
                 }
             },
-            "IC": "K SRINIVASA RAJU",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -2619,7 +2553,6 @@
                     ]
                 }
             },
-            "IC": "MURARI R R VARMA",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -2651,8 +2584,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "G Sachin Chakravart",
-                        "Chandu Parimi"
+                        "Chandu Parimi",
+                        "G Sachin Chakravart"
                     ],
                     "schedule": [
                         {
@@ -2667,7 +2600,6 @@
                     ]
                 }
             },
-            "IC": "CHANDU PARIMI",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -2696,7 +2628,6 @@
                     ]
                 }
             },
-            "IC": "K RAJITHA",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -2725,7 +2656,6 @@
                     ]
                 }
             },
-            "IC": "K RAJITHA",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -2754,7 +2684,6 @@
                     ]
                 }
             },
-            "IC": "RAGHU PISKA",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -2783,7 +2712,6 @@
                     ]
                 }
             },
-            "IC": "RAGHU PISKA",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -2814,7 +2742,6 @@
                     ]
                 }
             },
-            "IC": "A VASAN",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -2845,7 +2772,6 @@
                     ]
                 }
             },
-            "IC": "BAHURUDEEN A",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -2876,8 +2802,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Pujitha Ganapathi C",
-                        "Arkamitra Kar"
+                        "Arkamitra Kar",
+                        "Pujitha Ganapathi C"
                     ],
                     "schedule": [
                         {
@@ -2903,7 +2829,6 @@
                     ]
                 }
             },
-            "IC": "ARKAMITRA KAR",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -2934,7 +2859,6 @@
                     ]
                 }
             },
-            "IC": "MURARI R R VARMA",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -2965,7 +2889,6 @@
                     ]
                 }
             },
-            "IC": "V VINAYAKA RAM",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -2996,7 +2919,6 @@
                     ]
                 }
             },
-            "IC": "ANASUA GUHARAY",
             "exams": [
                 {
                     "midsem": "18/03 9.30 - 11.00AM",
@@ -3027,7 +2949,6 @@
                     ]
                 }
             },
-            "IC": "PN RAO",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -3058,7 +2979,6 @@
                     ]
                 }
             },
-            "IC": "A VASAN",
             "exams": [
                 {
                     "midsem": "15/03 11.30 - 1.00PM",
@@ -3106,7 +3026,6 @@
                     ]
                 }
             },
-            "IC": "SRIDHAR RAJU",
             "exams": [
                 {
                     "midsem": "13/03 2.00 - 3.30PM",
@@ -3154,7 +3073,6 @@
                     ]
                 }
             },
-            "IC": "PRASANTA KUMAR SAHU",
             "exams": [
                 {
                     "midsem": "15/03 11.30 - 1.00PM",
@@ -3202,7 +3120,6 @@
                     ]
                 }
             },
-            "IC": "SRIDHAR RAJU",
             "exams": [
                 {
                     "midsem": "16/03 9.30 - 11.00AM",
@@ -3250,7 +3167,6 @@
                     ]
                 }
             },
-            "IC": "PRASANTA KUMAR SAHU",
             "exams": [
                 {
                     "midsem": "17/03 9.30 - 11.00AM",
@@ -3299,7 +3215,6 @@
                     ]
                 }
             },
-            "IC": "BAHURUDEEN A",
             "exams": [
                 {
                     "midsem": "16/03 9.30 - 11.00AM",
@@ -3347,7 +3262,6 @@
                     ]
                 }
             },
-            "IC": "MOHAN S C",
             "exams": [
                 {
                     "midsem": "13/03 2.00 - 3.30PM",
@@ -3395,7 +3309,6 @@
                     ]
                 }
             },
-            "IC": "PN RAO",
             "exams": [
                 {
                     "midsem": "17/03 9.30 - 11.00AM",
@@ -3409,8 +3322,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "IYMAN ABRAR",
-                        "Afkham Mir"
+                        "Afkham Mir",
+                        "IYMAN ABRAR"
                     ],
                     "schedule": [
                         {
@@ -3445,7 +3358,6 @@
                     ]
                 }
             },
-            "IC": "IYMAN ABRAR",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -3492,7 +3404,6 @@
                     ]
                 }
             },
-            "IC": "VIKRANT KUMAR S",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -3506,8 +3417,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "DEBIRUPA MITRA",
-                        "Debirupa Mitra"
+                        "Debirupa Mitra",
+                        "DEBIRUPA MITRA"
                     ],
                     "schedule": [
                         {
@@ -3533,8 +3444,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "Madhusmita Sahoo",
-                        "Debirupa Mitra"
+                        "Debirupa Mitra",
+                        "Madhusmita Sahoo"
                     ],
                     "schedule": [
                         {
@@ -3549,7 +3460,6 @@
                     ]
                 }
             },
-            "IC": "DEBIRUPA MITRA",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -3596,7 +3506,6 @@
                     ]
                 }
             },
-            "IC": "BALAJI KRISHNAMURTHY",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -3625,7 +3534,6 @@
                     ]
                 }
             },
-            "IC": "RAMENDRA KISHOR PAL",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -3641,11 +3549,11 @@
                     "instructor": [
                         "Dubbaka Vidya",
                         "Suresh Kanuri",
-                        "C Jhansi",
-                        "Karthik Chetan",
-                        "Sadamanti Sireesha",
                         "Afkham Mir",
                         "Nandini Bhandaru",
+                        "C Jhansi",
+                        "Sadamanti Sireesha",
+                        "Karthik Chetan",
                         "SATYAPAUL SINGH AMART"
                     ],
                     "schedule": [
@@ -3664,7 +3572,6 @@
                     ]
                 }
             },
-            "IC": "SATYAPAUL SINGH AMART",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -3696,8 +3603,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "Jaideep Chatterjee",
-                        "Vadlakonda Ravi Kiran Varm"
+                        "Vadlakonda Ravi Kiran Varm",
+                        "Jaideep Chatterjee"
                     ],
                     "schedule": [
                         {
@@ -3712,7 +3619,6 @@
                     ]
                 }
             },
-            "IC": "JAIDEEP CHATTERJEE",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -3745,8 +3651,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "Malayanur Srilekha",
                         "Arnab Dutta",
+                        "Malayanur Srilekha",
                         "Satyapaul Singh Amarthaluri"
                     ],
                     "schedule": [
@@ -3762,7 +3668,6 @@
                     ]
                 }
             },
-            "IC": "ARNAB DUTTA",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -3791,7 +3696,6 @@
                     ]
                 }
             },
-            "IC": "DEBIRUPA MITRA",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -3820,7 +3724,6 @@
                     ]
                 }
             },
-            "IC": "DEBIRUPA MITRA",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -3849,7 +3752,6 @@
                     ]
                 }
             },
-            "IC": "SATYAPAUL SINGH AMART",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -3878,7 +3780,6 @@
                     ]
                 }
             },
-            "IC": "SATYAPAUL SINGH AMART",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -3892,8 +3793,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Gulipalli Pallavi",
-                        "RAMESH BABU A"
+                        "RAMESH BABU A",
+                        "Gulipalli Pallavi"
                     ],
                     "schedule": [
                         {
@@ -3910,7 +3811,6 @@
                     ]
                 }
             },
-            "IC": "RAMESH BABU A",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -3941,7 +3841,6 @@
                     ]
                 }
             },
-            "IC": "RAMENDRA KISHOR PAL",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -3973,7 +3872,6 @@
                     ]
                 }
             },
-            "IC": "JAIDEEP CHATTERJEE",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -4005,8 +3903,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "D Purnima",
-                        "Jashaswinee Swain"
+                        "Jashaswinee Swain",
+                        "D Purnima"
                     ],
                     "schedule": [
                         {
@@ -4022,7 +3920,6 @@
                     ]
                 }
             },
-            "IC": "D PURNIMA",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -4036,8 +3933,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Nandini Bhandaru",
-                        "BALAJI KRISHNAMURTHY"
+                        "BALAJI KRISHNAMURTHY",
+                        "Nandini Bhandaru"
                     ],
                     "schedule": [
                         {
@@ -4054,7 +3951,6 @@
                     ]
                 }
             },
-            "IC": "BALAJI KRISHNAMURTHY",
             "exams": [
                 {
                     "midsem": "15/03 2.00 - 3.30PM",
@@ -4068,8 +3964,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Iyman Abrar",
-                        "SRIKANTA DINDA"
+                        "SRIKANTA DINDA",
+                        "Iyman Abrar"
                     ],
                     "schedule": [
                         {
@@ -4105,7 +4001,6 @@
                     ]
                 }
             },
-            "IC": "SRIKANTA DINDA",
             "exams": [
                 {
                     "midsem": "17/03 9.30 - 11.00AM",
@@ -4136,7 +4031,6 @@
                     ]
                 }
             },
-            "IC": "RAMAKRISHNAN G",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -4150,8 +4044,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Sounak Roy",
-                        "HIMANSHU AGGARWAL"
+                        "HIMANSHU AGGARWAL",
+                        "Sounak Roy"
                     ],
                     "schedule": [
                         {
@@ -4169,8 +4063,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "Himanshu Aggarwal",
-                        "Sounak Roy"
+                        "Sounak Roy",
+                        "Himanshu Aggarwal"
                     ],
                     "schedule": [
                         {
@@ -4185,7 +4079,6 @@
                     ]
                 }
             },
-            "IC": "HIMANSHU AGGARWAL",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -4199,10 +4092,10 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Soumen Khan",
-                        "Ronak Lazarus",
+                        "Nilanjan Dey",
                         "ARIJIT MUKHERJEE",
-                        "Nilanjan Dey"
+                        "Ronak Lazarus",
+                        "Soumen Khan"
                     ],
                     "schedule": [
                         {
@@ -4220,7 +4113,6 @@
                     ]
                 }
             },
-            "IC": "ARIJIT MUKHERJEE",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -4253,8 +4145,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "Manab Chakravarty",
-                        "Arijit Mukherjee"
+                        "Arijit Mukherjee",
+                        "Manab Chakravarty"
                     ],
                     "schedule": [
                         {
@@ -4269,7 +4161,6 @@
                     ]
                 }
             },
-            "IC": "MANAB CHAKRAVARTY",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -4316,7 +4207,6 @@
                     ]
                 }
             },
-            "IC": "K SUMITHRA",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -4345,7 +4235,6 @@
                     ]
                 }
             },
-            "IC": "DURBA ROY",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -4393,7 +4282,6 @@
                     ]
                 }
             },
-            "IC": "N RAJESH",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -4441,7 +4329,6 @@
                     ]
                 }
             },
-            "IC": "BALAJI GOPALAN",
             "exams": [
                 {
                     "midsem": "18/03 9.30 - 11.00AM",
@@ -4455,10 +4342,10 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "SATYA NARAYAN GUIN",
-                        "Dyagala Shalini",
+                        "Subit Kumar Saha",
                         "ANIL KUMAR B M",
-                        "Subit Kumar Saha"
+                        "SATYA NARAYAN GUIN",
+                        "Dyagala Shalini"
                     ],
                     "schedule": [
                         {
@@ -4476,7 +4363,6 @@
                     ]
                 }
             },
-            "IC": "ANIL KUMAR B M",
             "exams": [
                 {
                     "midsem": "18/03 9.30 - 11.00AM",
@@ -4523,7 +4409,6 @@
                     ]
                 }
             },
-            "IC": "ANUPAM BHATTACHARYA",
             "exams": [
                 {
                     "midsem": "15/03 4.00 - 5.30PM",
@@ -4570,7 +4455,6 @@
                     ]
                 }
             },
-            "IC": "R KRISHNAN",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -4599,7 +4483,6 @@
                     ]
                 }
             },
-            "IC": "ANUPAM BHATTACHARYA",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -4628,7 +4511,6 @@
                     ]
                 }
             },
-            "IC": "ANUPAM BHATTACHARYA",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -4657,7 +4539,6 @@
                     ]
                 }
             },
-            "IC": "DURBA ROY",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -4686,7 +4567,6 @@
                     ]
                 }
             },
-            "IC": "DURBA ROY",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -4700,8 +4580,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "DURBA ROY",
-                        "Subit Kumar Saha"
+                        "Subit Kumar Saha",
+                        "DURBA ROY"
                     ],
                     "schedule": [
                         {
@@ -4718,7 +4598,6 @@
                     ]
                 }
             },
-            "IC": "DURBA ROY",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -4749,7 +4628,6 @@
                     ]
                 }
             },
-            "IC": "J SUBBALAKSHMI",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -4780,7 +4658,6 @@
                     ]
                 }
             },
-            "IC": "TANMAY CHATTERJEE",
             "exams": [
                 {
                     "midsem": "17/03 11.30 - 1.00PM",
@@ -4811,7 +4688,6 @@
                     ]
                 }
             },
-            "IC": "SATYA NARAYAN GUIN",
             "exams": [
                 {
                     "midsem": "13/03 2.00 - 3.30PM",
@@ -4843,8 +4719,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Anand Agrawal",
-                        "Barsha Mitra"
+                        "Barsha Mitra",
+                        "Anand Agrawal"
                     ],
                     "schedule": [
                         {
@@ -4861,8 +4737,8 @@
                 },
                 "P2": {
                     "instructor": [
-                        "Anand Agrawal",
-                        "Barsha Mitra"
+                        "Barsha Mitra",
+                        "Anand Agrawal"
                     ],
                     "schedule": [
                         {
@@ -4978,7 +4854,6 @@
                     ]
                 }
             },
-            "IC": "NL BHANUMURTHY",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -5010,8 +4885,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Nida Fatima",
-                        "R Gururaj"
+                        "R Gururaj",
+                        "Nida Fatima"
                     ],
                     "schedule": [
                         {
@@ -5064,8 +4939,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "Harsha Varun Marisetty",
-                        "Prajna Devi Upadhyay"
+                        "Prajna Devi Upadhyay",
+                        "Harsha Varun Marisetty"
                     ],
                     "schedule": [
                         {
@@ -5145,7 +5020,6 @@
                     ]
                 }
             },
-            "IC": "R GURURAJ",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -5177,8 +5051,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Abhijit Das",
-                        "Deepa Kumari"
+                        "Deepa Kumari",
+                        "Abhijit Das"
                     ],
                     "schedule": [
                         {
@@ -5213,8 +5087,8 @@
                 },
                 "P3": {
                     "instructor": [
-                        "Aritra Mukherjee",
-                        "Prerna Saurabh"
+                        "Prerna Saurabh",
+                        "Aritra Mukherjee"
                     ],
                     "schedule": [
                         {
@@ -5231,8 +5105,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "Deepa Kumari",
-                        "Subhrakanta Panda"
+                        "Subhrakanta Panda",
+                        "Deepa Kumari"
                     ],
                     "schedule": [
                         {
@@ -5248,7 +5122,6 @@
                     ]
                 }
             },
-            "IC": "ABHIJIT DAS",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -5298,8 +5171,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Keerthi C J",
-                        "Subhradeep Pal"
+                        "Subhradeep Pal",
+                        "Keerthi C J"
                     ],
                     "schedule": [
                         {
@@ -5334,8 +5207,8 @@
                 },
                 "P3": {
                     "instructor": [
-                        "Ramya K",
-                        "TO BE ANNOUNCED"
+                        "TO BE ANNOUNCED",
+                        "Ramya K"
                     ],
                     "schedule": [
                         {
@@ -5352,8 +5225,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "Battina Sindhu",
-                        "Sourav Nandi"
+                        "Sourav Nandi",
+                        "Battina Sindhu"
                     ],
                     "schedule": [
                         {
@@ -5370,8 +5243,8 @@
                 },
                 "P5": {
                     "instructor": [
-                        "Battina Sindhu",
-                        "Sourav Nandi"
+                        "Sourav Nandi",
+                        "Battina Sindhu"
                     ],
                     "schedule": [
                         {
@@ -5388,8 +5261,8 @@
                 },
                 "P6": {
                     "instructor": [
-                        "TO BE ANNOUNCED",
-                        "Mrunali Dnyaneshwar Wagh"
+                        "Mrunali Dnyaneshwar Wagh",
+                        "TO BE ANNOUNCED"
                     ],
                     "schedule": [
                         {
@@ -5424,8 +5297,8 @@
                 },
                 "P8": {
                     "instructor": [
-                        "Ritesh Kumar Singh",
-                        "TO BE ANNOUNCED"
+                        "TO BE ANNOUNCED",
+                        "Ritesh Kumar Singh"
                     ],
                     "schedule": [
                         {
@@ -5460,8 +5333,8 @@
                 },
                 "P10": {
                     "instructor": [
-                        "Ritesh Kumar Singh",
-                        "Keerthi C J"
+                        "Keerthi C J",
+                        "Ritesh Kumar Singh"
                     ],
                     "schedule": [
                         {
@@ -5496,8 +5369,8 @@
                 },
                 "P12": {
                     "instructor": [
-                        "TO BE ANNOUNCED",
-                        "Mrunali Dnyaneshwar Wagh"
+                        "Mrunali Dnyaneshwar Wagh",
+                        "TO BE ANNOUNCED"
                     ],
                     "schedule": [
                         {
@@ -5745,7 +5618,6 @@
                     ]
                 }
             },
-            "IC": "TO BE ANNOUNCED",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -5774,7 +5646,6 @@
                     ]
                 }
             },
-            "IC": "JABEZ J CHRISTOPHER",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -5806,8 +5677,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Pragati Shrivastava",
-                        "Mandan Naresh"
+                        "Mandan Naresh",
+                        "Pragati Shrivastava"
                     ],
                     "schedule": [
                         {
@@ -5943,7 +5814,6 @@
                     ]
                 }
             },
-            "IC": "PRAGATI SHRIVASTAVA",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -5974,7 +5844,6 @@
                     ]
                 }
             },
-            "IC": "DIPANJAN CHAKRABORTY",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -5988,8 +5857,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "S Shashank",
-                        "PARESH SAXENA"
+                        "PARESH SAXENA",
+                        "S Shashank"
                     ],
                     "schedule": [
                         {
@@ -6006,7 +5875,6 @@
                     ]
                 }
             },
-            "IC": "PARESH SAXENA",
             "exams": [
                 {
                     "midsem": "18/03 9.30 - 11.00AM",
@@ -6091,7 +5959,6 @@
                     ]
                 }
             },
-            "IC": "TO BE ANNOUNCED",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -6122,8 +5989,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Raghunath Reddy M",
-                        "S Vishwanath Reddy"
+                        "S Vishwanath Reddy",
+                        "Raghunath Reddy M"
                     ],
                     "schedule": [
                         {
@@ -6257,7 +6124,6 @@
                     ]
                 }
             },
-            "IC": "RAGHUNATH REDDY M",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -6289,8 +6155,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "Tathagata Ray",
-                        "Afrin Alam"
+                        "Afrin Alam",
+                        "Tathagata Ray"
                     ],
                     "schedule": [
                         {
@@ -6356,7 +6222,6 @@
                     ]
                 }
             },
-            "IC": "TATHAGATA RAY",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -6385,7 +6250,6 @@
                     ]
                 }
             },
-            "IC": "JABEZ J CHRISTOPHER",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -6414,7 +6278,6 @@
                     ]
                 }
             },
-            "IC": "JABEZ J CHRISTOPHER",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -6428,10 +6291,10 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "S Rasagna Vakkalanka",
                         "Mekala Kiran",
+                        "Pattiwar Shravan Kumar",
                         "BARSHA MITRA",
-                        "Pattiwar Shravan Kumar"
+                        "S Rasagna Vakkalanka"
                     ],
                     "schedule": [
                         {
@@ -6448,7 +6311,6 @@
                     ]
                 }
             },
-            "IC": "BARSHA MITRA",
             "exams": [
                 {
                     "midsem": "17/03 11.30 - 1.00PM",
@@ -6479,7 +6341,6 @@
                     ]
                 }
             },
-            "IC": "JABEZ J CHRISTOPHER",
             "exams": [
                 {
                     "midsem": "17/03 11.30 - 1.00PM",
@@ -6510,7 +6371,6 @@
                     ]
                 }
             },
-            "IC": "JABEZ J CHRISTOPHER",
             "exams": [
                 {
                     "midsem": "17/03 11.30 - 1.00PM",
@@ -6541,7 +6401,6 @@
                     ]
                 }
             },
-            "IC": "MANJANNA B",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -6555,10 +6414,10 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Nida Fatima",
-                        "Attarde Pranjali Devidas",
                         "JABEZ J CHRISTOPHER",
-                        "Chavali Lalitha"
+                        "Chavali Lalitha",
+                        "Nida Fatima",
+                        "Attarde Pranjali Devidas"
                     ],
                     "schedule": [
                         {
@@ -6575,7 +6434,6 @@
                     ]
                 }
             },
-            "IC": "JABEZ J CHRISTOPHER",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -6606,7 +6464,6 @@
                     ]
                 }
             },
-            "IC": "NIKUMANI CHOUDHURY",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -6620,9 +6477,9 @@
             "sections": {
                 "L1": {
                     "instructor": [
+                        "Harsha Varun Marisetty",
                         "MANIK GUPTA",
-                        "Prerna Saurabh",
-                        "Harsha Varun Marisetty"
+                        "Prerna Saurabh"
                     ],
                     "schedule": [
                         {
@@ -6639,7 +6496,6 @@
                     ]
                 }
             },
-            "IC": "MANIK GUPTA",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -6670,7 +6526,6 @@
                     ]
                 }
             },
-            "IC": "RAJIB RANJAN MAITI",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -6684,9 +6539,9 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "ARUNA MALAPATI",
                         "Pooja",
-                        "K Simran"
+                        "K Simran",
+                        "ARUNA MALAPATI"
                     ],
                     "schedule": [
                         {
@@ -6703,7 +6558,6 @@
                     ]
                 }
             },
-            "IC": "ARUNA MALAPATI",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -6751,7 +6605,6 @@
                     ]
                 }
             },
-            "IC": "G GEETHAKUMARI",
             "exams": [
                 {
                     "midsem": "17/03 11.30 - 1.00PM",
@@ -6799,7 +6652,6 @@
                     ]
                 }
             },
-            "IC": "SUBHRAKANTA PANDA",
             "exams": [
                 {
                     "midsem": "13/03 2.00 - 3.30PM",
@@ -6847,7 +6699,6 @@
                     ]
                 }
             },
-            "IC": "ANEESH SREEVALLABH C",
             "exams": [
                 {
                     "midsem": "15/03 11.30 - 1.00PM",
@@ -6896,7 +6747,6 @@
                     ]
                 }
             },
-            "IC": "CHETAN KUMAR V",
             "exams": [
                 {
                     "midsem": "13/03 2.00 - 3.30PM",
@@ -6944,7 +6794,6 @@
                     ]
                 }
             },
-            "IC": "ARITRA MUKHERJEE",
             "exams": [
                 {
                     "midsem": "16/03 9.30 - 11.00AM",
@@ -6993,7 +6842,6 @@
                     ]
                 }
             },
-            "IC": "PRABAKARAN SARAVANA",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -7051,7 +6899,6 @@
                     ]
                 }
             },
-            "IC": "AMOL VUPPULURI",
             "exams": [
                 {
                     "midsem": "15/03 11.30 - 1.00PM",
@@ -7101,8 +6948,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Keerthi C J",
-                        "Subhradeep Pal"
+                        "Subhradeep Pal",
+                        "Keerthi C J"
                     ],
                     "schedule": [
                         {
@@ -7137,8 +6984,8 @@
                 },
                 "P3": {
                     "instructor": [
-                        "Ramya K",
-                        "TO BE ANNOUNCED"
+                        "TO BE ANNOUNCED",
+                        "Ramya K"
                     ],
                     "schedule": [
                         {
@@ -7155,8 +7002,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "Battina Sindhu",
-                        "Sourav Nandi"
+                        "Sourav Nandi",
+                        "Battina Sindhu"
                     ],
                     "schedule": [
                         {
@@ -7173,8 +7020,8 @@
                 },
                 "P5": {
                     "instructor": [
-                        "Battina Sindhu",
-                        "Sourav Nandi"
+                        "Sourav Nandi",
+                        "Battina Sindhu"
                     ],
                     "schedule": [
                         {
@@ -7191,8 +7038,8 @@
                 },
                 "P6": {
                     "instructor": [
-                        "TO BE ANNOUNCED",
-                        "Mrunali Dnyaneshwar Wagh"
+                        "Mrunali Dnyaneshwar Wagh",
+                        "TO BE ANNOUNCED"
                     ],
                     "schedule": [
                         {
@@ -7227,8 +7074,8 @@
                 },
                 "P8": {
                     "instructor": [
-                        "Ritesh Kumar Singh",
-                        "TO BE ANNOUNCED"
+                        "TO BE ANNOUNCED",
+                        "Ritesh Kumar Singh"
                     ],
                     "schedule": [
                         {
@@ -7263,8 +7110,8 @@
                 },
                 "P10": {
                     "instructor": [
-                        "Ritesh Kumar Singh",
-                        "Keerthi C J"
+                        "Keerthi C J",
+                        "Ritesh Kumar Singh"
                     ],
                     "schedule": [
                         {
@@ -7299,8 +7146,8 @@
                 },
                 "P12": {
                     "instructor": [
-                        "TO BE ANNOUNCED",
-                        "Mrunali Dnyaneshwar Wagh"
+                        "Mrunali Dnyaneshwar Wagh",
+                        "TO BE ANNOUNCED"
                     ],
                     "schedule": [
                         {
@@ -7548,7 +7395,6 @@
                     ]
                 }
             },
-            "IC": "TO BE ANNOUNCED",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -7711,7 +7557,6 @@
                     ]
                 }
             },
-            "IC": "JOYJIT MUKHERJEE",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -7856,7 +7701,6 @@
                     ]
                 }
             },
-            "IC": "BVVSN PRABHAKAR RAO",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -7983,7 +7827,6 @@
                     ]
                 }
             },
-            "IC": "SYED ERSHAD AHMED",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -8012,7 +7855,6 @@
                     ]
                 }
             },
-            "IC": "STP SRINIVAS",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -8043,7 +7885,6 @@
                     ]
                 }
             },
-            "IC": "RUNA KUMARI",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -8147,8 +7988,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "Nishchitha N K",
-                        "BVVSN Prabhakar Rao"
+                        "BVVSN Prabhakar Rao",
+                        "Nishchitha N K"
                     ],
                     "schedule": [
                         {
@@ -8165,8 +8006,8 @@
                 },
                 "P5": {
                     "instructor": [
-                        "Nishchitha N K",
-                        "BVVSN Prabhakar Rao"
+                        "BVVSN Prabhakar Rao",
+                        "Nishchitha N K"
                     ],
                     "schedule": [
                         {
@@ -8183,8 +8024,8 @@
                 },
                 "P6": {
                     "instructor": [
-                        "Shuvra Jyoti Bose",
-                        "Sohel Siraj"
+                        "Sohel Siraj",
+                        "Shuvra Jyoti Bose"
                     ],
                     "schedule": [
                         {
@@ -8201,9 +8042,9 @@
                 },
                 "P7": {
                     "instructor": [
-                        "Shuvra Jyoti Bose",
                         "Vanmathi S",
-                        "Sohel Siraj"
+                        "Sohel Siraj",
+                        "Shuvra Jyoti Bose"
                     ],
                     "schedule": [
                         {
@@ -8331,7 +8172,6 @@
                     ]
                 }
             },
-            "IC": "PRASANT KUMAR P",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -8394,7 +8234,6 @@
                     ]
                 }
             },
-            "IC": "S K SAHOO",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -8457,7 +8296,6 @@
                     ]
                 }
             },
-            "IC": "ATRI MUKHOPADHYAY",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -8486,7 +8324,6 @@
                     ]
                 }
             },
-            "IC": "PRATYUSH CHAKRABORT",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -8515,7 +8352,6 @@
                     ]
                 }
             },
-            "IC": "PRATYUSH CHAKRABORT",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -8544,7 +8380,6 @@
                     ]
                 }
             },
-            "IC": "JOYJIT MUKHERJEE",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -8573,7 +8408,6 @@
                     ]
                 }
             },
-            "IC": "JOYJIT MUKHERJEE",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -8604,7 +8438,6 @@
                     ]
                 }
             },
-            "IC": "GOPAL KRISHNA KAMATH",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -8800,8 +8633,7 @@
                     "midsem": "16/03 2.00 - 3.30PM",
                     "compre": "16/05 FN"
                 }
-            ],
-            "IC": "ARCHANA SRIVASTAVA"
+            ]
         },
         "ECON F212": {
             "units": 3.0,
@@ -8826,7 +8658,6 @@
                     ]
                 }
             },
-            "IC": "T NAGARAJU",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -8857,7 +8688,6 @@
                     ]
                 }
             },
-            "IC": "BHEEMESHWAR REDDY A",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -8904,7 +8734,6 @@
                     ]
                 }
             },
-            "IC": "BHEEMESHWAR REDDY A",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -8951,7 +8780,6 @@
                     ]
                 }
             },
-            "IC": "VIVEKANANDA MUKHERJE",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -9007,7 +8835,6 @@
                     ]
                 }
             },
-            "IC": "SUNNY KUMAR SINGH",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -9054,7 +8881,6 @@
                     ]
                 }
             },
-            "IC": "SUDATTA BANERJEE",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -9083,7 +8909,6 @@
                     ]
                 }
             },
-            "IC": "ARCHANA SRIVASTAVA",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -9114,7 +8939,6 @@
                     ]
                 }
             },
-            "IC": "NIVEDITA SINHA",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -9161,7 +8985,6 @@
                     ]
                 }
             },
-            "IC": "MINI THOMAS",
             "exams": [
                 {
                     "midsem": "15/03 4.00 - 5.30PM",
@@ -9208,7 +9031,6 @@
                     ]
                 }
             },
-            "IC": "RISHI KUMAR",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -9255,7 +9077,6 @@
                     ]
                 }
             },
-            "IC": "DURGESH C PATHAK",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -9286,7 +9107,6 @@
                     ]
                 }
             },
-            "IC": "DUSHYANT KUMAR",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -9335,7 +9155,6 @@
                     ]
                 }
             },
-            "IC": "TO BE ANNOUNCED",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -9384,7 +9203,6 @@
                     ]
                 }
             },
-            "IC": "TO BE ANNOUNCED",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -9415,7 +9233,6 @@
                     ]
                 }
             },
-            "IC": "ARCHANA SRIVASTAVA",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -9446,7 +9263,6 @@
                     ]
                 }
             },
-            "IC": "ARCHANA SRIVASTAVA",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -9477,7 +9293,6 @@
                     ]
                 }
             },
-            "IC": "ARCHANA SRIVASTAVA",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -9508,7 +9323,6 @@
                     ]
                 }
             },
-            "IC": "ARCHANA SRIVASTAVA",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -9539,7 +9353,6 @@
                     ]
                 }
             },
-            "IC": "SUNNY KUMAR SINGH",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -9570,7 +9383,6 @@
                     ]
                 }
             },
-            "IC": "SHREYA BISWAS",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -9601,7 +9413,6 @@
                     ]
                 }
             },
-            "IC": "VIVEKANANDA MUKHERJE",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -9632,7 +9443,6 @@
                     ]
                 }
             },
-            "IC": "DUSHYANT KUMAR",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -9663,7 +9473,6 @@
                     ]
                 }
             },
-            "IC": "ARCHANA SRIVASTAVA",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -9694,7 +9503,6 @@
                     ]
                 }
             },
-            "IC": "C H YAGANTI",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -9744,8 +9552,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Keerthi C J",
-                        "Subhradeep Pal"
+                        "Subhradeep Pal",
+                        "Keerthi C J"
                     ],
                     "schedule": [
                         {
@@ -9780,8 +9588,8 @@
                 },
                 "P3": {
                     "instructor": [
-                        "Ramya K",
-                        "TO BE ANNOUNCED"
+                        "TO BE ANNOUNCED",
+                        "Ramya K"
                     ],
                     "schedule": [
                         {
@@ -9798,8 +9606,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "Battina Sindhu",
-                        "Sourav Nandi"
+                        "Sourav Nandi",
+                        "Battina Sindhu"
                     ],
                     "schedule": [
                         {
@@ -9816,8 +9624,8 @@
                 },
                 "P5": {
                     "instructor": [
-                        "Battina Sindhu",
-                        "Sourav Nandi"
+                        "Sourav Nandi",
+                        "Battina Sindhu"
                     ],
                     "schedule": [
                         {
@@ -9834,8 +9642,8 @@
                 },
                 "P6": {
                     "instructor": [
-                        "TO BE ANNOUNCED",
-                        "Mrunali Dnyaneshwar Wagh"
+                        "Mrunali Dnyaneshwar Wagh",
+                        "TO BE ANNOUNCED"
                     ],
                     "schedule": [
                         {
@@ -9870,8 +9678,8 @@
                 },
                 "P8": {
                     "instructor": [
-                        "Ritesh Kumar Singh",
-                        "TO BE ANNOUNCED"
+                        "TO BE ANNOUNCED",
+                        "Ritesh Kumar Singh"
                     ],
                     "schedule": [
                         {
@@ -9906,8 +9714,8 @@
                 },
                 "P10": {
                     "instructor": [
-                        "Ritesh Kumar Singh",
-                        "Keerthi C J"
+                        "Keerthi C J",
+                        "Ritesh Kumar Singh"
                     ],
                     "schedule": [
                         {
@@ -9942,8 +9750,8 @@
                 },
                 "P12": {
                     "instructor": [
-                        "TO BE ANNOUNCED",
-                        "Mrunali Dnyaneshwar Wagh"
+                        "Mrunali Dnyaneshwar Wagh",
+                        "TO BE ANNOUNCED"
                     ],
                     "schedule": [
                         {
@@ -10191,7 +9999,6 @@
                     ]
                 }
             },
-            "IC": "TO BE ANNOUNCED",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -10354,7 +10161,6 @@
                     ]
                 }
             },
-            "IC": "JOYJIT MUKHERJEE",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -10499,7 +10305,6 @@
                     ]
                 }
             },
-            "IC": "BVVSN PRABHAKAR RAO",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -10626,7 +10431,6 @@
                     ]
                 }
             },
-            "IC": "SYED ERSHAD AHMED",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -10694,9 +10498,9 @@
                 },
                 "L4": {
                     "instructor": [
-                        "Manoj Samal",
                         "Priyalatha. P",
-                        "Gorityala Aishvaria"
+                        "Gorityala Aishvaria",
+                        "Manoj Samal"
                     ],
                     "schedule": [
                         {
@@ -10712,7 +10516,6 @@
                     ]
                 }
             },
-            "IC": "JOYJIT MUKHERJEE",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -10726,10 +10529,10 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Sanjana Mathew",
-                        "Naresh Bahadursha",
                         "Syed Ershad Ahmed",
-                        "PRATYUSH CHAKRABORT"
+                        "PRATYUSH CHAKRABORT",
+                        "Sanjana Mathew",
+                        "Naresh Bahadursha"
                     ],
                     "schedule": [
                         {
@@ -10748,10 +10551,10 @@
                 },
                 "L2": {
                     "instructor": [
-                        "Aditya Tiwari",
                         "Venkateswaran R",
-                        "Sayan Kanungo",
-                        "Shaswati Dash"
+                        "Aditya Tiwari",
+                        "Shaswati Dash",
+                        "Sayan Kanungo"
                     ],
                     "schedule": [
                         {
@@ -10769,7 +10572,6 @@
                     ]
                 }
             },
-            "IC": "PRATYUSH CHAKRABORT",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -10801,7 +10603,6 @@
                     ]
                 }
             },
-            "IC": "STP SRINIVAS",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -10864,7 +10665,6 @@
                     ]
                 }
             },
-            "IC": "ALIVELU MANGA PARIMI",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -10968,8 +10768,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "Nishchitha N K",
-                        "BVVSN Prabhakar Rao"
+                        "BVVSN Prabhakar Rao",
+                        "Nishchitha N K"
                     ],
                     "schedule": [
                         {
@@ -10986,8 +10786,8 @@
                 },
                 "P5": {
                     "instructor": [
-                        "Nishchitha N K",
-                        "BVVSN Prabhakar Rao"
+                        "BVVSN Prabhakar Rao",
+                        "Nishchitha N K"
                     ],
                     "schedule": [
                         {
@@ -11004,8 +10804,8 @@
                 },
                 "P6": {
                     "instructor": [
-                        "Shuvra Jyoti Bose",
-                        "Sohel Siraj"
+                        "Sohel Siraj",
+                        "Shuvra Jyoti Bose"
                     ],
                     "schedule": [
                         {
@@ -11022,9 +10822,9 @@
                 },
                 "P7": {
                     "instructor": [
-                        "Shuvra Jyoti Bose",
                         "Vanmathi S",
-                        "Sohel Siraj"
+                        "Sohel Siraj",
+                        "Shuvra Jyoti Bose"
                     ],
                     "schedule": [
                         {
@@ -11152,7 +10952,6 @@
                     ]
                 }
             },
-            "IC": "PRASANT KUMAR P",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -11184,9 +10983,9 @@
                 },
                 "P1": {
                     "instructor": [
-                        "N Praneeth",
+                        "Santhi Durganjali Challa",
                         "Sudha Radhika",
-                        "Santhi Durganjali Challa"
+                        "N Praneeth"
                     ],
                     "schedule": [
                         {
@@ -11203,9 +11002,9 @@
                 },
                 "P2": {
                     "instructor": [
+                        "Mithun Mondal",
                         "TO BE ANNOUNCED",
-                        "Santhi Durganjali Challa",
-                        "Mithun Mondal"
+                        "Santhi Durganjali Challa"
                     ],
                     "schedule": [
                         {
@@ -11241,8 +11040,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "N Praneeth",
                         "Nawin Ra",
+                        "N Praneeth",
                         "STP Srinivas"
                     ],
                     "schedule": [
@@ -11307,7 +11106,6 @@
                     ]
                 }
             },
-            "IC": "TO BE ANNOUNCED",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -11340,8 +11138,8 @@
                 },
                 "L2": {
                     "instructor": [
-                        "Soumi Saha",
-                        "S K Sahoo"
+                        "S K Sahoo",
+                        "Soumi Saha"
                     ],
                     "schedule": [
                         {
@@ -11358,7 +11156,6 @@
                     ]
                 }
             },
-            "IC": "AMIT KUMAR PANDA",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -11389,7 +11186,6 @@
                     ]
                 }
             },
-            "IC": "PRATYUSH CHAKRABORT",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -11420,7 +11216,6 @@
                     ]
                 }
             },
-            "IC": "PRATYUSH CHAKRABORT",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -11451,7 +11246,6 @@
                     ]
                 }
             },
-            "IC": "JOYJIT MUKHERJEE",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -11482,7 +11276,6 @@
                     ]
                 }
             },
-            "IC": "JOYJIT MUKHERJEE",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -11513,7 +11306,6 @@
                     ]
                 }
             },
-            "IC": "GOPAL KRISHNA KAMATH",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -11544,7 +11336,6 @@
                     ]
                 }
             },
-            "IC": "ANKUR BHATTACHARJEE",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -11575,7 +11366,6 @@
                     ]
                 }
             },
-            "IC": "RAJESH KUMAR TRIPATHY",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -11608,8 +11398,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Neha Parmar",
-                        "Sourav Nandi"
+                        "Sourav Nandi",
+                        "Neha Parmar"
                     ],
                     "schedule": [
                         {
@@ -11625,7 +11415,6 @@
                     ]
                 }
             },
-            "IC": "SOURAV NANDI",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -11656,7 +11445,6 @@
                     ]
                 }
             },
-            "IC": "SAYAN KANUNGO",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -11688,7 +11476,6 @@
                     ]
                 }
             },
-            "IC": "ALIVELU MANGA PARIMI",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -11737,7 +11524,6 @@
                     ]
                 }
             },
-            "IC": "PRASHANT WALI",
             "exams": [
                 {
                     "midsem": "13/03 2.00 - 3.30PM",
@@ -11786,7 +11572,6 @@
                     ]
                 }
             },
-            "IC": "PRASHANT WALI",
             "exams": [
                 {
                     "midsem": "15/03 11.30 - 1.00PM",
@@ -11835,7 +11620,6 @@
                     ]
                 }
             },
-            "IC": "TO BE ANNOUNCED",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -11866,7 +11650,6 @@
                     ]
                 }
             },
-            "IC": "SHREYA BISWAS",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -11897,7 +11680,6 @@
                     ]
                 }
             },
-            "IC": "NIVEDITA SINHA",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -11928,7 +11710,6 @@
                     ]
                 }
             },
-            "IC": "T NAGARAJU",
             "exams": [
                 {
                     "midsem": "15/03 11.30 - 1.00PM",
@@ -11959,7 +11740,6 @@
                     ]
                 }
             },
-            "IC": "SPANDAN BHATTACHARYA",
             "exams": [
                 {
                     "midsem": "14/03 2.00 - 3.30PM",
@@ -11990,7 +11770,6 @@
                     ]
                 }
             },
-            "IC": "JAYESH A K",
             "exams": [
                 {
                     "midsem": "15/03 2.00 - 3.30PM",
@@ -12021,7 +11800,6 @@
                     ]
                 }
             },
-            "IC": "LAVANYA SURESH",
             "exams": [
                 {
                     "midsem": "14/03 2.00 - 3.30PM",
@@ -12052,7 +11830,6 @@
                     ]
                 }
             },
-            "IC": "PRANESH BHARGAVA",
             "exams": [
                 {
                     "midsem": "15/03 2.00 - 3.30PM",
@@ -12083,7 +11860,6 @@
                     ]
                 }
             },
-            "IC": "JAYESH A K",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -12114,7 +11890,6 @@
                     ]
                 }
             },
-            "IC": "VIJAY KUMAR TADAKAMAL",
             "exams": [
                 {
                     "midsem": "14/03 2.00 - 3.30PM",
@@ -12145,7 +11920,6 @@
                     ]
                 }
             },
-            "IC": "MAYA VINAY",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -12176,7 +11950,6 @@
                     ]
                 }
             },
-            "IC": "HARSH MITTAL",
             "exams": [
                 {
                     "midsem": "15/03 2.00 - 3.30PM",
@@ -12207,7 +11980,6 @@
                     ]
                 }
             },
-            "IC": "ARUNA LOLLA",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -12238,7 +12010,6 @@
                     ]
                 }
             },
-            "IC": "SHILPAA ANAND",
             "exams": [
                 {
                     "midsem": "15/03 2.00 - 3.30PM",
@@ -12269,7 +12040,6 @@
                     ]
                 }
             },
-            "IC": "MG PRASUNA",
             "exams": [
                 {
                     "midsem": "15/03 2.00 - 3.30PM",
@@ -12300,7 +12070,6 @@
                     ]
                 }
             },
-            "IC": "VIJAY KUMAR TADAKAMAL",
             "exams": [
                 {
                     "midsem": "16/03 9.30 - 11.00AM",
@@ -12331,7 +12100,6 @@
                     ]
                 }
             },
-            "IC": "PRANESH BHARGAVA",
             "exams": [
                 {
                     "midsem": "14/03 2.00 - 3.30PM",
@@ -12362,7 +12130,6 @@
                     ]
                 }
             },
-            "IC": "SUCHISMITA SATPATHY",
             "exams": [
                 {
                     "midsem": "14/03 2.00 - 3.30PM",
@@ -12393,7 +12160,6 @@
                     ]
                 }
             },
-            "IC": "TONY SEBASTIAN",
             "exams": [
                 {
                     "midsem": "16/03 9.30 - 11.00AM",
@@ -12424,7 +12190,6 @@
                     ]
                 }
             },
-            "IC": "SUCHISMITA SATPATHY",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -12455,7 +12220,6 @@
                     ]
                 }
             },
-            "IC": "LAVANYA SURESH",
             "exams": [
                 {
                     "midsem": "16/03 9.30 - 11.00AM",
@@ -12486,7 +12250,6 @@
                     ]
                 }
             },
-            "IC": "ARUNA LOLLA",
             "exams": [
                 {
                     "midsem": "14/03 2.00 - 3.30PM",
@@ -12517,7 +12280,6 @@
                     ]
                 }
             },
-            "IC": "SPANDAN BHATTACHARYA",
             "exams": [
                 {
                     "midsem": "15/03 2.00 - 3.30PM",
@@ -12548,7 +12310,6 @@
                     ]
                 }
             },
-            "IC": "SHILPAA ANAND",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -12598,8 +12359,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Keerthi C J",
-                        "Subhradeep Pal"
+                        "Subhradeep Pal",
+                        "Keerthi C J"
                     ],
                     "schedule": [
                         {
@@ -12634,8 +12395,8 @@
                 },
                 "P3": {
                     "instructor": [
-                        "Ramya K",
-                        "TO BE ANNOUNCED"
+                        "TO BE ANNOUNCED",
+                        "Ramya K"
                     ],
                     "schedule": [
                         {
@@ -12652,8 +12413,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "Battina Sindhu",
-                        "Sourav Nandi"
+                        "Sourav Nandi",
+                        "Battina Sindhu"
                     ],
                     "schedule": [
                         {
@@ -12670,8 +12431,8 @@
                 },
                 "P5": {
                     "instructor": [
-                        "Battina Sindhu",
-                        "Sourav Nandi"
+                        "Sourav Nandi",
+                        "Battina Sindhu"
                     ],
                     "schedule": [
                         {
@@ -12688,8 +12449,8 @@
                 },
                 "P6": {
                     "instructor": [
-                        "TO BE ANNOUNCED",
-                        "Mrunali Dnyaneshwar Wagh"
+                        "Mrunali Dnyaneshwar Wagh",
+                        "TO BE ANNOUNCED"
                     ],
                     "schedule": [
                         {
@@ -12724,8 +12485,8 @@
                 },
                 "P8": {
                     "instructor": [
-                        "Ritesh Kumar Singh",
-                        "TO BE ANNOUNCED"
+                        "TO BE ANNOUNCED",
+                        "Ritesh Kumar Singh"
                     ],
                     "schedule": [
                         {
@@ -12760,8 +12521,8 @@
                 },
                 "P10": {
                     "instructor": [
-                        "Ritesh Kumar Singh",
-                        "Keerthi C J"
+                        "Keerthi C J",
+                        "Ritesh Kumar Singh"
                     ],
                     "schedule": [
                         {
@@ -12796,8 +12557,8 @@
                 },
                 "P12": {
                     "instructor": [
-                        "TO BE ANNOUNCED",
-                        "Mrunali Dnyaneshwar Wagh"
+                        "Mrunali Dnyaneshwar Wagh",
+                        "TO BE ANNOUNCED"
                     ],
                     "schedule": [
                         {
@@ -13045,7 +12806,6 @@
                     ]
                 }
             },
-            "IC": "TO BE ANNOUNCED",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -13208,7 +12968,6 @@
                     ]
                 }
             },
-            "IC": "JOYJIT MUKHERJEE",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -13353,7 +13112,6 @@
                     ]
                 }
             },
-            "IC": "BVVSN PRABHAKAR RAO",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -13480,7 +13238,6 @@
                     ]
                 }
             },
-            "IC": "SYED ERSHAD AHMED",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -13509,7 +13266,6 @@
                     ]
                 }
             },
-            "IC": "STP SRINIVAS",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -13613,8 +13369,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "Nishchitha N K",
-                        "BVVSN Prabhakar Rao"
+                        "BVVSN Prabhakar Rao",
+                        "Nishchitha N K"
                     ],
                     "schedule": [
                         {
@@ -13631,8 +13387,8 @@
                 },
                 "P5": {
                     "instructor": [
-                        "Nishchitha N K",
-                        "BVVSN Prabhakar Rao"
+                        "BVVSN Prabhakar Rao",
+                        "Nishchitha N K"
                     ],
                     "schedule": [
                         {
@@ -13649,8 +13405,8 @@
                 },
                 "P6": {
                     "instructor": [
-                        "Shuvra Jyoti Bose",
-                        "Sohel Siraj"
+                        "Sohel Siraj",
+                        "Shuvra Jyoti Bose"
                     ],
                     "schedule": [
                         {
@@ -13667,9 +13423,9 @@
                 },
                 "P7": {
                     "instructor": [
-                        "Shuvra Jyoti Bose",
                         "Vanmathi S",
-                        "Sohel Siraj"
+                        "Sohel Siraj",
+                        "Shuvra Jyoti Bose"
                     ],
                     "schedule": [
                         {
@@ -13797,7 +13553,6 @@
                     ]
                 }
             },
-            "IC": "PRASANT KUMAR P",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -13829,9 +13584,9 @@
                 },
                 "P1": {
                     "instructor": [
-                        "N Praneeth",
+                        "Santhi Durganjali Challa",
                         "Sudha Radhika",
-                        "Santhi Durganjali Challa"
+                        "N Praneeth"
                     ],
                     "schedule": [
                         {
@@ -13848,9 +13603,9 @@
                 },
                 "P2": {
                     "instructor": [
+                        "Mithun Mondal",
                         "TO BE ANNOUNCED",
-                        "Santhi Durganjali Challa",
-                        "Mithun Mondal"
+                        "Santhi Durganjali Challa"
                     ],
                     "schedule": [
                         {
@@ -13886,8 +13641,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "N Praneeth",
                         "Nawin Ra",
+                        "N Praneeth",
                         "STP Srinivas"
                     ],
                     "schedule": [
@@ -13952,7 +13707,6 @@
                     ]
                 }
             },
-            "IC": "TO BE ANNOUNCED",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -14015,7 +13769,6 @@
                     ]
                 }
             },
-            "IC": "PONNALAGU R N",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -14044,7 +13797,6 @@
                     ]
                 }
             },
-            "IC": "PRATYUSH CHAKRABORT",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -14073,7 +13825,6 @@
                     ]
                 }
             },
-            "IC": "PRATYUSH CHAKRABORT",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -14102,7 +13853,6 @@
                     ]
                 }
             },
-            "IC": "JOYJIT MUKHERJEE",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -14131,7 +13881,6 @@
                     ]
                 }
             },
-            "IC": "JOYJIT MUKHERJEE",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -14180,7 +13929,6 @@
                     ]
                 }
             },
-            "IC": "NARASIMHA BOLLOJU",
             "exams": [
                 {
                     "midsem": "18/03 9.30 - 11.00AM",
@@ -14257,7 +14005,6 @@
                     ]
                 }
             },
-            "IC": "PK SAHOO",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -14288,7 +14035,6 @@
                     ]
                 }
             },
-            "IC": "DEBOPAM CHAKRABORTH",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -14351,7 +14097,6 @@
                     ]
                 }
             },
-            "IC": "K BHARGAV KUMAR",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -14423,7 +14168,6 @@
                     ]
                 }
             },
-            "IC": "SAJITH P",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -14486,7 +14230,6 @@
                     ]
                 }
             },
-            "IC": "A MICHAEL ALPHONSE",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -14549,7 +14292,6 @@
                     ]
                 }
             },
-            "IC": "SHARAN GOPAL",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -14578,7 +14320,6 @@
                     ]
                 }
             },
-            "IC": "K BHARGAV KUMAR",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -14641,7 +14382,6 @@
                     ]
                 }
             },
-            "IC": "JHUMA SEN GUPTA",
             "exams": [
                 {
                     "midsem": "15/03 4.00 - 5.30PM",
@@ -14704,7 +14444,6 @@
                     ]
                 }
             },
-            "IC": "SUSHIL BHUNIA",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -14767,7 +14506,6 @@
                     ]
                 }
             },
-            "IC": "G MURALI MOHAN REDDY",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -14798,7 +14536,6 @@
                     ]
                 }
             },
-            "IC": "SAYAN GHOSH",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -14829,7 +14566,6 @@
                     ]
                 }
             },
-            "IC": "SAJITH P",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -14860,7 +14596,6 @@
                     ]
                 }
             },
-            "IC": "SAJITH P",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -14891,7 +14626,6 @@
                     ]
                 }
             },
-            "IC": "SABYASACHI DEY",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -14922,7 +14656,6 @@
                     ]
                 }
             },
-            "IC": "SABYASACHI DEY",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -14953,7 +14686,6 @@
                     ]
                 }
             },
-            "IC": "SANTANU KOLEY",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -14984,7 +14716,6 @@
                     ]
                 }
             },
-            "IC": "NIRMAN GANGULY",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -15015,7 +14746,6 @@
                     ]
                 }
             },
-            "IC": "B MISHRA",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -15046,7 +14776,6 @@
                     ]
                 }
             },
-            "IC": "K VENKATA RATNAM",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -15077,7 +14806,6 @@
                     ]
                 }
             },
-            "IC": "PRATYUSHA CHATTOPADH",
             "exams": [
                 {
                     "midsem": "18/03 9.30 - 11.00AM",
@@ -15126,8 +14854,8 @@
                 },
                 "T2": {
                     "instructor": [
-                        "Gudlavalleti Deepak Kumar",
-                        "Amol Vuppuluri"
+                        "Amol Vuppuluri",
+                        "Gudlavalleti Deepak Kumar"
                     ],
                     "schedule": [
                         {
@@ -15176,7 +14904,6 @@
                     ]
                 }
             },
-            "IC": "BRAJESH KUMAR PANIGR",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -15227,9 +14954,9 @@
                 },
                 "P2": {
                     "instructor": [
-                        "Alok Kumar",
+                        "Ahsan Ul Haq",
                         "Srinivasa Murali Kartheek S",
-                        "Ahsan Ul Haq"
+                        "Alok Kumar"
                     ],
                     "schedule": [
                         {
@@ -15246,9 +14973,9 @@
                 },
                 "P3": {
                     "instructor": [
+                        "Ashish Saurabh",
                         "Gunashekar G",
-                        "Alok Kumar",
-                        "Ashish Saurabh"
+                        "Alok Kumar"
                     ],
                     "schedule": [
                         {
@@ -15266,8 +14993,8 @@
                 "P4": {
                     "instructor": [
                         "Danavath Balu",
-                        "Srinivasa Murali Kartheek S",
-                        "Ashish Saurabh"
+                        "Ashish Saurabh",
+                        "Srinivasa Murali Kartheek S"
                     ],
                     "schedule": [
                         {
@@ -15318,8 +15045,8 @@
                 },
                 "T3": {
                     "instructor": [
-                        "Petla Sivateja",
-                        "Kundan Kumar Singh"
+                        "Kundan Kumar Singh",
+                        "Petla Sivateja"
                     ],
                     "schedule": [
                         {
@@ -15335,8 +15062,8 @@
                 },
                 "T4": {
                     "instructor": [
-                        "Petla Sivateja",
-                        "Ravi Shanker Vidyarthy"
+                        "Ravi Shanker Vidyarthy",
+                        "Petla Sivateja"
                     ],
                     "schedule": [
                         {
@@ -15351,7 +15078,6 @@
                     ]
                 }
             },
-            "IC": "N SURESH KUMAR REDDY",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -15365,8 +15091,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "SATISH K DUBEY",
-                        "Satish K Dubey"
+                        "Satish K Dubey",
+                        "SATISH K DUBEY"
                     ],
                     "schedule": [
                         {
@@ -15410,8 +15136,8 @@
                 },
                 "P2": {
                     "instructor": [
-                        "Shaik Gouse Ahammad",
-                        "Santanu Prasad Datta"
+                        "Santanu Prasad Datta",
+                        "Shaik Gouse Ahammad"
                     ],
                     "schedule": [
                         {
@@ -15446,8 +15172,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "K Monika",
-                        "Mrinal Ketan Jagirdar"
+                        "Mrinal Ketan Jagirdar",
+                        "K Monika"
                     ],
                     "schedule": [
                         {
@@ -15464,8 +15190,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "Shaik Gouse Ahammad",
-                        "Satish K Dubey"
+                        "Satish K Dubey",
+                        "Shaik Gouse Ahammad"
                     ],
                     "schedule": [
                         {
@@ -15481,8 +15207,8 @@
                 },
                 "T2": {
                     "instructor": [
-                        "Shaik Gouse Ahammad",
-                        "Mrinal Ketan Jagirdar"
+                        "Mrinal Ketan Jagirdar",
+                        "Shaik Gouse Ahammad"
                     ],
                     "schedule": [
                         {
@@ -15515,8 +15241,8 @@
                 },
                 "T4": {
                     "instructor": [
-                        "Y S Prasanna",
-                        "Sayan Das"
+                        "Sayan Das",
+                        "Y S Prasanna"
                     ],
                     "schedule": [
                         {
@@ -15531,7 +15257,6 @@
                     ]
                 }
             },
-            "IC": "SATISH K DUBEY",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -15563,8 +15288,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "George Yuvaraj",
-                        "YV Daseswara Rao"
+                        "YV Daseswara Rao",
+                        "George Yuvaraj"
                     ],
                     "schedule": [
                         {
@@ -15630,7 +15355,6 @@
                     ]
                 }
             },
-            "IC": "YV DASESWARA RAO",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -15659,7 +15383,6 @@
                     ]
                 }
             },
-            "IC": "M SRINIVAS",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -15690,8 +15413,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Vicky Lad",
-                        "SP Regalla"
+                        "SP Regalla",
+                        "Vicky Lad"
                     ],
                     "schedule": [
                         {
@@ -15708,8 +15431,8 @@
                 },
                 "P2": {
                     "instructor": [
-                        "Veeraiahgari Vamshi",
-                        "TO BE ANNOUNCED"
+                        "TO BE ANNOUNCED",
+                        "Veeraiahgari Vamshi"
                     ],
                     "schedule": [
                         {
@@ -15762,8 +15485,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "Vicky Lad",
-                        "SP Regalla"
+                        "SP Regalla",
+                        "Vicky Lad"
                     ],
                     "schedule": [
                         {
@@ -15779,8 +15502,8 @@
                 },
                 "T2": {
                     "instructor": [
-                        "Vicky Lad",
-                        "Prabakaran Saravanan"
+                        "Prabakaran Saravanan",
+                        "Vicky Lad"
                     ],
                     "schedule": [
                         {
@@ -15827,7 +15550,6 @@
                     ]
                 }
             },
-            "IC": "TO BE ANNOUNCED",
             "exams": [
                 {
                     "midsem": "18/03 9.30 - 11.00AM",
@@ -15841,8 +15563,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Punnag Chatterjee",
-                        "G R SABAREESH"
+                        "G R SABAREESH",
+                        "Punnag Chatterjee"
                     ],
                     "schedule": [
                         {
@@ -15860,8 +15582,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "Gururaja S",
-                        "G R Sabareesh"
+                        "G R Sabareesh",
+                        "Gururaja S"
                     ],
                     "schedule": [
                         {
@@ -15877,8 +15599,8 @@
                 },
                 "T2": {
                     "instructor": [
-                        "Gururaja S",
-                        "Kundan Kumar Singh"
+                        "Kundan Kumar Singh",
+                        "Gururaja S"
                     ],
                     "schedule": [
                         {
@@ -15926,7 +15648,6 @@
                     ]
                 }
             },
-            "IC": "G R SABAREESH",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -15975,8 +15696,8 @@
                 },
                 "T2": {
                     "instructor": [
-                        "Kolla Lakshman Rao",
-                        "Piyush Chandra Verma"
+                        "Piyush Chandra Verma",
+                        "Kolla Lakshman Rao"
                     ],
                     "schedule": [
                         {
@@ -15992,8 +15713,8 @@
                 },
                 "T3": {
                     "instructor": [
-                        "Abhishek Sarkar",
-                        "Vardhanapu Muralidhar"
+                        "Vardhanapu Muralidhar",
+                        "Abhishek Sarkar"
                     ],
                     "schedule": [
                         {
@@ -16025,7 +15746,6 @@
                     ]
                 }
             },
-            "IC": "AMIT KUMAR GUPTA",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -16039,8 +15759,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Alok Kumar",
-                        "KUNDAN KUMAR SINGH"
+                        "KUNDAN KUMAR SINGH",
+                        "Alok Kumar"
                     ],
                     "schedule": [
                         {
@@ -16073,7 +15793,6 @@
                     ]
                 }
             },
-            "IC": "KUNDAN KUMAR SINGH",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -16087,8 +15806,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "R PARAMESHWARAN",
-                        "Mrinal Ketan Jagirdar"
+                        "Mrinal Ketan Jagirdar",
+                        "R PARAMESHWARAN"
                     ],
                     "schedule": [
                         {
@@ -16105,7 +15824,6 @@
                     ]
                 }
             },
-            "IC": "R PARAMESHWARAN",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -16137,8 +15855,8 @@
                 "P1": {
                     "instructor": [
                         "Kalyani Panigrahi",
-                        "Kandula Uday Kumar Reddy",
-                        "KRC Murthy"
+                        "KRC Murthy",
+                        "Kandula Uday Kumar Reddy"
                     ],
                     "schedule": [
                         {
@@ -16155,9 +15873,9 @@
                 },
                 "P2": {
                     "instructor": [
+                        "N Jalaiah",
                         "Kalyani Panigrahi",
-                        "Kandula Uday Kumar Reddy",
-                        "N Jalaiah"
+                        "Kandula Uday Kumar Reddy"
                     ],
                     "schedule": [
                         {
@@ -16174,8 +15892,8 @@
                 },
                 "P3": {
                     "instructor": [
-                        "Joshua Kumar Saladi",
                         "G Prashanth Kumar Reddy",
+                        "Joshua Kumar Saladi",
                         "S S Deshmukh"
                     ],
                     "schedule": [
@@ -16193,8 +15911,8 @@
                 },
                 "P4": {
                     "instructor": [
-                        "Joshua Kumar Saladi",
                         "G Prashanth Kumar Reddy",
+                        "Joshua Kumar Saladi",
                         "Supradeepan K"
                     ],
                     "schedule": [
@@ -16246,8 +15964,8 @@
                 },
                 "T3": {
                     "instructor": [
-                        "Meduri Sitaram",
-                        "N Jalaiah"
+                        "N Jalaiah",
+                        "Meduri Sitaram"
                     ],
                     "schedule": [
                         {
@@ -16279,7 +15997,6 @@
                     ]
                 }
             },
-            "IC": "S S DESHMUKH",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -16308,7 +16025,6 @@
                     ]
                 }
             },
-            "IC": "PAVAN KUMAR P",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -16337,7 +16053,6 @@
                     ]
                 }
             },
-            "IC": "PAVAN KUMAR P",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -16366,7 +16081,6 @@
                     ]
                 }
             },
-            "IC": "N JALAIAH",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -16395,7 +16109,6 @@
                     ]
                 }
             },
-            "IC": "N JALAIAH",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -16443,7 +16156,6 @@
                     ]
                 }
             },
-            "IC": "SATISH K DUBEY",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -16491,7 +16203,6 @@
                     ]
                 }
             },
-            "IC": "PUNNAG CHATTERJEE",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -16538,7 +16249,6 @@
                     ]
                 }
             },
-            "IC": "KURRA SURESH",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -16586,7 +16296,6 @@
                     ]
                 }
             },
-            "IC": "M SRINIVAS",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -16617,7 +16326,6 @@
                     ]
                 }
             },
-            "IC": "N JALAIAH",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -16648,7 +16356,6 @@
                     ]
                 }
             },
-            "IC": "SUPRADEEPAN K",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -16662,8 +16369,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "MRINAL KETAN JAGIRDAR",
-                        "Pardha Saradhi Gurugubelli"
+                        "Pardha Saradhi Gurugubelli",
+                        "MRINAL KETAN JAGIRDAR"
                     ],
                     "schedule": [
                         {
@@ -16681,8 +16388,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Pardha Saradhi Gurugubelli",
-                        "Mrinal Ketan Jagirdar"
+                        "Mrinal Ketan Jagirdar",
+                        "Pardha Saradhi Gurugubelli"
                     ],
                     "schedule": [
                         {
@@ -16699,7 +16406,6 @@
                     ]
                 }
             },
-            "IC": "MRINAL KETAN JAGIRDAR",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -16749,7 +16455,6 @@
                     ]
                 }
             },
-            "IC": "KURRA SURESH",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -16763,8 +16468,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "SANTANU PRASAD DATTA",
-                        "Sayan Das"
+                        "Sayan Das",
+                        "SANTANU PRASAD DATTA"
                     ],
                     "schedule": [
                         {
@@ -16799,7 +16504,6 @@
                     ]
                 }
             },
-            "IC": "SANTANU PRASAD DATTA",
             "exams": [
                 {
                     "midsem": "15/03 11.30 - 1.00PM",
@@ -16858,7 +16562,6 @@
                     ]
                 }
             },
-            "IC": "SURYA SHANKAR DAN",
             "exams": [
                 {
                     "midsem": "15/03 11.30 - 1.00PM",
@@ -16890,9 +16593,9 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Gowtham Polumati",
+                        "Venkatarao Selamneni",
                         "Parikshit Parshuram Sahatiy",
-                        "Venkatarao Selamneni"
+                        "Gowtham Polumati"
                     ],
                     "schedule": [
                         {
@@ -16909,7 +16612,6 @@
                     ]
                 }
             },
-            "IC": "PARIKSHIT PARSHURAM S",
             "exams": [
                 {
                     "midsem": "13/03 2.00 - 3.30PM",
@@ -16941,8 +16643,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "M Aalelai Vendhan",
-                        "S K Chatterjee"
+                        "S K Chatterjee",
+                        "M Aalelai Vendhan"
                     ],
                     "schedule": [
                         {
@@ -16968,7 +16670,6 @@
                     ]
                 }
             },
-            "IC": "S K CHATTERJEE",
             "exams": [
                 {
                     "midsem": "18/03 11.30 - 1.00PM",
@@ -17016,7 +16717,6 @@
                     ]
                 }
             },
-            "IC": "CHETAN KUMAR V",
             "exams": [
                 {
                     "midsem": "17/03 9.30 - 11.00AM",
@@ -17047,7 +16747,6 @@
                     ]
                 }
             },
-            "IC": "C P KIRAN",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -17096,7 +16795,6 @@
                     ]
                 }
             },
-            "IC": "C P KIRAN",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -17127,7 +16825,6 @@
                     ]
                 }
             },
-            "IC": "RAVI SHANKER VIDYARTH",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -17174,7 +16871,6 @@
                     ]
                 }
             },
-            "IC": "SWATI ALOK",
             "exams": [
                 {
                     "midsem": "15/03 4.00 - 5.30PM",
@@ -17205,7 +16901,6 @@
                     ]
                 }
             },
-            "IC": "NIRANJAN SWAIN",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -17236,7 +16931,6 @@
                     ]
                 }
             },
-            "IC": "SWATI ALOK",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -17285,7 +16979,6 @@
                     ]
                 }
             },
-            "IC": "AMRITHA PRIYADARSHINI",
             "exams": [
                 {
                     "midsem": "13/03 2.00 - 3.30PM",
@@ -17334,7 +17027,6 @@
                     ]
                 }
             },
-            "IC": "PIYUSH CHANDRA VERMA",
             "exams": [
                 {
                     "midsem": "15/03 11.30 - 1.00PM",
@@ -17383,7 +17075,6 @@
                     ]
                 }
             },
-            "IC": "PAVAN KUMAR P",
             "exams": [
                 {
                     "midsem": "18/03 11.30 - 1.00PM",
@@ -17414,8 +17105,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Lahane Ganesh Panditrao",
                         "Arti Dhar",
+                        "Lahane Ganesh Panditrao",
                         "Trupti Ghatage",
                         "Rupal Kothari"
                     ],
@@ -17434,8 +17125,8 @@
                 },
                 "P2": {
                     "instructor": [
-                        "Lahane Ganesh Panditrao",
                         "Arti Dhar",
+                        "Lahane Ganesh Panditrao",
                         "Trupti Ghatage",
                         "Rupal Kothari"
                     ],
@@ -17469,7 +17160,6 @@
                     ]
                 }
             },
-            "IC": "ARTI DHAR",
             "exams": [
                 {
                     "midsem": "18/03 11.30 - 1.00PM",
@@ -17500,9 +17190,9 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Ambati Himaja",
-                        "Priyadarshini Sathe",
                         "K Vandana",
+                        "Priyadarshini Sathe",
+                        "Ambati Himaja",
                         "D Sriram"
                     ],
                     "schedule": [
@@ -17535,7 +17225,6 @@
                     ]
                 }
             },
-            "IC": "D SRIRAM",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -17566,9 +17255,9 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Aparajita Ghosh",
                         "Tarun",
-                        "Balram Ghosh"
+                        "Balram Ghosh",
+                        "Aparajita Ghosh"
                     ],
                     "schedule": [
                         {
@@ -17600,7 +17289,6 @@
                     ]
                 }
             },
-            "IC": "BALRAM GHOSH",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -17629,7 +17317,6 @@
                     ]
                 }
             },
-            "IC": "ABHIJEET RAJENDRA JOS",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -17661,12 +17348,12 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Ch Sai Sanjay",
+                        "Shreya Shashank Chauhan",
+                        "Velmurugan K",
                         "Gupta Suraj Pyarelal Meena",
                         "A Sajeli Begum",
-                        "Sankar Shridula",
-                        "Shreya Shashank Chauhan",
-                        "Velmurugan K"
+                        "Ch Sai Sanjay",
+                        "Sankar Shridula"
                     ],
                     "schedule": [
                         {
@@ -17699,7 +17386,6 @@
                     ]
                 }
             },
-            "IC": "A SAJELI BEGUM",
             "exams": [
                 {
                     "midsem": "14/03 9.30 - 11.00AM",
@@ -17730,9 +17416,9 @@
                 },
                 "P1": {
                     "instructor": [
+                        "Onkar Kulkarni",
                         "Lavanya S",
-                        "Sonam Dolma",
-                        "Onkar Kulkarni"
+                        "Sonam Dolma"
                     ],
                     "schedule": [
                         {
@@ -17749,9 +17435,9 @@
                 },
                 "P2": {
                     "instructor": [
+                        "Onkar Kulkarni",
                         "Lavanya S",
-                        "Sonam Dolma",
-                        "Onkar Kulkarni"
+                        "Sonam Dolma"
                     ],
                     "schedule": [
                         {
@@ -17783,7 +17469,6 @@
                     ]
                 }
             },
-            "IC": "ONKAR KULKARNI",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -17814,11 +17499,11 @@
                 },
                 "P1": {
                     "instructor": [
-                        "SONAL SUKHADEO FANDE",
                         "Darakhshan Begum",
                         "P Yogeeswari",
-                        "Sri Ganga",
-                        "Purbali Chakraborty"
+                        "SONAL SUKHADEO FANDE",
+                        "Purbali Chakraborty",
+                        "Sri Ganga"
                     ],
                     "schedule": [
                         {
@@ -17835,11 +17520,11 @@
                 },
                 "P2": {
                     "instructor": [
-                        "SONAL SUKHADEO FANDE",
                         "Darakhshan Begum",
                         "P Yogeeswari",
-                        "Sri Ganga",
-                        "Purbali Chakraborty"
+                        "SONAL SUKHADEO FANDE",
+                        "Purbali Chakraborty",
+                        "Sri Ganga"
                     ],
                     "schedule": [
                         {
@@ -17871,7 +17556,6 @@
                     ]
                 }
             },
-            "IC": "SONAL SUKHADEO FANDE",
             "exams": [
                 {
                     "midsem": "13/03 4.00 - 5.30PM",
@@ -17917,7 +17601,6 @@
                     ]
                 }
             },
-            "IC": "BALRAM GHOSH",
             "exams": [
                 {
                     "midsem": "14/03 4.00 - 5.30PM",
@@ -17948,11 +17631,11 @@
                 },
                 "P1": {
                     "instructor": [
+                        "Sai Shreya",
                         "P. S Lakshmi Soukya",
-                        "Bollareddy Srivarsha Reddy",
                         "Erram Venkatesh",
-                        "A Sajeli Begum",
-                        "Sai Shreya"
+                        "Bollareddy Srivarsha Reddy",
+                        "A Sajeli Begum"
                     ],
                     "schedule": [
                         {
@@ -17969,11 +17652,11 @@
                 },
                 "P2": {
                     "instructor": [
+                        "Sai Shreya",
                         "P. S Lakshmi Soukya",
-                        "Bollareddy Srivarsha Reddy",
                         "Erram Venkatesh",
-                        "A Sajeli Begum",
-                        "Sai Shreya"
+                        "Bollareddy Srivarsha Reddy",
+                        "A Sajeli Begum"
                     ],
                     "schedule": [
                         {
@@ -18005,7 +17688,6 @@
                     ]
                 }
             },
-            "IC": "A SAJELI BEGUM",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -18034,7 +17716,6 @@
                     ]
                 }
             },
-            "IC": "ABHIJEET RAJENDRA JOS",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -18063,7 +17744,6 @@
                     ]
                 }
             },
-            "IC": "ABHIJEET RAJENDRA JOS",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -18092,7 +17772,6 @@
                     ]
                 }
             },
-            "IC": "ABHIJEET RAJENDRA JOS",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -18121,7 +17800,6 @@
                     ]
                 }
             },
-            "IC": "ABHIJEET RAJENDRA JOS",
             "exams": [
                 {
                     "midsem": "18/03 2.00 - 3.30PM",
@@ -18152,7 +17830,6 @@
                     ]
                 }
             },
-            "IC": "V V KRISHNA VENUGANTI",
             "exams": [
                 {
                     "midsem": "14/03 11.30 - 1.00PM",
@@ -18183,7 +17860,6 @@
                     ]
                 }
             },
-            "IC": "NIRMAL J",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
@@ -18214,7 +17890,6 @@
                     ]
                 }
             },
-            "IC": "ABHIJEET RAJENDRA JOS",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -18246,8 +17921,8 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Panchal Kanan Jayesh Pann",
                         "Akash C",
+                        "Panchal Kanan Jayesh Pann",
                         "Sonali Singh"
                     ],
                     "schedule": [
@@ -18266,7 +17941,6 @@
                     ]
                 }
             },
-            "IC": "AKASH C",
             "exams": [
                 {
                     "midsem": "15/03 11.30 - 1.00PM",
@@ -18297,7 +17971,6 @@
                     ]
                 }
             },
-            "IC": "R PUNNA RAO",
             "exams": [
                 {
                     "midsem": "13/03 2.00 - 3.30PM",
@@ -18330,10 +18003,10 @@
                 },
                 "P1": {
                     "instructor": [
-                        "Wadkar Avinash Rudrappa",
                         "Arti Dhar",
+                        "Onkar Kulkarni",
                         "Ashutosh Balasaheb Mahale",
-                        "Onkar Kulkarni"
+                        "Wadkar Avinash Rudrappa"
                     ],
                     "schedule": [
                         {
@@ -18351,7 +18024,6 @@
                     ]
                 }
             },
-            "IC": "ARTI DHAR",
             "exams": [
                 {
                     "midsem": "14/03 2.00 - 3.30PM",
@@ -18383,9 +18055,9 @@
                 },
                 "P1": {
                     "instructor": [
+                        "Swagata Sinha",
                         "R Punna Rao",
-                        "Mohd Shareef Khan",
-                        "Swagata Sinha"
+                        "Mohd Shareef Khan"
                     ],
                     "schedule": [
                         {
@@ -18403,7 +18075,6 @@
                     ]
                 }
             },
-            "IC": "R PUNNA RAO",
             "exams": [
                 {
                     "midsem": "18/03 11.30 - 1.00PM",
@@ -18436,8 +18107,8 @@
                 "P1": {
                     "instructor": [
                         "Parameswar Patra",
-                        "Swati Biswas",
                         "Asif Mohd Itoo",
+                        "Swati Biswas",
                         "Milan Paul"
                     ],
                     "schedule": [
@@ -18456,7 +18127,6 @@
                     ]
                 }
             },
-            "IC": "SWATI BISWAS",
             "exams": [
                 {
                     "midsem": "17/03 9.30 - 11.00AM",
@@ -18470,8 +18140,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "SRINIVAS PRASAD K",
-                        "Abhijeet Rajendra Joshi"
+                        "Abhijeet Rajendra Joshi",
+                        "SRINIVAS PRASAD K"
                     ],
                     "schedule": [
                         {
@@ -18488,7 +18158,6 @@
                     ]
                 }
             },
-            "IC": "SRINIVAS PRASAD K",
             "exams": [
                 {
                     "midsem": "17/03 9.30 - 11.00AM",
@@ -18519,7 +18188,6 @@
                     ]
                 }
             },
-            "IC": "SUBASH N. KARBELKAR",
             "exams": [
                 {
                     "midsem": "17/03 4.00 - 5.30PM",
@@ -18533,8 +18201,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Sarmistha Banik",
-                        "SASHIDEEP GUTTI"
+                        "SASHIDEEP GUTTI",
+                        "Sarmistha Banik"
                     ],
                     "schedule": [
                         {
@@ -18568,7 +18236,6 @@
                     ]
                 }
             },
-            "IC": "SASHIDEEP GUTTI",
             "exams": [
                 {
                     "midsem": "17/03 2.00 - 3.30PM",
@@ -18582,8 +18249,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Asrarul Haque",
-                        "ASRARUL HAQUE"
+                        "ASRARUL HAQUE",
+                        "Asrarul Haque"
                     ],
                     "schedule": [
                         {
@@ -18624,7 +18291,6 @@
                     ]
                 }
             },
-            "IC": "ASRARUL HAQUE",
             "exams": [
                 {
                     "midsem": "15/03 9.30 - 11.00AM",
@@ -18671,7 +18337,6 @@
                     ]
                 }
             },
-            "IC": "SWASTIK BHATTACHARYA",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -18685,10 +18350,10 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Aravinda N Raghavan",
+                        "Aiswarya N M",
                         "Hiwase Prajakta Mohanrao",
-                        "MEENAKSHI V",
-                        "Aiswarya N M"
+                        "Aravinda N Raghavan",
+                        "MEENAKSHI V"
                     ],
                     "schedule": [
                         {
@@ -18706,10 +18371,10 @@
                 },
                 "L2": {
                     "instructor": [
-                        "Aravinda N Raghavan",
+                        "Aiswarya N M",
                         "Hiwase Prajakta Mohanrao",
                         "Meenakshi V",
-                        "Aiswarya N M"
+                        "Aravinda N Raghavan"
                     ],
                     "schedule": [
                         {
@@ -18726,7 +18391,6 @@
                     ]
                 }
             },
-            "IC": "MEENAKSHI V",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -18757,7 +18421,6 @@
                     ]
                 }
             },
-            "IC": "SUBRAHMANYA BHIMA SA",
             "exams": [
                 {
                     "midsem": "13/03 11.30 - 1.00PM",
@@ -18788,7 +18451,6 @@
                     ]
                 }
             },
-            "IC": "SASHIDEEP GUTTI",
             "exams": [
                 {
                     "midsem": "13/03 9.30 - 11.00AM",
@@ -18835,7 +18497,6 @@
                     ]
                 }
             },
-            "IC": "ARAVINDA N RAGHAVAN",
             "exams": [
                 {
                     "midsem": "16/03 9.30 - 11.00AM",
@@ -18882,7 +18543,6 @@
                     ]
                 }
             },
-            "IC": "ARANYA BHUTI BHATTACH",
             "exams": [
                 {
                     "midsem": "16/03 4.00 - 5.30PM",
@@ -18896,8 +18556,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Asrarul Haque",
-                        "RAHUL NIGAM"
+                        "RAHUL NIGAM",
+                        "Asrarul Haque"
                     ],
                     "schedule": [
                         {
@@ -18915,8 +18575,8 @@
                 },
                 "T1": {
                     "instructor": [
-                        "Rahul Nigam",
-                        "Asrarul Haque"
+                        "Asrarul Haque",
+                        "Rahul Nigam"
                     ],
                     "schedule": [
                         {
@@ -18931,7 +18591,6 @@
                     ]
                 }
             },
-            "IC": "RAHUL NIGAM",
             "exams": [
                 {
                     "midsem": "15/03 4.00 - 5.30PM",
@@ -18945,9 +18604,9 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "Nilofar Naaz",
-                        "Subrahmanya Bhima Sankar",
                         "KANNAN RAMASWAMY",
+                        "Subrahmanya Bhima Sankar",
+                        "Nilofar Naaz",
                         "B Harihara Venkataraman"
                     ],
                     "schedule": [
@@ -18966,7 +18625,6 @@
                     ]
                 }
             },
-            "IC": "KANNAN RAMASWAMY",
             "exams": [
                 {
                     "midsem": "15/03 4.00 - 5.30PM",
@@ -18998,7 +18656,6 @@
                     ]
                 }
             },
-            "IC": "SUBRAHMANYA BHIMA SA",
             "exams": [
                 {
                     "midsem": "15/03 4.00 - 5.30PM",
@@ -19030,7 +18687,6 @@
                     ]
                 }
             },
-            "IC": "SUBRAHMANYA BHIMA SA",
             "exams": [
                 {
                     "midsem": "15/03 4.00 - 5.30PM",
@@ -19062,7 +18718,6 @@
                     ]
                 }
             },
-            "IC": "SUBRAHMANYA BHIMA SA",
             "exams": [
                 {
                     "midsem": "15/03 4.00 - 5.30PM",
@@ -19094,7 +18749,6 @@
                     ]
                 }
             },
-            "IC": "SUBRAHMANYA BHIMA SA",
             "exams": [
                 {
                     "midsem": "15/03 4.00 - 5.30PM",
@@ -19108,8 +18762,8 @@
             "sections": {
                 "L1": {
                     "instructor": [
-                        "B HARIHARA VENKATARA",
-                        "VSN Murthy"
+                        "VSN Murthy",
+                        "B HARIHARA VENKATARA"
                     ],
                     "schedule": [
                         {
@@ -19126,7 +18780,6 @@
                     ]
                 }
             },
-            "IC": "B HARIHARA VENKATARA",
             "exams": [
                 {
                     "midsem": "18/03 4.00 - 5.30PM",
@@ -19157,7 +18810,6 @@
                     ]
                 }
             },
-            "IC": "PRASANT SAMANTRAY",
             "exams": [
                 {
                     "midsem": "18/03 9.30 - 11.00AM",
@@ -19188,7 +18840,6 @@
                     ]
                 }
             },
-            "IC": "RAHUL NIGAM",
             "exams": [
                 {
                     "midsem": "16/03 11.30 - 1.00PM",
