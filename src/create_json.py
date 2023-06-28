@@ -55,7 +55,7 @@ def create_json_file(
     tt: pd.DataFrame = timetable
     final_json: dict = {}
     tt.columns = columns
-    tt.drop(columns=["serial", "L", "P", "U"], inplace=True)
+    tt.drop(columns=["serial", "L", "P"], inplace=True)
 
     # Filling all empty rows with the previous row's value for simplicity
     tt.fillna(method="ffill", inplace=True)
@@ -66,6 +66,7 @@ def create_json_file(
         # initialize course and course details if not already initialized
         if final_json.get(course_code) is None:
             final_json[course_code] = {}
+            final_json[course_code]["units"] = row["U"]
         if final_json[course_code].get("course_name") is None:
             final_json[course_code]["course_name"] = row["course_name"]
         if final_json[course_code].get("sections") is None:
