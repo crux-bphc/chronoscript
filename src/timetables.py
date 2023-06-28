@@ -24,6 +24,7 @@ def get_filtered_json(
     Returns:
         dict: filtered json file, i.e, with only courses selected
     """
+    json = json["courses"]
     filtered_json = {"CDCs": {}, "DEls": {}, "HUELs": {}, "OPELs": {}}
     for CDC in CDCs:
         filtered_json["CDCs"][CDC] = json[CDC]
