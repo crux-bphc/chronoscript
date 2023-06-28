@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+from parse_times import parse_time, parse_compre_time
 
 
 def convert_all_sets_to_list_recursive(obj: dict) -> dict:
@@ -45,6 +46,7 @@ def create_json_file(
     timetable: pd.DataFrame,
     columns: list[str],
     output_file: str,
+    year: int,
     academic_year: int,
     semester: int,
 ) -> None:
@@ -55,6 +57,7 @@ def create_json_file(
         timetable (pd.DataFrame): The timetable dataframe to create the json file from.
         columns (list[str]): The columns of the dataframe.
         output_file (str): The name of the output json file.
+        year (int): The academic year of the timetable. (example: 2023)
         academic_year (int): The academic year of the timetable. (example: 2021 is for acad year 2021-2022)
         semester (int): The semester of the timetable. (example: 1 is for odd semester, 2 is for even semester)
     """
@@ -139,6 +142,19 @@ def create_json_file(
             course_json[course_code]["exams"]
         )
 
+    # parse exam times
+    for course_code in course_json:
+        exams_list = course_json[course_code]["exams"]
+        exams_iso = []
+        for exam in exams_list:
+            exams_iso.append(
+                {
+                    "midsem": parse_time(exam["midsem"], year),
+                    "compre": parse_compre_time(exam["compre"], year),
+                }
+            )
+        course_json[course_code]["exams_iso"] = exams_iso
+
     # convert file to serializable format
     convert_all_sets_to_list_recursive(course_json)
     final_json = {}
@@ -171,4 +187,4 @@ if __name__ == "__main__":
 
     timetable = pd.read_csv("output.csv")
 
-    create_json_file(timetable, columns, "timetable.json", 2022, 2)
+    create_json_file(timetable, columns, "timetable.json", 2023, 2022, 2)
