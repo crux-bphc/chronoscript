@@ -89,6 +89,10 @@ def create_json_file(
         if final_json[course_code]["sections"][section].get("instructor") is None:
             final_json[course_code]["sections"][section]["instructor"] = set()
 
+        # IC
+        if row["instructor"].upper() == row["instructor"]:
+            final_json[course_code]["IC"] = row["instructor"]
+            
         # add instructor to the set of instructors for the section
         final_json[course_code]["sections"][section]["instructor"].add(
             row["instructor"]
