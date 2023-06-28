@@ -42,7 +42,7 @@ def remove_duplicate_dicts(l: list[dict]) -> list[dict]:
 
 
 def create_json_file(
-    timetable: pd.DataFrame, columns: list[str], output_file: str
+    timetable: pd.DataFrame, columns: list[str], output_file: str, academic_year: int, semester: int
 ) -> None:
     """
     Function to create a json file from a timetable dataframe.
@@ -51,9 +51,11 @@ def create_json_file(
         timetable (pd.DataFrame): The timetable dataframe to create the json file from.
         columns (list[str]): The columns of the dataframe.
         output_file (str): The name of the output json file.
+        academic_year (int): The academic year of the timetable. (example: 2021 is for acad year 2021-2022)
+        semester (int): The semester of the timetable. (example: 1 is for odd semester, 2 is for even semester)
     """
     tt: pd.DataFrame = timetable
-    final_json: dict = {}
+    course_json: dict = {}
     tt.columns = columns
     tt.drop(columns=["serial", "L", "P"], inplace=True)
 
@@ -64,13 +66,13 @@ def create_json_file(
         course_code = row["course_code"]
 
         # initialize course and course details if not already initialized
-        if final_json.get(course_code) is None:
-            final_json[course_code] = {}
-            final_json[course_code]["units"] = row["U"]
-        if final_json[course_code].get("course_name") is None:
-            final_json[course_code]["course_name"] = row["course_name"]
-        if final_json[course_code].get("sections") is None:
-            final_json[course_code]["sections"] = {}
+        if course_json.get(course_code) is None:
+            course_json[course_code] = {}
+            course_json[course_code]["units"] = row["U"]
+        if course_json[course_code].get("course_name") is None:
+            course_json[course_code]["course_name"] = row["course_name"]
+        if course_json[course_code].get("sections") is None:
+            course_json[course_code]["sections"] = {}
 
         # make sure sections of different kinds of classes (lecture, tutorial, practical) are not overwritten by each other
         # to make sure of that, and for common lingo, we add a prefix to the section number
@@ -83,29 +85,29 @@ def create_json_file(
             section = "L" + str(section)
 
         # initialize section and section details if not already initialized
-        if final_json[course_code]["sections"].get(section) is None:
-            final_json[course_code]["sections"][section] = {}
+        if course_json[course_code]["sections"].get(section) is None:
+            course_json[course_code]["sections"][section] = {}
 
-        if final_json[course_code]["sections"][section].get("instructor") is None:
-            final_json[course_code]["sections"][section]["instructor"] = set()
+        if course_json[course_code]["sections"][section].get("instructor") is None:
+            course_json[course_code]["sections"][section]["instructor"] = set()
 
         # IC
         if row["instructor"].upper() == row["instructor"]:
-            final_json[course_code]["IC"] = row["instructor"]
+            course_json[course_code]["IC"] = row["instructor"]
             
         # add instructor to the set of instructors for the section
-        final_json[course_code]["sections"][section]["instructor"].add(
+        course_json[course_code]["sections"][section]["instructor"].add(
             row["instructor"]
         )
 
         # initialize schedule if not already initialized
-        if final_json[course_code]["sections"][section].get("schedule") is None:
-            final_json[course_code]["sections"][section]["schedule"] = []
+        if course_json[course_code]["sections"][section].get("schedule") is None:
+            course_json[course_code]["sections"][section]["schedule"] = []
 
         # add schedule to the list of schedules for the section
         # list of schedules is a list of dictionaries, where each dictionary is a schedule
         # we kept it as a list, as a class may have multiple schedules (eg: "T Th @ 4" and "S @ 2")
-        final_json[course_code]["sections"][section]["schedule"].append(
+        course_json[course_code]["sections"][section]["schedule"].append(
             {
                 "room": row["room"],
                 "days": tuple(row["days"].split()),
@@ -114,18 +116,18 @@ def create_json_file(
         )
 
         # remove duplicate schedules
-        final_json[course_code]["sections"][section][
+        course_json[course_code]["sections"][section][
             "schedule"
         ] = remove_duplicate_dicts(
-            final_json[course_code]["sections"][section]["schedule"]
+            course_json[course_code]["sections"][section]["schedule"]
         )
 
         # initialize exams if not already initialized
-        if final_json[course_code].get("exams") is None:
-            final_json[course_code]["exams"] = []
+        if course_json[course_code].get("exams") is None:
+            course_json[course_code]["exams"] = []
 
         # add exams to the list of exams for the course
-        final_json[course_code]["exams"].append(
+        course_json[course_code]["exams"].append(
             {
                 "midsem": row["midsem"],
                 "compre": row["compre"],
@@ -133,12 +135,18 @@ def create_json_file(
         )
 
         # remove duplicate exams
-        final_json[course_code]["exams"] = remove_duplicate_dicts(
-            final_json[course_code]["exams"]
+        course_json[course_code]["exams"] = remove_duplicate_dicts(
+            course_json[course_code]["exams"]
         )
 
     # convert file to serializable format
-    convert_all_sets_to_list_recursive(final_json)
+    convert_all_sets_to_list_recursive(course_json)
+    final_json = {}
+    final_json["metadata"]  = {
+        "acadYear": academic_year,
+        "semester": semester,
+    }
+    final_json["courses"] = course_json
     # output the json file
     json.dump(final_json, open(output_file, "w"), indent=4)
 
@@ -163,4 +171,4 @@ if __name__ == "__main__":
 
     timetable = pd.read_csv("output.csv")
 
-    create_json_file(timetable, columns, "timetable.json")
+    create_json_file(timetable, columns, "timetable.json", 2022, 2)
