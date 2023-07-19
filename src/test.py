@@ -19,7 +19,7 @@ def format(obj: dict) -> dict:
     Returns:
         dict: The converted dictionary with set of instructors.
     """
-    for data in obj.values():
+    for data in obj["courses"].values():
         for section in data["sections"].values():
             section["instructor"] = set(section["instructor"])
 
@@ -37,14 +37,15 @@ def test(obj: list[list[str]], expected_output: dict, output_file) -> str:
         str: "TEST PASS" if test is successful else raises exception.
     """
     data = pd.DataFrame(obj)
-    create_json.create_json_file(data, columns, output_file)
+    create_json.create_json_file(
+        data, columns, output_file, 2000, 2000, 1
+    )  # jargon data to fill year data
 
     output_data = json.loads(
         open(output_file, "r").read()
     )  # reading the output file and converting it to a dictionary for comparison
 
     format(output_data)
-
     assert (
         output_data == expected_output
     ), "Conversion failed!"  # checking equality of expected and parser output, if fail raises AssertionError: "Conversion failed!" else continue
@@ -73,18 +74,28 @@ if __name__ == "__main__":
     ]
 
     expected_output_1 = {
-        "COU-1": {
-            "course_name": "Course-1",
-            "sections": {
-                "L1": {
-                    "instructor": {"Instructor 1"},
-                    "schedule": [
-                        {"room": "G101", "days": ["T", "Th", "S"], "hours": [4]}
-                    ],
-                }
-            },
-            "exams": [{"midsem": "13/03 9.30 - 11.00AM", "compre": "08/05 FN"}],
-        }
+        "metadata": {"acadYear": 2000, "semester": 1},
+        "courses": {
+            "COU-1": {
+                "units": "3",
+                "course_name": "Course-1",
+                "sections": {
+                    "L1": {
+                        "instructor": {"Instructor 1"},
+                        "schedule": [
+                            {"room": "G101", "days": ["T", "Th", "S"], "hours": [4]}
+                        ],
+                    }
+                },
+                "exams": [{"midsem": "13/03 9.30 - 11.00AM", "compre": "08/05 FN"}],
+                "exams_iso": [
+                    {
+                        "midsem": "2000-03-13T04:00:00|2000-03-13T05:30:00",
+                        "compre": "2000-05-08T04:00:00|2000-05-08T07:00:00",
+                    }
+                ],
+            }
+        },
     }
 
     # Multiple instructors per section
@@ -122,18 +133,28 @@ if __name__ == "__main__":
     ]
 
     expected_output_2 = {
-        "COU-2": {
-            "course_name": "Course-2",
-            "sections": {
-                "L1": {
-                    "instructor": {"Instructor 1", "Instructor 2"},
-                    "schedule": [
-                        {"room": "G102", "days": ["M", "W", "F"], "hours": [9]}
-                    ],
-                }
-            },
-            "exams": [{"midsem": "16/03 4.00 - 5.30PM", "compre": "16/05 AN"}],
-        }
+        "metadata": {"acadYear": 2000, "semester": 1},
+        "courses": {
+            "COU-2": {
+                "units": "3",
+                "course_name": "Course-2",
+                "sections": {
+                    "L1": {
+                        "instructor": {"Instructor 1", "Instructor 2"},
+                        "schedule": [
+                            {"room": "G102", "days": ["M", "W", "F"], "hours": [9]}
+                        ],
+                    }
+                },
+                "exams": [{"midsem": "16/03 4.00 - 5.30PM", "compre": "16/05 AN"}],
+                "exams_iso": [
+                    {
+                        "midsem": "2000-03-16T10:30:00|2000-03-16T12:00:00",
+                        "compre": "2000-05-16T08:30:00|2000-05-16T11:30:00",
+                    }
+                ],
+            }
+        },
     }
 
     # Multiple Types of Sections (Lectures,Tutorial)
@@ -162,6 +183,21 @@ if __name__ == "__main__":
             np.NaN,
             np.NaN,
             "Instructor 2",
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+        ],
+        [
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            "Instructor 3",
             np.NaN,
             np.NaN,
             np.NaN,
@@ -201,22 +237,32 @@ if __name__ == "__main__":
     ]
 
     expected_output_3 = {
-        "COU-3": {
-            "course_name": "Course-3",
-            "sections": {
-                "L1": {
-                    "instructor": {"Instructor 1", "Instructor 2"},
-                    "schedule": [
-                        {"room": "G103", "days": ["M", "W", "F"], "hours": [3]}
-                    ],
+        "metadata": {"acadYear": 2000, "semester": 1},
+        "courses": {
+            "COU-3": {
+                "units": "3",
+                "course_name": "Course-3",
+                "sections": {
+                    "L1": {
+                        "instructor": {"Instructor 1", "Instructor 2", "Instructor 3"},
+                        "schedule": [
+                            {"room": "G103", "days": ["M", "W", "F"], "hours": [3]}
+                        ],
+                    },
+                    "T1": {
+                        "instructor": {"T_instructor 1", "T_instructor 2"},
+                        "schedule": [{"room": "G103", "days": ["S"], "hours": [1]}],
+                    },
                 },
-                "T1": {
-                    "instructor": {"T_instructor 1", "T_instructor 2"},
-                    "schedule": [{"room": "G103", "days": ["S"], "hours": [1]}],
-                },
-            },
-            "exams": [{"midsem": "14/03 9.30 - 11.00AM", "compre": "10/05 FN "}],
-        }
+                "exams": [{"midsem": "14/03 9.30 - 11.00AM", "compre": "10/05 FN "}],
+                "exams_iso": [
+                    {
+                        "midsem": "2000-03-14T04:00:00|2000-03-14T05:30:00",
+                        "compre": "2000-05-10T04:00:00|2000-05-10T07:00:00",
+                    }
+                ],
+            }
+        },
     }
 
     # Multiple sections (T1,T2,etc...)
@@ -419,44 +465,237 @@ if __name__ == "__main__":
     ]
 
     expected_output_4 = {
-        "COU-4": {
-            "course_name": "Course-4",
-            "sections": {
-                "L1": {
-                    "instructor": {"instructor 1"},
-                    "schedule": [
-                        {"room": "F102", "days": ["M", "W", "F"], "hours": [3]}
-                    ],
+        "metadata": {"acadYear": 2000, "semester": 1},
+        "courses": {
+            "COU-4": {
+                "units": "4",
+                "course_name": "Course-4",
+                "sections": {
+                    "L1": {
+                        "instructor": {"instructor 1"},
+                        "schedule": [
+                            {"room": "F102", "days": ["M", "W", "F"], "hours": [3]}
+                        ],
+                    },
+                    "P1": {
+                        "instructor": {"P_instructor 2", "P_instructor 1"},
+                        "schedule": [{"room": "D313", "days": ["M"], "hours": [6, 7]}],
+                    },
+                    "P2": {
+                        "instructor": {"P_instructor 4", "P_instructor 3"},
+                        "schedule": [{"room": "D313", "days": ["W"], "hours": [6, 7]}],
+                    },
+                    "P3": {
+                        "instructor": {"P_instructor 6", "P_instructor 5"},
+                        "schedule": [{"room": "D313", "days": ["T"], "hours": [2, 3]}],
+                    },
+                    "P4": {
+                        "instructor": {"P_instructor 8", "P_instructor 7"},
+                        "schedule": [{"room": "D313", "days": ["Th"], "hours": [2, 3]}],
+                    },
+                    "T1": {
+                        "instructor": {"T_instructor 2", "T_instructor 1"},
+                        "schedule": [{"room": "G103", "days": ["S"], "hours": [1]}],
+                    },
+                    "T2": {
+                        "instructor": {"T_instructor 3", "T_instructor 4"},
+                        "schedule": [{"room": "G105", "days": ["S"], "hours": [1]}],
+                    },
                 },
-                "P1": {
-                    "instructor": {"P_instructor 2", "P_instructor 1"},
-                    "schedule": [{"room": "D313", "days": ["M"], "hours": [6, 7]}],
-                },
-                "P2": {
-                    "instructor": {"P_instructor 4", "P_instructor 3"},
-                    "schedule": [{"room": "D313", "days": ["W"], "hours": [6, 7]}],
-                },
-                "P3": {
-                    "instructor": {"P_instructor 6", "P_instructor 5"},
-                    "schedule": [{"room": "D313", "days": ["T"], "hours": [2, 3]}],
-                },
-                "P4": {
-                    "instructor": {"P_instructor 8", "P_instructor 7"},
-                    "schedule": [{"room": "D313", "days": ["Th"], "hours": [2, 3]}],
-                },
-                "T1": {
-                    "instructor": {"T_instructor 2", "T_instructor 1"},
-                    "schedule": [{"room": "G103", "days": ["S"], "hours": [1]}],
-                },
-                "T2": {
-                    "instructor": {"T_instructor 3", "T_instructor 4"},
-                    "schedule": [{"room": "G105", "days": ["S"], "hours": [1]}],
-                },
-            },
-            "exams": [{"midsem": "14/03 9.30 - 11.00AM", "compre": "10/05 FN"}],
-        }
+                "exams": [{"midsem": "14/03 9.30 - 11.00AM", "compre": "10/05 FN"}],
+                "exams_iso": [
+                    {
+                        "midsem": "2000-03-14T04:00:00|2000-03-14T05:30:00",
+                        "compre": "2000-05-10T04:00:00|2000-05-10T07:00:00",
+                    }
+                ],
+            }
+        },
     }
 
+    # One section with different schedules on different days
+    csv_data_5 = [
+        [
+            "2222",
+            "COU-2",
+            "Course-2",
+            "3",
+            "-",
+            "3",
+            "1",
+            "Instructor 1",
+            "G102",
+            "M W",
+            "9",
+            "16/03 4.00 - 5.30PM",
+            "16/05 AN",
+        ],
+        [
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            "Instructor 2",
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+        ],
+        [
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            "Instructor 1",
+            "G102",
+            "F",
+            "4",
+            np.NaN,
+            np.NaN,
+        ],
+        [
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            "Instructor 2",
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+        ],
+    ]
+
+    expected_output_5 = {
+        "metadata": {"acadYear": 2000, "semester": 1},
+        "courses": {
+            "COU-2": {
+                "units": "3",
+                "course_name": "Course-2",
+                "sections": {
+                    "L1": {
+                        "instructor": {"Instructor 1", "Instructor 2"},
+                        "schedule": [
+                            {"room": "G102", "days": ["M", "W"], "hours": [9]},
+                            {"room": "G102", "days": ["F"], "hours": [4]},
+                        ],
+                    }
+                },
+                "exams": [{"midsem": "16/03 4.00 - 5.30PM", "compre": "16/05 AN"}],
+                "exams_iso": [
+                    {
+                        "midsem": "2000-03-16T10:30:00|2000-03-16T12:00:00",
+                        "compre": "2000-05-16T08:30:00|2000-05-16T11:30:00",
+                    }
+                ],
+            }
+        },
+    }
+
+    # Project Courses
+    csv_data_6 = [
+        [
+            "6666",
+            "COU-6",
+            "Course-6",
+            "3",
+            "-",
+            "3",
+            "1",
+            "Instructor 1",
+            "G108",
+            "M W",
+            "3",
+            "16/03 4.00 - 5.30PM",
+            "16/05 AN",
+        ],
+        [
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            "Instructor 2",
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+        ],
+        [
+            "7777",
+            "COU-7",
+            "LABORATORY PROJECT",
+            "-",
+            "-",
+            "3",
+            "1",
+            "Instructor 1",
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+            np.NaN,
+        ],
+    ]
+
+    # The project Course inherits the timings from the preceding course which needs to be corrected manually
+    expected_output_6 = {
+        "metadata": {"acadYear": 2000, "semester": 1},
+        "courses": {
+            "COU-6": {
+                "units": "3",
+                "course_name": "Course-6",
+                "sections": {
+                    "L1": {
+                        "instructor": {"Instructor 1", "Instructor 2"},
+                        "schedule": [
+                            {"room": "G108", "days": ["M", "W"], "hours": [3]}
+                        ],
+                    }
+                },
+                "exams": [{"midsem": "16/03 4.00 - 5.30PM", "compre": "16/05 AN"}],
+                "exams_iso": [
+                    {
+                        "midsem": "2000-03-16T10:30:00|2000-03-16T12:00:00",
+                        "compre": "2000-05-16T08:30:00|2000-05-16T11:30:00",
+                    }
+                ],
+            },
+            "COU-7": {
+                "units": "3",
+                "course_name": "LABORATORY PROJECT",
+                "sections": {
+                    "L1": {
+                        "instructor": {"Instructor 1"},
+                        "schedule": [
+                            {"room": "G108", "days": ["M", "W"], "hours": [3]}
+                        ],
+                    }
+                },
+                "exams": [{"midsem": "16/03 4.00 - 5.30PM", "compre": "16/05 AN"}],
+                "exams_iso": [
+                    {
+                        "midsem": "2000-03-16T10:30:00|2000-03-16T12:00:00",
+                        "compre": "2000-05-16T08:30:00|2000-05-16T11:30:00",
+                    }
+                ],
+            },
+        },
+    }
     columns = [
         "serial",
         "course_code",
@@ -484,3 +723,9 @@ if __name__ == "__main__":
 
     # Test-4: Multiple sections (T1,T2,etc...)
     test(csv_data_4, expected_output_4, "test_out_4")
+
+    # Test-5: One section with different schedules on different days
+    test(csv_data_5, expected_output_5, "test_out_5")
+
+    # Test-6: Project Courses
+    test(csv_data_6, expected_output_6, "test_out_6")
