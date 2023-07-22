@@ -251,7 +251,7 @@ def remove_exam_clashes(
             compres_times[compre] = compres_times.get(compre, 0) + 1
         # see if more than one course has the same exam time
         for time in mids_times:
-            if mids_times[time] > 1:
+            if mids_times[time] > 1 and time != "":
                 clashes = True
                 break
         if not clashes:
@@ -475,13 +475,13 @@ def export_to_json(timetables: list, filtered_json: dict, n_export: int = 100) -
 
 if __name__ == "__main__":
     # need to get these as inputs
-    CDCs = ["CS F211", "CS F212", "BITS F225", "CS F241"]
+    CDCs = ["CS F301", "CS F342", "CS F351", "CS F372"]
 
-    DEls = ["CS F469"]
+    DEls = ["CS F429"]
 
-    OPELs = []
+    OPELs = ["CS F433"]
 
-    HUELs = ["HSS F346"]
+    HUELs = []
 
     free_days = ["S"]
 
