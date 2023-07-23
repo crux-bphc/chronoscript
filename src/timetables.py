@@ -1,5 +1,5 @@
 import json
-from itertools import product
+from itertools import product, combinations
 from operator import itemgetter
 from typing import Annotated
 
@@ -54,6 +54,7 @@ def separate_sections_into_types(
     sep = {}
 
     for type in filtered_json:
+        sep[type] = {}
         for course in filtered_json[type]:
             lectures = []
             tutorials = []
@@ -67,7 +68,7 @@ def separate_sections_into_types(
                     tutorials.append(section)
                 elif section.startswith("P"):
                     practicals.append(section)
-            sep[course] = {
+            sep[type][course] = {
                 "L": lectures,
                 "T": tutorials,
                 "P": practicals,
@@ -75,19 +76,18 @@ def separate_sections_into_types(
             # if list is empty remove the key-value pair
             # we need to remove it as it causes problems when using woth itertools.product()
             if not lectures:
-                del sep[course]["L"]
+                del sep[type][course]["L"]
             if not tutorials:
-                del sep[course]["T"]
+                del sep[type][course]["T"]
             if not practicals:
-                del sep[course]["P"]
-
+                del sep[type][course]["P"]
     return sep
 
 
 def generate_intra_combinations(
     filtered_json: Annotated[
         dict, "filtered json file, i.e, with only courses selected"
-    ]
+    ],
 ) -> dict:
     """
     Function that generates all possible combinations of sections within each course
@@ -101,36 +101,32 @@ def generate_intra_combinations(
 
     sep = separate_sections_into_types(filtered_json)
     combs = {}
-    for course in sep:
-        sections = []
-        # first check is the type of section (L, T or P) is present in the course
-        if sep[course].get("L") is not None:
-            # number of lecture sections
-            nLs = len(sep[course]["L"])
-            # list of lecture sections
-            Ls = ["L" + str(i + 1) for i in range(nLs)]
-            sections.append(Ls)
-        if sep[course].get("P") is not None:
-            # number of practical sections
-            nPs = len(sep[course]["P"])
-            Ps = ["P" + str(i + 1) for i in range(nPs)]
-            # list of practical sections
-            sections.append(Ps)
-        if sep[course].get("T") is not None:
-            # number of tutorial sections
-            nTs = len(sep[course]["T"])
-            # list of tutorial sections
-            Ts = ["T" + str(i + 1) for i in range(nTs)]
-            sections.append(Ts)
-        # generate all possible combinations of sections (exhaustive and inclusive of clashes)
-        combs[course] = list(product(*sections))
+    for type in sep:
+        combs[type] = {}
+        for course in sep[type]:
+            sections = []
+            # first check is the type of section (L, T or P) is present in the course
+            if sep[type][course].get("L") is not None:
+                # list of lecture sections
+                sections.append(sep[type][course]["L"])
+            if sep[type][course].get("P") is not None:
+                # list of practical sections
+                sections.append(sep[type][course]["P"])
+            if sep[type][course].get("T") is not None:
+                # list of tutorial sections
+                sections.append(sep[type][course]["T"])
+            # generate all possible combinations of sections (exhaustive and inclusive of clashes)
+            combs[type][course] = list(product(*sections))
     return combs
 
 
 def generate_exhaustive_timetables(
     filtered_json: Annotated[
         dict, "filtered json file, i.e, with only courses selected"
-    ]
+    ],
+    n_dels: Annotated[int, "number of DELs selected"],
+    n_opels: Annotated[int, "number of OPELs selected"],
+    n_huels: Annotated[int, "number of HUELs selected"],
 ) -> list:
     """
     Function that generates all possible timetables (exhaustive and inclusive of clashes)
@@ -144,12 +140,60 @@ def generate_exhaustive_timetables(
 
     combs = generate_intra_combinations(filtered_json)
     timetables = []
+    cdcs = []
+    dels = []
+    opels = []
+    huels = []
+    for type in combs:
+        for course in combs[type]:
+            # format (course, section combination for that course)
+            if type == "CDCs":
+                cdcs.append([(str(course), comb) for comb in combs[type][course]])
+            elif type == "DEls":
+                dels.append([(str(course), comb) for comb in combs[type][course]])
+            elif type == "OPELs":
+                opels.append([(str(course), comb) for comb in combs[type][course]])
+            elif type == "HUELs":
+                huels.append([(str(course), comb) for comb in combs[type][course]])
+            else:
+                raise Exception("Course type not found in any category")
+
+    # choose n_dels from dels
+    if dels:
+        dels = list(combinations(dels, n_dels))
+        dels = [[j[0] for j in i] for i in dels]
+    if huels:
+        huels = list(combinations(huels, n_huels))
+        huels = [[j[0] for j in i] for i in huels]
+    if opels:
+        opels = list(combinations(opels, n_opels))
+        opels = [[j[0] for j in i] for i in opels]
+
+    required = [dels, huels, opels]
+    required = [i for i in required if i]
+    possible_combinations_temp = list(product(*required))
+    possible_combinations = []
+    for i in possible_combinations_temp:
+        combination = []
+        for j in i:
+            combination.extend(j)
+        possible_combinations.append(combination)
     courses = []
-    for course in combs:
-        # format (course, section combination for that course)
-        courses.append([(str(course), comb) for comb in combs[course]])
+
+    for comb in possible_combinations:
+        poss = []
+        poss.extend(cdcs)
+        poss.extend([[c] for c in comb])
+        courses.append(poss)
+
     timetables = list(product(*courses))
+    timetables = []
+    for i in range(len(courses)):
+        timetables.extend(list(product(*courses[i])))
     return timetables
+
+    # timetables = list(product(cdcs, dels, huels, opels))
+    # return timetables
 
 
 def remove_clashes(
@@ -166,7 +210,6 @@ def remove_clashes(
     Returns:
         list: list of timetables without clashes
     """
-
     filtered = []
     for timetable in timetables:
         # times currently held as "in use" by some course's section
@@ -477,11 +520,15 @@ if __name__ == "__main__":
     # need to get these as inputs
     CDCs = ["CS F301", "CS F342", "CS F351", "CS F372"]
 
-    DEls = ["CS F429"]
+    # Order the oreference of DELs, HUELs and OPELs
 
-    OPELs = ["CS F433"]
+    DEls = ["CS F429", "CS F433"]
+
+    OPELs = ["DE G611", "DE G631"]
 
     HUELs = []
+
+    pref = ["DEls", "OPELs", "HUELs"]
 
     free_days = ["S"]
 
@@ -492,7 +539,9 @@ if __name__ == "__main__":
 
     filtered_json = get_filtered_json(tt_json, CDCs, DEls, HUELs, OPELs)
 
-    exhaustive_list_of_timetables = generate_exhaustive_timetables(filtered_json)
+    exhaustive_list_of_timetables = generate_exhaustive_timetables(
+        filtered_json, 1, 0, 0
+    )
 
     timetables_without_clashes = remove_clashes(
         exhaustive_list_of_timetables, filtered_json
