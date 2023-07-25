@@ -524,9 +524,15 @@ if __name__ == "__main__":
 
     DEls = ["CS F429", "CS F433"]
 
+    nDels = len(DEls)
+
     OPELs = ["DE G611", "DE G631"]
 
+    nOpels = len(OPELs)
+
     HUELs = []
+
+    nHuels = len(HUELs)
 
     pref = ["DEls", "OPELs", "HUELs"]
 
@@ -540,7 +546,7 @@ if __name__ == "__main__":
     filtered_json = get_filtered_json(tt_json, CDCs, DEls, HUELs, OPELs)
 
     exhaustive_list_of_timetables = generate_exhaustive_timetables(
-        filtered_json, 1, 0, 0
+        filtered_json, nDels, nOpels, nHuels
     )
 
     timetables_without_clashes = remove_clashes(
