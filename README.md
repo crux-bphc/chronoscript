@@ -67,11 +67,13 @@ curl -sSL https://install.python-poetry.org | python3 -
 
 6. Open `timetables.py` and navigate to the bottom of the file.
 
-7. Modify the `CDCs`, `DELs`, `OPELs` and `HUELs` variables with the course codes you definitely want in your timetable.
+7. Modify the `CDCs`, `DELs`, `OPELs` and `HUELs` variables with the course codes you want (exhaustive) in your timetable.
 
-8. Modify the `free_days` variable with the days you want to have free if possible.
+8. Choose the number of DELs, OPELs and HUELs you want from these in `nDels`, `nOpels` and `nHuels` respectively. Leave as `len(...)`, if you want to pick all of them for sure.
 
-9. Modify the `lite_order` variable with the relative order of _liteness_ you want to have in your timetable. For example, if my order is
+9. Modify the `free_days` variable with the days you want to have free if possible.
+
+10. Modify the `lite_order` variable with the relative order of _liteness_ you want to have in your timetable. For example, if my order is
 
 ```python
 ["S", "M", "Su", "F", "T", "W", "Th"]
@@ -79,7 +81,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 
 , then I want to have a timetable with the least number of hours on Saturday, then Monday, then Sunday, and so on.
 
-10. Run `poetry run python timetables.py` to generate the timetables.
+11. Run `poetry run python timetables.py` to generate the timetables.
 
 The console output will show you the rough results of your filters, and the number of timetables generated.
 
