@@ -1,7 +1,24 @@
 import pandas as pd
 import json
-import math
 from parse_times import parse_time, parse_compre_time
+
+
+def isnan(value):
+    """
+    Function to check if a value is NaN.
+
+    Args:
+        value: The value to check.
+
+    Returns:
+        bool: True if the value is NaN, False otherwise.
+    """
+    try:
+        import math
+
+        return math.isnan(float(value))
+    except:
+        return False
 
 
 def convert_all_sets_to_list_recursive(obj: dict) -> dict:
@@ -130,14 +147,16 @@ def create_json_file(
         if course_json[course_code].get("exams") is None:
             course_json[course_code]["exams"] = []
 
+        exam_dict = {}
         # add exams to the list of exams for the course
-        if not math.isnan(row["midsem"]) and not math.isnan(row["compre"]):
-            course_json[course_code]["exams"].append(
-                {
-                    "midsem": row["midsem"],
-                    "compre": row["compre"],
-                }
-            )
+        if not isnan(row["midsem"]):
+            exam_dict["midsem"] = row["midsem"]
+
+        if not isnan(row["compre"]):
+            exam_dict["compre"] = row["compre"]
+
+        if exam_dict:
+            course_json[course_code]["exams"].append(exam_dict)
 
         # remove duplicate exams
         course_json[course_code]["exams"] = remove_duplicate_dicts(
@@ -149,12 +168,16 @@ def create_json_file(
         exams_list = course_json[course_code]["exams"]
         exams_iso = []
         for exam in exams_list:
-            exams_iso.append(
-                {
-                    "midsem": parse_time(exam["midsem"], year),
-                    "compre": parse_compre_time(exam["compre"], year),
-                }
-            )
+            exam_iso = {}
+
+            if exam.get("midsem"):
+                exam_iso["midsem"] = parse_time(exam["midsem"], year)
+
+            if exam.get("compre"):
+                exam_iso["compre"] = parse_compre_time(exam["compre"], year)
+
+            if exam_iso:
+                exams_iso.append(exam_iso)
         # remove duplicate exams
         course_json[course_code]["exams_iso"] = remove_duplicate_dicts(exams_iso)
 

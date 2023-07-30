@@ -19,8 +19,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"BIO F110": {
 			"units": 1.0,
@@ -28,8 +36,8 @@
 			"sections": {
 				"L1": {
 					"instructor": [
-						"Maddipatla Naga sai karthik",
-						"Supratim Ghosh"
+						"Supratim Ghosh",
+						"Maddipatla Naga sai karthik"
 					],
 					"schedule": [
 						{
@@ -50,7 +58,7 @@
 					]
 				},
 				"L3": {
-					"instructor": ["K.Vaishali", "SHUVADEEP MAITY"],
+					"instructor": ["SHUVADEEP MAITY", "K.Vaishali"],
 					"schedule": [
 						{
 							"room": "A122",
@@ -60,7 +68,7 @@
 					]
 				},
 				"L4": {
-					"instructor": ["Shuvadeep Maity", "Kodam Pradeep"],
+					"instructor": ["Kodam Pradeep", "Shuvadeep Maity"],
 					"schedule": [
 						{
 							"room": "A122",
@@ -70,7 +78,7 @@
 					]
 				},
 				"L5": {
-					"instructor": ["Satarupa Das", "Aditi Dey"],
+					"instructor": ["Aditi Dey", "Satarupa Das"],
 					"schedule": [
 						{
 							"room": "A122",
@@ -80,7 +88,7 @@
 					]
 				},
 				"L6": {
-					"instructor": ["Sumana Choudhury", "Naga Mohan K"],
+					"instructor": ["Naga Mohan K", "Sumana Choudhury"],
 					"schedule": [
 						{
 							"room": "A122",
@@ -90,7 +98,7 @@
 					]
 				},
 				"L7": {
-					"instructor": ["Ruchi Jain Dey", "Nidhi O"],
+					"instructor": ["Nidhi O", "Ruchi Jain Dey"],
 					"schedule": [
 						{
 							"room": "A122",
@@ -100,7 +108,7 @@
 					]
 				},
 				"L8": {
-					"instructor": ["Nishith Gupta", "Rolly Kumari"],
+					"instructor": ["Rolly Kumari", "Nishith Gupta"],
 					"schedule": [
 						{
 							"room": "A122",
@@ -110,7 +118,7 @@
 					]
 				},
 				"L9": {
-					"instructor": ["Amartya Sanyal", "Atish Kumar Behera"],
+					"instructor": ["Atish Kumar Behera", "Amartya Sanyal"],
 					"schedule": [
 						{
 							"room": "A122",
@@ -130,7 +138,7 @@
 					]
 				},
 				"L11": {
-					"instructor": ["Debashree B", "Devarakonda Himaja"],
+					"instructor": ["Devarakonda Himaja", "Debashree B"],
 					"schedule": [
 						{
 							"room": "A122",
@@ -140,15 +148,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"BIO F111": {
 			"units": 3.0,
 			"course_name": "GENERAL BIOLOGY",
 			"sections": {
 				"L1": {
-					"instructor": ["Jayati Ray Dutta", "Sridev Mohapatra"],
+					"instructor": ["Sridev Mohapatra", "Jayati Ray Dutta"],
 					"schedule": [
 						{
 							"room": "F105",
@@ -258,8 +274,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "15/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-15T04:00:00|2023-12-15T07:00:00"
+				}
+			]
 		},
 		"BIO F211": {
 			"units": 3.0,
@@ -286,8 +310,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"BIO F212": {
 			"units": 4.0,
@@ -305,9 +337,9 @@
 				},
 				"P1": {
 					"instructor": [
-						"Ruchi Jain Dey",
+						"Puja Bhardwaj",
 						"Kotwal Shifa Bushra",
-						"Puja Bhardwaj"
+						"Ruchi Jain Dey"
 					],
 					"schedule": [
 						{
@@ -318,8 +350,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"BIO F213": {
 			"units": 3.0,
@@ -327,9 +367,9 @@
 			"sections": {
 				"L1": {
 					"instructor": [
-						"NAGA MOHAN K",
+						"Naga Mohan K",
 						"Shuvadeep Maity",
-						"Naga Mohan K"
+						"NAGA MOHAN K"
 					],
 					"schedule": [
 						{
@@ -355,8 +395,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"BIO F214": {
 			"units": 3.0,
@@ -383,8 +431,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"BIO F216": {
 			"units": 3.0,
@@ -401,8 +457,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "05/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-05T08:30:00|2023-12-05T11:30:00"
+				}
+			]
 		},
 		"BIO F266": {
 			"units": 3.0,
@@ -419,8 +483,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "05/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-05T08:30:00|2023-12-05T11:30:00"
+				}
+			]
 		},
 		"BIO F311": {
 			"units": 3.0,
@@ -447,8 +519,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"BIO F312": {
 			"units": 3.0,
@@ -475,8 +555,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"BIO F313": {
 			"units": 3.0,
@@ -503,8 +591,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "08/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-08T08:30:00|2023-12-08T11:30:00"
+				}
+			]
 		},
 		"BIO F352": {
 			"units": 4.0,
@@ -521,8 +617,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"BIO F366": {
 			"units": 3.0,
@@ -539,8 +643,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"BIO F367": {
 			"units": 3.0,
@@ -557,8 +669,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"BIO F376": {
 			"units": 3.0,
@@ -575,8 +695,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"BIO F377": {
 			"units": 3.0,
@@ -593,8 +721,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"BIO F441": {
 			"units": 3.0,
@@ -611,8 +747,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"BIO G510": {
 			"units": 5.0,
@@ -630,8 +774,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Amartya Sanyal",
 						"Naga Mohan K",
+						"Amartya Sanyal",
 						"Sakhare Kalyani Rajesh"
 					],
 					"schedule": [
@@ -643,8 +787,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"BIO G512": {
 			"units": 5.0,
@@ -662,8 +814,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Gireesha T Mohannath",
 						"Abirami T S",
+						"Gireesha T Mohannath",
 						"Murali Krishna Ramgopal"
 					],
 					"schedule": [
@@ -675,8 +827,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"BIO G514": {
 			"units": 5.0,
@@ -695,8 +855,8 @@
 				"P1": {
 					"instructor": [
 						"Sushma S Kumar",
-						"Trinath Jamma",
-						"Ashna Fathima"
+						"Ashna Fathima",
+						"Trinath Jamma"
 					],
 					"schedule": [
 						{
@@ -712,8 +872,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T04:00:00|2023-12-13T07:00:00"
+				}
+			]
 		},
 		"BIO G524": {
 			"units": 5.0,
@@ -731,9 +899,9 @@
 				},
 				"P1": {
 					"instructor": [
+						"Pragati Karemore",
 						"Piyush Khandelia",
-						"Jayasree P J",
-						"Pragati Karemore"
+						"Jayasree P J"
 					],
 					"schedule": [
 						{
@@ -744,8 +912,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"BIO G525": {
 			"units": 5.0,
@@ -763,8 +939,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Peddiraju N V S J Swaroop",
 						"P Sankar Ganesh",
+						"Peddiraju N V S J Swaroop",
 						"Hemapriya S"
 					],
 					"schedule": [
@@ -776,8 +952,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"BIO G526": {
 			"units": 5.0,
@@ -794,7 +978,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Suryansh Sengar", "Vivek Sharma", "Swati"],
+					"instructor": ["Suryansh Sengar", "Swati", "Vivek Sharma"],
 					"schedule": [
 						{
 							"room": "A121",
@@ -804,8 +988,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"BIO G561": {
 			"units": 5.0,
@@ -836,8 +1028,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"BIO G651": {
 			"units": 5.0,
@@ -868,8 +1068,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"BITS C790T": {
 			"units": 2.0,
@@ -886,8 +1094,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"BITS C791T": {
 			"units": 1.0,
@@ -904,8 +1120,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"BITS C797T": {
 			"units": 1.0,
@@ -922,8 +1146,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"BITS C799T": {
 			"units": 10.0,
@@ -940,8 +1172,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"BITS E593": {
 			"units": 5.0,
@@ -958,8 +1198,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"BITS E594": {
 			"units": 5.0,
@@ -976,8 +1224,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"BITS E661": {
 			"units": 5.0,
@@ -994,8 +1250,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"BITS E793T": {
 			"units": 1.0,
@@ -1012,8 +1276,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"BITS F110": {
 			"units": 2.0,
@@ -1042,8 +1314,8 @@
 				"P1": {
 					"instructor": [
 						"Md Zabiulla",
-						"Arshad Javed",
-						"Abhijit G R"
+						"Abhijit G R",
+						"Arshad Javed"
 					],
 					"schedule": [
 						{
@@ -1055,9 +1327,9 @@
 				},
 				"P2": {
 					"instructor": [
-						"Pardha Saradhi Gurugubelli V",
+						"Ammavajjula Sesha Sai",
 						"Gowlla Jyothsna",
-						"Ammavajjula Sesha Sai"
+						"Pardha Saradhi Gurugubelli V"
 					],
 					"schedule": [
 						{
@@ -1069,8 +1341,8 @@
 				},
 				"P3": {
 					"instructor": [
-						"Ansab shafi mir",
 						"Md Ikramullah Khan",
+						"Ansab shafi mir",
 						"Balija Upendra"
 					],
 					"schedule": [
@@ -1084,8 +1356,8 @@
 				"P4": {
 					"instructor": [
 						"K Ramesh",
-						"Meenu Krishnan",
-						"Vijay Krupaker Maddu"
+						"Vijay Krupaker Maddu",
+						"Meenu Krishnan"
 					],
 					"schedule": [
 						{
@@ -1096,7 +1368,7 @@
 					]
 				},
 				"P5": {
-					"instructor": ["Ankur Abhishek", "A Vasan", "Alok Kumar"],
+					"instructor": ["A Vasan", "Alok Kumar", "Ankur Abhishek"],
 					"schedule": [
 						{
 							"room": "D208 A",
@@ -1134,7 +1406,7 @@
 					]
 				},
 				"P8": {
-					"instructor": ["Vemu Sahiti", "Balla Bhavani Shankar"],
+					"instructor": ["Balla Bhavani Shankar", "Vemu Sahiti"],
 					"schedule": [
 						{
 							"room": "D208 A",
@@ -1145,9 +1417,9 @@
 				},
 				"P9": {
 					"instructor": [
-						"TO BE ANNOUNCED",
 						"Vuthipalli Harshitha",
-						"Abhishesh Pal"
+						"Abhishesh Pal",
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -1158,7 +1430,7 @@
 					]
 				},
 				"P10": {
-					"instructor": ["Chirdeep N R", "K Ramesh", "Alok Kumar"],
+					"instructor": ["Alok Kumar", "Chirdeep N R", "K Ramesh"],
 					"schedule": [
 						{
 							"room": "D208 A",
@@ -1268,8 +1540,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"BITS F111": {
 			"units": 3.0,
@@ -1396,8 +1676,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T04:00:00|2023-12-13T07:00:00"
+				}
+			]
 		},
 		"BITS F112": {
 			"units": 2.0,
@@ -1434,8 +1722,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T08:30:00|2023-12-18T11:30:00"
+				}
+			]
 		},
 		"BITS F113": {
 			"units": 3.0,
@@ -1462,8 +1758,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"BITS F214": {
 			"units": 3.0,
@@ -1480,8 +1784,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"BITS F218": {
 			"units": 3.0,
@@ -1508,15 +1820,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "08/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-08T04:00:00|2023-12-08T07:00:00"
+				}
+			]
 		},
 		"BITS F225": {
 			"units": 3.0,
 			"course_name": "ENVIRONMENTAL STUDIES",
 			"sections": {
 				"L1": {
-					"instructor": ["Amartya Sanyal", "Nilanjan Dey", "A VASAN"],
+					"instructor": ["Nilanjan Dey", "Amartya Sanyal", "A VASAN"],
 					"schedule": [
 						{
 							"room": "F102",
@@ -1526,8 +1846,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "15/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-15T08:30:00|2023-12-15T11:30:00"
+				}
+			]
 		},
 		"BITS F232": {
 			"units": 4.0,
@@ -1594,8 +1922,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"BITS F234": {
 			"units": 4.0,
@@ -1612,8 +1948,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"BITS F311": {
 			"units": 3.0,
@@ -1630,8 +1974,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"BITS F312": {
 			"units": 3.0,
@@ -1648,8 +2000,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"BITS F314": {
 			"units": 3.0,
@@ -1666,8 +2026,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"BITS F316": {
 			"units": 3.0,
@@ -1684,8 +2052,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"BITS F364": {
 			"units": 3.0,
@@ -1702,8 +2078,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"BITS F386": {
 			"units": 3.0,
@@ -1720,15 +2104,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"BITS F415": {
 			"units": 4.0,
 			"course_name": "INTRODUCTION TO MEMS",
 			"sections": {
 				"L1": {
-					"instructor": ["Satish K Dubey", "SANKET GOEL"],
+					"instructor": ["SANKET GOEL", "Satish K Dubey"],
 					"schedule": [
 						{
 							"room": "J220",
@@ -1740,8 +2132,8 @@
 				"P1": {
 					"instructor": [
 						"Satish K Dubey",
-						"Abhishek Kumar",
-						"Pavar Sai Kumar"
+						"Pavar Sai Kumar",
+						"Abhishek Kumar"
 					],
 					"schedule": [
 						{
@@ -1754,8 +2146,8 @@
 				"P2": {
 					"instructor": [
 						"Abhishek Kumar",
-						"Sanket Goel",
-						"Pavar Sai Kumar"
+						"Pavar Sai Kumar",
+						"Sanket Goel"
 					],
 					"schedule": [
 						{
@@ -1766,8 +2158,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"BITS F418": {
 			"units": 4.0,
@@ -1794,8 +2194,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"BITS F431": {
 			"units": 4.0,
@@ -1822,8 +2230,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T08:30:00|2023-12-11T11:30:00"
+				}
+			]
 		},
 		"BITS F437": {
 			"units": 3.0,
@@ -1840,8 +2256,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T08:30:00|2023-12-20T11:30:00"
+				}
+			]
 		},
 		"BITS F452": {
 			"units": 3.0,
@@ -1858,8 +2282,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"BITS F464": {
 			"units": 3.0,
@@ -1876,15 +2308,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"BITS F467": {
 			"units": 3.0,
 			"course_name": "BIOETHICS AND BIOSAFETY",
 			"sections": {
 				"L1": {
-					"instructor": ["RUCHI JAIN DEY", "Supratim Ghosh"],
+					"instructor": ["Supratim Ghosh", "RUCHI JAIN DEY"],
 					"schedule": [
 						{
 							"room": "G104",
@@ -1894,8 +2334,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"BITS G513": {
 			"units": 5.0,
@@ -1912,8 +2360,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"BITS G529": {
 			"units": 6.0,
@@ -1930,8 +2386,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"BITS G539": {
 			"units": 6.0,
@@ -1948,8 +2412,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"BITS G540": {
 			"units": 4.0,
@@ -1966,8 +2438,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"BITS G553": {
 			"units": 5.0,
@@ -1984,7 +2464,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Soumya J", "Samala Jagadheesh"],
+					"instructor": ["Samala Jagadheesh", "Soumya J"],
 					"schedule": [
 						{
 							"room": "J105",
@@ -1994,8 +2474,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"BITS G562T": {
 			"units": 16.0,
@@ -2012,8 +2500,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"BITS G564T": {
 			"units": 9.0,
@@ -2030,8 +2526,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"BITS G649": {
 			"units": 5.0,
@@ -2048,8 +2552,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"CE F211": {
 			"units": 3.0,
@@ -2076,8 +2588,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"CE F213": {
 			"units": 4.0,
@@ -2124,8 +2644,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"CE F230": {
 			"units": 4.0,
@@ -2172,8 +2700,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"CE F231": {
 			"units": 3.0,
@@ -2200,8 +2736,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"CE F266": {
 			"units": 3.0,
@@ -2218,8 +2762,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"CE F312": {
 			"units": 4.0,
@@ -2256,8 +2808,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"CE F313": {
 			"units": 3.0,
@@ -2284,8 +2844,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"CE F320": {
 			"units": 3.0,
@@ -2312,8 +2880,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"CE F323": {
 			"units": 3.0,
@@ -2330,8 +2906,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"CE F366": {
 			"units": 3.0,
@@ -2348,8 +2932,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"CE F367": {
 			"units": 3.0,
@@ -2366,8 +2958,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"CE F376": {
 			"units": 3.0,
@@ -2384,8 +2984,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"CE F377": {
 			"units": 3.0,
@@ -2402,8 +3010,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"CE F417": {
 			"units": 3.0,
@@ -2420,8 +3036,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"CE F428": {
 			"units": 3.0,
@@ -2438,8 +3062,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"CE F431": {
 			"units": 4.0,
@@ -2466,8 +3098,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"CE G534": {
 			"units": 4.0,
@@ -2494,8 +3134,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"CE G537": {
 			"units": 4.0,
@@ -2522,8 +3170,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"CE G538": {
 			"units": 4.0,
@@ -2550,8 +3206,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T08:30:00|2023-12-18T11:30:00"
+				}
+			]
 		},
 		"CE G545": {
 			"units": 4.0,
@@ -2578,8 +3242,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"CE G551": {
 			"units": 4.0,
@@ -2606,8 +3278,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"CE G552": {
 			"units": 4.0,
@@ -2634,8 +3314,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"CE G562": {
 			"units": 4.0,
@@ -2662,8 +3350,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"CE G565": {
 			"units": 4.0,
@@ -2690,8 +3386,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"CE G567": {
 			"units": 4.0,
@@ -2718,8 +3422,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"CE G568": {
 			"units": 4.0,
@@ -2746,8 +3458,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"CE G571": {
 			"units": 4.0,
@@ -2774,8 +3494,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"CE G572": {
 			"units": 4.0,
@@ -2802,8 +3530,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"CE G612": {
 			"units": 4.0,
@@ -2820,7 +3556,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Boyina Kalyan", "Chandu Parimi"],
+					"instructor": ["Chandu Parimi", "Boyina Kalyan"],
 					"schedule": [
 						{
 							"room": "D208 C",
@@ -2830,8 +3566,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"CE G614": {
 			"units": 4.0,
@@ -2858,8 +3602,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"CE G617": {
 			"units": 4.0,
@@ -2886,8 +3638,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"CE G619": {
 			"units": 5.0,
@@ -2914,8 +3674,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"CE G620": {
 			"units": 4.0,
@@ -2942,8 +3710,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"CHE F211": {
 			"units": 3.0,
@@ -2970,8 +3746,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"CHE F212": {
 			"units": 3.0,
@@ -2998,8 +3782,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"CHE F213": {
 			"units": 3.0,
@@ -3026,8 +3818,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"CHE F214": {
 			"units": 3.0,
@@ -3054,8 +3854,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"CHE F266": {
 			"units": 3.0,
@@ -3072,8 +3880,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"CHE F311": {
 			"units": 3.0,
@@ -3100,15 +3916,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"CHE F312": {
 			"units": 3.0,
 			"course_name": "CHEMICAL ENGG LAB I",
 			"sections": {
 				"L1": {
-					"instructor": ["SRIKANTA DINDA", "Suresh Kanuri"],
+					"instructor": ["Suresh Kanuri", "SRIKANTA DINDA"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -3118,7 +3942,7 @@
 					]
 				},
 				"L2": {
-					"instructor": ["Sadamanti Sireesha", "Afkham Mir"],
+					"instructor": ["Afkham Mir", "Sadamanti Sireesha"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -3128,15 +3952,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"CHE F313": {
 			"units": 3.0,
 			"course_name": "SEPARATION PROCESSES II",
 			"sections": {
 				"L1": {
-					"instructor": ["Ramendra Kishor Pal", "JAIDEEP CHATTERJEE"],
+					"instructor": ["JAIDEEP CHATTERJEE", "Ramendra Kishor Pal"],
 					"schedule": [
 						{
 							"room": "F205",
@@ -3146,7 +3978,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["Ramendra Kishor Pal", "Jaideep Chatterjee"],
+					"instructor": ["Jaideep Chatterjee", "Ramendra Kishor Pal"],
 					"schedule": [
 						{
 							"room": "F204",
@@ -3156,8 +3988,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"CHE F314": {
 			"units": 3.0,
@@ -3189,8 +4029,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"CHE F366": {
 			"units": 3.0,
@@ -3207,8 +4055,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"CHE F367": {
 			"units": 3.0,
@@ -3225,8 +4081,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"CHE F376": {
 			"units": 3.0,
@@ -3243,8 +4107,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"CHE F377": {
 			"units": 3.0,
@@ -3261,8 +4133,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"CHE F418": {
 			"units": 3.0,
@@ -3279,8 +4159,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"CHE F421": {
 			"units": 3.0,
@@ -3297,8 +4185,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"CHE G513": {
 			"units": 5.0,
@@ -3315,15 +4211,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"CHE G523": {
 			"units": 5.0,
 			"course_name": "MATHEMATICAL METHODS IN\nCHEMICAL ENGINEERING",
 			"sections": {
 				"L1": {
-					"instructor": ["BALAJI KRISHNAMURTHY", "Afkham Mir"],
+					"instructor": ["Afkham Mir", "BALAJI KRISHNAMURTHY"],
 					"schedule": [
 						{
 							"room": "F204",
@@ -3334,8 +4238,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Balaji Krishnamurthy",
-						"Dasika Prabhat Sourya"
+						"Dasika Prabhat Sourya",
+						"Balaji Krishnamurthy"
 					],
 					"schedule": [
 						{
@@ -3346,8 +4250,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"CHE G528": {
 			"units": 4.0,
@@ -3364,7 +4276,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Satyapaul Singh Amarthaluri", "Y lavanya"],
+					"instructor": ["Y lavanya", "Satyapaul Singh Amarthaluri"],
 					"schedule": [
 						{
 							"room": "LAB",
@@ -3374,8 +4286,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"CHE G558": {
 			"units": 4.0,
@@ -3392,15 +4312,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"CHE G622": {
 			"units": 5.0,
 			"course_name": "ADV CHEMICAL ENGG THERMO",
 			"sections": {
 				"L1": {
-					"instructor": ["D PURNIMA", "Vikrant Kumar S"],
+					"instructor": ["Vikrant Kumar S", "D PURNIMA"],
 					"schedule": [
 						{
 							"room": "F204",
@@ -3420,8 +4348,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"CHEM F110": {
 			"units": 1.0,
@@ -3443,9 +4379,9 @@
 				},
 				"L2": {
 					"instructor": [
-						"Talamadla mahesh kumar",
 						"Chanchal Chakraborty",
-						"Anup kumar pradhan"
+						"Anup kumar pradhan",
+						"Talamadla mahesh kumar"
 					],
 					"schedule": [
 						{
@@ -3457,9 +4393,9 @@
 				},
 				"L3": {
 					"instructor": [
+						"Sourav mondal",
 						"Akshita Jain",
-						"Balaji Gopalan",
-						"Sourav mondal"
+						"Balaji Gopalan"
 					],
 					"schedule": [
 						{
@@ -3470,7 +4406,7 @@
 					]
 				},
 				"L4": {
-					"instructor": ["Amit Nag", "Anil Kumar B M", "Soumen Khan"],
+					"instructor": ["Soumen Khan", "Amit Nag", "Anil Kumar B M"],
 					"schedule": [
 						{
 							"room": "B124",
@@ -3482,8 +4418,8 @@
 				"L5": {
 					"instructor": [
 						"Sourav Bag",
-						"Kosana Sai Chaitanya",
-						"Savita"
+						"Savita",
+						"Kosana Sai Chaitanya"
 					],
 					"schedule": [
 						{
@@ -3495,8 +4431,8 @@
 				},
 				"L6": {
 					"instructor": [
-						"Paramita Pattanayak",
 						"Himanshu Aggarwal",
+						"Paramita Pattanayak",
 						"Rikitha Sharyl Fernandes"
 					],
 					"schedule": [
@@ -3509,9 +4445,9 @@
 				},
 				"L7": {
 					"instructor": [
-						"Shivani Tripathi",
 						"Anuradha Sureshrao Mohitkar",
-						"Satya Narayan Guin"
+						"Satya Narayan Guin",
+						"Shivani Tripathi"
 					],
 					"schedule": [
 						{
@@ -3547,9 +4483,9 @@
 				},
 				"L10": {
 					"instructor": [
-						"R Krishnan",
+						"Mariya Midhu Francis",
 						"Dyagala Shalini",
-						"Mariya Midhu Francis"
+						"R Krishnan"
 					],
 					"schedule": [
 						{
@@ -3562,8 +4498,8 @@
 				"L11": {
 					"instructor": [
 						"Tanmay Chatterjee",
-						"Mollah Rohan Ahsan",
-						"Amita Aanne Mathews"
+						"Amita Aanne Mathews",
+						"Mollah Rohan Ahsan"
 					],
 					"schedule": [
 						{
@@ -3574,15 +4510,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"CHEM F111": {
 			"units": 3.0,
 			"course_name": "GENERAL CHEMISTRY",
 			"sections": {
 				"L1": {
-					"instructor": ["RAMAKRISHNAN G", "Durba Roy"],
+					"instructor": ["Durba Roy", "RAMAKRISHNAN G"],
 					"schedule": [
 						{
 							"room": "F103",
@@ -3702,8 +4646,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "15/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-15T04:00:00|2023-12-15T07:00:00"
+				}
+			]
 		},
 		"CHEM F211": {
 			"units": 3.0,
@@ -3720,7 +4672,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["Balaji Gopalan", "Ankita Singh"],
+					"instructor": ["Ankita Singh", "Balaji Gopalan"],
 					"schedule": [
 						{
 							"room": "G101",
@@ -3730,15 +4682,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"CHEM F212": {
 			"units": 3.0,
 			"course_name": "ORGANIC CHEMISTRY I",
 			"sections": {
 				"L1": {
-					"instructor": ["Manab Chakravarty", "ANUPAM BHATTACHARYA"],
+					"instructor": ["ANUPAM BHATTACHARYA", "Manab Chakravarty"],
 					"schedule": [
 						{
 							"room": "G101",
@@ -3749,8 +4709,8 @@
 				},
 				"T1": {
 					"instructor": [
-						"Manab Chakravarty",
 						"Anamika Bandyopadhyay",
+						"Manab Chakravarty",
 						"Anupam Bhattacharya"
 					],
 					"schedule": [
@@ -3762,8 +4722,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"CHEM F213": {
 			"units": 3.0,
@@ -3780,7 +4748,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["K Sumithra", "T Leelasree"],
+					"instructor": ["T Leelasree", "K Sumithra"],
 					"schedule": [
 						{
 							"room": "G101",
@@ -3790,8 +4758,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"CHEM F214": {
 			"units": 3.0,
@@ -3818,8 +4794,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"CHEM F311": {
 			"units": 3.0,
@@ -3849,8 +4833,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"CHEM F312": {
 			"units": 3.0,
@@ -3867,7 +4859,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["Amit Nag", "Ronak Lazarus"],
+					"instructor": ["Ronak Lazarus", "Amit Nag"],
 					"schedule": [
 						{
 							"room": "F204",
@@ -3877,15 +4869,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "08/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-08T08:30:00|2023-12-08T11:30:00"
+				}
+			]
 		},
 		"CHEM F313": {
 			"units": 4.0,
 			"course_name": "INSTRU METHODS OF ANAL",
 			"sections": {
 				"L1": {
-					"instructor": ["Himanshu Aggarwal", "R KRISHNAN"],
+					"instructor": ["R KRISHNAN", "Himanshu Aggarwal"],
 					"schedule": [
 						{
 							"room": "G101",
@@ -3896,13 +4896,13 @@
 				},
 				"P1": {
 					"instructor": [
-						"Akhil Chandran P",
 						"Govu Radha",
 						"Dinesh Kumar J",
+						"Akhil Chandran P",
+						"R Krishnan",
 						"N Rajesh",
-						"Himanshu Aggarwal",
 						"Arijit Mukherjee",
-						"R Krishnan"
+						"Himanshu Aggarwal"
 					],
 					"schedule": [
 						{
@@ -3913,8 +4913,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"CHEM F325": {
 			"units": 3.0,
@@ -3922,9 +4930,9 @@
 			"sections": {
 				"L1": {
 					"instructor": [
+						"SUBIT KUMAR SAHA",
 						"Chanchal Chakraborty",
-						"Appanapalli",
-						"SUBIT KUMAR SAHA"
+						"Appanapalli"
 					],
 					"schedule": [
 						{
@@ -3935,15 +4943,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"CHEM F326": {
 			"units": 3.0,
 			"course_name": "SOLID STATE CHEMISTRY",
 			"sections": {
 				"L1": {
-					"instructor": ["Aathira B", "SOUNAK ROY"],
+					"instructor": ["SOUNAK ROY", "Aathira B"],
 					"schedule": [
 						{
 							"room": "G103",
@@ -3953,15 +4969,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"CHEM F416": {
 			"units": 3.0,
 			"course_name": "APPLIED CRYSTALLOGRAPHY",
 			"sections": {
 				"L1": {
-					"instructor": ["Jayapriya V", "ARIJIT MUKHERJEE"],
+					"instructor": ["ARIJIT MUKHERJEE", "Jayapriya V"],
 					"schedule": [
 						{
 							"room": "G103",
@@ -3971,8 +4995,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"CHEM G553": {
 			"units": 5.0,
@@ -3989,8 +5021,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"CHEM G554": {
 			"units": 5.0,
@@ -3999,8 +5039,8 @@
 				"L1": {
 					"instructor": [
 						"Nilanjan Dey",
-						"CHANCHAL CHAKRABORTY",
-						"Anupam Bhattacharya"
+						"Anupam Bhattacharya",
+						"CHANCHAL CHAKRABORTY"
 					],
 					"schedule": [
 						{
@@ -4011,8 +5051,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"CS F111": {
 			"units": 4.0,
@@ -4139,8 +5187,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T08:30:00|2023-12-11T11:30:00"
+				}
+			]
 		},
 		"CS F213": {
 			"units": 4.0,
@@ -4247,8 +5303,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"CS F214": {
 			"units": 3.0,
@@ -4305,8 +5369,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"CS F215": {
 			"units": 4.0,
@@ -4439,7 +5511,7 @@
 					]
 				},
 				"P11": {
-					"instructor": ["TO BE ANNOUNCED", "Bishal kumar keshari"],
+					"instructor": ["Bishal kumar keshari", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -4449,7 +5521,7 @@
 					]
 				},
 				"P12": {
-					"instructor": ["Parvathy nair", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Parvathy nair"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -4599,8 +5671,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"CS F222": {
 			"units": 3.0,
@@ -4657,8 +5737,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"CS F266": {
 			"units": 3.0,
@@ -4675,8 +5763,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"CS F301": {
 			"units": 2.0,
@@ -4733,8 +5829,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"CS F320": {
 			"units": 3.0,
@@ -4751,8 +5855,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"CS F342": {
 			"units": 4.0,
@@ -4859,8 +5971,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"CS F351": {
 			"units": 3.0,
@@ -4917,8 +6037,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"CS F366": {
 			"units": 3.0,
@@ -4935,8 +6063,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"CS F367": {
 			"units": 3.0,
@@ -4953,15 +6089,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"CS F372": {
 			"units": 3.0,
 			"course_name": "OPERATING SYSTEMS",
 			"sections": {
 				"L1": {
-					"instructor": ["BARSHA MITRA", "Barsha Mitra"],
+					"instructor": ["Barsha Mitra", "BARSHA MITRA"],
 					"schedule": [
 						{
 							"room": "F102",
@@ -5016,8 +6160,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"CS F376": {
 			"units": 3.0,
@@ -5034,8 +6186,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"CS F377": {
 			"units": 3.0,
@@ -5052,8 +6212,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"CS F407": {
 			"units": 3.0,
@@ -5070,8 +6238,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"CS F425": {
 			"units": 3.0,
@@ -5088,8 +6264,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"CS F429": {
 			"units": 3.0,
@@ -5106,8 +6290,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"CS F433": {
 			"units": 3.0,
@@ -5124,8 +6316,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"CS F441": {
 			"units": 3.0,
@@ -5142,8 +6342,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"CS G519": {
 			"units": 4.0,
@@ -5170,8 +6378,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"CS G525": {
 			"units": 5.0,
@@ -5198,8 +6414,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"CS G526": {
 			"units": 5.0,
@@ -5226,8 +6450,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"CS G527": {
 			"units": 5.0,
@@ -5244,8 +6476,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"CS G553": {
 			"units": 5.0,
@@ -5272,8 +6512,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"CS G623": {
 			"units": 5.0,
@@ -5300,8 +6548,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"DE G531": {
 			"units": 5.0,
@@ -5328,8 +6584,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"DE G611": {
 			"units": 5.0,
@@ -5346,7 +6610,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["G R Sabareesh", "Pichika S V V S Narayana"],
+					"instructor": ["Pichika S V V S Narayana", "G R Sabareesh"],
 					"schedule": [
 						{
 							"room": "LAB",
@@ -5356,8 +6620,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"DE G631": {
 			"units": 5.0,
@@ -5384,8 +6656,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"ECE F211": {
 			"units": 4.0,
@@ -5422,7 +6702,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["Manoj Samal", "Mithun Mondal"],
+					"instructor": ["Mithun Mondal", "Manoj Samal"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -5432,7 +6712,7 @@
 					]
 				},
 				"P3": {
-					"instructor": ["Manoj Samal", "Ankur Bhattacharjee"],
+					"instructor": ["Ankur Bhattacharjee", "Manoj Samal"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -5442,7 +6722,7 @@
 					]
 				},
 				"P4": {
-					"instructor": ["N Praneeth", "Pn Sidhartha"],
+					"instructor": ["Pn Sidhartha", "N Praneeth"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -5462,7 +6742,7 @@
 					]
 				},
 				"P6": {
-					"instructor": ["N Praneeth", "Gorityala Aishvaria"],
+					"instructor": ["Gorityala Aishvaria", "N Praneeth"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -5592,8 +6872,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"ECE F212": {
 			"units": 3.0,
@@ -5720,8 +7008,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"ECE F214": {
 			"units": 3.0,
@@ -5828,8 +7124,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"ECE F215": {
 			"units": 4.0,
@@ -5962,7 +7266,7 @@
 					]
 				},
 				"P11": {
-					"instructor": ["TO BE ANNOUNCED", "Bishal kumar keshari"],
+					"instructor": ["Bishal kumar keshari", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -5972,7 +7276,7 @@
 					]
 				},
 				"P12": {
-					"instructor": ["Parvathy nair", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Parvathy nair"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -6122,15 +7426,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"ECE F216": {
 			"units": 2.0,
 			"course_name": "ELECTRONIC DEVICES\nSIMULATION LABORATORY",
 			"sections": {
 				"L1": {
-					"instructor": ["Aditya Tiwari", "SAYAN KANUNGO"],
+					"instructor": ["SAYAN KANUNGO", "Aditya Tiwari"],
 					"schedule": [
 						{
 							"room": "I211",
@@ -6140,8 +7452,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"ECE F266": {
 			"units": 3.0,
@@ -6158,8 +7478,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"ECE F311": {
 			"units": 4.0,
@@ -6186,7 +7514,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Sree Rama Amrutha Lahari", "Niladri Das"],
+					"instructor": ["Niladri Das", "Sree Rama Amrutha Lahari"],
 					"schedule": [
 						{
 							"room": "H106",
@@ -6196,7 +7524,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["Sree Rama Amrutha Lahari", "Niladri Das"],
+					"instructor": ["Niladri Das", "Sree Rama Amrutha Lahari"],
 					"schedule": [
 						{
 							"room": "H106",
@@ -6217,8 +7545,8 @@
 				},
 				"P4": {
 					"instructor": [
-						"Prasant Kumar P",
-						"Chaluvadi V Naga Bhaskar"
+						"Chaluvadi V Naga Bhaskar",
+						"Prasant Kumar P"
 					],
 					"schedule": [
 						{
@@ -6229,7 +7557,7 @@
 					]
 				},
 				"P5": {
-					"instructor": ["Atri Mukhopadhyay", "Priyalatha. P"],
+					"instructor": ["Priyalatha. P", "Atri Mukhopadhyay"],
 					"schedule": [
 						{
 							"room": "H106",
@@ -6302,8 +7630,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"ECE F314": {
 			"units": 3.0,
@@ -6350,8 +7686,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"ECE F366": {
 			"units": 3.0,
@@ -6368,8 +7712,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"ECE F367": {
 			"units": 3.0,
@@ -6386,8 +7738,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"ECE F376": {
 			"units": 3.0,
@@ -6404,8 +7764,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"ECE F377": {
 			"units": 3.0,
@@ -6422,8 +7790,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"ECE F424": {
 			"units": 3.0,
@@ -6440,8 +7816,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"ECE F434": {
 			"units": 4.0,
@@ -6459,9 +7843,9 @@
 				},
 				"P1": {
 					"instructor": [
-						"Sreejith v",
 						"Venkateswaran R",
-						"Himanshi Awasthi"
+						"Himanshi Awasthi",
+						"Sreejith v"
 					],
 					"schedule": [
 						{
@@ -6472,7 +7856,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["Sreejith v", "Himanshi Awasthi"],
+					"instructor": ["Himanshi Awasthi", "Sreejith v"],
 					"schedule": [
 						{
 							"room": "I011",
@@ -6532,8 +7916,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"ECON F211": {
 			"units": 3.0,
@@ -6620,8 +8012,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T04:00:00|2023-12-14T07:00:00"
+				}
+			]
 		},
 		"ECON F212": {
 			"units": 3.0,
@@ -6648,8 +8048,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"ECON F213": {
 			"units": 3.0,
@@ -6676,8 +8084,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"ECON F214": {
 			"units": 3.0,
@@ -6704,8 +8120,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"ECON F215": {
 			"units": 3.0,
@@ -6722,8 +8146,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"ECON F242": {
 			"units": 3.0,
@@ -6740,8 +8172,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"ECON F266": {
 			"units": 3.0,
@@ -6758,8 +8198,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"ECON F311": {
 			"units": 3.0,
@@ -6786,8 +8234,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"ECON F312": {
 			"units": 3.0,
@@ -6814,8 +8270,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "08/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-08T08:30:00|2023-12-08T11:30:00"
+				}
+			]
 		},
 		"ECON F313": {
 			"units": 3.0,
@@ -6842,8 +8306,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"ECON F315": {
 			"units": 3.0,
@@ -6860,8 +8332,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"ECON F345": {
 			"units": 3.0,
@@ -6878,8 +8358,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"ECON F351": {
 			"units": 3.0,
@@ -6896,8 +8384,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"ECON F354": {
 			"units": 3.0,
@@ -6914,8 +8410,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"ECON F355": {
 			"units": 3.0,
@@ -6932,8 +8436,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"ECON F366": {
 			"units": 3.0,
@@ -6950,8 +8462,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"ECON F367": {
 			"units": 3.0,
@@ -6968,8 +8488,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"ECON F376": {
 			"units": 3.0,
@@ -6986,8 +8514,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"ECON F377": {
 			"units": 3.0,
@@ -7004,8 +8540,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"ECON F412": {
 			"units": 3.0,
@@ -7032,8 +8576,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"ECON F415": {
 			"units": 3.0,
@@ -7050,8 +8602,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"ECON F434": {
 			"units": 3.0,
@@ -7068,8 +8628,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"EE G506": {
 			"units": 5.0,
@@ -7086,8 +8654,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"EEE F111": {
 			"units": 3.0,
@@ -7204,8 +8780,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T08:30:00|2023-12-11T11:30:00"
+				}
+			]
 		},
 		"EEE F211": {
 			"units": 4.0,
@@ -7242,7 +8826,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["Manoj Samal", "Mithun Mondal"],
+					"instructor": ["Mithun Mondal", "Manoj Samal"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -7252,7 +8836,7 @@
 					]
 				},
 				"P3": {
-					"instructor": ["Manoj Samal", "Ankur Bhattacharjee"],
+					"instructor": ["Ankur Bhattacharjee", "Manoj Samal"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -7262,7 +8846,7 @@
 					]
 				},
 				"P4": {
-					"instructor": ["N Praneeth", "Pn Sidhartha"],
+					"instructor": ["Pn Sidhartha", "N Praneeth"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -7282,7 +8866,7 @@
 					]
 				},
 				"P6": {
-					"instructor": ["N Praneeth", "Gorityala Aishvaria"],
+					"instructor": ["Gorityala Aishvaria", "N Praneeth"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -7412,8 +8996,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"EEE F212": {
 			"units": 3.0,
@@ -7540,8 +9132,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"EEE F214": {
 			"units": 3.0,
@@ -7648,8 +9248,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"EEE F215": {
 			"units": 4.0,
@@ -7782,7 +9390,7 @@
 					]
 				},
 				"P11": {
-					"instructor": ["TO BE ANNOUNCED", "Bishal kumar keshari"],
+					"instructor": ["Bishal kumar keshari", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -7792,7 +9400,7 @@
 					]
 				},
 				"P12": {
-					"instructor": ["Parvathy nair", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Parvathy nair"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -7942,15 +9550,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"EEE F216": {
 			"units": 2.0,
 			"course_name": "ELECTRONIC DEVICE SIMULATION\nLAB",
 			"sections": {
 				"L1": {
-					"instructor": ["Aditya Tiwari", "SAYAN KANUNGO"],
+					"instructor": ["SAYAN KANUNGO", "Aditya Tiwari"],
 					"schedule": [
 						{
 							"room": "I124",
@@ -7960,8 +9576,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"EEE F266": {
 			"units": 3.0,
@@ -7978,8 +9602,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"EEE F311": {
 			"units": 4.0,
@@ -8006,7 +9638,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Sree Rama Amrutha Lahari", "Niladri Das"],
+					"instructor": ["Niladri Das", "Sree Rama Amrutha Lahari"],
 					"schedule": [
 						{
 							"room": "H106",
@@ -8016,7 +9648,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["Sree Rama Amrutha Lahari", "Niladri Das"],
+					"instructor": ["Niladri Das", "Sree Rama Amrutha Lahari"],
 					"schedule": [
 						{
 							"room": "H106",
@@ -8037,8 +9669,8 @@
 				},
 				"P4": {
 					"instructor": [
-						"Prasant Kumar P",
-						"Chaluvadi V Naga Bhaskar"
+						"Chaluvadi V Naga Bhaskar",
+						"Prasant Kumar P"
 					],
 					"schedule": [
 						{
@@ -8049,7 +9681,7 @@
 					]
 				},
 				"P5": {
-					"instructor": ["Atri Mukhopadhyay", "Priyalatha. P"],
+					"instructor": ["Priyalatha. P", "Atri Mukhopadhyay"],
 					"schedule": [
 						{
 							"room": "H106",
@@ -8122,8 +9754,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"EEE F313": {
 			"units": 3.0,
@@ -8180,8 +9820,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"EEE F366": {
 			"units": 3.0,
@@ -8198,8 +9846,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"EEE F367": {
 			"units": 3.0,
@@ -8216,8 +9872,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"EEE F376": {
 			"units": 3.0,
@@ -8234,8 +9898,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"EEE F377": {
 			"units": 3.0,
@@ -8252,8 +9924,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"EEE F411": {
 			"units": 4.0,
@@ -8270,7 +9950,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Atri Mukhopadhyay", "Krishnapriya G B"],
+					"instructor": ["Krishnapriya G B", "Atri Mukhopadhyay"],
 					"schedule": [
 						{
 							"room": "J105",
@@ -8280,7 +9960,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["Atri Mukhopadhyay", "Ritesh Kumar Singh"],
+					"instructor": ["Ritesh Kumar Singh", "Atri Mukhopadhyay"],
 					"schedule": [
 						{
 							"room": "J105",
@@ -8300,7 +9980,7 @@
 					]
 				},
 				"P4": {
-					"instructor": ["Ponnalagu R N", "Ritesh Kumar Singh"],
+					"instructor": ["Ritesh Kumar Singh", "Ponnalagu R N"],
 					"schedule": [
 						{
 							"room": "J105",
@@ -8310,8 +9990,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"EEE F422": {
 			"units": 3.0,
@@ -8328,8 +10016,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"EEE F424": {
 			"units": 3.0,
@@ -8346,8 +10042,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"EEE F434": {
 			"units": 4.0,
@@ -8365,9 +10069,9 @@
 				},
 				"P1": {
 					"instructor": [
-						"Sreejith v",
 						"Venkateswaran R",
-						"Himanshi Awasthi"
+						"Himanshi Awasthi",
+						"Sreejith v"
 					],
 					"schedule": [
 						{
@@ -8378,7 +10082,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["Sreejith v", "Himanshi Awasthi"],
+					"instructor": ["Himanshi Awasthi", "Sreejith v"],
 					"schedule": [
 						{
 							"room": "I011",
@@ -8438,8 +10142,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"EEE G510": {
 			"units": 5.0,
@@ -8466,8 +10178,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T08:30:00|2023-12-09T11:30:00"
+				}
+			]
 		},
 		"EEE G512": {
 			"units": 4.0,
@@ -8484,7 +10204,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["TO BE ANNOUNCED", "Syed Ershad Ahmed"],
+					"instructor": ["Syed Ershad Ahmed", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "J105",
@@ -8494,8 +10214,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"EEE G581": {
 			"units": 5.0,
@@ -8522,8 +10250,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"EEE G591": {
 			"units": 5.0,
@@ -8550,8 +10286,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"EEE G612": {
 			"units": 5.0,
@@ -8578,15 +10322,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"EEE G613": {
 			"units": 5.0,
 			"course_name": "ADV DIGITAL SIGNAL PROC",
 			"sections": {
 				"L1": {
-					"instructor": ["Shaswati Dash", "RAJESH KUMAR TRIPATHY"],
+					"instructor": ["RAJESH KUMAR TRIPATHY", "Shaswati Dash"],
 					"schedule": [
 						{
 							"room": "I221",
@@ -8596,7 +10348,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Shaswati Dash", "Rajesh Kumar Tripathy"],
+					"instructor": ["Rajesh Kumar Tripathy", "Shaswati Dash"],
 					"schedule": [
 						{
 							"room": "I011",
@@ -8611,8 +10363,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"EEE G614": {
 			"units": 5.0,
@@ -8644,8 +10404,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"EEE G626": {
 			"units": 5.0,
@@ -8662,7 +10430,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["TO BE ANNOUNCED", "Amit Kumar Panda"],
+					"instructor": ["Amit Kumar Panda", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "J105",
@@ -8672,8 +10440,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"FIN F311": {
 			"units": 3.0,
@@ -8690,8 +10466,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"FIN F313": {
 			"units": 3.0,
@@ -8718,8 +10502,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"FIN F315": {
 			"units": 3.0,
@@ -8736,8 +10528,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"FIN F414": {
 			"units": 3.0,
@@ -8754,8 +10554,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"GS F211": {
 			"units": 3.0,
@@ -8772,8 +10580,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"GS F233": {
 			"units": 3.0,
@@ -8790,8 +10606,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"GS F245": {
 			"units": 3.0,
@@ -8808,8 +10632,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"GS F312": {
 			"units": 3.0,
@@ -8826,8 +10658,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"GS F322": {
 			"units": 3.0,
@@ -8844,8 +10684,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"HSS F228": {
 			"units": 3.0,
@@ -8862,8 +10710,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"HSS F235": {
 			"units": 3.0,
@@ -8880,8 +10736,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"HSS F237": {
 			"units": 3.0,
@@ -8898,8 +10762,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"HSS F247": {
 			"units": 3.0,
@@ -8916,8 +10788,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"HSS F249": {
 			"units": 3.0,
@@ -8934,8 +10814,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"HSS F251": {
 			"units": 3.0,
@@ -8952,8 +10840,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"HSS F318": {
 			"units": 3.0,
@@ -8970,8 +10866,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"HSS F325": {
 			"units": 3.0,
@@ -8988,8 +10892,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"HSS F328": {
 			"units": 3.0,
@@ -9006,8 +10918,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"HSS F331": {
 			"units": 3.0,
@@ -9024,8 +10944,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"HSS F336": {
 			"units": 3.0,
@@ -9042,8 +10970,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"HSS F337": {
 			"units": 3.0,
@@ -9060,8 +10996,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"HSS F338": {
 			"units": 3.0,
@@ -9078,8 +11022,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"HSS F346": {
 			"units": 3.0,
@@ -9096,8 +11048,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"HSS F349": {
 			"units": 3.0,
@@ -9114,8 +11074,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"HSS F361": {
 			"units": 3.0,
@@ -9132,8 +11100,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"HSS F363": {
 			"units": 3.0,
@@ -9150,8 +11126,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"HSS F365": {
 			"units": 3.0,
@@ -9168,8 +11152,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"HSS F378": {
 			"units": 3.0,
@@ -9186,8 +11178,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"INSTR F211": {
 			"units": 4.0,
@@ -9224,7 +11224,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["Manoj Samal", "Mithun Mondal"],
+					"instructor": ["Mithun Mondal", "Manoj Samal"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -9234,7 +11234,7 @@
 					]
 				},
 				"P3": {
-					"instructor": ["Manoj Samal", "Ankur Bhattacharjee"],
+					"instructor": ["Ankur Bhattacharjee", "Manoj Samal"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -9244,7 +11244,7 @@
 					]
 				},
 				"P4": {
-					"instructor": ["N Praneeth", "Pn Sidhartha"],
+					"instructor": ["Pn Sidhartha", "N Praneeth"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -9264,7 +11264,7 @@
 					]
 				},
 				"P6": {
-					"instructor": ["N Praneeth", "Gorityala Aishvaria"],
+					"instructor": ["Gorityala Aishvaria", "N Praneeth"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -9394,8 +11394,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"INSTR F212": {
 			"units": 3.0,
@@ -9522,8 +11530,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"INSTR F214": {
 			"units": 3.0,
@@ -9630,8 +11646,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"INSTR F215": {
 			"units": 4.0,
@@ -9764,7 +11788,7 @@
 					]
 				},
 				"P11": {
-					"instructor": ["TO BE ANNOUNCED", "Bishal kumar keshari"],
+					"instructor": ["Bishal kumar keshari", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -9774,7 +11798,7 @@
 					]
 				},
 				"P12": {
-					"instructor": ["Parvathy nair", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Parvathy nair"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -9924,15 +11948,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"INSTR F216": {
 			"units": 2.0,
 			"course_name": "ELECTRONIC DEVICE SIMULATION",
 			"sections": {
 				"L1": {
-					"instructor": ["Aditya Tiwari", "SAYAN KANUNGO"],
+					"instructor": ["SAYAN KANUNGO", "Aditya Tiwari"],
 					"schedule": [
 						{
 							"room": "I124",
@@ -9942,8 +11974,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"INSTR F266": {
 			"units": 3.0,
@@ -9960,8 +12000,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"INSTR F311": {
 			"units": 4.0,
@@ -10018,8 +12066,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"INSTR F312": {
 			"units": 3.0,
@@ -10056,8 +12112,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"INSTR F313": {
 			"units": 3.0,
@@ -10114,8 +12178,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"INSTR F366": {
 			"units": 3.0,
@@ -10132,8 +12204,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"INSTR F367": {
 			"units": 3.0,
@@ -10150,8 +12230,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"INSTR F376": {
 			"units": 3.0,
@@ -10168,8 +12256,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"INSTR F377": {
 			"units": 3.0,
@@ -10186,8 +12282,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"INSTR F424": {
 			"units": 3.0,
@@ -10204,8 +12308,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"IS F311": {
 			"units": 3.0,
@@ -10222,8 +12334,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"ITEB G621": {
 			"units": 4.0,
@@ -10240,8 +12360,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"MATH F111": {
 			"units": 3.0,
@@ -10498,8 +12626,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"MATH F211": {
 			"units": 3.0,
@@ -10776,8 +12912,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "08/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-08T04:00:00|2023-12-08T07:00:00"
+				}
+			]
 		},
 		"MATH F212": {
 			"units": 3.0,
@@ -10854,8 +12998,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"MATH F213": {
 			"units": 3.0,
@@ -10892,8 +13044,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"MATH F214": {
 			"units": 3.0,
@@ -10930,8 +13090,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"MATH F215": {
 			"units": 3.0,
@@ -10968,8 +13136,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"MATH F231": {
 			"units": 3.0,
@@ -10986,8 +13162,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"MATH F266": {
 			"units": 3.0,
@@ -11004,8 +13188,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"MATH F311": {
 			"units": 3.0,
@@ -11042,8 +13234,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "08/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-08T08:30:00|2023-12-08T11:30:00"
+				}
+			]
 		},
 		"MATH F312": {
 			"units": 3.0,
@@ -11080,8 +13280,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"MATH F313": {
 			"units": 3.0,
@@ -11118,8 +13326,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"MATH F366": {
 			"units": 3.0,
@@ -11136,8 +13352,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"MATH F367": {
 			"units": 3.0,
@@ -11154,8 +13378,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"MATH F376": {
 			"units": 3.0,
@@ -11172,8 +13404,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"MATH F377": {
 			"units": 3.0,
@@ -11190,8 +13430,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"MATH F420": {
 			"units": 3.0,
@@ -11208,8 +13456,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"MATH F424": {
 			"units": 4.0,
@@ -11226,8 +13482,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"MATH F432": {
 			"units": 3.0,
@@ -11244,8 +13508,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"MATH F456": {
 			"units": 3.0,
@@ -11262,8 +13534,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"ME F112": {
 			"units": 2.0,
@@ -11291,8 +13571,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Prabakaran Saravanan",
 						"Kandukuri Prudviraj",
+						"Prabakaran Saravanan",
 						"Ronanki Suresh"
 					],
 					"schedule": [
@@ -11348,8 +13628,8 @@
 				"P5": {
 					"instructor": [
 						"Vardhanapu Muralidhar",
-						"TO BE ANNOUNCED",
-						"Bagadi Ramana Murthy"
+						"Bagadi Ramana Murthy",
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -11361,9 +13641,9 @@
 				},
 				"P6": {
 					"instructor": [
+						"Bagadi Ramana Murthy",
 						"G Prashanth Kumar Reddy",
-						"TO BE ANNOUNCED",
-						"Bagadi Ramana Murthy"
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -11374,8 +13654,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T08:30:00|2023-12-20T11:30:00"
+				}
+			]
 		},
 		"ME F211": {
 			"units": 3.0,
@@ -11392,7 +13680,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["Amit Kumar Gupta", "Kolla Lakshman Rao"],
+					"instructor": ["Kolla Lakshman Rao", "Amit Kumar Gupta"],
 					"schedule": [
 						{
 							"room": "G103",
@@ -11402,7 +13690,7 @@
 					]
 				},
 				"T2": {
-					"instructor": ["Amit Kumar Gupta", "Aditya Nema"],
+					"instructor": ["Aditya Nema", "Amit Kumar Gupta"],
 					"schedule": [
 						{
 							"room": "G104",
@@ -11432,8 +13720,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"ME F212": {
 			"units": 3.0,
@@ -11450,7 +13746,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["Sayan Das", "Suhas shreekrishna"],
+					"instructor": ["Suhas shreekrishna", "Sayan Das"],
 					"schedule": [
 						{
 							"room": "G103",
@@ -11461,8 +13757,8 @@
 				},
 				"T2": {
 					"instructor": [
-						"Pardha Saradhi Gurugubelli V",
-						"Suhas shreekrishna"
+						"Suhas shreekrishna",
+						"Pardha Saradhi Gurugubelli V"
 					],
 					"schedule": [
 						{
@@ -11493,8 +13789,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"ME F216": {
 			"units": 3.0,
@@ -11512,9 +13816,9 @@
 				},
 				"P1": {
 					"instructor": [
-						"Ashish Saurabh",
+						"Piyush Chandra Verma",
 						"Vicky Lad",
-						"Piyush Chandra Verma"
+						"Ashish Saurabh"
 					],
 					"schedule": [
 						{
@@ -11526,8 +13830,8 @@
 				},
 				"P2": {
 					"instructor": [
-						"Sujith R",
 						"Lingampally Swetha",
+						"Sujith R",
 						"TO BE ANNOUNCED"
 					],
 					"schedule": [
@@ -11540,9 +13844,9 @@
 				},
 				"P3": {
 					"instructor": [
-						"Sreejith S",
 						"TO BE ANNOUNCED",
-						"Kandula Uday Kumar Reddy"
+						"Kandula Uday Kumar Reddy",
+						"Sreejith S"
 					],
 					"schedule": [
 						{
@@ -11563,7 +13867,7 @@
 					]
 				},
 				"T2": {
-					"instructor": ["Sujith R", "Lingampally Swetha"],
+					"instructor": ["Lingampally Swetha", "Sujith R"],
 					"schedule": [
 						{
 							"room": "G104",
@@ -11573,7 +13877,7 @@
 					]
 				},
 				"T3": {
-					"instructor": ["Piyush Chandra Verma", "Ashish Saurabh"],
+					"instructor": ["Ashish Saurabh", "Piyush Chandra Verma"],
 					"schedule": [
 						{
 							"room": "G105",
@@ -11593,8 +13897,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"ME F217": {
 			"units": 4.0,
@@ -11627,8 +13939,8 @@
 				"P2": {
 					"instructor": [
 						"Shaik Gouse Ahammad",
-						"S S Deshmukh",
-						"Meduri Sitaram"
+						"Meduri Sitaram",
+						"S S Deshmukh"
 					],
 					"schedule": [
 						{
@@ -11641,8 +13953,8 @@
 				"P3": {
 					"instructor": [
 						"Satish K Dubey",
-						"Shine jude hamilton a",
-						"Sibin V Mathew"
+						"Sibin V Mathew",
+						"Shine jude hamilton a"
 					],
 					"schedule": [
 						{
@@ -11674,8 +13986,8 @@
 				},
 				"T3": {
 					"instructor": [
-						"Shaik Gouse Ahammad",
-						"Santanu Prasad Datta"
+						"Santanu Prasad Datta",
+						"Shaik Gouse Ahammad"
 					],
 					"schedule": [
 						{
@@ -11696,8 +14008,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"ME F266": {
 			"units": 3.0,
@@ -11714,8 +14034,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"ME F314": {
 			"units": 3.0,
@@ -11732,7 +14060,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["SP Regalla", "Suswanth Poluru"],
+					"instructor": ["Suswanth Poluru", "SP Regalla"],
 					"schedule": [
 						{
 							"room": "G105",
@@ -11752,7 +14080,7 @@
 					]
 				},
 				"T3": {
-					"instructor": ["SP Regalla", "Himanshu shukla"],
+					"instructor": ["Himanshu shukla", "SP Regalla"],
 					"schedule": [
 						{
 							"room": "G107",
@@ -11762,7 +14090,7 @@
 					]
 				},
 				"T4": {
-					"instructor": ["SP Regalla", "Vicky Lad"],
+					"instructor": ["Vicky Lad", "SP Regalla"],
 					"schedule": [
 						{
 							"room": "G202",
@@ -11772,8 +14100,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "20/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-20T04:00:00|2023-12-20T07:00:00"
+				}
+			]
 		},
 		"ME F315": {
 			"units": 3.0,
@@ -11791,9 +14127,9 @@
 				},
 				"P1": {
 					"instructor": [
+						"Kiran Somisetti",
 						"N Suresh Kumar Reddy",
-						"Gunashekar G",
-						"Kiran Somisetti"
+						"Gunashekar G"
 					],
 					"schedule": [
 						{
@@ -11805,8 +14141,8 @@
 				},
 				"P2": {
 					"instructor": [
-						"Suhas shreekrishna",
 						"Srinivasa Murali Kartheek S",
+						"Suhas shreekrishna",
 						"Jose Santo"
 					],
 					"schedule": [
@@ -11819,8 +14155,8 @@
 				},
 				"P3": {
 					"instructor": [
-						"Mada Rukmini Sai Rupa Sri",
 						"Ahsan Ul Haq",
+						"Mada Rukmini Sai Rupa Sri",
 						"Nagarani s"
 					],
 					"schedule": [
@@ -11842,7 +14178,7 @@
 					]
 				},
 				"T2": {
-					"instructor": ["Gunashekar G", "N Suresh Kumar Reddy"],
+					"instructor": ["N Suresh Kumar Reddy", "Gunashekar G"],
 					"schedule": [
 						{
 							"room": "G104",
@@ -11862,7 +14198,7 @@
 					]
 				},
 				"T4": {
-					"instructor": ["P Chennakesava Sai", "Kundan Kumar Singh"],
+					"instructor": ["Kundan Kumar Singh", "P Chennakesava Sai"],
 					"schedule": [
 						{
 							"room": "G107",
@@ -11872,8 +14208,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"ME F316": {
 			"units": 2.0,
@@ -11936,8 +14280,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"ME F317": {
 			"units": 2.0,
@@ -11964,7 +14316,7 @@
 					]
 				},
 				"T2": {
-					"instructor": ["N Jalaiah", "Meduri Sitaram"],
+					"instructor": ["Meduri Sitaram", "N Jalaiah"],
 					"schedule": [
 						{
 							"room": "G104",
@@ -11975,8 +14327,8 @@
 				},
 				"T3": {
 					"instructor": [
-						"Mrinal Ketan Jagirdar",
-						"Joshua Kumar Saladi"
+						"Joshua Kumar Saladi",
+						"Mrinal Ketan Jagirdar"
 					],
 					"schedule": [
 						{
@@ -12000,8 +14352,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"ME F366": {
 			"units": 3.0,
@@ -12018,8 +14378,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"ME F367": {
 			"units": 3.0,
@@ -12036,8 +14404,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"ME F376": {
 			"units": 3.0,
@@ -12054,8 +14430,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"ME F377": {
 			"units": 3.0,
@@ -12072,8 +14456,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"ME F418": {
 			"units": 3.0,
@@ -12090,8 +14482,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"ME F424": {
 			"units": 3.0,
@@ -12108,8 +14508,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"ME F425": {
 			"units": 3.0,
@@ -12126,8 +14534,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		},
 		"ME F428": {
 			"units": 4.0,
@@ -12154,8 +14570,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"ME F443": {
 			"units": 3.0,
@@ -12172,8 +14596,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"ME F485": {
 			"units": 3.0,
@@ -12190,8 +14622,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"ME G511": {
 			"units": 5.0,
@@ -12209,8 +14649,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"George Yuvaraj",
 						"YV Daseswara Rao",
+						"George Yuvaraj",
 						"Abhishek Sarkar"
 					],
 					"schedule": [
@@ -12222,8 +14662,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"ME G512": {
 			"units": 5.0,
@@ -12250,8 +14698,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T08:30:00|2023-12-11T11:30:00"
+				}
+			]
 		},
 		"ME G513": {
 			"units": 5.0,
@@ -12278,8 +14734,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"ME G521": {
 			"units": 5.0,
@@ -12306,8 +14770,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"ME G532": {
 			"units": 5.0,
@@ -12334,8 +14806,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"ME G535": {
 			"units": 5.0,
@@ -12367,8 +14847,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"ME G539": {
 			"units": 5.0,
@@ -12395,15 +14883,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"ME G613": {
 			"units": 5.0,
 			"course_name": "ADVANCED FINITE ELEMENT\nMODELLING & ANALYSIS",
 			"sections": {
 				"L1": {
-					"instructor": ["Pavan Kumar P", "AMOL VUPPULURI"],
+					"instructor": ["AMOL VUPPULURI", "Pavan Kumar P"],
 					"schedule": [
 						{
 							"room": "G205",
@@ -12413,7 +14909,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Pavan Kumar P", "Amol Vuppuluri"],
+					"instructor": ["Amol Vuppuluri", "Pavan Kumar P"],
 					"schedule": [
 						{
 							"room": "D208 B",
@@ -12423,8 +14919,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"ME G641": {
 			"units": 5.0,
@@ -12442,8 +14946,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Brajesh Kumar Panigrahi",
-						"Gudlavalleti Deepak Kumar"
+						"Gudlavalleti Deepak Kumar",
+						"Brajesh Kumar Panigrahi"
 					],
 					"schedule": [
 						{
@@ -12454,8 +14958,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"MEL G611": {
 			"units": 5.0,
@@ -12482,8 +14994,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"MEL G621": {
 			"units": 5.0,
@@ -12500,7 +15020,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["M Aalelai Vendhan", "S Gurunarayanan"],
+					"instructor": ["S Gurunarayanan", "M Aalelai Vendhan"],
 					"schedule": [
 						{
 							"room": "I124",
@@ -12525,8 +15045,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"MEL G622": {
 			"units": 4.0,
@@ -12553,8 +15081,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"MEL G624": {
 			"units": 5.0,
@@ -12581,8 +15117,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T08:30:00|2023-12-09T11:30:00"
+				}
+			]
 		},
 		"MEL G626": {
 			"units": 5.0,
@@ -12614,8 +15158,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"MEL G631": {
 			"units": 5.0,
@@ -12642,8 +15194,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"MF F311": {
 			"units": 3.0,
@@ -12670,8 +15230,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"MF F367": {
 			"units": 3.0,
@@ -12688,8 +15256,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"MF F376": {
 			"units": 3.0,
@@ -12706,8 +15282,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"MF F377": {
 			"units": 3.0,
@@ -12724,8 +15308,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"MGTS F211": {
 			"units": 3.0,
@@ -12752,8 +15344,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T04:00:00|2023-12-14T07:00:00"
+				}
+			]
 		},
 		"MGTS F316": {
 			"units": 3.0,
@@ -12770,8 +15370,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"MSE G511": {
 			"units": 5.0,
@@ -12788,7 +15396,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["P Ramya Priya", "Arshad Javed"],
+					"instructor": ["Arshad Javed", "P Ramya Priya"],
 					"schedule": [
 						{
 							"room": "LAB",
@@ -12798,8 +15406,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"MSE G521": {
 			"units": 5.0,
@@ -12816,8 +15432,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"PHA F211": {
 			"units": 3.0,
@@ -12836,9 +15460,9 @@
 				"P1": {
 					"instructor": [
 						"Tarun",
-						"Ambati Himaja",
 						"Ch Sai Sanjay",
 						"Sri Ganga",
+						"Ambati Himaja",
 						"Balram Ghosh"
 					],
 					"schedule": [
@@ -12852,9 +15476,9 @@
 				"P2": {
 					"instructor": [
 						"Tarun",
-						"Ambati Himaja",
 						"Ch Sai Sanjay",
 						"Sri Ganga",
+						"Ambati Himaja",
 						"Balram Ghosh"
 					],
 					"schedule": [
@@ -12876,8 +15500,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T04:00:00|2023-12-06T07:00:00"
+				}
+			]
 		},
 		"PHA F215": {
 			"units": 3.0,
@@ -12897,9 +15529,9 @@
 					"instructor": [
 						"Shivani",
 						"Kothari prafful pradeep",
-						"Trupti Ghatage",
+						"Arti Dhar",
 						"Lahane Ganesh Panditrao",
-						"Arti Dhar"
+						"Trupti Ghatage"
 					],
 					"schedule": [
 						{
@@ -12913,9 +15545,9 @@
 					"instructor": [
 						"Shivani",
 						"Kothari prafful pradeep",
-						"Trupti Ghatage",
+						"Arti Dhar",
 						"Lahane Ganesh Panditrao",
-						"Arti Dhar"
+						"Trupti Ghatage"
 					],
 					"schedule": [
 						{
@@ -12936,8 +15568,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"PHA F217": {
 			"units": 3.0,
@@ -12957,8 +15597,8 @@
 					"instructor": [
 						"D Sriram",
 						"SONAL SUKHADEO FANDE",
-						"Deepika K",
-						"Jegadheeswari V"
+						"Jegadheeswari V",
+						"Deepika K"
 					],
 					"schedule": [
 						{
@@ -12972,8 +15612,8 @@
 					"instructor": [
 						"D Sriram",
 						"SONAL SUKHADEO FANDE",
-						"Deepika K",
-						"Jegadheeswari V"
+						"Jegadheeswari V",
+						"Deepika K"
 					],
 					"schedule": [
 						{
@@ -12994,8 +15634,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"PHA F244": {
 			"units": 3.0,
@@ -13013,9 +15661,9 @@
 				},
 				"P1": {
 					"instructor": [
+						"V V Krishna Venuganti",
 						"Bollareddy Srivarsha Reddy",
-						"Rupal Kothari",
-						"V V Krishna Venuganti"
+						"Rupal Kothari"
 					],
 					"schedule": [
 						{
@@ -13036,8 +15684,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"PHA F266": {
 			"units": 3.0,
@@ -13054,8 +15710,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"PHA F311": {
 			"units": 3.0,
@@ -13073,9 +15737,9 @@
 				},
 				"P1": {
 					"instructor": [
+						"Ashutosh Balasaheb Mahale",
 						"Onkar Kulkarni",
-						"Lavanya S",
-						"Ashutosh Balasaheb Mahale"
+						"Lavanya S"
 					],
 					"schedule": [
 						{
@@ -13096,8 +15760,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"PHA F312": {
 			"units": 3.0,
@@ -13116,9 +15788,9 @@
 				"P1": {
 					"instructor": [
 						"Darakhshan Begum",
+						"Purbali Chakraborty",
 						"P Yogeeswari",
-						"Suraj.s",
-						"Purbali Chakraborty"
+						"Suraj.s"
 					],
 					"schedule": [
 						{
@@ -13139,8 +15811,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "11/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-11T04:00:00|2023-12-11T07:00:00"
+				}
+			]
 		},
 		"PHA F315": {
 			"units": 3.0,
@@ -13158,10 +15838,10 @@
 				},
 				"P1": {
 					"instructor": [
+						"Priyadarshini Sathe",
 						"Nirmal J",
-						"Sai Shreya",
 						"Manthan S Hiremath",
-						"Priyadarshini Sathe"
+						"Sai Shreya"
 					],
 					"schedule": [
 						{
@@ -13182,8 +15862,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"PHA F366": {
 			"units": 3.0,
@@ -13200,8 +15888,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"PHA F367": {
 			"units": 3.0,
@@ -13218,8 +15914,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"PHA F376": {
 			"units": 3.0,
@@ -13236,8 +15940,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"PHA F377": {
 			"units": 3.0,
@@ -13254,8 +15966,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "14/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-14T08:30:00|2023-12-14T11:30:00"
+				}
+			]
 		},
 		"PHA F415": {
 			"units": 3.0,
@@ -13272,8 +15992,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"PHA F422": {
 			"units": 3.0,
@@ -13300,8 +16028,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T08:30:00|2023-12-19T11:30:00"
+				}
+			]
 		},
 		"PHA G535": {
 			"units": 5.0,
@@ -13318,8 +16054,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"PHA G537": {
 			"units": 5.0,
@@ -13336,8 +16080,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"PHA G538": {
 			"units": 5.0,
@@ -13364,8 +16116,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"PHA G540": {
 			"units": 4.0,
@@ -13383,11 +16143,11 @@
 				},
 				"P1": {
 					"instructor": [
-						"Gupta Suraj Pyarelal Meena",
-						"P. S Lakshmi Soukya",
-						"A Sajeli Begum",
 						"Velmurugan K",
-						"Erram Venkatesh"
+						"A Sajeli Begum",
+						"Erram Venkatesh",
+						"Gupta Suraj Pyarelal Meena",
+						"P. S Lakshmi Soukya"
 					],
 					"schedule": [
 						{
@@ -13398,8 +16158,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T04:00:00|2023-12-07T07:00:00"
+				}
+			]
 		},
 		"PHA G542": {
 			"units": 5.0,
@@ -13417,9 +16185,9 @@
 				},
 				"P1": {
 					"instructor": [
+						"V V Krishna Venuganti",
 						"Sankar Shridula",
-						"Shreya Shashank Chauhan",
-						"V V Krishna Venuganti"
+						"Shreya Shashank Chauhan"
 					],
 					"schedule": [
 						{
@@ -13430,8 +16198,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"PHA G543": {
 			"units": 5.0,
@@ -13448,15 +16224,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T08:30:00|2023-12-18T11:30:00"
+				}
+			]
 		},
 		"PHA G545": {
 			"units": 3.0,
 			"course_name": "IPR AND PHARMACEUTICALS",
 			"sections": {
 				"L1": {
-					"instructor": ["Yuvaraj Singh", "P YOGEESWARI"],
+					"instructor": ["P YOGEESWARI", "Yuvaraj Singh"],
 					"schedule": [
 						{
 							"room": "G204",
@@ -13466,8 +16250,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "16/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
+				}
+			]
 		},
 		"PHA G547": {
 			"units": 5.0,
@@ -13484,7 +16276,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["R Punna Rao", "Radhika Rajiv Mahajan"],
+					"instructor": ["Radhika Rajiv Mahajan", "R Punna Rao"],
 					"schedule": [
 						{
 							"room": "A022",
@@ -13494,8 +16286,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"PHA G613": {
 			"units": 5.0,
@@ -13513,10 +16313,10 @@
 				},
 				"P1": {
 					"instructor": [
-						"Asif Mohd Itoo",
 						"Milan Paul",
-						"Sripathi Nikhitha",
-						"Swati Biswas"
+						"Asif Mohd Itoo",
+						"Swati Biswas",
+						"Sripathi Nikhitha"
 					],
 					"schedule": [
 						{
@@ -13527,8 +16327,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"PHA G619": {
 			"units": 5.0,
@@ -13547,8 +16355,8 @@
 				"P1": {
 					"instructor": [
 						"Srinivas Prasad K",
-						"Sonam Dolma",
-						"Wadkar Avinash Rudrappa"
+						"Wadkar Avinash Rudrappa",
+						"Sonam Dolma"
 					],
 					"schedule": [
 						{
@@ -13559,8 +16367,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "09/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-09T04:00:00|2023-12-09T07:00:00"
+				}
+			]
 		},
 		"PHA G625": {
 			"units": 5.0,
@@ -13587,8 +16403,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"PHA G626": {
 			"units": 4.0,
@@ -13605,8 +16429,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "07/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-07T08:30:00|2023-12-07T11:30:00"
+				}
+			]
 		},
 		"PHA G632": {
 			"units": 5.0,
@@ -13624,10 +16456,10 @@
 				},
 				"P1": {
 					"instructor": [
-						"Yuvaraj Singh",
-						"R Punna Rao",
+						"Swagata Sinha",
 						"Sonali Singh",
-						"Swagata Sinha"
+						"Yuvaraj Singh",
+						"R Punna Rao"
 					],
 					"schedule": [
 						{
@@ -13638,8 +16470,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"PHA G642": {
 			"units": 6.0,
@@ -13656,8 +16496,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"PHY F110": {
 			"units": 1.0,
@@ -13714,7 +16562,7 @@
 					]
 				},
 				"L6": {
-					"instructor": ["Suvadip Das", "Tamali Mukherjee"],
+					"instructor": ["Tamali Mukherjee", "Suvadip Das"],
 					"schedule": [
 						{
 							"room": "A223",
@@ -13724,7 +16572,7 @@
 					]
 				},
 				"L7": {
-					"instructor": ["Suvadip Das", "Yash Pareek"],
+					"instructor": ["Yash Pareek", "Suvadip Das"],
 					"schedule": [
 						{
 							"room": "A222",
@@ -13734,7 +16582,7 @@
 					]
 				},
 				"L8": {
-					"instructor": ["K V Shiv Chaitanya", "Urjjarani Patel"],
+					"instructor": ["Urjjarani Patel", "K V Shiv Chaitanya"],
 					"schedule": [
 						{
 							"room": "A223",
@@ -13745,8 +16593,8 @@
 				},
 				"L9": {
 					"instructor": [
-						"Aranya Bhuti Bhattacherjee",
-						"Akhil U Nair"
+						"Akhil U Nair",
+						"Aranya Bhuti Bhattacherjee"
 					],
 					"schedule": [
 						{
@@ -13767,7 +16615,7 @@
 					]
 				},
 				"L11": {
-					"instructor": ["Sashideep Gutti", "Anamika Avinash Pathak"],
+					"instructor": ["Anamika Avinash Pathak", "Sashideep Gutti"],
 					"schedule": [
 						{
 							"room": "A222",
@@ -13777,15 +16625,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T08:30:00|2023-12-18T11:30:00"
+				}
+			]
 		},
 		"PHY F111": {
 			"units": 3.0,
 			"course_name": "MECH OSCIL & WAVES",
 			"sections": {
 				"L1": {
-					"instructor": ["PK THIRUVIKRAMAN", "Prasant Samantray"],
+					"instructor": ["Prasant Samantray", "PK THIRUVIKRAMAN"],
 					"schedule": [
 						{
 							"room": "F102",
@@ -13885,8 +16741,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T04:00:00|2023-12-13T07:00:00"
+				}
+			]
 		},
 		"PHY F112": {
 			"units": 3.0,
@@ -13913,8 +16777,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T04:00:00|2023-12-13T07:00:00"
+				}
+			]
 		},
 		"PHY F211": {
 			"units": 4.0,
@@ -13941,8 +16813,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
+				}
+			]
 		},
 		"PHY F212": {
 			"units": 3.0,
@@ -14069,8 +16949,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "19/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-19T04:00:00|2023-12-19T07:00:00"
+				}
+			]
 		},
 		"PHY F213": {
 			"units": 3.0,
@@ -14097,8 +16985,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"PHY F214": {
 			"units": 2.0,
@@ -14106,10 +17002,10 @@
 			"sections": {
 				"L1": {
 					"instructor": [
-						"ARAVINDA N RAGHAVAN",
-						"Sreeshna S",
 						"Greeshma Gopinath",
-						"Meenakshi V"
+						"Meenakshi V",
+						"ARAVINDA N RAGHAVAN",
+						"Sreeshna S"
 					],
 					"schedule": [
 						{
@@ -14121,10 +17017,10 @@
 				},
 				"L2": {
 					"instructor": [
-						"Sreeshna S",
-						"Greeshma Gopinath",
+						"Aravinda N Raghavan",
 						"Meenakshi V",
-						"Aravinda N Raghavan"
+						"Greeshma Gopinath",
+						"Sreeshna S"
 					],
 					"schedule": [
 						{
@@ -14135,8 +17031,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"PHY F266": {
 			"units": 3.0,
@@ -14153,8 +17057,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
+				}
+			]
 		},
 		"PHY F311": {
 			"units": 3.0,
@@ -14181,15 +17093,23 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "13/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-13T08:30:00|2023-12-13T11:30:00"
+				}
+			]
 		},
 		"PHY F312": {
 			"units": 3.0,
 			"course_name": "STATISTICAL MECHANICS",
 			"sections": {
 				"L1": {
-					"instructor": ["SARMISTHA BANIK", "Rahul Nigam"],
+					"instructor": ["Rahul Nigam", "SARMISTHA BANIK"],
 					"schedule": [
 						{
 							"room": "G201",
@@ -14200,9 +17120,9 @@
 				},
 				"T1": {
 					"instructor": [
-						"Suraj Kumar Maurya",
 						"Rahul Nigam",
-						"Sarmistha Banik"
+						"Sarmistha Banik",
+						"Suraj Kumar Maurya"
 					],
 					"schedule": [
 						{
@@ -14213,8 +17133,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "18/12 FN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-18T04:00:00|2023-12-18T07:00:00"
+				}
+			]
 		},
 		"PHY F313": {
 			"units": 3.0,
@@ -14231,7 +17159,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["Anagh Venneti", "PK Thiruvikraman"],
+					"instructor": ["PK Thiruvikraman", "Anagh Venneti"],
 					"schedule": [
 						{
 							"room": "G205",
@@ -14241,8 +17169,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "08/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-08T08:30:00|2023-12-08T11:30:00"
+				}
+			]
 		},
 		"PHY F317": {
 			"units": 3.0,
@@ -14259,8 +17195,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "12/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-12T08:30:00|2023-12-12T11:30:00"
+				}
+			]
 		},
 		"PHY F346": {
 			"units": 3.0,
@@ -14277,8 +17221,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"PHY F366": {
 			"units": 3.0,
@@ -14295,8 +17247,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"PHY F367": {
 			"units": 3.0,
@@ -14313,8 +17273,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"PHY F376": {
 			"units": 3.0,
@@ -14331,8 +17299,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"PHY F377": {
 			"units": 3.0,
@@ -14349,8 +17325,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
 		},
 		"PHY F417": {
 			"units": 4.0,
@@ -14367,8 +17351,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "05/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-05T08:30:00|2023-12-05T11:30:00"
+				}
+			]
 		},
 		"PHY F420": {
 			"units": 4.0,
@@ -14385,8 +17377,16 @@
 					]
 				}
 			},
-			"exams": [],
-			"exams_iso": []
+			"exams": [
+				{
+					"compre": "06/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
+				}
+			]
 		}
 	}
 }
