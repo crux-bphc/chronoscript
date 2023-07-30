@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import math
 from parse_times import parse_time, parse_compre_time
 
 
@@ -130,12 +131,13 @@ def create_json_file(
             course_json[course_code]["exams"] = []
 
         # add exams to the list of exams for the course
-        course_json[course_code]["exams"].append(
-            {
-                "midsem": row["midsem"],
-                "compre": row["compre"],
-            }
-        )
+        if not math.isnan(row["midsem"]) and not math.isnan(row["compre"]):
+            course_json[course_code]["exams"].append(
+                {
+                    "midsem": row["midsem"],
+                    "compre": row["compre"],
+                }
+            )
 
         # remove duplicate exams
         course_json[course_code]["exams"] = remove_duplicate_dicts(
@@ -153,7 +155,8 @@ def create_json_file(
                     "compre": parse_compre_time(exam["compre"], year),
                 }
             )
-        course_json[course_code]["exams_iso"] = exams_iso
+        # remove duplicate exams
+        course_json[course_code]["exams_iso"] = remove_duplicate_dicts(exams_iso)
 
     # convert file to serializable format
     convert_all_sets_to_list_recursive(course_json)
