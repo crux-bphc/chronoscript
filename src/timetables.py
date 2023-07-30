@@ -518,15 +518,23 @@ def export_to_json(timetables: list, filtered_json: dict, n_export: int = 100) -
 
 if __name__ == "__main__":
     # need to get these as inputs
-    CDCs = ["CS F301", "CS F342", "CS F351", "CS F372"]
+    CDCs = [
+        "CS F213",
+        "CS F214",
+        "CS F215",
+        "CS F222",
+        "ECON F311",
+        "ECON F312",
+        "ECON F313",
+    ]
 
     # Order the oreference of DELs, HUELs and OPELs
 
-    DEls = ["CS F429", "CS F433"]
+    DEls = []
 
     nDels = len(DEls)
 
-    OPELs = ["DE G611", "DE G631"]
+    OPELs = []
 
     nOpels = len(OPELs)
 
