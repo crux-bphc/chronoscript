@@ -277,17 +277,17 @@ def remove_exam_clashes(
         for course in timetable:
             # get exam times
             if course[0] in json["CDCs"]:
-                mid = json["CDCs"][course[0]]["exams"][0]["midsem"]
-                compre = json["CDCs"][course[0]]["exams"][0]["compre"]
+                mid = json["CDCs"][course[0]]["exams"][0].get("midsem", "")
+                compre = json["CDCs"][course[0]]["exams"][0].get("compre", "")
             elif course[0] in json["DEls"]:
-                mid = json["DEls"][course[0]]["exams"][0]["midsem"]
-                compre = json["DEls"][course[0]]["exams"][0]["compre"]
+                mid = json["DEls"][course[0]]["exams"][0].get("midsem", "")
+                compre = json["DEls"][course[0]]["exams"][0].get("compre", "")
             elif course[0] in json["HUELs"]:
-                mid = json["HUELs"][course[0]]["exams"][0]["midsem"]
-                compre = json["HUELs"][course[0]]["exams"][0]["compre"]
+                mid = json["HUELs"][course[0]]["exams"][0].get("midsem", "")
+                compre = json["HUELs"][course[0]]["exams"][0].get("compre", "")
             elif course[0] in json["OPELs"]:
-                mid = json["OPELs"][course[0]]["exams"][0]["midsem"]
-                compre = json["OPELs"][course[0]]["exams"][0]["compre"]
+                mid = json["OPELs"][course[0]]["exams"][0].get("midsem", "")
+                compre = json["OPELs"][course[0]]["exams"][0].get("compre", "")
             else:
                 raise Exception("Course code not found in any category")
             mids_times[mid] = mids_times.get(mid, 0) + 1
