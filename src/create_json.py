@@ -213,4 +213,4 @@ if __name__ == "__main__":
 
     timetable = pd.read_csv("output.csv")
 
-    create_json_file(timetable, columns, "timetable.json", 2023, 2022, 2)
+    create_json_file(timetable, columns, "timetable.json", 2023, 2023, 1)
