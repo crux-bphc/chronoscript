@@ -107,8 +107,11 @@ def parse_compre_time(compre_time: str, year: int):
         str: The compre time in ISO format. (example: "2023-05-19T09:30:00|2023-05-19T12:30:00")
     """
     lookup = {"FN": "9.30 - 12.30PM", "AN": "2.00 - 5.00PM"}
-    time = compre_time.split()[0] + " " + lookup[compre_time.split()[1]]
-    return parse_time(time, year)
+    if compre_time != "null":
+        time = compre_time.split()[0] + " " + lookup[compre_time.split()[1]]
+        return parse_time(time, year)
+    else:
+        return "null"
 
 
 if __name__ == "__main__":

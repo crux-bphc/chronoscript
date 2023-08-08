@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import json
 from parse_times import parse_time, parse_compre_time
 
@@ -60,6 +61,22 @@ def remove_duplicate_dicts(l: list[dict]) -> list[dict]:
     return new_l
 
 
+def null_empty_exam_dates(timetable: pd.DataFrame) -> None:
+    """
+    Function to insert 'null' in exams dates where the course has no exam date to
+    prevent wrong exam date being copied due to ffill().
+
+    Args:
+        timetable (pd.DataFrame): The timetable dataframe to fix dates.
+    """
+    for index, row_data in timetable.iterrows():
+        if pd.notna(row_data[0]) and not (pd.notna(row_data[-2])):
+            timetable.loc[index, "midsem"] = "null"
+
+        if pd.notna(row_data[0]) and not (pd.notna(row_data[-1])):
+            timetable.loc[index, "compre"] = "null"
+
+
 def create_json_file(
     timetable: pd.DataFrame,
     columns: list[str],
@@ -83,10 +100,9 @@ def create_json_file(
     course_json: dict = {}
     tt.columns = columns
     tt.drop(columns=["serial", "L", "P"], inplace=True)
-
+    null_empty_exam_dates(tt)
     # Filling all empty rows with the previous row's value for simplicity
     tt.fillna(method="ffill", inplace=True)
-
     for _, row in tt.iterrows():
         course_code = row["course_code"]
 

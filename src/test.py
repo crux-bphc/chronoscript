@@ -652,7 +652,6 @@ if __name__ == "__main__":
         ],
     ]
 
-    # The project Course inherits the timings from the preceding course which needs to be corrected manually
     expected_output_6 = {
         "metadata": {"acadYear": 2000, "semester": 1},
         "courses": {
@@ -686,11 +685,11 @@ if __name__ == "__main__":
                         ],
                     }
                 },
-                "exams": [{"midsem": "16/03 4.00 - 5.30PM", "compre": "16/05 AN"}],
+                "exams": [{"midsem": "null", "compre": "null"}],
                 "exams_iso": [
                     {
-                        "midsem": "2000-03-16T10:30:00|2000-03-16T12:00:00",
-                        "compre": "2000-05-16T08:30:00|2000-05-16T11:30:00",
+                        "midsem": "error",
+                        "compre": "null",
                     }
                 ],
             },
