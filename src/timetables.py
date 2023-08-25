@@ -294,12 +294,12 @@ def remove_exam_clashes(
             compres_times[compre] = compres_times.get(compre, 0) + 1
         # see if more than one course has the same exam time
         for time in mids_times:
-            if mids_times[time] > 1 and time != "":
+            if mids_times[time] > 1 and time != None:
                 clashes = True
                 break
         if not clashes:
             for time in compres_times:
-                if compres_times[time] > 1:
+                if compres_times[time] > 1 and time != None:
                     clashes = True
                     break
         # for i in range(len(mids_times)):

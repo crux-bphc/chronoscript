@@ -54,7 +54,7 @@ if __name__ == "__main__":
 
     # page range to extract the timetable from
     # [from, to]
-    page_range: list[int] = [2, 58]
+    page_range: list[int] = [7, 66]
 
     # path to the pdf file
     file: str = r"timetable.pdf"
