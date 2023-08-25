@@ -37,8 +37,9 @@ def test(obj: list[list[str]], expected_output: dict, output_file) -> str:
         str: "TEST PASS" if test is successful else raises exception.
     """
     data = pd.DataFrame(obj)
+    original_data = pd.DataFrame(obj)
     create_json.create_json_file(
-        data, columns, output_file, 2000, 2000, 1
+        data, original_data, columns, output_file, 2000, 2000, 1
     )  # jargon data to fill year data
 
     output_data = json.loads(
@@ -685,11 +686,11 @@ if __name__ == "__main__":
                         ],
                     }
                 },
-                "exams": [{"midsem": "null", "compre": "null"}],
+                "exams": [{"midsem": None, "compre": None}],
                 "exams_iso": [
                     {
-                        "midsem": "error",
-                        "compre": "null",
+                        "midsem": None,
+                        "compre": None,
                     }
                 ],
             },

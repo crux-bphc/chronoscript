@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import json
 from parse_times import parse_time, parse_compre_time
 
@@ -61,24 +60,29 @@ def remove_duplicate_dicts(l: list[dict]) -> list[dict]:
     return new_l
 
 
-def null_empty_exam_dates(timetable: pd.DataFrame) -> None:
+def null_empty_exam_dates(timetable: pd.DataFrame, course_json: dict) -> None:
     """
-    Function to insert 'null' in exams dates where the course has no exam date to
-    prevent wrong exam date being copied due to ffill().
+    Function to go through the final dictionary before JSON and replace the wrong exam date
+    copied by ffill() to null.
 
     Args:
-        timetable (pd.DataFrame): The timetable dataframe to fix dates.
+        timetable (pd.DataFrame): The timetable dataframe to find courses with empty dates.
+        course_json (dict): The final course details dictionary to make changes to, before converting to JSON.
+
     """
-    for index, row_data in timetable.iterrows():
+    for row_data in timetable.values:
         if pd.notna(row_data[0]) and not (pd.notna(row_data[-2])):
-            timetable.loc[index, "midsem"] = "null"
+            course_json[row_data[1]]["exams"][0]["midsem"] = None
+            course_json[row_data[1]]["exams_iso"][0]["midsem"] = None
 
         if pd.notna(row_data[0]) and not (pd.notna(row_data[-1])):
-            timetable.loc[index, "compre"] = "null"
+            course_json[row_data[1]]["exams"][0]["compre"] = None
+            course_json[row_data[1]]["exams_iso"][0]["compre"] = None
 
 
 def create_json_file(
     timetable: pd.DataFrame,
+    original_timetable: pd.DataFrame,
     columns: list[str],
     output_file: str,
     year: int,
@@ -90,6 +94,7 @@ def create_json_file(
 
     Args:
         timetable (pd.DataFrame): The timetable dataframe to create the json file from.
+        original_timetable (pd.DataFrame): The original dataframe required to check for empty exam dates.
         columns (list[str]): The columns of the dataframe.
         output_file (str): The name of the output json file.
         year (int): The academic year of the timetable. (example: 2023)
@@ -97,10 +102,10 @@ def create_json_file(
         semester (int): The semester of the timetable. (example: 1 is for odd semester, 2 is for even semester)
     """
     tt: pd.DataFrame = timetable
+    original_tt: pd.DataFrame = original_timetable
     course_json: dict = {}
     tt.columns = columns
     tt.drop(columns=["serial", "L", "P"], inplace=True)
-    null_empty_exam_dates(tt)
     # Filling all empty rows with the previous row's value for simplicity
     tt.fillna(method="ffill", inplace=True)
     for _, row in tt.iterrows():
@@ -199,6 +204,7 @@ def create_json_file(
 
     # convert file to serializable format
     convert_all_sets_to_list_recursive(course_json)
+    null_empty_exam_dates(original_tt, course_json)
     final_json = {}
     final_json["metadata"] = {
         "acadYear": academic_year,
@@ -228,5 +234,8 @@ if __name__ == "__main__":
     ]
 
     timetable = pd.read_csv("output.csv")
+    original_timetable = pd.read_csv("output.csv")
 
-    create_json_file(timetable, columns, "timetable.json", 2023, 2023, 1)
+    create_json_file(
+        timetable, original_timetable, columns, "timetable.json", 2023, 2023, 1
+    )
