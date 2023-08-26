@@ -70,14 +70,15 @@ def null_empty_exam_dates(timetable: pd.DataFrame, course_json: dict) -> None:
         course_json (dict): The final course details dictionary to make changes to, before converting to JSON.
 
     """
+
     for row_data in timetable.values:
         if pd.notna(row_data[0]) and not (pd.notna(row_data[-2])):
-            course_json[row_data[1]]["exams"][0]["midsem"] = None
-            course_json[row_data[1]]["exams_iso"][0]["midsem"] = None
+            course_json[row_data[0]]["exams"][0]["midsem"] = None
+            course_json[row_data[0]]["exams_iso"][0]["midsem"] = None
 
         if pd.notna(row_data[0]) and not (pd.notna(row_data[-1])):
-            course_json[row_data[1]]["exams"][0]["compre"] = None
-            course_json[row_data[1]]["exams_iso"][0]["compre"] = None
+            course_json[row_data[0]]["exams"][0]["compre"] = None
+            course_json[row_data[0]]["exams_iso"][0]["compre"] = None
 
 
 def create_json_file(
@@ -105,7 +106,9 @@ def create_json_file(
     original_tt: pd.DataFrame = original_timetable
     course_json: dict = {}
     tt.columns = columns
+    original_tt.columns = columns
     tt.drop(columns=["serial", "L", "P"], inplace=True)
+    original_tt.drop(columns=["serial", "L", "P"], inplace=True)
     # Filling all empty rows with the previous row's value for simplicity
     tt.fillna(method="ffill", inplace=True)
     for _, row in tt.iterrows():
