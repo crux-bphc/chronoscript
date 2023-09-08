@@ -27,12 +27,15 @@ def remove_headers(
     return new_table
 
 
-def convert_timetable_to_csv(pages: list[pdfplumber.page.Page]) -> pd.DataFrame():
+def convert_timetable_to_csv(
+    pages: list[pdfplumber.page.Page], headers: list[str]
+) -> pd.DataFrame():
     """
     Function to convert the timetable to a pandas dataframe.
 
     Args:
         pages (list[pdfplumber.page.Page]): The pages to extract the timetable from.
+        headers (list[str]): The headers to remove from the table.
 
     Returns:
         pd.DataFrame(): The timetable as a pandas dataframe.
@@ -64,7 +67,7 @@ if __name__ == "__main__":
     # might need to play around with the +-1, depending on how the pdf is formatted and how pdfplumber extracts the pages
     pages: list[pdfplumber.page.Page] = pdf.pages[page_range[0] - 1 : page_range[1]]
 
-    data: pd.DataFrame = convert_timetable_to_csv(pages)
+    data: pd.DataFrame = convert_timetable_to_csv(pages, headers)
 
     # output the dataframe to csv
     data.to_csv("./files/output.csv", index=False)
