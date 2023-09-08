@@ -513,7 +513,7 @@ def export_to_json(timetables: list, filtered_json: dict, n_export: int = 100) -
         export.append(export_tt)
         if len(export) == n_export:
             break
-    json.dump(export, open("my_timetables.json", "w"), indent=4)
+    json.dump(export, open("./files/my_timetables.json", "w"), indent=4)
 
 
 if __name__ == "__main__":
@@ -549,7 +549,7 @@ if __name__ == "__main__":
     lite_order = ["S", "Su", "M", "T", "W", "Th", "F"]
 
     # load the json file created
-    tt_json = json.load(open("timetable.json", "r"))
+    tt_json = json.load(open("./files/timetable.json", "r"))
 
     filtered_json = get_filtered_json(tt_json, CDCs, DEls, HUELs, OPELs)
 

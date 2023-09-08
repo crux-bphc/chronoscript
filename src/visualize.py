@@ -124,7 +124,7 @@ def convert_timetable_to_pandas_dataframe(
 
 if __name__ == "__main__":
     index = 0
-    with open("my_timetables.json", "r") as f:
+    with open("./files/my_timetables.json", "r") as f:
         timetables = json.load(f)
     dfs = convert_timetable_to_pandas_dataframe(timetables, index, False)
     print("======================================================\n")

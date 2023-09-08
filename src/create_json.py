@@ -211,6 +211,6 @@ if __name__ == "__main__":
         "compre",
     ]
 
-    timetable = pd.read_csv("output.csv")
+    timetable = pd.read_csv("./files/output.csv")
 
-    create_json_file(timetable, columns, "timetable.json", 2023, 2023, 1)
+    create_json_file(timetable, columns, "./files/timetable.json", 2023, 2023, 1)

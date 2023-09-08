@@ -57,7 +57,7 @@ if __name__ == "__main__":
     page_range: list[int] = [7, 66]
 
     # path to the pdf file
-    file: str = r"timetable.pdf"
+    file: str = r"./files/timetable.pdf"
 
     pdf: pdfplumber.pdf.PDF = pdfplumber.open(file)
 
@@ -67,4 +67,4 @@ if __name__ == "__main__":
     data: pd.DataFrame = convert_timetable_to_csv(pages)
 
     # output the dataframe to csv
-    data.to_csv("output.csv", index=False)
+    data.to_csv("./files/output.csv", index=False)

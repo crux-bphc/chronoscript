@@ -4,6 +4,34 @@
 		"semester": 1
 	},
 	"courses": {
+		"AN F311": {
+			"units": 3.0,
+			"course_name": "PRINCIPLES OF\nAERODYNAMICS",
+			"sections": {
+				"L1": {
+					"instructor": ["PARDHA SARADHI\nGURUG"],
+					"schedule": [
+						{
+							"room": "G205",
+							"days": ["M", "W", "F"],
+							"hours": [8]
+						}
+					]
+				}
+			},
+			"exams": [
+				{
+					"midsem": "14/10 - 4.00 - 5.30PM",
+					"compre": "21/12 AN"
+				}
+			],
+			"exams_iso": [
+				{
+					"midsem": "2023-10-14T10:30:00|2023-10-14T12:00:00",
+					"compre": "2023-12-21T08:30:00|2023-12-21T11:30:00"
+				}
+			]
+		},
 		"AN F313": {
 			"units": 3.0,
 			"course_name": "FLIGHT MECHANICS AND\nCONTROLS",
@@ -36,10 +64,10 @@
 			"units": 1.0,
 			"course_name": "BIOLOGY LABORATORY",
 			"sections": {
-				"P1": {
+				"L1": {
 					"instructor": [
-						"Maddipatla Naga sai karthik",
-						"Supratim Ghosh"
+						"Supratim Ghosh",
+						"Maddipatla Naga sai karthik"
 					],
 					"schedule": [
 						{
@@ -49,7 +77,7 @@
 						}
 					]
 				},
-				"P2": {
+				"L2": {
 					"instructor": ["Pragya Komal", "Omalur Eshwari"],
 					"schedule": [
 						{
@@ -59,7 +87,7 @@
 						}
 					]
 				},
-				"P3": {
+				"L3": {
 					"instructor": ["SHUVADEEP MAITY", "K.Vaishali"],
 					"schedule": [
 						{
@@ -69,8 +97,8 @@
 						}
 					]
 				},
-				"P4": {
-					"instructor": ["Kodam Pradeep", "Shuvadeep Maity"],
+				"L4": {
+					"instructor": ["Shuvadeep Maity", "Kodam Pradeep"],
 					"schedule": [
 						{
 							"room": "A122",
@@ -79,7 +107,7 @@
 						}
 					]
 				},
-				"P5": {
+				"L5": {
 					"instructor": ["Aditi Dey", "Satarupa Das"],
 					"schedule": [
 						{
@@ -89,8 +117,8 @@
 						}
 					]
 				},
-				"P6": {
-					"instructor": ["Naga Mohan K", "Sumana Choudhury"],
+				"L6": {
+					"instructor": ["Sumana Choudhury", "Naga Mohan K"],
 					"schedule": [
 						{
 							"room": "A122",
@@ -99,7 +127,7 @@
 						}
 					]
 				},
-				"P7": {
+				"L7": {
 					"instructor": ["Nidhi O", "Ruchi Jain Dey"],
 					"schedule": [
 						{
@@ -109,7 +137,7 @@
 						}
 					]
 				},
-				"P8": {
+				"L8": {
 					"instructor": ["Nishith Gupta", "Rolly Kumari"],
 					"schedule": [
 						{
@@ -119,10 +147,10 @@
 						}
 					]
 				},
-				"P9": {
+				"L9": {
 					"instructor": [
-						"Peddiraju N V S J Swaroop",
-						"Amartya Sanyal"
+						"Amartya Sanyal",
+						"Peddiraju N V S J Swaroop"
 					],
 					"schedule": [
 						{
@@ -132,7 +160,7 @@
 						}
 					]
 				},
-				"P10": {
+				"L10": {
 					"instructor": ["Miss Payel Gupta", "Debashree B"],
 					"schedule": [
 						{
@@ -142,7 +170,7 @@
 						}
 					]
 				},
-				"P11": {
+				"L11": {
 					"instructor": ["Devarakonda Himaja", "Debashree B"],
 					"schedule": [
 						{
@@ -155,14 +183,14 @@
 			},
 			"exams": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "09/10 - 11.30 - 1.00PM",
+					"compre": "06/12 AN"
 				}
 			],
 			"exams_iso": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "2023-10-09T06:00:00|2023-10-09T07:30:00",
+					"compre": "2023-12-06T08:30:00|2023-12-06T11:30:00"
 				}
 			]
 		},
@@ -171,7 +199,7 @@
 			"course_name": "GENERAL BIOLOGY",
 			"sections": {
 				"L1": {
-					"instructor": ["Sridev Mohapatra", "Jayati Ray Dutta"],
+					"instructor": ["Jayati Ray Dutta", "Sridev Mohapatra"],
 					"schedule": [
 						{
 							"room": "F105",
@@ -394,9 +422,9 @@
 			"sections": {
 				"L1": {
 					"instructor": [
-						"Naga Mohan K",
+						"Shuvadeep Maity",
 						"NAGA MOHAN K",
-						"Shuvadeep Maity"
+						"Naga Mohan K"
 					],
 					"schedule": [
 						{
@@ -490,13 +518,13 @@
 			},
 			"exams": [
 				{
-					"midsem": null,
+					"midsem": "13/10 - 2.00 - 3.30PM",
 					"compre": "05/12 AN"
 				}
 			],
 			"exams_iso": [
 				{
-					"midsem": null,
+					"midsem": "2023-10-13T08:30:00|2023-10-13T10:00:00",
 					"compre": "2023-12-05T08:30:00|2023-12-05T11:30:00"
 				}
 			]
@@ -816,7 +844,7 @@
 			"course_name": "APPL OF COMP AND\nSTATS IN BIOLOGY",
 			"sections": {
 				"L1": {
-					"instructor": ["AMARTYA SANYAL", "Naga Mohan K"],
+					"instructor": ["Naga Mohan K", "AMARTYA SANYAL"],
 					"schedule": [
 						{
 							"room": "G105",
@@ -827,9 +855,9 @@
 				},
 				"P1": {
 					"instructor": [
-						"Naga Mohan K",
 						"Sakhare Kalyani Rajesh",
-						"Amartya Sanyal"
+						"Amartya Sanyal",
+						"Naga Mohan K"
 					],
 					"schedule": [
 						{
@@ -870,8 +898,8 @@
 				"P1": {
 					"instructor": [
 						"Gireesha T Mohannath",
-						"Abirami T S",
-						"Murali Krishna Ramgopal"
+						"Murali Krishna Ramgopal",
+						"Abirami T S"
 					],
 					"schedule": [
 						{
@@ -958,8 +986,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Jayasree P J",
 						"Piyush Khandelia",
+						"Jayasree P J",
 						"Pragati Karemore"
 					],
 					"schedule": [
@@ -1000,9 +1028,9 @@
 				},
 				"P1": {
 					"instructor": [
-						"Atish Kumar Behera",
 						"Hemapriya S",
-						"P Sankar Ganesh"
+						"P Sankar Ganesh",
+						"Atish Kumar Behera"
 					],
 					"schedule": [
 						{
@@ -1041,7 +1069,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Swati", "Vivek Sharma", "Suryansh Sengar"],
+					"instructor": ["Suryansh Sengar", "Swati", "Vivek Sharma"],
 					"schedule": [
 						{
 							"room": "A121",
@@ -1080,8 +1108,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Ratnesh Kumar Srivastav",
 						"Nishith Gupta",
+						"Ratnesh Kumar Srivastav",
 						"Poosala Ramya Sri"
 					],
 					"schedule": [
@@ -1122,9 +1150,9 @@
 				},
 				"P1": {
 					"instructor": [
+						"Shubham Kumar Sinha",
 						"Kirtimaan Syal",
-						"Devarakonda Yogeshwar",
-						"Shubham Kumar Sinha"
+						"Devarakonda Yogeshwar"
 					],
 					"schedule": [
 						{
@@ -1322,9 +1350,9 @@
 			"sections": {
 				"L1": {
 					"instructor": [
-						"K Pranav Narayan",
+						"SUBHADEEP ROY",
 						"Sujith R",
-						"SUBHADEEP ROY"
+						"K Pranav Narayan"
 					],
 					"schedule": [
 						{
@@ -1337,14 +1365,14 @@
 			},
 			"exams": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "12/10 - 4.00 - 5.30PM",
+					"compre": "16/12 FN"
 				}
 			],
 			"exams_iso": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "2023-10-12T10:30:00|2023-10-12T12:00:00",
+					"compre": "2023-12-16T04:00:00|2023-12-16T07:00:00"
 				}
 			]
 		},
@@ -1416,9 +1444,9 @@
 				},
 				"P2": {
 					"instructor": [
-						"TO BE ANNOUNCED",
 						"Pardha Saradhi Gurugubelli",
-						"Gowlla Jyothsna"
+						"Gowlla Jyothsna",
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -1430,9 +1458,9 @@
 				},
 				"P3": {
 					"instructor": [
-						"TO BE ANNOUNCED",
+						"Ansab shafi mir",
 						"Balija Upendra",
-						"Ansab shafi mir"
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -1444,8 +1472,8 @@
 				},
 				"P4": {
 					"instructor": [
-						"K Ramesh",
 						"Vijay Krupaker Maddu",
+						"K Ramesh",
 						"Meenu Krishnan"
 					],
 					"schedule": [
@@ -1458,9 +1486,9 @@
 				},
 				"P5": {
 					"instructor": [
-						"Alok Kumar",
+						"Ammavajjula Sesha Sai Rag",
 						"TO BE ANNOUNCED",
-						"Ammavajjula Sesha Sai Rag"
+						"Alok Kumar"
 					],
 					"schedule": [
 						{
@@ -1472,9 +1500,9 @@
 				},
 				"P6": {
 					"instructor": [
-						"TO BE ANNOUNCED",
+						"Renuka Pradeep Rekhade",
 						"Anna Mariya Shajan",
-						"Renuka Pradeep Rekhade"
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -1487,8 +1515,8 @@
 				"P7": {
 					"instructor": [
 						"Vemu Sahiti",
-						"TO BE ANNOUNCED",
-						"Vogeti Rishith Kumar"
+						"Vogeti Rishith Kumar",
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -1511,8 +1539,8 @@
 				"P9": {
 					"instructor": [
 						"Akshay Gundla",
-						"TO BE ANNOUNCED",
-						"Abhishesh Pal"
+						"Abhishesh Pal",
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -1523,7 +1551,7 @@
 					]
 				},
 				"P10": {
-					"instructor": ["K Ramesh", "Alok Kumar", "Chirdeep N R"],
+					"instructor": ["Chirdeep N R", "K Ramesh", "Alok Kumar"],
 					"schedule": [
 						{
 							"room": "D208 A",
@@ -1941,7 +1969,7 @@
 			"course_name": "ENVIRONMENTAL\nSTUDIES",
 			"sections": {
 				"L1": {
-					"instructor": ["Nilanjan Dey", "A VASAN", "Amartya Sanyal"],
+					"instructor": ["Nilanjan Dey", "Amartya Sanyal", "A VASAN"],
 					"schedule": [
 						{
 							"room": "F102",
@@ -2334,9 +2362,9 @@
 				},
 				"P2": {
 					"instructor": [
+						"Pavar Sai Kumar",
 						"Abhishek Kumar",
-						"Sanket Goel",
-						"Pavar Sai Kumar"
+						"Sanket Goel"
 					],
 					"schedule": [
 						{
@@ -4027,7 +4055,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Chandu Parimi", "Boyina Kalyan"],
+					"instructor": ["Boyina Kalyan", "Chandu Parimi"],
 					"schedule": [
 						{
 							"room": "D331",
@@ -4179,7 +4207,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Ankur Abhishek", "Anasua Guharay"],
+					"instructor": ["Anasua Guharay", "Ankur Abhishek"],
 					"schedule": [
 						{
 							"room": "D208 C",
@@ -4217,7 +4245,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["Iyman Abrar", "Gulipalli Pallavi"],
+					"instructor": ["Gulipalli Pallavi", "Iyman Abrar"],
 					"schedule": [
 						{
 							"room": "F205",
@@ -4425,7 +4453,7 @@
 			"course_name": "CHEMICAL ENGG LAB I",
 			"sections": {
 				"L1": {
-					"instructor": ["SRIKANTA DINDA", "Suresh Kanuri"],
+					"instructor": ["Suresh Kanuri", "SRIKANTA DINDA"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -4435,7 +4463,7 @@
 					]
 				},
 				"L2": {
-					"instructor": ["Afkham Mir", "Sadamanti Sireesha"],
+					"instructor": ["Sadamanti Sireesha", "Afkham Mir"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -4516,7 +4544,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["Arnab Dutta", "Malayanur Srilekha"],
+					"instructor": ["Malayanur Srilekha", "Arnab Dutta"],
 					"schedule": [
 						{
 							"room": "D208 A",
@@ -4723,8 +4751,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Dasika Prabhat Sourya",
-						"Balaji Krishnamurthy"
+						"Balaji Krishnamurthy",
+						"Dasika Prabhat Sourya"
 					],
 					"schedule": [
 						{
@@ -4819,7 +4847,7 @@
 			"course_name": "ADV CHEMICAL ENGG\nTHERMO",
 			"sections": {
 				"L1": {
-					"instructor": ["D PURNIMA", "Vikrant Kumar S"],
+					"instructor": ["Vikrant Kumar S", "D PURNIMA"],
 					"schedule": [
 						{
 							"room": "F204",
@@ -4829,7 +4857,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Dubbaka Vidya", "Vikrant Kumar S"],
+					"instructor": ["Vikrant Kumar S", "Dubbaka Vidya"],
 					"schedule": [
 						{
 							"room": "D331",
@@ -4858,9 +4886,9 @@
 			"sections": {
 				"L1": {
 					"instructor": [
+						"Madhuparna Chakraborty",
 						"MANAB CHAKRAVARTY",
-						"Adarash Kumar Shukla",
-						"Madhuparna Chakraborty"
+						"Adarash Kumar Shukla"
 					],
 					"schedule": [
 						{
@@ -4887,8 +4915,8 @@
 				"L3": {
 					"instructor": [
 						"Balaji Gopalan",
-						"Akshita Jain",
-						"Sourav mondal"
+						"Sourav mondal",
+						"Akshita Jain"
 					],
 					"schedule": [
 						{
@@ -4899,7 +4927,7 @@
 					]
 				},
 				"L4": {
-					"instructor": ["Amit Nag", "Soumen Khan", "Anil Kumar B M"],
+					"instructor": ["Amit Nag", "Anil Kumar B M", "Soumen Khan"],
 					"schedule": [
 						{
 							"room": "B124",
@@ -4911,8 +4939,8 @@
 				"L5": {
 					"instructor": [
 						"Sourav Bag",
-						"Savita",
-						"Kosana Sai Chaitanya"
+						"Kosana Sai Chaitanya",
+						"Savita"
 					],
 					"schedule": [
 						{
@@ -4924,9 +4952,9 @@
 				},
 				"L6": {
 					"instructor": [
-						"Rikitha Sharyl Fernandes",
 						"Himanshu Aggarwal",
-						"Paramita Pattanayak"
+						"Paramita Pattanayak",
+						"Rikitha Sharyl Fernandes"
 					],
 					"schedule": [
 						{
@@ -4938,9 +4966,9 @@
 				},
 				"L7": {
 					"instructor": [
-						"Anuradha Sureshrao\nMohitka",
 						"Shivani Tripathi",
-						"Satya Narayan Guin"
+						"Satya Narayan Guin",
+						"Anuradha Sureshrao\nMohitka"
 					],
 					"schedule": [
 						{
@@ -4952,9 +4980,9 @@
 				},
 				"L8": {
 					"instructor": [
+						"Adarash Kumar Shukla",
 						"J Subbalakshmi",
-						"Saraswati Roy",
-						"Adarash Kumar Shukla"
+						"Saraswati Roy"
 					],
 					"schedule": [
 						{
@@ -4965,7 +4993,7 @@
 					]
 				},
 				"L9": {
-					"instructor": ["KVG Chandrasekhar", "Rituparna Hazra"],
+					"instructor": ["Rituparna Hazra", "KVG Chandrasekhar"],
 					"schedule": [
 						{
 							"room": "B124",
@@ -4976,9 +5004,9 @@
 				},
 				"L10": {
 					"instructor": [
-						"Dyagala Shalini",
 						"Mariya Midhu Francis",
-						"R Krishnan"
+						"R Krishnan",
+						"Dyagala Shalini"
 					],
 					"schedule": [
 						{
@@ -4990,8 +5018,8 @@
 				},
 				"L11": {
 					"instructor": [
-						"Tanmay Chatterjee",
 						"Mollah Rohan Ahsan",
+						"Tanmay Chatterjee",
 						"Amita Aanne Mathews"
 					],
 					"schedule": [
@@ -5021,7 +5049,7 @@
 			"course_name": "GENERAL CHEMISTRY",
 			"sections": {
 				"L1": {
-					"instructor": ["RAMAKRISHNAN G", "Durba Roy"],
+					"instructor": ["Durba Roy", "RAMAKRISHNAN G"],
 					"schedule": [
 						{
 							"room": "F103",
@@ -5197,7 +5225,7 @@
 			"course_name": "ORGANIC CHEMISTRY I",
 			"sections": {
 				"L1": {
-					"instructor": ["Manab Chakravarty", "ANUPAM BHATTACHARYA"],
+					"instructor": ["ANUPAM BHATTACHARYA", "Manab Chakravarty"],
 					"schedule": [
 						{
 							"room": "G101",
@@ -5249,7 +5277,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["T Leelasree", "K Sumithra"],
+					"instructor": ["K Sumithra", "T Leelasree"],
 					"schedule": [
 						{
 							"room": "G101",
@@ -5287,7 +5315,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["Christina Nilavu", "N Rajesh"],
+					"instructor": ["N Rajesh", "Christina Nilavu"],
 					"schedule": [
 						{
 							"room": "G101",
@@ -5433,13 +5461,13 @@
 				},
 				"P1": {
 					"instructor": [
-						"N Rajesh",
-						"Dinesh Kumar J",
-						"Himanshu Aggarwal",
-						"Govu Radha",
-						"Arijit Mukherjee",
 						"Akhil Chandran P",
-						"R Krishnan"
+						"Himanshu Aggarwal",
+						"Dinesh Kumar J",
+						"N Rajesh",
+						"R Krishnan",
+						"Govu Radha",
+						"Arijit Mukherjee"
 					],
 					"schedule": [
 						{
@@ -5469,9 +5497,9 @@
 			"sections": {
 				"L1": {
 					"instructor": [
-						"Appanapalli nagavenkatasat",
+						"Chanchal Chakraborty",
 						"SUBIT KUMAR SAHA",
-						"Chanchal Chakraborty"
+						"Appanapalli nagavenkatasat"
 					],
 					"schedule": [
 						{
@@ -5612,7 +5640,7 @@
 			"course_name": "APPLIED\nCRYSTALLOGRAPHY",
 			"sections": {
 				"L1": {
-					"instructor": ["Jayapriya V", "ARIJIT MUKHERJEE"],
+					"instructor": ["ARIJIT MUKHERJEE", "Jayapriya V"],
 					"schedule": [
 						{
 							"room": "G103",
@@ -5640,7 +5668,7 @@
 			"course_name": "ADVANCED PHYSICAL\nCHEMISTRY",
 			"sections": {
 				"L1": {
-					"instructor": ["Subit Kumar Saha", "DURBA ROY"],
+					"instructor": ["DURBA ROY", "Subit Kumar Saha"],
 					"schedule": [
 						{
 							"room": "G103",
@@ -5669,9 +5697,9 @@
 			"sections": {
 				"L1": {
 					"instructor": [
+						"Anupam Bhattacharya",
 						"Nilanjan Dey",
-						"CHANCHAL CHAKRABORT",
-						"Anupam Bhattacharya"
+						"CHANCHAL CHAKRABORT"
 					],
 					"schedule": [
 						{
@@ -6045,8 +6073,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Manish Laxminarayan Bhaiy",
-						"BVVSN Prabhakar Rao"
+						"BVVSN Prabhakar Rao",
+						"Manish Laxminarayan Bhaiy"
 					],
 					"schedule": [
 						{
@@ -6057,7 +6085,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["S K Chatterjee", "Shuvra Jyoti Bose"],
+					"instructor": ["Shuvra Jyoti Bose", "S K Chatterjee"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -6098,8 +6126,8 @@
 				},
 				"P6": {
 					"instructor": [
-						"Bishal kumar keshari",
-						"Ankur Bhattacharjee"
+						"Ankur Bhattacharjee",
+						"Bishal kumar keshari"
 					],
 					"schedule": [
 						{
@@ -6110,7 +6138,7 @@
 					]
 				},
 				"P7": {
-					"instructor": ["TO BE ANNOUNCED", "Gowtham Polumati"],
+					"instructor": ["Gowtham Polumati", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -6120,7 +6148,7 @@
 					]
 				},
 				"P8": {
-					"instructor": ["TO BE ANNOUNCED", "Naresh Bahadursha"],
+					"instructor": ["Naresh Bahadursha", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -6130,7 +6158,7 @@
 					]
 				},
 				"P9": {
-					"instructor": ["TO BE ANNOUNCED", "Shuvra Jyoti Bose"],
+					"instructor": ["Shuvra Jyoti Bose", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -6140,7 +6168,7 @@
 					]
 				},
 				"P10": {
-					"instructor": ["TO BE ANNOUNCED", "Vanmathi S"],
+					"instructor": ["Vanmathi S", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -6150,7 +6178,7 @@
 					]
 				},
 				"P11": {
-					"instructor": ["TO BE ANNOUNCED", "Bishal kumar keshari"],
+					"instructor": ["Bishal kumar keshari", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -6160,7 +6188,7 @@
 					]
 				},
 				"P12": {
-					"instructor": ["Parvathy nair", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Parvathy nair"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -6170,7 +6198,7 @@
 					]
 				},
 				"P13": {
-					"instructor": ["TO BE ANNOUNCED", "Naresh Bahadursha"],
+					"instructor": ["Naresh Bahadursha", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -6180,7 +6208,7 @@
 					]
 				},
 				"P14": {
-					"instructor": ["TO BE ANNOUNCED", "Vanmathi S"],
+					"instructor": ["Vanmathi S", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -6190,7 +6218,7 @@
 					]
 				},
 				"P15": {
-					"instructor": ["TO BE ANNOUNCED", "Gowtham Polumati"],
+					"instructor": ["Gowtham Polumati", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -6201,8 +6229,8 @@
 				},
 				"P16": {
 					"instructor": [
-						"TO BE ANNOUNCED",
-						"Manish Laxminarayan Bhaiy"
+						"Manish Laxminarayan Bhaiy",
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -6755,7 +6783,7 @@
 			"course_name": "OPERATING SYSTEMS",
 			"sections": {
 				"L1": {
-					"instructor": ["BARSHA MITRA", "Barsha Mitra"],
+					"instructor": ["BARSHA MITRA"],
 					"schedule": [
 						{
 							"room": "F102",
@@ -7204,7 +7232,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["TO BE ANNOUNCED", "S K Sahoo"],
+					"instructor": ["S K Sahoo", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "LAB",
@@ -7323,7 +7351,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Pichika S V V S Narayana", "G R Sabareesh"],
+					"instructor": ["G R Sabareesh", "Pichika S V V S Narayana"],
 					"schedule": [
 						{
 							"room": "LAB",
@@ -7409,7 +7437,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Alivelu Manga Parimi", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Alivelu Manga Parimi"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -7419,7 +7447,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["Alivelu Manga Parimi", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Alivelu Manga Parimi"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -7429,7 +7457,7 @@
 					]
 				},
 				"P3": {
-					"instructor": ["TO BE ANNOUNCED", "Ankur Bhattacharjee"],
+					"instructor": ["Ankur Bhattacharjee", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -7864,8 +7892,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Manish Laxminarayan Bhaiy",
-						"BVVSN Prabhakar Rao"
+						"BVVSN Prabhakar Rao",
+						"Manish Laxminarayan Bhaiy"
 					],
 					"schedule": [
 						{
@@ -7876,7 +7904,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["S K Chatterjee", "Shuvra Jyoti Bose"],
+					"instructor": ["Shuvra Jyoti Bose", "S K Chatterjee"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -7917,8 +7945,8 @@
 				},
 				"P6": {
 					"instructor": [
-						"Bishal kumar keshari",
-						"Ankur Bhattacharjee"
+						"Ankur Bhattacharjee",
+						"Bishal kumar keshari"
 					],
 					"schedule": [
 						{
@@ -7929,7 +7957,7 @@
 					]
 				},
 				"P7": {
-					"instructor": ["TO BE ANNOUNCED", "Gowtham Polumati"],
+					"instructor": ["Gowtham Polumati", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -7939,7 +7967,7 @@
 					]
 				},
 				"P8": {
-					"instructor": ["TO BE ANNOUNCED", "Naresh Bahadursha"],
+					"instructor": ["Naresh Bahadursha", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -7949,7 +7977,7 @@
 					]
 				},
 				"P9": {
-					"instructor": ["TO BE ANNOUNCED", "Shuvra Jyoti Bose"],
+					"instructor": ["Shuvra Jyoti Bose", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -7959,7 +7987,7 @@
 					]
 				},
 				"P10": {
-					"instructor": ["TO BE ANNOUNCED", "Vanmathi S"],
+					"instructor": ["Vanmathi S", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -7969,7 +7997,7 @@
 					]
 				},
 				"P11": {
-					"instructor": ["TO BE ANNOUNCED", "Bishal kumar keshari"],
+					"instructor": ["Bishal kumar keshari", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -7979,7 +8007,7 @@
 					]
 				},
 				"P12": {
-					"instructor": ["Parvathy nair", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Parvathy nair"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -7989,7 +8017,7 @@
 					]
 				},
 				"P13": {
-					"instructor": ["TO BE ANNOUNCED", "Naresh Bahadursha"],
+					"instructor": ["Naresh Bahadursha", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -7999,7 +8027,7 @@
 					]
 				},
 				"P14": {
-					"instructor": ["TO BE ANNOUNCED", "Vanmathi S"],
+					"instructor": ["Vanmathi S", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -8009,7 +8037,7 @@
 					]
 				},
 				"P15": {
-					"instructor": ["TO BE ANNOUNCED", "Gowtham Polumati"],
+					"instructor": ["Gowtham Polumati", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -8020,8 +8048,8 @@
 				},
 				"P16": {
 					"instructor": [
-						"TO BE ANNOUNCED",
-						"Manish Laxminarayan Bhaiy"
+						"Manish Laxminarayan Bhaiy",
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -8246,7 +8274,7 @@
 					]
 				},
 				"P3": {
-					"instructor": ["Priyalatha. P", "Runa Kumari"],
+					"instructor": ["Runa Kumari", "Priyalatha. P"],
 					"schedule": [
 						{
 							"room": "H106",
@@ -8257,8 +8285,8 @@
 				},
 				"P4": {
 					"instructor": [
-						"Prasant Kumar P",
-						"Chaluvadi V Naga Bhaskar"
+						"Chaluvadi V Naga Bhaskar",
+						"Prasant Kumar P"
 					],
 					"schedule": [
 						{
@@ -8592,7 +8620,7 @@
 					]
 				},
 				"P3": {
-					"instructor": ["Nishchitha N K", "Rajesh Kumar Tripathy"],
+					"instructor": ["Rajesh Kumar Tripathy", "Nishchitha N K"],
 					"schedule": [
 						{
 							"room": "I011",
@@ -8602,7 +8630,7 @@
 					]
 				},
 				"P4": {
-					"instructor": ["Nishchitha N K", "Rajesh Kumar Tripathy"],
+					"instructor": ["Rajesh Kumar Tripathy", "Nishchitha N K"],
 					"schedule": [
 						{
 							"room": "I011",
@@ -9400,14 +9428,14 @@
 			},
 			"exams": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "14/10 - 4.00 - 5.30PM",
+					"compre": "09/12 AN"
 				}
 			],
 			"exams_iso": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "2023-10-14T10:30:00|2023-10-14T12:00:00",
+					"compre": "2023-12-09T08:30:00|2023-12-09T11:30:00"
 				}
 			]
 		},
@@ -9620,7 +9648,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Alivelu Manga Parimi", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Alivelu Manga Parimi"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -9630,7 +9658,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["Alivelu Manga Parimi", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Alivelu Manga Parimi"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -9640,7 +9668,7 @@
 					]
 				},
 				"P3": {
-					"instructor": ["TO BE ANNOUNCED", "Ankur Bhattacharjee"],
+					"instructor": ["Ankur Bhattacharjee", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -10075,8 +10103,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Manish Laxminarayan Bhaiy",
-						"BVVSN Prabhakar Rao"
+						"BVVSN Prabhakar Rao",
+						"Manish Laxminarayan Bhaiy"
 					],
 					"schedule": [
 						{
@@ -10087,7 +10115,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["S K Chatterjee", "Shuvra Jyoti Bose"],
+					"instructor": ["Shuvra Jyoti Bose", "S K Chatterjee"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -10128,8 +10156,8 @@
 				},
 				"P6": {
 					"instructor": [
-						"Bishal kumar keshari",
-						"Ankur Bhattacharjee"
+						"Ankur Bhattacharjee",
+						"Bishal kumar keshari"
 					],
 					"schedule": [
 						{
@@ -10140,7 +10168,7 @@
 					]
 				},
 				"P7": {
-					"instructor": ["TO BE ANNOUNCED", "Gowtham Polumati"],
+					"instructor": ["Gowtham Polumati", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -10150,7 +10178,7 @@
 					]
 				},
 				"P8": {
-					"instructor": ["TO BE ANNOUNCED", "Naresh Bahadursha"],
+					"instructor": ["Naresh Bahadursha", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -10160,7 +10188,7 @@
 					]
 				},
 				"P9": {
-					"instructor": ["TO BE ANNOUNCED", "Shuvra Jyoti Bose"],
+					"instructor": ["Shuvra Jyoti Bose", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -10170,7 +10198,7 @@
 					]
 				},
 				"P10": {
-					"instructor": ["TO BE ANNOUNCED", "Vanmathi S"],
+					"instructor": ["Vanmathi S", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -10180,7 +10208,7 @@
 					]
 				},
 				"P11": {
-					"instructor": ["TO BE ANNOUNCED", "Bishal kumar keshari"],
+					"instructor": ["Bishal kumar keshari", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -10190,7 +10218,7 @@
 					]
 				},
 				"P12": {
-					"instructor": ["Parvathy nair", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Parvathy nair"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -10200,7 +10228,7 @@
 					]
 				},
 				"P13": {
-					"instructor": ["TO BE ANNOUNCED", "Naresh Bahadursha"],
+					"instructor": ["Naresh Bahadursha", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -10210,7 +10238,7 @@
 					]
 				},
 				"P14": {
-					"instructor": ["TO BE ANNOUNCED", "Vanmathi S"],
+					"instructor": ["Vanmathi S", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -10220,7 +10248,7 @@
 					]
 				},
 				"P15": {
-					"instructor": ["TO BE ANNOUNCED", "Gowtham Polumati"],
+					"instructor": ["Gowtham Polumati", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -10231,8 +10259,8 @@
 				},
 				"P16": {
 					"instructor": [
-						"TO BE ANNOUNCED",
-						"Manish Laxminarayan Bhaiy"
+						"Manish Laxminarayan Bhaiy",
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -10373,14 +10401,14 @@
 			},
 			"exams": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "11/10 - 9.30 - 11.00AM",
+					"compre": "12/12 FN"
 				}
 			],
 			"exams_iso": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "2023-10-11T04:00:00|2023-10-11T05:30:00",
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
 				}
 			]
 		},
@@ -10457,7 +10485,7 @@
 					]
 				},
 				"P3": {
-					"instructor": ["Priyalatha. P", "Runa Kumari"],
+					"instructor": ["Runa Kumari", "Priyalatha. P"],
 					"schedule": [
 						{
 							"room": "H106",
@@ -10468,8 +10496,8 @@
 				},
 				"P4": {
 					"instructor": [
-						"Prasant Kumar P",
-						"Chaluvadi V Naga Bhaskar"
+						"Chaluvadi V Naga Bhaskar",
+						"Prasant Kumar P"
 					],
 					"schedule": [
 						{
@@ -10909,7 +10937,7 @@
 					]
 				},
 				"P3": {
-					"instructor": ["Nishchitha N K", "Rajesh Kumar Tripathy"],
+					"instructor": ["Rajesh Kumar Tripathy", "Nishchitha N K"],
 					"schedule": [
 						{
 							"room": "I011",
@@ -10919,7 +10947,7 @@
 					]
 				},
 				"P4": {
-					"instructor": ["Nishchitha N K", "Rajesh Kumar Tripathy"],
+					"instructor": ["Rajesh Kumar Tripathy", "Nishchitha N K"],
 					"schedule": [
 						{
 							"room": "I011",
@@ -11015,7 +11043,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Sourav Nandi", "Battina Sindhu"],
+					"instructor": ["Battina Sindhu", "Sourav Nandi"],
 					"schedule": [
 						{
 							"room": "I115",
@@ -11233,7 +11261,7 @@
 			"course_name": "ADV DIGITAL SIGNAL\nPROC",
 			"sections": {
 				"L1": {
-					"instructor": ["Shaswati Dash", "RAJESH KUMAR\nTRIPATHY"],
+					"instructor": ["RAJESH KUMAR\nTRIPATHY", "Shaswati Dash"],
 					"schedule": [
 						{
 							"room": "I221",
@@ -11243,7 +11271,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Shaswati Dash", "Rajesh Kumar Tripathy"],
+					"instructor": ["Rajesh Kumar Tripathy", "Shaswati Dash"],
 					"schedule": [
 						{
 							"room": "I011",
@@ -12194,7 +12222,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Alivelu Manga Parimi", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Alivelu Manga Parimi"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -12204,7 +12232,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["Alivelu Manga Parimi", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Alivelu Manga Parimi"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -12214,7 +12242,7 @@
 					]
 				},
 				"P3": {
-					"instructor": ["TO BE ANNOUNCED", "Ankur Bhattacharjee"],
+					"instructor": ["Ankur Bhattacharjee", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "WS",
@@ -12669,8 +12697,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Manish Laxminarayan Bhaiy",
-						"BVVSN Prabhakar Rao"
+						"BVVSN Prabhakar Rao",
+						"Manish Laxminarayan Bhaiy"
 					],
 					"schedule": [
 						{
@@ -12681,7 +12709,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["S K Chatterjee", "Shuvra Jyoti Bose"],
+					"instructor": ["Shuvra Jyoti Bose", "S K Chatterjee"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -12722,8 +12750,8 @@
 				},
 				"P6": {
 					"instructor": [
-						"Bishal kumar keshari",
-						"Ankur Bhattacharjee"
+						"Ankur Bhattacharjee",
+						"Bishal kumar keshari"
 					],
 					"schedule": [
 						{
@@ -12734,7 +12762,7 @@
 					]
 				},
 				"P7": {
-					"instructor": ["TO BE ANNOUNCED", "Gowtham Polumati"],
+					"instructor": ["Gowtham Polumati", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -12744,7 +12772,7 @@
 					]
 				},
 				"P8": {
-					"instructor": ["TO BE ANNOUNCED", "Naresh Bahadursha"],
+					"instructor": ["Naresh Bahadursha", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -12754,7 +12782,7 @@
 					]
 				},
 				"P9": {
-					"instructor": ["TO BE ANNOUNCED", "Shuvra Jyoti Bose"],
+					"instructor": ["Shuvra Jyoti Bose", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -12764,7 +12792,7 @@
 					]
 				},
 				"P10": {
-					"instructor": ["TO BE ANNOUNCED", "Vanmathi S"],
+					"instructor": ["Vanmathi S", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -12774,7 +12802,7 @@
 					]
 				},
 				"P11": {
-					"instructor": ["TO BE ANNOUNCED", "Bishal kumar keshari"],
+					"instructor": ["Bishal kumar keshari", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -12784,7 +12812,7 @@
 					]
 				},
 				"P12": {
-					"instructor": ["Parvathy nair", "TO BE ANNOUNCED"],
+					"instructor": ["TO BE ANNOUNCED", "Parvathy nair"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -12794,7 +12822,7 @@
 					]
 				},
 				"P13": {
-					"instructor": ["TO BE ANNOUNCED", "Naresh Bahadursha"],
+					"instructor": ["Naresh Bahadursha", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -12804,7 +12832,7 @@
 					]
 				},
 				"P14": {
-					"instructor": ["TO BE ANNOUNCED", "Vanmathi S"],
+					"instructor": ["Vanmathi S", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I012",
@@ -12814,7 +12842,7 @@
 					]
 				},
 				"P15": {
-					"instructor": ["TO BE ANNOUNCED", "Gowtham Polumati"],
+					"instructor": ["Gowtham Polumati", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I013",
@@ -12825,8 +12853,8 @@
 				},
 				"P16": {
 					"instructor": [
-						"TO BE ANNOUNCED",
-						"Manish Laxminarayan Bhaiy"
+						"Manish Laxminarayan Bhaiy",
+						"TO BE ANNOUNCED"
 					],
 					"schedule": [
 						{
@@ -12967,14 +12995,14 @@
 			},
 			"exams": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "11/10 - 9.30 - 11.00AM",
+					"compre": "12/12 FN"
 				}
 			],
 			"exams_iso": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "2023-10-11T04:00:00|2023-10-11T05:30:00",
+					"compre": "2023-12-12T04:00:00|2023-12-12T07:00:00"
 				}
 			]
 		},
@@ -14634,9 +14662,9 @@
 				},
 				"P1": {
 					"instructor": [
-						"Kandukuri Prudviraj",
 						"Prabakaran Saravanan",
-						"Ronanki Suresh"
+						"Ronanki Suresh",
+						"Kandukuri Prudviraj"
 					],
 					"schedule": [
 						{
@@ -14648,9 +14676,9 @@
 				},
 				"P2": {
 					"instructor": [
-						"Y S Prasanna",
 						"Kundan Kumar Singh",
-						"Kolanu Sai sandeep"
+						"Kolanu Sai sandeep",
+						"Y S Prasanna"
 					],
 					"schedule": [
 						{
@@ -14662,9 +14690,9 @@
 				},
 				"P3": {
 					"instructor": [
-						"Sanjeet Kumar",
 						"Mrinal Ketan Jagirdar",
-						"Kaleru Sai Kiran"
+						"Kaleru Sai Kiran",
+						"Sanjeet Kumar"
 					],
 					"schedule": [
 						{
@@ -14677,8 +14705,8 @@
 				"P4": {
 					"instructor": [
 						"Petla Sivateja",
-						"G Prashanth Kumar Reddy",
-						"Ronanki Suresh"
+						"Ronanki Suresh",
+						"G Prashanth Kumar Reddy"
 					],
 					"schedule": [
 						{
@@ -14704,9 +14732,9 @@
 				},
 				"P6": {
 					"instructor": [
-						"Bagadi Ramana Murthy",
 						"TO BE ANNOUNCED",
-						"G Prashanth Kumar Reddy"
+						"G Prashanth Kumar Reddy",
+						"Bagadi Ramana Murthy"
 					],
 					"schedule": [
 						{
@@ -14765,7 +14793,7 @@
 					]
 				},
 				"T3": {
-					"instructor": ["TO BE ANNOUNCED", "Amit Kumar Gupta"],
+					"instructor": ["Amit Kumar Gupta", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "G105",
@@ -14775,7 +14803,7 @@
 					]
 				},
 				"T4": {
-					"instructor": ["TO BE ANNOUNCED", "Amit Kumar Gupta"],
+					"instructor": ["Amit Kumar Gupta", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "F102",
@@ -14813,7 +14841,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["Sayan Das", "Suhas shreekrishna"],
+					"instructor": ["Suhas shreekrishna", "Sayan Das"],
 					"schedule": [
 						{
 							"room": "G103",
@@ -14836,7 +14864,7 @@
 					]
 				},
 				"T3": {
-					"instructor": ["Kiran Somisetti", "N Jalaiah"],
+					"instructor": ["N Jalaiah", "Kiran Somisetti"],
 					"schedule": [
 						{
 							"room": "G105",
@@ -14846,7 +14874,7 @@
 					]
 				},
 				"T4": {
-					"instructor": ["Kiran Somisetti", "Supradeepan K"],
+					"instructor": ["Supradeepan K", "Kiran Somisetti"],
 					"schedule": [
 						{
 							"room": "G106",
@@ -14874,7 +14902,7 @@
 			"course_name": "MATERIALS SCIENCE AND\nENGINEER",
 			"sections": {
 				"L1": {
-					"instructor": ["SUJITH R", "Piyush Chandra Verma"],
+					"instructor": ["Piyush Chandra Verma", "SUJITH R"],
 					"schedule": [
 						{
 							"room": "F103",
@@ -14884,7 +14912,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Ashish Saurabh", "Piyush Chandra Verma"],
+					"instructor": ["Piyush Chandra Verma", "Ashish Saurabh"],
 					"schedule": [
 						{
 							"room": "E002",
@@ -14894,7 +14922,7 @@
 					]
 				},
 				"P2": {
-					"instructor": ["TO BE ANNOUNCED", "Sujith R"],
+					"instructor": ["Sujith R", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "E002",
@@ -14905,9 +14933,9 @@
 				},
 				"P3": {
 					"instructor": [
-						"Sreejith S",
+						"Kandula Uday Kumar Reddy",
 						"TO BE ANNOUNCED",
-						"Kandula Uday Kumar Reddy"
+						"Sreejith S"
 					],
 					"schedule": [
 						{
@@ -14928,7 +14956,7 @@
 					]
 				},
 				"T2": {
-					"instructor": ["TO BE ANNOUNCED", "Sujith R"],
+					"instructor": ["Sujith R", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "G104",
@@ -14938,7 +14966,7 @@
 					]
 				},
 				"T3": {
-					"instructor": ["Ashish Saurabh", "Piyush Chandra Verma"],
+					"instructor": ["Piyush Chandra Verma", "Ashish Saurabh"],
 					"schedule": [
 						{
 							"room": "G105",
@@ -14987,9 +15015,9 @@
 				},
 				"P1": {
 					"instructor": [
-						"K Monika",
 						"Santanu Prasad Datta",
-						"Lingampally Swetha"
+						"Lingampally Swetha",
+						"K Monika"
 					],
 					"schedule": [
 						{
@@ -15001,9 +15029,9 @@
 				},
 				"P2": {
 					"instructor": [
-						"S S Deshmukh",
+						"Shaik Gouse Ahammad",
 						"Meduri Sitaram",
-						"Shaik Gouse Ahammad"
+						"S S Deshmukh"
 					],
 					"schedule": [
 						{
@@ -15016,8 +15044,8 @@
 				"P3": {
 					"instructor": [
 						"Satish K Dubey",
-						"Sibin V Mathew",
-						"Shine jude hamilton a"
+						"Shine jude hamilton a",
+						"Sibin V Mathew"
 					],
 					"schedule": [
 						{
@@ -15028,7 +15056,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["R Parameshwaran", "Shine jude hamilton a"],
+					"instructor": ["Shine jude hamilton a", "R Parameshwaran"],
 					"schedule": [
 						{
 							"room": "G103",
@@ -15134,7 +15162,7 @@
 					]
 				},
 				"T2": {
-					"instructor": ["Veeraiahgari Vamshi", "SP Regalla"],
+					"instructor": ["SP Regalla", "Veeraiahgari Vamshi"],
 					"schedule": [
 						{
 							"room": "G106",
@@ -15144,7 +15172,7 @@
 					]
 				},
 				"T3": {
-					"instructor": ["Himanshu shukla", "SP Regalla"],
+					"instructor": ["SP Regalla", "Himanshu shukla"],
 					"schedule": [
 						{
 							"room": "G107",
@@ -15154,7 +15182,7 @@
 					]
 				},
 				"T4": {
-					"instructor": ["Vicky Lad", "SP Regalla"],
+					"instructor": ["SP Regalla", "Vicky Lad"],
 					"schedule": [
 						{
 							"room": "G202",
@@ -15194,8 +15222,8 @@
 				"P1": {
 					"instructor": [
 						"Kiran Somisetti",
-						"N Suresh Kumar Reddy",
-						"Gunashekar G"
+						"Gunashekar G",
+						"N Suresh Kumar Reddy"
 					],
 					"schedule": [
 						{
@@ -15207,9 +15235,9 @@
 				},
 				"P2": {
 					"instructor": [
-						"Srinivasa Murali Kartheek S",
 						"Suhas shreekrishna",
-						"Jose Santo"
+						"Jose Santo",
+						"Srinivasa Murali Kartheek S"
 					],
 					"schedule": [
 						{
@@ -15222,8 +15250,8 @@
 				"P3": {
 					"instructor": [
 						"Ahsan Ul Haq",
-						"Mada Rukmini Sai Rupa Sri",
-						"Nagarani s"
+						"Nagarani s",
+						"Mada Rukmini Sai Rupa Sri"
 					],
 					"schedule": [
 						{
@@ -15234,7 +15262,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["N Suresh Kumar Reddy", "Jose Santo"],
+					"instructor": ["Jose Santo", "N Suresh Kumar Reddy"],
 					"schedule": [
 						{
 							"room": "G103",
@@ -15253,7 +15281,7 @@
 						}
 					]
 				},
-				"T3": {
+				"L3": {
 					"instructor": ["Ahsan Ul Haq", "Kundan Kumar Singh"],
 					"schedule": [
 						{
@@ -15263,7 +15291,7 @@
 						}
 					]
 				},
-				"T4": {
+				"L4": {
 					"instructor": ["P Chennakesava Sai", "Kundan Kumar Singh"],
 					"schedule": [
 						{
@@ -15315,7 +15343,7 @@
 					]
 				},
 				"T2": {
-					"instructor": ["Vicky Lad", "Amritha Priyadarshini"],
+					"instructor": ["Amritha Priyadarshini", "Vicky Lad"],
 					"schedule": [
 						{
 							"room": "G104",
@@ -15325,7 +15353,7 @@
 					]
 				},
 				"T3": {
-					"instructor": ["Sreejith S", "Amritha Priyadarshini"],
+					"instructor": ["Amritha Priyadarshini", "Sreejith S"],
 					"schedule": [
 						{
 							"room": "G105",
@@ -15336,8 +15364,8 @@
 				},
 				"T4": {
 					"instructor": [
-						"Mada Rukmini Sai Rupa Sri",
-						"Amritha Priyadarshini"
+						"Amritha Priyadarshini",
+						"Mada Rukmini Sai Rupa Sri"
 					],
 					"schedule": [
 						{
@@ -15397,8 +15425,8 @@
 				},
 				"T3": {
 					"instructor": [
-						"Joshua Kumar Saladi",
-						"Mrinal Ketan Jagirdar"
+						"Mrinal Ketan Jagirdar",
+						"Joshua Kumar Saladi"
 					],
 					"schedule": [
 						{
@@ -15741,9 +15769,9 @@
 				},
 				"P1": {
 					"instructor": [
-						"YV Daseswara Rao",
 						"George Yuvaraj",
-						"Abhishek Sarkar"
+						"Abhishek Sarkar",
+						"YV Daseswara Rao"
 					],
 					"schedule": [
 						{
@@ -16043,7 +16071,7 @@
 			"course_name": "THEORY OF ELASTICITY &\nPLAST",
 			"sections": {
 				"L1": {
-					"instructor": ["BRAJESH KUMAR PANIGR", "Anirudh Udupa"],
+					"instructor": ["Anirudh Udupa", "BRAJESH KUMAR PANIGR"],
 					"schedule": [
 						{
 							"room": "G204",
@@ -16054,8 +16082,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"Brajesh Kumar Panigrahi",
-						"Gudlavalleti Deepak Kumar"
+						"Gudlavalleti Deepak Kumar",
+						"Brajesh Kumar Panigrahi"
 					],
 					"schedule": [
 						{
@@ -16185,7 +16213,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["TO BE ANNOUNCED", "S K Sahoo"],
+					"instructor": ["S K Sahoo", "TO BE ANNOUNCED"],
 					"schedule": [
 						{
 							"room": "I124",
@@ -16625,11 +16653,11 @@
 				},
 				"P1": {
 					"instructor": [
-						"Balram Ghosh",
-						"Ch Sai Sanjay",
 						"Ambati Himaja",
+						"Balram Ghosh",
+						"Sri Ganga",
 						"Tarun",
-						"Sri Ganga"
+						"Ch Sai Sanjay"
 					],
 					"schedule": [
 						{
@@ -16641,11 +16669,11 @@
 				},
 				"P2": {
 					"instructor": [
-						"Balram Ghosh",
-						"Ch Sai Sanjay",
 						"Ambati Himaja",
+						"Balram Ghosh",
+						"Sri Ganga",
 						"Tarun",
-						"Sri Ganga"
+						"Ch Sai Sanjay"
 					],
 					"schedule": [
 						{
@@ -16695,11 +16723,11 @@
 				},
 				"P1": {
 					"instructor": [
-						"Shivani",
 						"Trupti Ghatage",
 						"Arti Dhar",
-						"Lahane Ganesh Panditrao",
-						"Kothari prafful pradeep"
+						"Kothari prafful pradeep",
+						"Shivani",
+						"Lahane Ganesh Panditrao"
 					],
 					"schedule": [
 						{
@@ -16711,11 +16739,11 @@
 				},
 				"P2": {
 					"instructor": [
-						"Shivani",
 						"Trupti Ghatage",
 						"Arti Dhar",
-						"Lahane Ganesh Panditrao",
-						"Kothari prafful pradeep"
+						"Kothari prafful pradeep",
+						"Shivani",
+						"Lahane Ganesh Panditrao"
 					],
 					"schedule": [
 						{
@@ -16765,10 +16793,10 @@
 				},
 				"P1": {
 					"instructor": [
-						"SONAL SUKHADEO\nFANDE",
+						"D Sriram",
 						"Deepika K",
 						"Jegadheeswari V",
-						"D Sriram"
+						"SONAL SUKHADEO\nFANDE"
 					],
 					"schedule": [
 						{
@@ -16780,10 +16808,10 @@
 				},
 				"P2": {
 					"instructor": [
-						"SONAL SUKHADEO\nFANDE",
+						"D Sriram",
 						"Deepika K",
 						"Jegadheeswari V",
-						"D Sriram"
+						"SONAL SUKHADEO\nFANDE"
 					],
 					"schedule": [
 						{
@@ -16833,9 +16861,9 @@
 				},
 				"P1": {
 					"instructor": [
+						"Rupal Kothari",
 						"V V Krishna Venuganti",
-						"Bollareddy Srivarsha Reddy",
-						"Rupal Kothari"
+						"Bollareddy Srivarsha Reddy"
 					],
 					"schedule": [
 						{
@@ -16913,9 +16941,9 @@
 				},
 				"P1": {
 					"instructor": [
-						"Lavanya S",
 						"Ashutosh Balasaheb Mahale",
-						"Onkar Kulkarni"
+						"Onkar Kulkarni",
+						"Lavanya S"
 					],
 					"schedule": [
 						{
@@ -16965,10 +16993,10 @@
 				},
 				"P1": {
 					"instructor": [
-						"Purbali Chakraborty",
+						"Suraj.s",
 						"Darakhshan Begum",
 						"P Yogeeswari",
-						"Suraj.s"
+						"Purbali Chakraborty"
 					],
 					"schedule": [
 						{
@@ -17019,9 +17047,9 @@
 				"P1": {
 					"instructor": [
 						"Priyadarshini Sathe",
+						"Nirmal J",
 						"Sai Shreya",
-						"Manthan S Hiremath",
-						"Nirmal J"
+						"Manthan S Hiremath"
 					],
 					"schedule": [
 						{
@@ -17210,7 +17238,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["Aparajita Ghosh", "K Vandana", "D Sriram"],
+					"instructor": ["D Sriram", "Aparajita Ghosh", "K Vandana"],
 					"schedule": [
 						{
 							"room": "B212",
@@ -17333,11 +17361,11 @@
 				},
 				"P1": {
 					"instructor": [
-						"Erram Venkatesh",
-						"Gupta Suraj Pyarelal Meena",
 						"A Sajeli Begum",
+						"P. S Lakshmi Soukya",
 						"Velmurugan K",
-						"P. S Lakshmi Soukya"
+						"Erram Venkatesh",
+						"Gupta Suraj Pyarelal Meena"
 					],
 					"schedule": [
 						{
@@ -17377,8 +17405,8 @@
 				},
 				"P1": {
 					"instructor": [
-						"V V Krishna Venuganti",
 						"Sankar Shridula",
+						"V V Krishna Venuganti",
 						"Shreya Shashank Chauhan"
 					],
 					"schedule": [
@@ -17474,7 +17502,7 @@
 					]
 				},
 				"P1": {
-					"instructor": ["R Punna Rao", "Radhika Rajiv Mahajan"],
+					"instructor": ["Radhika Rajiv Mahajan", "R Punna Rao"],
 					"schedule": [
 						{
 							"room": "A022",
@@ -17514,9 +17542,9 @@
 				"P1": {
 					"instructor": [
 						"Milan Paul",
-						"Asif Mohd Itoo",
+						"Swati Biswas",
 						"Sripathi Nikhitha",
-						"Swati Biswas"
+						"Asif Mohd Itoo"
 					],
 					"schedule": [
 						{
@@ -17556,9 +17584,9 @@
 				},
 				"P1": {
 					"instructor": [
-						"Wadkar Avinash Rudrappa",
+						"Srinivas Prasad K",
 						"Sonam Dolma",
-						"Srinivas Prasad K"
+						"Wadkar Avinash Rudrappa"
 					],
 					"schedule": [
 						{
@@ -17654,10 +17682,10 @@
 				},
 				"P1": {
 					"instructor": [
+						"Yuvaraj Singh",
 						"Sonali Singh",
-						"R Punna Rao",
 						"Swagata Sinha",
-						"Yuvaraj Singh"
+						"R Punna Rao"
 					],
 					"schedule": [
 						{
@@ -17713,7 +17741,7 @@
 			"units": 1.0,
 			"course_name": "PHYSICS LABORATORY",
 			"sections": {
-				"P1": {
+				"L1": {
 					"instructor": ["Priyanka Mitra", "B HARIHARA VENKATARA"],
 					"schedule": [
 						{
@@ -17723,7 +17751,7 @@
 						}
 					]
 				},
-				"P2": {
+				"L2": {
 					"instructor": ["Tamali Mukherjee", "Sk Jahanur Hoque"],
 					"schedule": [
 						{
@@ -17733,8 +17761,8 @@
 						}
 					]
 				},
-				"P3": {
-					"instructor": ["Geetika Sahu", "Tanay Nag"],
+				"L3": {
+					"instructor": ["Tanay Nag", "Geetika Sahu"],
 					"schedule": [
 						{
 							"room": "A222",
@@ -17743,7 +17771,7 @@
 						}
 					]
 				},
-				"P4": {
+				"L4": {
 					"instructor": ["Ronit Mahapatra", "Sk Jahanur Hoque"],
 					"schedule": [
 						{
@@ -17753,8 +17781,8 @@
 						}
 					]
 				},
-				"P5": {
-					"instructor": ["Nilofar Naaz", "Tanay Nag"],
+				"L5": {
+					"instructor": ["Tanay Nag", "Nilofar Naaz"],
 					"schedule": [
 						{
 							"room": "A222",
@@ -17763,8 +17791,8 @@
 						}
 					]
 				},
-				"P6": {
-					"instructor": ["Tamali Mukherjee", "Suvadip Das"],
+				"L6": {
+					"instructor": ["Suvadip Das", "Tamali Mukherjee"],
 					"schedule": [
 						{
 							"room": "A223",
@@ -17773,7 +17801,7 @@
 						}
 					]
 				},
-				"P7": {
+				"L7": {
 					"instructor": ["Yash Pareek", "Suvadip Das"],
 					"schedule": [
 						{
@@ -17783,7 +17811,7 @@
 						}
 					]
 				},
-				"P8": {
+				"L8": {
 					"instructor": ["K V Shiv Chaitanya", "Urjjarani Patel"],
 					"schedule": [
 						{
@@ -17793,10 +17821,10 @@
 						}
 					]
 				},
-				"P9": {
+				"L9": {
 					"instructor": [
-						"Akhil U Nair",
-						"Aranya Bhuti Bhattacherjee"
+						"Aranya Bhuti Bhattacherjee",
+						"Akhil U Nair"
 					],
 					"schedule": [
 						{
@@ -17806,7 +17834,7 @@
 						}
 					]
 				},
-				"P10": {
+				"L10": {
 					"instructor": ["Debanjan Guha Roy", "VSN Murthy"],
 					"schedule": [
 						{
@@ -17816,8 +17844,8 @@
 						}
 					]
 				},
-				"P11": {
-					"instructor": ["Anamika Avinash Pathak", "Sashideep Gutti"],
+				"L11": {
+					"instructor": ["Sashideep Gutti", "Anamika Avinash Pathak"],
 					"schedule": [
 						{
 							"room": "A222",
@@ -17829,13 +17857,13 @@
 			},
 			"exams": [
 				{
-					"midsem": null,
+					"midsem": "11/10 - 4.00 - 5.30PM",
 					"compre": "18/12 AN"
 				}
 			],
 			"exams_iso": [
 				{
-					"midsem": null,
+					"midsem": "2023-10-11T10:30:00|2023-10-11T12:00:00",
 					"compre": "2023-12-18T08:30:00|2023-12-18T11:30:00"
 				}
 			]
@@ -17845,7 +17873,7 @@
 			"course_name": "MECH OSCIL & WAVES",
 			"sections": {
 				"L1": {
-					"instructor": ["Prasant Samantray", "PK THIRUVIKRAMAN"],
+					"instructor": ["PK THIRUVIKRAMAN", "Prasant Samantray"],
 					"schedule": [
 						{
 							"room": "F102",
@@ -18216,10 +18244,10 @@
 			"sections": {
 				"L1": {
 					"instructor": [
+						"ARAVINDA N RAGHAVAN",
 						"Greeshma Gopinath",
 						"Sreeshna S",
-						"Meenakshi V",
-						"ARAVINDA N RAGHAVAN"
+						"Meenakshi V"
 					],
 					"schedule": [
 						{
@@ -18231,9 +18259,9 @@
 				},
 				"L2": {
 					"instructor": [
+						"Aravinda N Raghavan",
 						"Greeshma Gopinath",
 						"Sreeshna S",
-						"Aravinda N Raghavan",
 						"Meenakshi V"
 					],
 					"schedule": [
@@ -18247,14 +18275,14 @@
 			},
 			"exams": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "14/10 - 2.00 - 3.30PM",
+					"compre": "21/12 FN"
 				}
 			],
 			"exams_iso": [
 				{
-					"midsem": null,
-					"compre": null
+					"midsem": "2023-10-14T08:30:00|2023-10-14T10:00:00",
+					"compre": "2023-12-21T04:00:00|2023-12-21T07:00:00"
 				}
 			]
 		},
@@ -18340,8 +18368,8 @@
 				},
 				"T1": {
 					"instructor": [
-						"Sarmistha Banik",
 						"Rahul Nigam",
+						"Sarmistha Banik",
 						"Suraj Kumar Maurya"
 					],
 					"schedule": [
@@ -18381,7 +18409,7 @@
 					]
 				},
 				"T1": {
-					"instructor": ["Anagh Venneti", "PK Thiruvikraman"],
+					"instructor": ["PK Thiruvikraman", "Anagh Venneti"],
 					"schedule": [
 						{
 							"room": "G205",
