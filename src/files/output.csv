@@ -1,2024 +1,2398 @@
 0,1,2,3,4,5,6,7,8,9,10,11,12
-2421,AN F312,AIRCRAFT PROPULSION,3,-,3,1,SAYAN DAS,G204,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-2423,AN F314,INTRODUCTION TO FLIGHT,3,-,3,1,JAYAPRAKASH K S,I114,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-2424,AN F315,AIRCRAFT STRUCTURES,3,-,3,1,SP REGALLA,G205,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,SP Regalla,G205,M,10,,
-1001,BIO F110,BIOLOGY LABORATORY,-,2,1,1,Sridev Mohapatra,A122,M,3 4,09/03 - 3.30 - 5.00PM,04/05 FN
-,,,,,,,Atish Kumar Behera,,,,,
-,,,,,,2,Piyush Khandelia,A122,T,3 4,,
-,,,,,,,"Maddipatla Naga sai
-karthik",,,,,
-,,,,,,3,Vidya Rajesh,A122,M,6 7,,
-,,,,,,,Hemapriya S,,,,,
-,,,,,,4,Sridev Mohapatra,A122,W,3 4,,
-,,,,,,,Mude Hemanjali,,,,,
-,,,,,,5,Kirtimaan Syal,A122,F,3 4,,
-,,,,,,,Shivashis Mund,,,,,
-,,,,,,6,Trinath Jamma,A122,F,9 10,,
-,,,,,,,Ashna Fathima,,,,,
-,,,,,,7,Gireesha T Mohannath,A122,T,5 6,,
-,,,,,,,"Brahmandam N S A L
-Gayatr",,,,,
-,,,,,,8,Piyush Khandelia,A122,Th,3 4,,
-,,,,,,,Puja Bhardwaj,,,,,
-,,,,,,9,Vivek Sharma,A122,W,6 7,,
-,,,,,,,Shraddha Tripathi,,,,,
-,,,,,,10,K PRANAV NARAYAN,A122,Th,5 6,,
-,,,,,,,Chhavi Dhiman,,,,,
-,,,,,,11,Vivek Sharma,A122,F,6 7,,
-,,,,,,,Teena Chandna,,,,,
-1002,BIO F111,GENERAL BIOLOGY,3,-,3,1,NAGA MOHAN K,F104,T Th,1,12/03 - 2.00 - 3.30PM,08/05 AN
-,,,,,,,Anne Lohitha Alias Anuhya,,,,,
-,,,,,,,Pragya Komal,,,,,
-,,,,,,,Naga Mohan K,F104,W,10,,
-,,,,,,,Anne Lohitha Alias Anuhya,,,,,
-,,,,,,,Pragya Komal,,,,,
-,,,,,,2,Amartya Sanyal,F105,T Th,1,,
-,,,,,,,Nishith Gupta,,,,,
-,,,,,,,Amartya Sanyal,F105,W,10,,
-,,,,,,,Nishith Gupta,,,,,
-,,Tutorial,,,,1,Ruchi Jain Dey,G207,M,9,,
-,,,,,,2,P Sankar Ganesh,G104,M,9,,
-,,,,,,3,Debashree B,G107,F,5,,
-,,,,,,4,Amartya Sanyal,G106,M,9,,
-,,,,,,5,Debashree B,G107,M,9,,
-,,,,,,6,Kavi Devraj,F203,M,9,,
-,,,,,,7,Pragya Komal,G201,M,9,,
-,,,,,,8,Shuvadeep Maity,I221,M,9,,
-,,,,,,9,Supratim Ghosh,G204,M,9,,
-1423,BIO F215,BIOPHYSICS,3,-,3,1,KIRTIMAAN SYAL,G103,M W F,8,16/03 - 2.00 - 3.30PM,18/05 FN
-,,Tutorial,,,,,Kirtimaan Syal,G103,Th,7,,
-2264,BIO F217,"LAB FOR WATER
-SANITATION & SOLID
-WASTE MANAGEMENT",1,2,3,1,P SANKAR GANESH,G105,M,6,12/03 - 9.30 - 11.00AM,08/05 FN
-,,Practical,,,,,Pavithra Pari,A002,Th F,6 7,,
-1424,BIO F241,"ECOLOGY &
-ENVIRONMENTAL SCIENCE",3,-,3,1,P SANKAR GANESH,G103,M W F,2,11/03 - 2.00 - 3.30PM,07/05 FN
-,,Tutorial,,,,,P Sankar Ganesh,G103,Th,9,,
-1430,BIO F242,"INTRODUCTION TO
-BIOINFORMATICS",3,-,3,1,SHUVADEEP MAITY,G103,T Th,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,,,,,,Debashree B,,,,,
-,,,,,,,Shuvadeep Maity,G103,Th,10,,
-,,,,,,,Debashree B,,,,,
-,,Tutorial,,,,,Shuvadeep Maity,G103,T,1,,
-,,,,,,,Debashree B,,,,,
-1425,BIO F243,GENETICS,3,-,3,1,AMARTYA SANYAL,G103,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,,,,,,Naga Mohan K,,,,,
-,,Tutorial,,,,,Amartya Sanyal,G103,T,9,,
-,,,,,,,Naga Mohan K,,,,,
-1426,BIO F244,INSTRU METHODS OF ANAL,1,3,4,1,DEBASHREE B,G104,F,8,16/03 - 2.00 - 3.30PM,18/05 FN
-,,Practical,,,,,Sridev Mohapatra,B108,M W,6 7 8,,
-,,,,,,,Ali Akbar Shoukat Safdari,,,,,
-,,,,,,,Devika.P,,,,,
-,,,,,,,Kunja chaitanya,,,,,
-,,,,,,,Manali chindarkar,,,,,
-,,,,,,,Nikhil P T,,,,,
-,,,,,,,Omalur Eshwari,,,,,
-,,,,,,,Pragya Komal,,,,,
-,,,,,,,Puja Das,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+2420,AN F311,PRINCIPLES OF AERODYNAMICS,3,-,3,1,PARDHA SARADHI GURUGUBELLI V,G205,T Th,1,10/12,AN
+,,,,,,,Pardha Saradhi Gurugubelli V,G205,M,7,,
+2422,AN F313,FLIGHT MECHANICS AND CONTROLS,3,-,3,1,JAYAPRAKASH K S,G206,M W,10,09/12,FN
+,,,,,,,Jayaprakash K S,G206,Th,6,,
+1001,BIO F110,BIOLOGY LABORATORY,-,2,1,1,AMARTYA SANYAL,A122,M,2 3,14/12,FN
+,,,,,,,Brahmandam N S A L Gayatri,,,,,
+,,,,,,,K.Vaishali,,,,,
+,,,,,,2,P Sankar Ganesh,A122,F,8 9,,
+,,,,,,,Anindita Thakur,,,,,
+,,,,,,3,Naga Mohan K,A122,W,2 3,,
 ,,,,,,,Satarupa Das,,,,,
-,,,,,,,Trinath Jamma,,,,,
-,,,,,,,Vaibhav jain,,,,,
-1651,BIO F266,STUDY PROJECT,-,-,3,1,JAYATI RAY DUTTA,,,,,
-1431,BIO F341,DEVELOPMENTAL BIOLOGY,3,-,3,1,VIVEK SHARMA,G103,M W F,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,,,,,,K Pranav Narayan,,,,,
-,,Tutorial,,,,,K Pranav Narayan,G103,T,8,,
-,,,,,,,Vivek Sharma,,,,,
-1432,BIO F342,IMMUNOLOGY,3,-,3,1,TRINATH JAMMA,G103,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,Vidya Rajesh,,,,,
-,,,,,,,Trinath Jamma,G103,W,10,,
-,,,,,,,Vidya Rajesh,,,,,
-,,Tutorial,,,,,Vidya Rajesh,G103,Th,8,,
-,,,,,,,Trinath Jamma,,,,,
-1650,BIO F366,LABORATORY PROJECT,-,-,3,1,JAYATI RAY DUTTA,,,,,
-1736,BIO F367,LABORATORY PROJECT,-,-,3,1,JAYATI RAY DUTTA,,,,,
-1685,BIO F376,DESIGN PROJECT,-,-,3,1,PRAGYA KOMAL,,,,,
-1752,BIO F377,DESIGN PROJECT,-,-,3,1,PRAGYA KOMAL,,,,,
-1438,BIO F451,"BIOPROCESS
-TECHNOLOGY",3,-,3,1,JAYATI RAY DUTTA,G104,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,Supratim Ghosh,,,,,
-,,,,,,,Jayati Ray Dutta,G104,Th,10,,
-,,,,,,,Supratim Ghosh,,,,,
-2009,BIO G523,ADV & APPLIED MICROBIO,3,2,5,1,RUCHI JAIN DEY,G104,M W F,4,11/03 - 11.00 - 12.30PM,06/05 AN
-,,,,,,,Jayati Ray Dutta,,,,,
-,,Practical,,,,,Ruchi Jain Dey,A123,T Th,8 9,,
-,,,,,,,Anannya Dhanwal,,,,,
-,,,,,,,Tata Pranathi,,,,,
-151,BIO G542,"ADVANCED CELL AND
-MOLECULAR BIOLOGY",-,-,5,1,PIYUSH KHANDELIA,G104,M W F,3,12/03 - 9.30 - 11.00AM,08/05 FN
-,,,,,,,Shuvadeep Maity,,,,,
-,,Practical,,,,,Piyush Khandelia,A124,M W,8 9,,
-,,,,,,,Kottam geetha lakshmi,,,,,
-,,,,,,,Pragati Karemore,,,,,
-1887,BIO G570,"RECENT DEVELOPMENTS
-IN BIOLOGY",1,-,1,1,RUCHI JAIN DEY,G104,F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-956,BIO G643,PLANT BIOTECHNOLOGY,3,2,5,1,"GIREESHA T
-MOHANNATH",G104,T Th,3,13/03 - 4.00 - 5.30PM,10/05 FN
-,,,,,,,Sridev Mohapatra,,,,,
-,,,,,,,Gireesha T Mohannath,G104,F,10,,
-,,,,,,,Sridev Mohapatra,,,,,
-,,Practical,,,,,Gireesha T Mohannath,A123,M W,6 7,,
-,,,,,,,Abirami T S,,,,,
+,,,,,,4,Nishith Gupta,A122,F,2 3,,
+,,,,,,,Ch.Mohan Rao,,,,,
+,,,,,,,Raunak Sharma,,,,,
+,,,,,,5,Ch.Mohan Rao,A122,M,4 5,,
+,,,,,,,Ananya Bose,,,,,
+,,,,,,6,Debashree B,A122,M,8 9,,
+,,,,,,,Puja Das,,,,,
+,,,,,,7,Ruchi Jain Dey,A122,F,4 5,,
+,,,,,,,Ali Akbar Shoukat Safdari,,,,,
+,,,,,,8,Pragya Komal,A122,W,4 5,,
+,,,,,,,Omalur Eshwari,,,,,
+,,,,,,9,Shuvadeep Maity,A122,T,8 9,,
+,,,,,,,Kunja chaitanya,,,,,
+,,,,,,10,Supratim Ghosh,A122,Th,9 10,,
+,,,,,,,Abhiram Kumar,,,,,
+,,,,,,11,Kavi Devraj,A122,W,7 8,,
 ,,,,,,,Murali Krishna Ramgopal,,,,,
+1002,BIO F111,GENERAL BIOLOGY,3,-,3,1,Sridev Mohapatra,F102,T Th,4,10/12,FN
+,,,,,,,Vivek Sharma,,,,,
+,,,,,,,Sridev Mohapatra,F102,M,10,,
+,,,,,,,Vivek Sharma,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,2,K Pranav Narayan,F103,T Th,4,,
+,,,,,,,Gireesha T Mohannath,,,,,
+,,,,,,,K Pranav Narayan,F103,M,10,,
+,,,,,,,Gireesha T Mohannath,,,,,
+,,Tutorial,,,,1,VIDYA RAJESH,G101,T,8,,
+,,,,,,,Atish Kumar Behera,,,,,
+,,,,,,,Priyanka Chakravarti,,,,,
+,,,,,,2,Jayati Ray Dutta,G201,T,8,,
+,,,,,,,Tata Pranathi,,,,,
+,,,,,,3,K Pranav Narayan,G203,T,8,,
+,,,,,,,Chhavi Dhiman,,,,,
+,,,,,,4,Soumyananda Chakraborti,G204,T,8,,
+,,,,,,,Aditi Dey,,,,,
+,,,,,,5,Bibhas Roy,G205,T,8,,
+,,,,,,,Shivashis Mund,,,,,
+,,,,,,6,Vivek Sharma,G106,T,8,,
+,,,,,,,Sharayu Umakant Ghodeswar,,,,,
+,,,,,,7,Trinath Jamma,G105,T,8,,
+,,,,,,,Sakhare Kalyani Rajesh,,,,,
+,,,,,,8,Gireesha T Mohannath,G102,T,8,,
+,,,,,,,Tammineni Ramya,,,,,
+,,,,,,9,Piyush Khandelia,F204,T,8,,
+,,,,,,,Pragati Karemore,,,,,
+,,,,,,10,Kirtimaan Syal,F203,T,8,,
+,,,,,,,Shubham Kumar Sinha,,,,,
+1112,BIO F211,BIOLOGICAL CHEMISTRY,3,-,3,1,DEBASHREE B,G101,M W F,2,06/12,AN
+,,Tutorial,,,,,Debashree B,G201,T,1,,
+1114,BIO F212,MICROBIOLOGY,3,1,4,1,RUCHI JAIN DEY,G101,T Th,2,16/12,FN
+,,,,,,,Supratim Ghosh,,,,,
+,,,,,,,Ruchi Jain Dey,G101,W,7,,
+,,,,,,,Supratim Ghosh,,,,,
+,,Practical,,,,1,Ruchi Jain Dey,A123,M,7 8 9,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Anannya Dhanwal,,,,,
+,,,,,,,Puja Bhardwaj,,,,,
+,,,,,,2,Supratim Ghosh,A123,T,7 8 9,,
+,,,,,,,Nidhi O,,,,,
+,,,,,,,Priyanka Roy,,,,,
+1113,BIO F213,CELL BIOLOGY,3,-,3,1,SHUVADEEP MAITY,G101,T Th,4,04/12,AN
+,,,,,,,Shuvadeep Maity,G101,W,8,,
+,,Tutorial,,,,,Bibhas Roy,G101,Th,1,,
+1115,BIO F214,INTEGRATED BIOLOGY,3,-,3,1,JAYATI RAY DUTTA,G101,M W F,3,11/12,AN
+,,Tutorial,,,,,Jayati Ray Dutta,G101,Th,9,,
+1941,BIO F216,WATER SANITATION AND WASTE MANAGEMENT,3,-,3,1,SUPRATIM GHOSH,G102,M W F,2,06/12,FN
+1651,BIO F266,STUDY PROJECT,-,-,3,1,RUCHI JAIN DEY,,,,,
+1427,BIO F311,RECOMBINANT DNA TECH,3,-,3,1,VIDYA RAJESH,G101,T Th,3,13/12,FN
+,,,,,,,Vidya Rajesh,G101,F,10,,
+,,Tutorial,,,,,Vidya Rajesh,G101,Th,10,,
+1428,BIO F312,PLANT PHYSIOLOGY,3,-,3,1,SRIDEV MOHAPATRA,G101,M W F,1,10/12,AN
+,,Tutorial,,,,,Sridev Mohapatra,G101,T,7,,
+1429,BIO F313,ANIMAL PHYSIOLOGY,3,-,3,1,PRAGYA KOMAL,G101,W F,9,02/12,FN
+,,,,,,,Pragya Komal,G101,Th,8,,
+,,Tutorial,,,,,Pragya Komal,G101,T,10,,
+1439,BIO F352,CELL & TISSUE CULTR TECH,3,1,4,1,K PRANAV NARAYAN,G102,M W F,3,11/12,FN
+,,Practical,,,,,Bibhas Roy,LAB,Th,7 8,,
+,,,,,,,Priyanka E,,,,,
+,,,,,,,Sharon Mariam Abraham,,,,,
+1650,BIO F366,LABORATORY PROJECT,-,-,3,1,RUCHI JAIN DEY,,,,,
+1736,BIO F367,LABORATORY PROJECT,-,-,3,1,RUCHI JAIN DEY,,,,,
+1685,BIO F376,DESIGN PROJECT,-,-,3,1,RUCHI JAIN DEY,,,,,
+1752,BIO F377,DESIGN PROJECT,-,-,3,1,RUCHI JAIN DEY,,,,,
+2122,BIO G510,APPL OF COMP AND STATS IN BIOLOGY,-,-,5,1,KAVI DEVRAJ,G102,T Th,4,03/12,FN
+,,,,,,,Kavi Devraj,G102,M,7,,
+,,Practical,,,,,Kavi Devraj,LAB,F,8 9,,
+,,,,,,,Mohammad Mehaboob Subhani Mustafa,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Poosala Ramya Sri,,,,,
+,,,,,,,Teena Chandna,,,,,
+,,,,,,,Kavi Devraj,LAB,Th,7 8,,
+,,,,,,,Mohammad Mehaboob Subhani Mustafa,,,,,
+,,,,,,,Poosala Ramya Sri,,,,,
+,,,,,,,Teena Chandna,,,,,
+71,BIO G512,MOLEC MECH OF GENE EXPRE,3,2,5,1,GIREESHA T MOHANNATH,G103,M W F,4,04/12,FN
+,,,,,,,Vivek Sharma,,,,,
+,,Practical,,,,,Gireesha T Mohannath,A124,Th F,7 8,,
+,,,,,,,Abirami T S,,,,,
+,,,,,,,B Aravind,,,,,
+,,,,,,,Swati,,,,,
+,,,,,,,Vivek Sharma,,,,,
+392,BIO G514,MOLECULAR IMMUNOLOGY,-,-,5,1,TRINATH JAMMA,G105,M W F,5,05/12,AN
+,,Practical,,,,,Trinath Jamma,A123,T Th,2 3,,
+,,,,,,,Ashna Fathima,,,,,
+,,,,,,,Kodam Pradeep,,,,,
+,,,,,,,Manali chindarkar,,,,,
+2008,BIO G524,ANIMAL CELL TECHNOLOGY,3,2,5,1,PIYUSH KHANDELIA,G103,T Th,4,06/12,FN
+,,,,,,,Piyush Khandelia,G103,M,7,,
+,,Practical,,,,,Piyush Khandelia,A121,M W,2 3,,
+,,,,,,,Jayasree P J,,,,,
+,,,,,,,Kottam geetha lakshmi,,,,,
+,,,,,,,Suryansh Sengar,,,,,
+2007,BIO G525,ENVIR BIOTECH & WASTE MGMT,3,2,5,1,P SANKAR GANESH,G103,M W F,5,09/12,FN
+,,Practical,,,,,P Sankar Ganesh,A002,M W,8 9,,
+,,,,,,,Hemapriya S,,,,,
+,,,,,,,Maddipatla Naga sai karthik,,,,,
+,,,,,,,Pavithra Pari,,,,,
+2168,BIO G561,ADV RECOMBINANT DNA TECH,3,2,5,1,NISHITH GUPTA,G103,T Th,5,11/12,AN
+,,,,,,,Soumyananda Chakraborti,,,,,
+,,,,,,,Nishith Gupta,G103,W,10,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Soumyananda Chakraborti,,,,,
+,,Practical,,,,,Nishith Gupta,A124,T Th,9 10,,
+,,,,,,,Devika.P,,,,,
+,,,,,,,Lakesh Kumar Sahoo,,,,,
+,,,,,,,Namita Pandey,,,,,
+2017,BIO G651,PROTEIN & ENZYME BIOENGG,3,2,5,1,KIRTIMAAN SYAL,G102,M W F,4,10/12,FN
+,,,,,,,Sourav Chowdhury,,,,,
+,,Practical,,,,,Kirtimaan Syal,A124,M W,8 9,,
+,,,,,,,Devarakonda Yogeshwar,,,,,
+,,,,,,,Keith Joseph Henderson,,,,,
+,,,,,,,Vaibhav jain,,,,,
+1372,BIOT F346,GENOMICS,3,-,3,1,AMARTYA SANYAL,G102,T Th,3,13/12,AN
+,,,,,,,Amartya Sanyal,G102,F,10,,
 549,BITS C790T,INDEPENDENT STUDY,-,-,1,1,ALIVELU MANGA PARIMI,,,,,
 596,BITS C791T,TEACHING PRACTICE I,-,-,1,1,ALIVELU MANGA PARIMI,,,,,
-602,BITS C792T,TEACHING PRACTICE II,-,-,1,1,ALIVELU MANGA PARIMI,,,,,
 520,BITS C797T,PHD SEMINAR,-,-,1,1,ALIVELU MANGA PARIMI,,,,,
 553,BITS C799T,PHD THESIS,-,-,10,1,ALIVELU MANGA PARIMI,,,,,
 2128,BITS E593,READING COURSE I,-,-,5,1,ALIVELU MANGA PARIMI,,,,,
 2490,BITS E594,READING COURSE II,-,-,5,1,ALIVELU MANGA PARIMI,,,,,
-2101,BITS E661,"RESEARCH METHODOLOGY
-I",-,-,5,1,K SRINIVASA RAJU,F201,T,4 5,,
-,,,,,,,Vogeti Rishith Kumar,,,,,
+2101,BITS E661,RESEARCH METHODOLOGY I,-,-,5,1,SUSHIL BHUNIA,G204,M W F,9,,
+,,,,,,,SP Regalla,,,,,
 857,BITS E793T,PRACTICE LECT SERIES I,-,-,1,1,ALIVELU MANGA PARIMI,,,,,
-1003,BITS F110,ENGINEERING GRAPHICS,1,2,2,1,A Vasan,F102,F,1,16/03 - 9.30 - 11.00AM,20/05 FN
-,,,,,,2,Abhishek Sarkar,F103,F,1,,
-,,Practical,,,,1,ANASUA GUHARAY,D208 A,M,3 4,,
-,,,,,,,K S deepak,,,,,
-,,,,,,,Md Ikramullah Khan,,,,,
-,,,,,,,Renuka Pradeep Rekhade,,,,,
-,,,,,,2,Ishant Sharma,D208 A,F,6 7,,
-,,,,,,,K S deepak,,,,,
-,,,,,,,M Abhinav,,,,,
-,,,,,,,"Radha Kiranmaye
-Bandlamu",,,,,
-,,,,,,3,"Ammavajjula Sesha Sai
-Rag",D208 B,W,6 7,,
-,,,,,,,Ashish Saurabh,,,,,
-,,,,,,,Fiza Zahoor Malik,,,,,
-,,,,,,,Jakkam Leela Kishan,,,,,
-,,,,,,4,Raghu Piska,D208 A,Th,4 5,,
-,,,,,,,Ashish Saurabh,,,,,
-,,,,,,,Md Zabiulla,,,,,
-,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,5,Dilawaiz ali,D208 A,T,4 5,,
-,,,,,,,Arnab Guha,,,,,
-,,,,,,,Gowlla Jyothsna,,,,,
-,,,,,,,P Ramya Priya,,,,,
-,,,,,,6,Sk Abdul Kaium,D208 A,W,3 4,,
-,,,,,,,Anuradha Tiwari,,,,,
-,,,,,,,Balija Upendra,,,,,
-,,,,,,,Jakkam Leela Kishan,,,,,
-,,,,,,7,Chirdeep N R,D208 A,F,3 4,,
-,,,,,,,Dole mahesh,,,,,
-,,,,,,,Kushagra Pandey,,,,,
-,,,,,,,Mrinmoy saha,,,,,
-,,,,,,8,Vijay Krupaker Maddu,D208 A,M,6 7,,
-,,,,,,,Akashjyoti barman,,,,,
-,,,,,,,Maryada sinha,,,,,
-,,,,,,,Muddasani Rajkumar,,,,,
-,,,,,,9,Deepjyoti Deb,D208 A,W,6 7,,
+1003,BITS F110,ENGINEERING GRAPHICS,1,2,2,1,A Vasan,F102,T,7,16/12,FN
+,,,,,,2,KURRA SURESH,F103,T,7,,
+,,Practical,,,,1,Muddasani Rajkumar,D208 A,M,2 3,,
+,,,,,,,Abhishek Sarkar,,,,,
+,,,,,,,Bandhan Bandhu Majumdar,,,,,
+,,,,,,2,Abhradeep Majumder,D208 A,M,4 5,,
+,,,,,,,Bandi Sharon Lily,,,,,
+,,,,,,,Hanan H,,,,,
+,,,,,,3,Ammavajjula Sesha Sai Raghuram,D208 A,W,4 5,,
+,,,,,,,Bandi Sharon Lily,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Manish Srivastava,,,,,
+,,,,,,4,Chirdeep N R,D208 A,W,2 3,,
 ,,,,,,,K Ramesh,,,,,
+,,,,,,,N.Jivitha,,,,,
+,,,,,,5,TO BE ANNOUNCED,D208 A,F,2 3,,
+,,,,,,,Dilawaiz ali,,,,,
+,,,,,,,K Ramesh,,,,,
+,,,,,,6,Kushagra Pandey,D208 A,F,4 5,,
+,,,,,,,Gowlla Jyothsna,,,,,
+,,,,,,,K S deepak,,,,,
+,,,,,,7,Md Zabiulla,D208 A,W,7 8,,
+,,,,,,,Kaivalya Avinash Bhandwalkar,,,,,
+,,,,,,,P Ramya Priya,,,,,
+,,,,,,8,Chirdeep N R,D208 A,T,8 9,,
+,,,,,,,Anuradha Tiwari,,,,,
 ,,,,,,,Renuka Pradeep Rekhade,,,,,
-,,Tutorial,,,,1,K Rajitha,G104,W,9,,
-,,,,,,2,Chandu Parimi,G105,W,9,,
-,,,,,,3,Navaneetha E,G106,W,9,,
-,,,,,,4,Ambili P,G107,W,9,,
-,,,,,,5,Abhishek Sarkar,F203,W,9,,
-,,,,,,6,Arnab Guha,G201,W,9,,
-,,,,,,7,Arshad Javed,G207,W,9,,
-,,,,,,8,M Abhinav,I212,W,9,,
-,,,,,,9,Vemu Sahiti,I210,W,9,,
-1004,BITS F111,THERMODYNAMICS,3,-,3,1,SRIKANTA DINDA,F105,T Th,2,14/03 - 11.00 - 12.30PM,13/05 AN
-,,,,,,,C Jhansi,,,,,
-,,,,,,,Srikanta Dinda,F105,T,10,,
-,,,,,,,C Jhansi,,,,,
-,,,,,,2,N Jalaiah,F104,T Th,2,,
-,,,,,,,N Jalaiah,F104,T,10,,
-,,Tutorial,,,,1,Jaideep Chatterjee,F201,M W,1,,
-,,,,,,,"Vadlakonda Ravi Kiran
-Varm",,,,,
-,,,,,,2,Ramendra Kishor Pal,F202,M W,1,,
-,,,,,,,Nalabala Madhavaiah,,,,,
-,,,,,,3,Iyman Abrar,F203,M W,1,,
-,,,,,,4,Afkham Mir,F204,M W,1,,
-,,,,,,,Y lavanya,,,,,
-,,,,,,5,Nandini Bhandaru,G204,M W,1,,
-,,,,,,6,Santanu Prasad Datta,G202,M W,1,,
-,,,,,,7,Jayaprakash K S,G203,M W,1,,
-,,,,,,8,R Parameshwaran,F104,M W,1,,
-,,,,,,9,N Jalaiah,G205,M W,1,,
-,,,,,,10,KRC Murthy,G206,M W,1,,
-1005,BITS F112,"TECHNICAL REPORT
-WRITING",2,-,2,1,PRANESH BHARGAVA,F103,T Th,8,13/03 - 4.00 - 5.30PM,15/05 AN
-,,,,,,2,Aruna Lolla,F104,T Th,8,,
-,,,,,,3,Jayesh A K,F106,T Th,8,,
-1860,BITS F114,GENERAL MATHEMATICS II,3,-,3,1,SUSHIL BHUNIA,I212,M W F,2,11/03 - 11.00 - 12.30PM,06/05 AN
-,,Tutorial,,,,,Sushil Bhunia,I212,Th,7,,
-,,,,,,,Mintu Mandal,,,,,
-1862,BITS F219,PROCESS ENGINEERING,2,1,3,1,SWATI BISWAS,G105,M W,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,Practical,,,,1,Swati Biswas,A022,F,6 7,,
-,,,,,,,Are Varshini,,,,,
-,,,,,,,Kaviarasi,,,,,
-,,,,,,,Raj selva,,,,,
-,,,,,,,Shishira,,,,,
-,,,,,,2,Swati Biswas,A022,Th,8 9,,
-,,,,,,,Are Varshini,,,,,
-,,,,,,,Kaviarasi,,,,,
-,,,,,,,Raj selva,,,,,
-,,,,,,,Shishira,,,,,
-,,Tutorial,,,,,Swati Biswas,G105,F,3,,
-1632,BITS F225,ENVIRONMENTAL STUDIES,3,-,3,1,SUPRATIM GHOSH,F102,M W F,4,13/03 - 11.00 - 12.30PM,11/05 FN
-,,,,,,,Anmala Jagadeesh,,,,,
-,,,,,,,Sourav Bag,,,,,
-2517,BITS F232,"FOUNDATIONS OF DATA
-STRUCTURES AND
-ALGORITHMS",3,1,4,1,"SAMEERA MUHAMED
-SAL",F106,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Sameera Muhamed Salam,F106,M,10,,
-,,Practical,,,,1,Tathagata Ray,D313,F,6 7,,
-,,,,,,,Harsha Varun Marisetty,,,,,
-,,,,,,2,Tathagata Ray,D311,W,7 8,,
-,,,,,,,Harsha Varun Marisetty,,,,,
-2606,BITS F235,DIGITAL FUNDAMENTALS,3,1,4,1,JOYJIT MUKHERJEE,F101,M,4 5,09/03 - 3.30 - 5.00PM,04/05 FN
-,,Practical,,,,,Joyjit Mukherjee,D313,W,4 5,,
-2277,BITS F314,"GAME THEORY AND ITS
-APPLICATIONS",3,-,3,1,DURGESH C PATHAK,J214,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,Durgesh C Pathak,J214,Th,10,,
-786,BITS F315,"INTRODUCTION TO
-COGNITIVE
-NEUROSCIENCE",3,-,3,1,SRINIVAS PRASAD K,G106,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Srinivas Prasad K,G106,M,10,,
-2336,BITS F327,"ARTIFICIAL INTELLIGENCE
-FOR ROBOTICS",2,1,3,1,ABHISHEK SARKAR,F101,M W,7,12/03 - 9.30 - 11.00AM,08/05 FN
-,,Practical,,,,,K Ramesh,E210,T,8 9,,
-1512,BITS F385,"INTRO TO GENDER
-STUDIES",3,-,3,1,TONY SEBASTIAN,J214,M W F,8,16/03 - 11.00 - 12.30PM,18/05 AN
+,,,,,,9,Ankur Abhishek,D208 A,F,8 9,,
+,,,,,,,Renuka Pradeep Rekhade,,,,,
+,,,,,,10,Meenu Krishnan,D208 A,Th,9 10,,
+,,,,,,,Vemu Sahiti,,,,,
+,,Tutorial,,,,1,A Vasan,G204,Th,8,,
+,,,,,,2,K Rajitha,G102,Th,8,,
+,,,,,,3,Navaneetha E,G103,Th,8,,
+,,,,,,4,Ambili P,G205,Th,8,,
+,,,,,,5,Vijay Krupaker Maddu,G105,Th,8,,
+,,,,,,6,YV Daseswara Rao,G106,Th,8,,
+,,,,,,7,Arshad Javed,G107,Th,8,,
+,,,,,,8,Abhishek Sarkar,G203,Th,8,,
+,,,,,,9,K S deepak,G201,Th,8,,
+,,,,,,10,P Ramya Priya,G202,Th,8,,
+1004,BITS F111,THERMODYNAMICS,3,-,3,1,Ramesh Babu A,F103,M W F,1,12/12,FN
+,,,,,,,Mattupalli Sai Soumya Sri,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,2,M SRINIVAS,F102,T Th,5,,
+,,,,,,,M Srinivas,F102,W,10,,
+,,Tutorial,,,,1,Balaji Krishnamurthy,G204,T Th,2,,
+,,,,,,2,Satyapaul Singh Amarthaluri,G102,T Th,2,,
+,,,,,,,Anuradha Tiwari,,,,,
+,,,,,,3,Karthik Chetan,G103,T Th,2,,
+,,,,,,4,Debirupa Mitra,G203,T Th,2,,
+,,,,,,,Madhusmita Sahoo,,,,,
+,,,,,,5,Shambojit Roy,G106,T Th,2,,
+,,,,,,6,N Jalaiah,G107,T Th,2,,
+,,,,,,7,KRC Murthy,J220,T Th,2,,
+,,,,,,8,M Srinivas,F203,T Th,2,,
+,,,,,,9,R Parameshwaran,G202,T Th,2,,
+,,,,,,10,Naveen Kumar Shrivastava,G105,T Th,2,,
+1005,BITS F112,TECHNICAL REPORT WRITING,2,-,2,1,MG PRASUNA,F107,M W,9,07/12,FN
+,,,,,,2,Maya Vinai,F108,M W,9,,
+,,,,,,3,Santosh Mahapatra,G208,M W,9,,
+,,,,,,4,Shakul Tewari,G207,M W,9,,
+,,,,,,5,Aleena Khan,G206,T Th,3,,
+,,,,,,6,Krishnanunni Hari,G205,M W,9,,
+1858,BITS F113,GENERAL MATHEMATICS I,3,-,3,1,ROHIT GUPTA,I111,M W F,1,03/12,AN
+,,Tutorial,,,,,Rohit Gupta,I111,T,2,,
+,,,,,,,Sushil Pathak,,,,,
+1892,BITS F214,SCIENCE TECH & MODERNITY,3,-,3,1,BISWANATH DASH,J115,M W F,1,10/12,AN
+1861,BITS F218,GENERAL MATHEMATICS III,3,-,3,1,JHUMA SEN GUPTA,I111,T Th,3,02/12,FN
+,,,,,,,Jhuma Sen Gupta,I111,F,10,,
+,,Tutorial,,,,,Jhuma Sen Gupta,I111,M,10,,
+,,,,,,,Amit Kumar Pal,,,,,
+1632,BITS F225,ENVIRONMENTAL STUDIES,3,-,3,1,NILANJAN DEY,F102,W F,9,13/12,AN
+,,,,,,,Murari R R Varma,,,,,
+,,,,,,,Peddiraju N V S J Swaroop,,,,,
+,,,,,,,Sourav Chowdhury,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Nilanjan Dey,F102,Th,8,,
+,,,,,,,Murari R R Varma,,,,,
+,,,,,,,Sourav Chowdhury,,,,,
+2303,BITS F226,SOFT SKILLS FOR PROFESSIONALS,3,-,3,1,ALEENA KHAN,J107,M W F,2,06/12,FN
+2517,BITS F232,FOUNDATIONS OF DATA STRUCTURES AND,3,1,4,1,APURBA DAS,F106,T Th,3,13/12,AN
+,,,,,,,Apurba Das,F106,F,10,,
+,,Practical,,,,1,Chittaranjan Hota,D311,T,4 5,,
+,,,,,,,Madhusudan anand,,,,,
+,,,,,,2,Chittaranjan Hota,D311,Th,4 5,,
+,,,,,,,Madhusudan anand,,,,,
+,,,,,,3,Barsha Mitra,D313,T,7 8,,
+,,,,,,,Alekhya gorrela,,,,,
+,,,,,,4,Barsha Mitra,D313,Th,7 8,,
+2605,BITS F234,INTRODUCTION TO ENGINEERING DESIGN,-,-,4,1,ARNAB GUHA,F101,M,3,,
+,,Practical,,,,,Arnab Guha,D208 B,W,3 4,,
+2751,BITS F240,INTRO TO ENV & SUST SYS ENGG,3,-,3,1,ABHRADEEP MAJUMDER,F101,W,4 5,,
+,,,,,,,Abhradeep Majumder,G202,M,8 9,,
+1334,BITS F312,NEURAL NETWORKS AND FUZZY LOGIC,3,-,3,1,K SRINIVASA RAJU,G206,T Th,1,10/12,AN
+,,,,,,,K Srinivasa Raju,G206,M,7,,
+2277,BITS F314,GAME THEORY AND ITS APPLICATIONS,3,-,3,1,DURGESH C PATHAK,F208,T Th,1,10/12,AN
+,,,,,,,Dushyant Kumar,F208,M,7,,
+1511,BITS F316,NONLINEAR DYNA & CHAOS,3,-,3,1,PK THIRUVIKRAMAN,J107,T Th,2,16/12,AN
+,,,,,,,PK Thiruvikraman,J107,W,7,,
+1784,BITS F319,NEGOTIATION SKILLS AND TECHNIQUES,2,-,2,1,R RAGHUNATHAN,J218,T Th,3,13/12,AN
+1337,BITS F386,QUANTUM INFO & COMPUTING,3,-,3,1,TSL RADHIKA,I111,M W F,3,11/12,FN
 1592,BITS F412,PRACTICE SCHOOL II,-,-,20,1,S S DESHMUKH,,,,,
-1615,BITS F413,PRACTICE SCHOOL II,-,-,20,1,S S DESHMUKH,,,,,
-1248,BITS F415,INTRODUCTION TO MEMS,3,1,4,1,SANKET GOEL,J220,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Sanket Goel,J220,M,10,,
-,,Practical,,,,,Abhishek Kumar,J204,W,9 10,,
-,,,,,,,Pavar Sai Kumar,,,,,
-,,,,,,,Sanket Goel,,,,,
-1809,BITS F417,MICRO-FLUIDICS & ITS APP,-,-,4,1,MEENAKSHI V,G204,Th F,11 12,12/03 - 9.30 - 11.00AM,08/05 FN
+1248,BITS F415,INTRODUCTION TO MEMS,3,1,4,1,SANKET GOEL,J220,M W F,3,11/12,FN
+,,Practical,,,,,Sanket Goel,J204,T,7 8,,
+,,,,,,,Abhishek Kumar,,,,,
+,,,,,,,Ritesh Kumar Singh,,,,,
+1808,BITS F416,INTRO TO NANO SCIENCE,3,-,3,1,B HARIHARA VENKATARAMAN,G106,T Th,3,13/12,AN
+,,,,,,,VSN Murthy,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,B Harihara Venkataraman,G106,F,10,,
+,,,,,,,VSN Murthy,,,,,
+1809,BITS F417,MICRO-FLUIDICS & ITS APP,-,-,4,1,MEENAKSHI V,G103,T Th,3,13/12,AN
 ,,,,,,,Aravinda N Raghavan,,,,,
-1770,BITS F418,"INTRO TO BIOMEDICAL
-ENGG",3,1,4,1,KAVI DEVRAJ,G104,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
+,,,,,,,Meenakshi V,G103,F,10,,
+,,,,,,,Aravinda N Raghavan,,,,,
 1593,BITS F421T,THESIS,-,-,16,1,SRIDHAR RAJU,,,,,
-1616,BITS F422T,THESIS,-,-,16,1,SRIDHAR RAJU,,,,,
 1617,BITS F423T,THESIS,-,-,9,1,SRIDHAR RAJU,,,,,
-1619,BITS F424T,THESIS,-,-,9,1,SRIDHAR RAJU,,,,,
-1794,BITS F428,"ESSENTIALS OF STRATE
-MGT",3,-,3,1,SWATI ALOK,J218,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Swati Alok,J218,F,10,,
-1811,BITS F441,ROBOTICS,3,-,3,1,ARSHAD JAVED,G201,M W F,2,11/03 - 2.00 - 3.30PM,07/05 FN
-1812,BITS F442,"REMOTE SENS & IMAGE
-PROC",3,-,3,1,K RAJITHA,F201,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-1338,BITS F463,CRYPTOGRAPHY,3,-,3,1,G GEETHAKUMARI,F103,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-,,,,,,,Chillara Anil Kumar,,,,,
-,,,,,,,"Praneeta Krishnaprasad
-Ma",,,,,
-,,,,,,,Sandeep Ravikanti,,,,,
-1339,BITS F464,MACHINE LEARNING,3,-,3,1,CHITTARANJAN HOTA,F106,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
+1794,BITS F428,ESSENTIALS OF STRATE MGT,3,-,3,1,SWATI ALOK,J218,M W F,2,06/12,FN
+1806,BITS F431,FLEXIBLE MANUFACTURING SYSTEMS,3,1,4,1,NAVEEN KUMAR SHRIVASTAVA,I113,M W F,2,06/12,FN
+2001,BITS F437,TECHNICAL COMMUNICATION,3,-,3,1,SHAKUL TEWARI,F101,M W F,1,02/12,FN
+2434,BITS F452,BLOCKCHAIN TECHNOLOGY,3,-,3,1,JAY KAMLESH DAVE,F106,T Th,2,16/12,AN
+,,,,,,,Asmita Biswas,,,,,
 ,,,,,,,Chaitra C R,,,,,
-,,,,,,,Harsha Varun Marisetty,,,,,
-,,,,,,,S Shashank,,,,,
-,,,,,,,Chittaranjan Hota,F106,Th,10,,
-547,BITS G513,"STUDY IN ADVANCED
-TOPICS",-,-,5,1,ALIVELU MANGA PARIMI,,,,,
-2636,BITS G527,DATA SCIENCES II,-,-,5,1,"ANEESH SREEVALLABH
-C",F101,M W F,8,12/03 - 9.30 - 11.00AM,08/05 FN
+,,,,,,,S Rasagna Vakkalanka,,,,,
+,,,,,,,Jay Kamlesh Dave,F106,W,7,,
+,,,,,,,Asmita Biswas,,,,,
+,,,,,,,Chaitra C R,,,,,
+,,,,,,,S Rasagna Vakkalanka,,,,,
+1338,BITS F463,CRYPTOGRAPHY,3,-,3,1,SABYASACHI DEY,J107,M W,10,09/12,FN
+,,,,,,,Sabyasachi Dey,J107,Th,6,,
+1339,BITS F464,MACHINE LEARNING,3,-,3,1,CHITTARANJAN HOTA,F106,M W F,3,11/12,FN
+,,,,,,,Mekala Kiran,,,,,
+,,,,,,,Sandeep Ravikanti,,,,,
+,,,,,,,Soriful Momin Nazrul Haque Momin,,,,,
+1379,BITS F467,BIOETHICS AND BIOSAFETY,3,-,3,1,NAGA MOHAN K,G207,T Th,2,16/12,AN
+,,,,,,,Satyanarayana Subrahmanyam,,,,,
+,,,,,,,Naga Mohan K,G207,W,7,,
+,,,,,,,Satyanarayana Subrahmanyam,,,,,
+547,BITS G513,STUDY IN ADVANCED TOPICS,-,-,5,1,ALIVELU MANGA PARIMI,,,,,
 754,BITS G529,RESEARCH PROJECT I,-,-,6,1,ALIVELU MANGA PARIMI,,,,,
 755,BITS G539,RESEARCH PROJECT II,-,-,6,1,ALIVELU MANGA PARIMI,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
 2003,BITS G540,RESEARCH PRACTICE,-,-,4,1,ALIVELU MANGA PARIMI,,,,,
-2165,BITS G563T,DISSERTATION,-,-,16,1,ALIVELU MANGA PARIMI,,,,,
-756,BITS G629T,DISSERTATION,-,-,16,1,ALIVELU MANGA PARIMI,,,,,
-809,BITS G639,PRACTICE SCHOOL,-,-,20,1,S S DESHMUKH,,,,,
+9,BITS G553,REAL TIME SYSTEMS,-,-,5,1,SOUMYA J,I114,M W F,4,11/12,FN
+,,Practical,,,,,Soumya J,J105,F,6 7,,
+,,,,,,,Mekala Bindu Bhargavi,,,,,
+2164,BITS G562T,DISSERTATION,-,-,16,1,ALIVELU MANGA PARIMI,,,,,
+2166,BITS G564T,DISSERTATION,-,-,9,1,ALIVELU MANGA PARIMI,,,,,
 757,BITS G649,READING COURSE,-,-,5,1,ALIVELU MANGA PARIMI,,,,,
-2167,BITS G661,"RESEARCH METHODOLOGY
-I",-,-,5,1,KARTHIK CHETAN,F204,M W F,5,13/03 - 4.00 - 5.30PM,10/05 FN
-1191,CE F241,ANALYSIS OF STRUCTURES,3,-,3,1,CHANDU PARMI,F109,M W F,2,11/03 - 2.00 - 3.30PM,07/05 FN
+1073,CE F211,MECHANICS OF SOLIDS,3,-,3,1,CHANDU PARIMI,F109,M W F,3,11/12,AN
 ,,,,,,,Raghu Piska,,,,,
-,,Tutorial,,,,,Raghu Piska,F109,F,6,,
+,,Tutorial,,,,,Anna Mariya Shajan,F109,T,1,,
 ,,,,,,,Chandu Parimi,,,,,
-,,,,,,,Anna Mariya Shajan,,,,,
-1192,CE F242,"CONSTRUCTION PLANNING
-& TECH",3,-,3,1,ARKAMITRA KAR,F109,M W F,9,15/03 - 9.30 - 11.00AM,16/05 FN
-,,Tutorial,,,,,Krishnendu Sivadas,F109,Th,1,,
-1193,CE F243,SOIL MECHANICS,3,1,4,1,"AMMAVAJJULA SESHA
-SAI",F109,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,Practical,,,,1,Anasua Guharay,LAB,F,6 7,,
-,,,,,,,Meenu Krishnan,,,,,
-,,,,,,2,Anasua Guharay,LAB,Th,8 9,,
-,,,,,,,Ansab shafi mir,,,,,
-,,Tutorial,,,,,"Ammavajjula Sesha Sai
-Rag",F109,T,1,,
-1194,CE F244,HIGHWAY ENGINEERING,3,1,4,1,SRIDHAR RAJU,F109,T,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,,,,,,Sridhar Raju,F201,Th,4 5,,
-,,Practical,,,,1,Sridhar Raju,LAB,T,8 9,,
-,,,,,,,Akshay Gundla,,,,,
-,,,,,,2,Sridhar Raju,LAB,W,6 7,,
-,,,,,,,Prasanta Kumar Sahu,,,,,
-,,Tutorial,,,,,Sridhar Raju,F109,F,7,,
-1652,CE F266,STUDY PROJECT,-,-,3,1,PN RAO,,,,,
-2282,CE F321,ENGINEERING HYDROLOGY,3,-,3,1,K SRINIVASA RAJU,F109,M W F,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,Tutorial,,,,,K Srinivasa Raju,F109,M,1,,
-1199,CE F342,"WATER & WASTEWATER
-TREAT",3,1,4,1,MURARI R R VARMA,F109,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Murari R R Varma,F109,F,10,,
-,,Practical,,,,,Nagalapalli Satish,D108,F,7 8,,
-,,,,,,,Murari R R Varma,,,,,
-,,Tutorial,,,,,Murari R R Varma,F109,W,1,,
-1200,CE F343,"DESIGN OF STEEL
-STRUCTURES",3,-,3,1,CHANDU PARIMI,F109,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,Chandu Parimi,F109,W,5,,
-,,Tutorial,,,,,Pujitha Ganapathi C,F109,M,5,,
-,,,,,,,Chandu Parimi,,,,,
-1667,CE F366,LABORATORY PROJECT,-,-,3,1,MOHAN S C,,,,,
-1737,CE F367,LABORATORY PROJECT,-,-,3,1,MOHAN S C,,,,,
-1686,CE F376,DESIGN PROJECT,-,-,3,1,ANMALA JAGADEESH,,,,,
-1753,CE F377,DESIGN PROJECT,-,-,3,1,ANMALA JAGADEESH,,,,,
-1214,CE F411,"OPER RESEARCH FOR
-ENGIN",3,-,3,1,A VASAN,F204,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,A Vasan,F204,Th,10,,
-1223,CE F415,"DES OF PREST CONC
-STRUCT",3,-,3,1,BAHURUDEEN A,F201,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Bahurudeen A,F201,M,10,,
-1230,CE F416,COMP APPL IN CIVIL ENGG,2,2,4,1,ARKAMITRA KAR,F201,M W,3,12/03 - 4.00 - 5.30PM,09/05 AN
-,,Practical,,,,,Arkamitra Kar,LAB,T Th,7 8,,
-1236,CE F423,"GREEN BUILD & ENER
-CONSE",3,-,3,1,MURARI R R VARMA,G204,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-1218,CE F425,"AIRPORT RAIL &
-WATERWAYS",3,-,3,1,V VINAYAKA RAM,F201,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-230,CE G514,"STRUCTURAL
-OPTIMIZATION",3,1,4,1,A VASAN,F201,M W F,4,12/03 - 9.30 - 11.00AM,08/05 FN
-256,CE G518,"PAVEMENT ANALYSIS &
-DES",3,1,4,1,V VINAYAKA RAM,F201,T Th,3,11/03 - 11.00 - 12.30PM,06/05 AN
-,,,,,,,V Vinayaka Ram,F202,Th,10,,
-,,Practical,,,,,V Vinayaka Ram,LAB,T,8 9,,
-2338,CE G566,PUBLIC TRANSPORTATION,3,1,4,1,"PRASANTA KUMAR
-SAHU",F202,T Th,5,12/03 - 9.30 - 11.00AM,08/05 FN
-,,,,,,,Prasanta Kumar Sahu,F202,W,10,,
-,,Practical,,,,,Prasanta Kumar Sahu,LAB,F,8 9,,
-2342,CE G570,"HIGHWAY CONSTRUCTION
-TECHNOLOG",3,1,4,1,AKSHAY GUNDLA,F202,M W F,3,13/03 - 4.00 - 5.30PM,10/05 FN
+,,,,,,,Raghu Piska,,,,,
+1075,CE F213,SURVEYING,3,1,4,1,K RAJITHA,F109,M W F,2,06/12,AN
+,,Practical,,,,1,Krishnendu Sivadas,D110,M,4 5,,
+,,,,,,,K Rajitha,,,,,
+,,,,,,2,Nagalapalli Satish,D110,W,4 5,,
+,,,,,,,K Rajitha,,,,,
+,,Tutorial,,,,,K Rajitha,F109,Th,1,,
+2279,CE F230,CIVIL ENGINEERING MATERIALS,3,1,4,1,V VINAYAKA RAM,F109,T Th,2,16/12,FN
+,,,,,,,V Vinayaka Ram,F109,W,7,,
+,,Practical,,,,1,V Vinayaka Ram,D127,F,4 5,,
+,,,,,,,Md Ikramullah Khan,,,,,
+,,,,,,2,V Vinayaka Ram,D127,M,8 9,,
+,,,,,,,Sk Abdul Kaium,,,,,
+,,Tutorial,,,,,V Vinayaka Ram,F109,T,9,,
+2280,CE F231,FLUID MECHANICS,3,-,3,1,K SRINIVASA RAJU,F109,T W F,8,04/12,AN
+,,Tutorial,,,,,K Srinivasa Raju,F109,Th,9,,
+1652,CE F266,STUDY PROJECT,-,-,3,1,BANDHAN BANDHU MAJUMDAR,,,,,
+1196,CE F312,HYDRAULIC ENGINEERING,3,1,4,1,ANMALA JAGADEESH,F109,M W F,4,04/12,FN
+,,Practical,,,,1,Deepjyoti Deb,E122,Th,4 5,,
+,,,,,,2,Jenisha Ma,E122,T,4 5,,
+,,Tutorial,,,,,Anmala Jagadeesh,F109,M,1,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+1197,CE F313,FOUNDATION ENGINEERING,3,-,3,1,AMMAVAJJULA SESHA SAI,F109,T Th,10,02/12,AN
+,,,,,,,RAmAGmHaUvaRjjAulMa Sesha Sai Raghuram,F109,F,7,,
+,,Tutorial,,,,,Ammavajjula Sesha Sai Raghuram,F109,W,1,,
+2281,CE F320,DESIGN OF REINFORCED CONCRETE,3,-,3,1,ARKAMITRA KAR,F109,M W F,5,07/12,AN
+,,Tutorial,,,,,Arkamitra Kar,F109,F,1,,
+,,,,,,,Poojitha G,,,,,
+1215,CE F323,INTRO TO ENVIRN ENGG,3,-,3,1,MURARI R R VARMA,F201,M W F,3,11/12,FN
+1667,CE F366,LABORATORY PROJECT,-,-,3,1,V VINAYAKA RAM,,,,,
+1737,CE F367,LABORATORY PROJECT,-,-,3,1,V VINAYAKA RAM,,,,,
+1686,CE F376,DESIGN PROJECT,-,-,3,1,K RAJITHA,,,,,
+1753,CE F377,DESIGN PROJECT,-,-,3,1,K RAJITHA,,,,,
+1231,CE F417,APP OF AI IN CIVIL ENGG,3,-,3,1,ANMALA JAGADEESH,F201,T Th,2,16/12,AN
+,,,,,,,Anmala Jagadeesh,F201,W,7,,
+1218,CE F425,AIRPORT RAIL & WATERWAYS,3,-,3,1,SRIDHAR RAJU,F201,T Th,3,13/12,AN
+,,,,,,,Sridhar Raju,F201,F,10,,
+1234,CE F435,INTRODUCTION TO FEM,3,-,3,1,PN RAO,F201,M W F,2,06/12,FN
+304,CE G534,PAVEMENT MATERIAL CHARAC,3,1,4,1,AKSHAY GUNDLA,F202,T Th,3,13/12,FN
+,,,,,,,Akshay Gundla,F202,M,7,,
 ,,Practical,,,,,Akshay Gundla,LAB,W,8 9,,
-2347,CE G575,"FREIGHT
-TRANSPORTATION",3,1,4,1,ISHANT SHARMA,F202,M W F,4,14/03 - 2.00 - 3.30PM,14/05 FN
+357,CE G538,PROJECT PLAN & MGMT,3,1,4,1,BAHURUDEEN A,F203,T Th,4,03/12,FN
+,,,,,,,Bahurudeen A,F203,F,10,,
+,,Practical,,,,,Bahurudeen A,D331A,T,9 10,,
+931,CE G545,AIRPORT PLANNING & DES,3,1,4,1,SRIDHAR RAJU,F202,M W F,4,07/12,AN
+,,Practical,,,,,Sridhar Raju,D224,W,8 9,,
+880,CE G551,DYNAMICS OF STRUCTURES,3,1,4,1,MOHAN S C,F201,M W F,4,13/12,AN
+,,Practical,,,,,Mohan S C,D123,W,8 9,,
+526,CE G552,ADV STR MECH & STABILITY,3,1,4,1,CHANDU PARIMI,F201,T Th,4,05/12,FN
+,,,,,,,Chandu Parimi,F201,M,7,,
+,,Practical,,,,,Chandu Parimi,D331A,T,7 8,,
+2199,CE G562,ADVANCED CONCRETE TECHNOLOGY,3,1,4,1,ARKAMITRA KAR,F202,T Th,4,07/12,FN
+,,,,,,,Arkamitra Kar,F202,M,9,,
+,,Practical,,,,,Arkamitra Kar,D331A,W,8 9,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+2337,CE G565,TRANSPORTATION PLANNING,3,1,4,1,PRASANTA KUMAR SAHU,F201,M W F,5,05/12,FN
+,,Practical,,,,,Prasanta Kumar Sahu,D224,Th,9 10,,
+2339,CE G567,HIGHWAY DESIGN,3,1,4,1,BANDHAN BANDHU MAJUMDAR,F202,T Th,2,07/12,AN
+,,,,,,,Bandhan Bandhu Majumdar,F202,W,7,,
+,,Practical,,,,,Bandhan Bandhu Majumdar,D224,T,8 9,,
+2340,CE G568,TRAFFIC SYSTEMS ANALYSIS,3,1,4,1,ISHANT SHARMA,F201,T Th,5,10/12,AN
+,,,,,,,Ishant Sharma,F201,W,10,,
 ,,Practical,,,,,Ishant Sharma,LAB,M,8 9,,
-688,CE G613,"ADV CONCRETE
-STRUCTURES",3,1,4,1,BAHURUDEEN A,F201,M W F,5,13/03 - 4.00 - 5.30PM,10/05 FN
-,,Practical,,,,,Bahurudeen A,LAB,T,8 9,,
-108,CE G615,"EARTHQUAKE
-ENGINEERING",3,1,4,1,MOHAN S C,F202,T Th,3,13/03 - 4.00 - 5.30PM,10/05 FN
-,,,,,,,Mohan S C,F202,F,10,,
-,,Practical,,,,,Mohan S C,LAB,W,8 9,,
-,,,,,,,Boyina Kalyan,,,,,
-346,CE G616,BRIDGE ENGINEERING,3,1,4,1,PN RAO,F202,T Th,2,14/03 - 2.00 - 3.30PM,14/05 FN
-,,,,,,,PN Rao,F201,Th,10,,
-,,Practical,,,,,PN Rao,LAB,F,8 9,,
-1180,CHE F241,HEAT TRANSFER,3,-,3,1,AFKHAM MIR,F205,M W F,2,15/03 - 9.30 - 11.00AM,16/05 FN
-,,Tutorial,,,,,Afkham Mir,F205,Th,1,,
-1181,CHE F242,"NUM METHOD FOR CHEM
-ENGG",3,-,3,1,"LAKSHMINARAYANAN
-SAM",F205,F,6 7,11/03 - 2.00 - 3.30PM,07/05 FN
-,,Tutorial,,,,,"Lakshminarayanan
-Samaved",F205,W,9 10,,
-1182,CHE F243,"MATERIAL SCIENCE &
-ENGINEERING",3,-,3,1,KARTHIK CHETAN,F205,T Th,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,,,,,,Karthik Chetan,F205,Th,10,,
-,,Tutorial,,,,,Karthik Chetan,F205,T,1,,
-1183,CHE F244,SEPARATION PROCESSES I,3,-,3,1,"SATYAPAUL SINGH
-AMART",F205,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,Tutorial,,,,,"Satyapaul Singh
-Amarthaluri",F205,T,9,,
-1653,CHE F266,STUDY PROJECT,-,-,3,1,ARNAB DUTTA,,,,,
-2615,CHE F315,"MACHINE LEARNING FOR
-CHE ENG",3,-,3,1,"LAKSHMINARAYANAN
-SAM",F201,T,10 11,12/03 - 9.30 - 11.00AM,08/05 FN
-,,,,,,,"Lakshminarayanan
-Samaved",F201,Th,11,,
-1188,CHE F341,CHEMICAL ENGG LAB II,-,3,3,1,"BALAJI
-KRISHNAMURTHY",LAB,M W,6 7 8,,
+2341,CE G569,TRANSPORTATION ECONOMICS,3,1,4,1,ISHANT SHARMA,F202,M W F,3,09/12,FN
+,,Practical,,,,,Ishant Sharma,LAB,F,7 8,,
+2343,CE G571,ROAD ASSET MANAGEMENT,3,1,4,1,AKSHAY GUNDLA,F202,M W F,2,05/12,FN
+,,Practical,,,,,Akshay Gundla,LAB,Th,8 9,,
+2344,CE G572,TRANSPORTATION DATA ANALYTICS,3,1,4,1,PRASANTA KUMAR SAHU,F203,T Th,3,11/12,FN
+,,,,,,,Prasanta Kumar Sahu,F203,W,10,,
+,,Practical,,,,,Prasanta Kumar Sahu,D224,M,8 9,,
+345,CE G612,ADVANCED STEEL STRUCTURE,3,1,4,1,MOHAN S C,F202,T Th,5,05/12,FN
+,,,,,,,Mohan S C,F202,M,10,,
+,,Practical,,,,,Boyina Kalyan,D331A,F,8 9,,
+613,CE G614,PRESTRESS CONCRETE STRUC,3,1,4,1,BAHURUDEEN A,F203,M W F,4,09/12,AN
+,,Practical,,,,,Bahurudeen A,LAB,Th,8 9,,
+343,CE G617,ADVANCE STRUC ANALYSIS,3,1,4,1,PN RAO,F203,T Th,5,07/12,AN
+,,,,,,,PN Rao,F203,F,7,,
+,,Practical,,,,,PN Rao,D331A,Th,8 9,,
+326,CE G619,FINITE ELEMENT ANALYSIS,3,2,5,1,RAGHU PISKA,F204,T Th,3,10/12,AN
+,,,,,,,Raghu Piska,F204,M,7,,
+,,Practical,,,,,Raghu Piska,D224,F,8 9,,
+87,CE G620,ADVANCE FOUNDATION ENGG,3,1,4,1,ANASUA GUHARAY,F203,M W F,5,03/12,FN
+,,Practical,,,,,Anasua Guharay,D208 C,M,8 9,,
+1069,CHE F211,CHEMICAL PROCESS CALCULA,3,-,3,1,BALAJI KRISHNAMURTHY,F205,M W F,2,06/12,AN
+,,Tutorial,,,,,Balaji Krishnamurthy,F205,T,9,,
+1072,CHE F212,FLUID MECHANICS,3,-,3,1,VIKRANT KUMAR S,F205,M W F,3,11/12,AN
+,,Tutorial,,,,,Vikrant Kumar S,D208 A,Th,1,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+1071,CHE F213,CHEM ENGG THERMODYNAMICS,3,-,3,1,RAMENDRA KISHOR PAL,F205,T Th,2,16/12,FN
+,,,,,,,Ramendra Kishor Pal,F205,W,7,,
+,,Tutorial,,,,,Ramendra Kishor Pal,F204,F,6,,
+1070,CHE F214,ENGINEERING CHEMISTRY,3,-,3,1,KARTHIK CHETAN,F205,T W F,8,04/12,AN
+,,Tutorial,,,,,Karthik Chetan,F205,Th,9,,
+1653,CHE F266,STUDY PROJECT,-,-,3,1,IYMAN ABRAR,,,,,
+1184,CHE F311,KINETICS & REACTOR DESIGN,3,-,3,1,D PURNIMA,F205,M W F,4,04/12,FN
+,,Tutorial,,,,,D Purnima,F205,F,1,,
+1185,CHE F312,CHEMICAL ENGG LAB I,-,3,3,1,I SREEDHAR,WS,M W,8 9 10,,
+,,,,,,,C Jhansi,,,,,
 ,,,,,,,Chitturi Huldah Suharika,,,,,
-,,,,,,,Jashaswinee Swain,,,,,
-,,,,,,,Vikrant Kumar S,,,,,
-1189,CHE F342,PROCESS DYN & CONTROL,3,-,3,1,VIKRANT KUMAR S,F205,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,Vikrant Kumar S,F203,W,10,,
-,,Tutorial,,,,,Dasika Prabhat Sourya,F205,W,1,,
-1190,CHE F343,PROCESS DES PRINCIPLE II,3,-,3,1,ARNAB DUTTA,F205,M W F,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,Tutorial,,,,,Arnab Dutta,F205,M,1,,
-,,,,,,,Malayanur Srilekha,,,,,
-1668,CHE F366,LABORATORY PROJECT,-,-,3,1,ARNAB DUTTA,,,,,
-1738,CHE F367,LABORATORY PROJECT,-,-,3,1,ARNAB DUTTA,,,,,
-1687,CHE F376,DESIGN PROJECT,-,-,3,1,ARNAB DUTTA,,,,,
-1754,CHE F377,DESIGN PROJECT,-,-,3,1,ARNAB DUTTA,,,,,
-1206,CHE F411,"ENVIR POLLUTION
-CONTROL",3,-,3,1,JAIDEEP CHATTERJEE,F204,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-1202,CHE F433,CORROSION ENGINEERING,3,-,3,1,RAMESH BABU A,F204,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-2146,CHE G552,"ADV TRANSPORT
-PHENOMENA",-,-,5,1,NANDINI BHANDARU,F204,M W F,4,11/03 - 11.00 - 12.30PM,06/05 AN
-2150,CHE G556,"ELECTROCHEMICAL
-ENGINERING",3,1,4,1,RAMENDRA KISHOR PAL,F204,T Th,2,14/03 - 2.00 - 3.30PM,14/05 FN
-,,,,,,,Ramendra Kishor Pal,F204,M,10,,
-,,Practical,,,,,Ramendra Kishor Pal,LAB,Th,7 8,,
+,,,,,,2,D Purnima,WS,M W,8 9 10,,
 ,,,,,,,Dubbaka Vidya,,,,,
-729,CHE G641,REACTION ENGINEERING,3,2,5,1,I SREEDHAR,F204,T Th,3,12/03 - 9.30 - 11.00AM,08/05 FN
-,,,,,,,I Sreedhar,F204,F,10,,
-,,Practical,,,,,I Sreedhar,LAB,T,7 8 9,,
-,,,,,,,Sadamanti Sireesha,,,,,
-1006,CHEM F110,CHEMISTRY LABORATORY,-,2,1,1,NILANJAN DEY,B124,M,3 4,09/03 - 3.30 - 5.00PM,04/05 FN
-,,,,,,,Rikitha Sharyl Fernandes,,,,,
-,,,,,,,Sourav mondal,,,,,
-,,,,,,2,Sourav Bag,B124,Th,3 4,,
-,,,,,,,Adarash Kumar Shukla,,,,,
-,,,,,,,Akshita Jain,,,,,
-,,,,,,3,Chanchal Chakraborty,B124,F,9 10,,
-,,,,,,,Anup kumar pradhan,,,,,
-,,,,,,,Sayan Halder,,,,,
-,,,,,,4,K Sumithra,B124,Th,5 6,,
-,,,,,,,Shivani Tripathi,,,,,
-,,,,,,,Soumen Khan,,,,,
-,,,,,,5,Sounak Roy,B124,F,6 7,,
-,,,,,,,Aathira B,,,,,
-,,,,,,,Saraswati Roy,,,,,
-,,,,,,6,Tanmay Chatterjee,B124,M,6 7,,
-,,,,,,,"Appanapalli
-nagavenkatasat",,,,,
-,,,,,,,Paramita Pattanayak,,,,,
-,,,,,,7,R Krishnan,B124,T,5 6,,
-,,,,,,,Ankita Singh,,,,,
-,,,,,,,Savita,,,,,
-,,,,,,8,KVG Chandrasekhar,B124,T,3 4,,
-,,,,,,,Kosana Sai Chaitanya,,,,,
-,,,,,,,"Talamadla mahesh kumar
-go",,,,,
-,,,,,,9,Ramakrishnan G,B124,F,3 4,,
-,,,,,,,Mariya Midhu Francis,,,,,
-,,,,,,,Ronak Lazarus,,,,,
-,,,,,,10,J Subbalakshmi,B124,W,6 7,,
-,,,,,,,"Anuradha Sureshrao
-Mohitka",,,,,
-,,,,,,,T Leelasree,,,,,
-,,,,,,11,Durba Roy,B124,W,3 4,,
-,,,,,,,Dinesh Kumar J,,,,,
-,,,,,,,Jayapriya V,,,,,
-1007,CHEM F111,GENERAL CHEMISTRY,3,-,3,1,Amit Nag,F102,T Th,2,14/03 - 11.00 - 12.30PM,13/05 AN
-,,,,,,,Amit Nag,F102,T,10,,
-,,,,,,,Manab Chakravarty,,,,,
-,,,,,,2,Balaji Gopalan,F103,T Th,2,,
-,,,,,,,Himanshu Aggarwal,,,,,
-,,,,,,,Balaji Gopalan,F103,T,10,,
-,,Tutorial,,,,1,Amit Nag,G101,M W,1,,
-,,,,,,2,Manab Chakravarty,G102,M W,1,,
-,,,,,,3,Balaji Gopalan,G103,M W,1,,
-,,,,,,4,Himanshu Aggarwal,G104,M W,1,,
-,,,,,,5,Sourav Bag,G105,M W,1,,
-,,,,,,6,Chanchal Chakraborty,G106,M W,1,,
-,,,,,,7,KVG Chandrasekhar,G107,M W,1,,
-,,,,,,8,N Rajesh,G108,M W,1,,
-,,,,,,9,Subit Kumar Saha,G201,M,1,,
-,,,,,,,Subit Kumar Saha,G201,F,5,,
-1569,CHEM F223,COLLOID & SURFACE CHEM,3,-,3,1,RAMAKRISHNAN G,G101,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,Ramakrishnan G,G101,Th,10,,
-1554,CHEM F241,INORGANIC CHEMISTRY II,3,-,3,1,HIMANSHU AGGARWAL,G101,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,,,,,,Sounak Roy,,,,,
-,,Tutorial,,,,,Himanshu Aggarwal,G101,T,6,,
-,,,,,,,Sounak Roy,,,,,
-1555,CHEM F242,CHEMICAL EXPER I,-,3,3,1,ARIJIT MUKHERJEE,B124,T Th,7 8 9,,
-,,,,,,,Akhil Chandran P,,,,,
-,,,,,,,Anamika Bandyopadhyay,,,,,
+,,,,,,,Y lavanya,,,,,
+1186,CHE F313,SEPARATION PROCESSES II,3,-,3,1,IYMAN ABRAR,F205,T Th,10,02/12,AN
+,,,,,,,Arshad Ali,,,,,
+,,,,,,,Iyman Abrar,F205,F,7,,
+,,Tutorial,,,,,Iyman Abrar,F205,M,1,,
+1187,CHE F314,PROCESS DES PRINCIPLES I,3,-,3,1,ARNAB DUTTA,F205,M W F,5,07/12,AN
+,,,,,,,Hrithika g,,,,,
+,,Tutorial,,,,,Arnab Dutta,F205,W,1,,
+1668,CHE F366,LABORATORY PROJECT,-,-,3,1,IYMAN ABRAR,,,,,
+1738,CHE F367,LABORATORY PROJECT,-,-,3,1,IYMAN ABRAR,,,,,
+1687,CHE F376,DESIGN PROJECT,-,-,3,1,IYMAN ABRAR,,,,,
+1754,CHE F377,DESIGN PROJECT,-,-,3,1,IYMAN ABRAR,,,,,
+1201,CHE F414,TRANSPORT PHENOMENA,3,-,3,1,DEBIRUPA MITRA,F204,M W F,3,11/12,FN
+2263,CHE F498,COLLOIDS AND INTERFACE ENG,3,-,3,1,NANDINI BHANDARU,F204,M W F,2,06/12,FN
+270,CHE G512,PETRO REFINING & PETROCHEM,3,1,4,1,SRIKANTA DINDA,F204,T Th,2,16/12,AN
+,,,,,,,Nalabala Madhavaiah,,,,,
+,,,,,,,Srikanta Dinda,F204,W,7,,
+,,Practical,,,,,Nalabala Madhavaiah,LAB,F,8 9,,
+2002,CHE G523,MATHEMATICAL METHODS IN,3,2,5,1,VIKRANT KUMAR S,F205,T Th,3,13/12,FN
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Vikrant Kumar S,F205,F,10,,
+,,Practical,,,,,Vikrant Kumar S,D208 C,T,7 8 9,,
+,,,,,,,Dasika Prabhat Sourya,,,,,
+2084,CHE G528,INTRO TO NANO SCI & TECH,3,1,4,1,SATYAPAUL SINGH AMARTHALURI,F203,M W F,2,06/12,FN
+,,,,,,,Sai Krishna Reddy Velagala,,,,,
+,,,,,,,Sri himaja pamu,,,,,
+,,Practical,,,,,Satyapaul Singh Amarthaluri,LAB,Th,8 9,,
+,,,,,,,Sai Krishna Reddy Velagala,,,,,
+,,,,,,,Sri himaja pamu,,,,,
+2032,CHE G622,ADV CHEMICAL ENGG THERMO,3,2,5,1,AFKHAM MIR,F204,M W F,4,04/12,FN
+,,Practical,,,,,Afkham Mir,D331,M W,8 9,,
+1006,CHEM F110,CHEMISTRY LABORATORY,-,2,1,1,SATYA NARAYAN GUIN,B124,W,2 3,14/12,FN
+,,,,,,,Anil Kumar B M,,,,,
+,,,,,,,Rittika Dhar,,,,,
+,,,,,,2,Sourav Bag,B124,M,8 9,,
+,,,,,,,Arya a,,,,,
+,,,,,,,Sivasakthi P,,,,,
+,,,,,,3,Abhishek Saha,B124,M,2 3,,
+,,,,,,,Moharir Shreyash Rajendra,,,,,
+,,,,,,,Shreya Sarker,,,,,
+,,,,,,4,Abhishek Saha,B124,F,2 3,,
+,,,,,,,Chaudhari Hrushikesh Shesharao,,,,,
+,,,,,,,Vibhawari Pundir,,,,,
+,,,,,,5,Subit Kumar Saha,B124,W,8 9,,
+,,,,,,,Dyagala Shalini,,,,,
+,,,,,,,Wadkar Ajit Ganpatrao,,,,,
+,,,,,,6,Arijit Mukherjee,B124,M,4 5,,
 ,,,,,,,Bandana Sar,,,,,
 ,,,,,,,Mollah Rohan Ahsan,,,,,
-,,,,,,,Nilanjan Dey,,,,,
-1556,CHEM F243,ORGANIC CHEMISTRY II,3,-,3,1,"ANUPAM
-BHATTACHARYA",G101,M F,9,15/03 - 9.30 - 11.00AM,16/05 FN
-,,,,,,,Manab Chakravarty,,,,,
-,,,,,,,Anupam Bhattacharya,G101,W,6,,
-,,Tutorial,,,,,Anupam Bhattacharya,G101,Th,1,,
-,,,,,,,Manab Chakravarty,,,,,
-1557,CHEM F244,PHYSICAL CHEMISTRY III,3,-,3,1,K SUMITHRA,G101,M W F,2,11/03 - 2.00 - 3.30PM,07/05 FN
-,,Tutorial,,,,,K Sumithra,G101,T,1,,
-1654,CHEM F266,STUDY PROJECT,-,-,3,1,"CHANCHAL
-CHAKRABORT",,,,,
-1580,CHEM F329,ANALYTICAL CHEMISTRY,3,1,4,1,N RAJESH,G101,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,N Rajesh,G101,F,10,,
-,,Practical,,,,,N Rajesh,LAB,T,10 11,,
-,,,,,,,Christina Nilavu,,,,,
-1561,CHEM F341,CHEMICAL EXPER II,-,4,4,1,BALAJI GOPALAN,B126,M W,6 7 8,,
-,,,,,,,Anil Kumar B M,,,,,
-,,,,,,,Dyagala Shalini,,,,,
-,,,,,,,Govu Radha,,,,,
+,,,,,,7,Nilanjan Dey,B124,W,4 5,,
+,,,,,,,Harshal Vasant Barkale,,,,,
+,,,,,,,Rikitha Sharyl Fernandes,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,8,Sourav Bag,B124,F,8 9,,
+,,,,,,,Arpan Ghosh,,,,,
+,,,,,,,Krishna Priyanka K,,,,,
+,,,,,,9,Suryoday Pradhan,B124,Th,9 10,,
+,,,,,,,Ankur Chanda,,,,,
+,,,,,,,Divya Mohan,,,,,
+,,,,,,10,Tanmay Chatterjee,B124,T,9 10,,
+,,,,,,,Bonagiri Nikhil,,,,,
+,,,,,,,Sweta Agarwala,,,,,
+,,,,,,11,Himanshu Aggarwal,B124,F,4 5,,
+,,,,,,,Arindam Nandy,,,,,
 ,,,,,,,Neha K Nambiar,,,,,
-,,,,,,,Satya Narayan Guin,,,,,
-1562,CHEM F342,ORGANIC CHEMISTRY IV,3,-,3,1,TANMAY CHATTERJEE,G101,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
+1007,CHEM F111,GENERAL CHEMISTRY,3,-,3,1,K SUMITHRA,F104,T Th,1,05/12,FN
 ,,,,,,,Anupam Bhattacharya,,,,,
-,,,,,,,Tanmay Chatterjee,G101,W,10,,
+,,,,,,,K Sumithra,F104,M,7,,
 ,,,,,,,Anupam Bhattacharya,,,,,
-,,Tutorial,,,,,Tanmay Chatterjee,G101,T,8,,
-,,,,,,,Anupam Bhattacharya,,,,,
-1563,CHEM F343,INORGANIC CHEMISTRY III,3,-,3,1,R KRISHNAN,G101,M W F,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,Tutorial,,,,,R Krishnan,G101,Th,8,,
-1669,CHEM F366,LABORATORY PROJECT,-,-,3,1,"CHANCHAL
-CHAKRABORT",,,,,
-1739,CHEM F367,LABORATORY PROJECT,-,-,3,1,"CHANCHAL
-CHAKRABORT",,,,,
-1688,CHEM F376,DESIGN PROJECT,-,-,3,1,ARIJIT MUKHERJEE,,,,,
-1755,CHEM F377,DESIGN PROJECT,-,-,3,1,ARIJIT MUKHERJEE,,,,,
-1573,CHEM F412,"PHOTOCHEM & LASER
-SPECTR",3,-,3,1,SUBIT KUMAR SAHA,G102,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-,,,,,,,Durba Roy,,,,,
-1578,CHEM F414,BIO & CHEMICAL SENSORS,3,-,3,1,J SUBBALAKSHMI,G102,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-736,CHEM G551,ADV ORGANIC CHEMISTRY,-,-,5,1,KVG CHANDRASEKHAR,G102,M W F,4,12/03 - 9.30 - 11.00AM,08/05 FN
+,,,,,,2,J Subbalakshmi,F105,T Th,4,,
 ,,,,,,,Tanmay Chatterjee,,,,,
-7,CHEM G552,"ADVANCED INORGANIC
-CHEMISTRY",-,-,5,1,SATYA NARAYAN GUIN,G102,T Th,3,13/03 - 4.00 - 5.30PM,10/05 FN
-,,,,,,,Satya Narayan Guin,G102,F,10,,
-1008,CS F111,"COMPUTER
-PROGRAMMING",3,1,4,1,NIKUMANI CHOUDHURY,F105,T Th,9,15/03 - 2.00 - 3.30PM,17/05 FN
-,,,,,,,Nikumani Choudhury,F105,M,10,,
-,,,,,,2,Apurba Das,F104,T Th,9,,
-,,,,,,,Apurba Das,F104,M,10,,
-,,Practical,,,,1,"Aneesh Sreevallabh
-Chivuku",D311,T,4 5,,
-,,,,,,,S Rasagna Vakkalanka,,,,,
-,,,,,,2,"Aneesh Sreevallabh
-Chivuku",I015,Th,4 5,,
-,,,,,,,S Rasagna Vakkalanka,,,,,
-,,,,,,3,Jay Kamlesh Dave,I015,M,3 4,,
-,,,,,,,"Praneeta Krishnaprasad
-Ma",,,,,
-,,,,,,4,Jay Kamlesh Dave,I015,W,3 4,,
-,,,,,,,"Praneeta Krishnaprasad
-Ma",,,,,
-,,,,,,5,Chittaranjan Hota,D311,M,6 7,,
-,,,,,,,Chavali Lalitha,,,,,
-,,,,,,6,Chittaranjan Hota,I015,W,5 6,,
-,,,,,,,Chavali Lalitha,,,,,
-,,,,,,7,Apurba Das,I015,F,3 4,,
+,,,,,,,J Subbalakshmi,F105,M,10,,
+,,,,,,,Tanmay Chatterjee,,,,,
+,,Tutorial,,,,1,K Sumithra,G204,Th,7,,
+,,,,,,2,J Subbalakshmi,G205,Th,7,,
+,,,,,,3,Anupam Bhattacharya,G206,Th,7,,
+,,,,,,4,Tanmay Chatterjee,G207,Th,7,,
+,,,,,,5,Ramakrishnan G,G208,Th,7,,
+,,,,,,6,Abhishek Saha,F201,Th,7,,
+,,,,,,7,Satya Narayan Guin,F202,Th,7,,
+,,,,,,8,Suryoday Pradhan,F203,Th,7,,
+,,,,,,9,Chanchal Chakraborty,F204,Th,7,,
+,,,,,,10,TO BE ANNOUNCED,F205,Th,7,,
+1116,CHEM F211,PHYSICAL CHEMISTRY I,3,-,3,1,DURBA ROY,G104,M W F,4,13/12,AN
+,,Tutorial,,,,,Durba Roy,G104,T,1,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+1117,CHEM F212,ORGANIC CHEMISTRY I,3,-,3,1,MANAB CHAKRAVARTY,G104,M W F,2,06/12,AN
+,,,,,,,Anupam Bhattacharya,,,,,
+,,Tutorial,,,,,Manab Chakravarty,G104,F,7,,
+,,,,,,,Anupam Bhattacharya,,,,,
+1118,CHEM F213,PHYSICAL CHEMISTRY II,3,-,3,1,PRALOK KUMAR SAMANTA,G104,T W F,8,04/12,AN
+,,Tutorial,,,,,Pralok Kumar Samanta,G104,Th,9,,
+1119,CHEM F214,INORGANIC CHEMISTRY I,3,-,3,1,N RAJESH,G104,T Th,2,16/12,FN
+,,,,,,,N Rajesh,G104,W,7,,
+,,Tutorial,,,,,N Rajesh,G104,T,9,,
+1654,CHEM F266,STUDY PROJECT,-,-,3,1,BALAJI GOPALAN,,,,,
+1559,CHEM F311,ORGANIC CHEMISTRY III,3,-,3,1,KVG CHANDRASEKHAR,G104,T Th,3,13/12,FN
+,,,,,,,KVG Chandrasekhar,G104,F,10,,
+,,Tutorial,,,,,KVG Chandrasekhar,G104,Th,10,,
+1560,CHEM F312,PHYSICAL CHEMISTRY IV,3,-,3,1,BALAJI GOPALAN,G104,M W F,1,10/12,AN
+,,Tutorial,,,,,Balaji Gopalan,G104,T,7,,
+1558,CHEM F313,INSTRU METHODS OF ANAL,3,1,4,1,AMIT NAG,G104,W F,9,02/12,FN
+,,,,,,,R Krishnan,,,,,
+,,,,,,,Amit Nag,G104,Th,8,,
+,,,,,,,R Krishnan,,,,,
+,,Practical,,,,,Amit Nag,LAB,M,7 8 9,,
+,,,,,,,Animesh Pal,,,,,
+,,,,,,,Appanapalli,,,,,
+,,,,,,,nHaibgaakvheandkeaetajas.aMth.Pyanarayana,,,,,
+,,,,,,,Himanshu Aggarwal,,,,,
+,,,,,,,Md Asad Tanvir,,,,,
+,,,,,,,R Krishnan,,,,,
+,,,,,,,Ramakrishnan G,,,,,
+,,,,,,,Sankho Subhra Samanta,,,,,
+,,,,,,,Satya Narayan Guin,,,,,
+,,,,,,,Sayan Halder,,,,,
+,,,,,,,Suchashrita Mitra,,,,,
+,,,,,,,Supriya Swain,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+1572,CHEM F325,POLYMER CHEMISTRY,3,-,3,1,CHANCHAL CHAKRABORTY,G105,M W F,2,06/12,FN
+,,,,,,,Subit Kumar Saha,,,,,
+1575,CHEM F326,SOLID STATE CHEMISTRY,3,-,3,1,SOUNAK ROY,G105,M W F,3,11/12,FN
+1577,CHEM F327,ELECTROCHEM FUNDA & APPL,3,-,3,1,SOURAV BAG,I211,T Th,2,16/12,AN
+,,,,,,,Vijay Sethuraman,,,,,
+,,,,,,,Sourav Bag,I211,W,7,,
+,,,,,,,Vijay Sethuraman,,,,,
+1669,CHEM F366,LABORATORY PROJECT,-,-,3,1,ARIJIT MUKHERJEE,,,,,
+1739,CHEM F367,LABORATORY PROJECT,-,-,3,1,ARIJIT MUKHERJEE,,,,,
+1688,CHEM F376,DESIGN PROJECT,-,-,3,1,DURBA ROY,,,,,
+1755,CHEM F377,DESIGN PROJECT,-,-,3,1,DURBA ROY,,,,,
+2564,CHEM F416,APPLIED CRYSTALLOGRAPHY,3,-,3,1,ARIJIT MUKHERJEE,G105,T Th,3,13/12,AN
+,,,,,,,Arijit Mukherjee,G105,F,10,,
+937,CHEM G553,ADVANCED PHYSICAL CHEMISTRY,-,-,5,1,SUBIT KUMAR SAHA,G204,M W F,4,04/12,FN
+,,,,,,,Sourav Bag,,,,,
+242,CHEM G554,PHY METHODS IN CHEMISTRY,-,-,5,1,HIMANSHU AGGARWAL,G105,T Th,5,07/12,AN
+,,,,,,,Manab Chakravarty,,,,,
+,,,,,,,Himanshu Aggarwal,G105,W,7,,
+,,,,,,,Manab Chakravarty,,,,,
+1008,CS F111,COMPUTER PROGRAMMING,3,1,4,1,SUBHRAKANTA PANDA,F102,T Th,1,05/12,FN
+,,,,,,,Subhrakanta Panda,F102,M,7,,
+,,,,,,2,Raghunath Reddy M,F103,T Th,1,,
+,,,,,,,Raghunath Reddy M,F103,M,7,,
+,,Practical,,,,1,Aneesh Sreevallabh Chivukula,D311,M,2 3,,
+,,,,,,,Sagarika Jana,,,,,
+,,,,,,2,Aneesh Sreevallabh Chivukula,D311,W,2 3,,
+,,,,,,,Sagarika Jana,,,,,
+,,,,,,3,Jay Kamlesh Dave,D311,F,8 9,,
 ,,,,,,,Mekala Kiran,,,,,
-,,,,,,8,TO BE ANNOUNCED,D311,M,3 4,,
+,,,,,,4,Jay Kamlesh Dave,D311,M,4 5,,
 ,,,,,,,Mekala Kiran,,,,,
-1094,CS F211,"DATA STRUCTURES &
-ALGO",3,1,4,1,"RAMASWAMY
-VENKATAKR",F102,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,Practical,,,,1,Paresh Saxena,D313,T,6 7,,
-,,,,,,,S Shashank,,,,,
-,,,,,,2,Paresh Saxena,D311,F,6 7,,
-,,,,,,,S Shashank,,,,,
-,,,,,,3,Paresh Saxena,D313,,2 3,,
+,,,,,,5,Akanksha Rathore,D311,F,4 5,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
 ,,,,,,,Attarde Pranjali Devidas,,,,,
-,,,,,,4,Paresh Saxena,D311,Th,6 7,,
+,,,,,,6,Akanksha Rathore,D311,W,4 5,,
 ,,,,,,,Attarde Pranjali Devidas,,,,,
-,,Tutorial,,,,1,NL Bhanumurthy,G105,T,1,,
-,,,,,,2,NL Bhanumurthy,G105,Th,1,,
-,,,,,,3,Barsha Mitra,G106,Th,1,,
-1095,CS F212,DATA BASE SYSTEMS,3,1,4,1,JABEZ J CHRISTOPHER,F102,T Th,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,,,,,,Jabez J Christopher,F102,Th,10,,
-,,Practical,,,,1,Subhrakanta Panda,I015,M,6 7,,
-,,,,,,,Nida Fatima,,,,,
-,,,,,,2,Subhrakanta Panda,D313,W,6 7,,
-,,,,,,,Nida Fatima,,,,,
-,,,,,,3,R Gururaj,D313,Th,2 3,,
-,,,,,,,P. Priyanka Chowdary,,,,,
-,,,,,,4,R Gururaj,D311,T,6 7,,
-,,,,,,,P. Priyanka Chowdary,,,,,
-,,Tutorial,,,,1,R Gururaj,G107,T,1,,
-,,,,,,2,Jabez J Christopher,I222,M,1,,
-,,,,,,3,Jabez J Christopher,G106,T,1,,
-1092,CS F213,OBJECT ORIENTED PROG,3,1,4,1,"DIPANJAN
-CHAKRABORTY",F102,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-,,Practical,,,,1,Abhijit Das,D312,M,7 8,,
-,,,,,,,Chaitra C R,,,,,
-,,,,,,2,Abhijit Das,D312,W,7 8,,
-,,,,,,,Chaitra C R,,,,,
-,,,,,,3,Aritra Mukherjee,D313,T,8 9,,
-,,,,,,,Chillara Anil Kumar,,,,,
-,,,,,,4,Aritra Mukherjee,D313,Th,8 9,,
-,,,,,,,Chillara Anil Kumar,,,,,
-1313,CS F241,"MICROPROC &
-INTERFACING",3,1,4,1,SUBHRADEEP PAL,F102,M W F,2,11/03 - 2.00 - 3.30PM,07/05 FN
-,,,,,,2,Anakhi Hazarika,G208,M W F,2,,
-,,,,,,3,S Gurunarayanan,F105,M W F,2,,
-,,Practical,,,,1,Runa Kumari,I012,T,2 3,,
-,,,,,,,Kandi Mounika,,,,,
+,,,,,,7,Paresh Saxena,D311,F,2 3,,
+,,,,,,8,Paresh Saxena,D311,T,9 10,,
+,,,,,,9,TO BE ANNOUNCED,D311,Th,9 10,,
+,,,,,,,Priya baju,,,,,
+,,,,,,10,TO BE ANNOUNCED,D311,W,7 8,,
+,,,,,,,Priya baju,,,,,
+1095,CS F212,DATA BASE SYSTEMS,3,1,4,1,JABEZ J CHRISTOPHER,F103,T Th,2,16/12,AN
+,,,,,,,Jabez J Christopher,F103,W,7,,
+,,Practical,,,,1,Subhrakanta Panda,D312,W,8 9,,
 ,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,2,Sourav Nandi,I013,T,2 3,,
-,,,,,,,Sanjana Mathew,,,,,
+,,,,,,2,Subhrakanta Panda,D313,Th,4 5,,
 ,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,3,Subhradeep Pal,I013,F,6 7,,
-,,,,,,,Thalla Narasimha Swetha,,,,,
-,,,,,,,Keerthi C J,,,,,
-,,,,,,4,Anakhi Hazarika,I012,W,6 7,,
-,,,,,,,Thalla Narasimha Swetha,,,,,
-,,,,,,,Yuvraj Maphrio Mao,,,,,
-,,,,,,5,Ravikiran Yeleswarapu,I012,F,6 7,,
-,,,,,,,Abbidi Shivani Reddy,,,,,
-,,,,,,,Yuvraj Maphrio Mao,,,,,
-,,,,,,6,Ravikiran Yeleswarapu,I012,M,6 7,,
-,,,,,,,Abbidi Shivani Reddy,,,,,
-,,,,,,,Parvathy nair,,,,,
-,,,,,,7,Ravikiran Yeleswarapu,I013,Th,6 7,,
-,,,,,,,Krishnapriya G B,,,,,
-,,,,,,,Parvathy nair,,,,,
-,,,,,,8,TO BE ANNOUNCED,I013,Th,2 3,,
-,,,,,,,Ch Suresh Kumar,,,,,
-,,,,,,,Krishnapriya G B,,,,,
-,,,,,,9,Ramya K,I012,Th,2 3,,
-,,,,,,,"Balasubramanian
-Malayappa",,,,,
-,,,,,,,Gowtham Polumati,,,,,
-,,,,,,10,"Sree Rama Amrutha
-Lahari",I013,W,6 7,,
-,,,,,,,Gowtham Polumati,,,,,
-,,,,,,,Kurakula Anudeep,,,,,
-,,,,,,11,Keerthi C J,I012,Th,6 7,,
-,,,,,,,imran khan,,,,,
-,,,,,,,Kandi Mounika,,,,,
-,,,,,,12,Ramya K,I013,M,5 6,,
-,,,,,,,Isha Basumatary,,,,,
-,,,,,,,Ritesh Kumar Singh,,,,,
-,,,,,,13,"Sree Rama Amrutha
-Lahari",I012,T,6 7,,
-,,,,,,,Isha Basumatary,,,,,
-,,,,,,,Ritesh Kumar Singh,,,,,
-,,,,,,14,Kurakula Anudeep,I013,T,6 7,,
-,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,,Ch Suresh Kumar,,,,,
-,,Tutorial,,,,1,Soumya J,I113,T,9,,
-,,,,,,2,Soumya J,I113,Th,9,,
-,,,,,,3,Sourav Nandi,I114,T,9,,
-,,,,,,4,Sourav Nandi,I221,M,1,,
-,,,,,,5,Subhradeep Pal,I111,T,9,,
-,,,,,,6,Subhradeep Pal,I111,Th,9,,
-,,,,,,7,Anakhi Hazarika,I112,T,9,,
-,,,,,,8,Anakhi Hazarika,I112,Th,9,,
-,,,,,,9,Anakhi Hazarika,I111,M,5,,
-,,,,,,10,Ravikiran Yeleswarapu,I122,T,9,,
-,,,,,,11,Ravikiran Yeleswarapu,I122,Th,9,,
-,,,,,,12,Ravikiran Yeleswarapu,I122,W,5,,
-1655,CS F266,STUDY PROJECT,-,-,3,1,"DIPANJAN
-CHAKRABORTY",,,,,
-1320,CS F303,COMPUTER NETWORKS,3,1,4,1,PARESH SAXENA,F105,M W F,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,Practical,,,,1,G Geethakumari,D311,T,8 9,,
-,,,,,,,Anand Agrawal,,,,,
-,,,,,,2,G Geethakumari,D311,Th,8 9,,
-,,,,,,,Anand Agrawal,,,,,
-,,,,,,3,Nikumani Choudhury,D312,F,7 8,,
-,,,,,,,Alekhya gorrela,,,,,
-,,,,,,4,Nikumani Choudhury,D313,M,7 8,,
-,,,,,,,Alekhya gorrela,,,,,
-,,Tutorial,,,,1,DipanJan Chakraborty,I211,M,1,,
-,,,,,,2,DipanJan Chakraborty,I212,W,1,,
-,,,,,,3,Rajib Ranjan Maiti,I212,M,1,,
-,,,,,,4,Rajib Ranjan Maiti,I211,W,1,,
-1317,CS F342,"COMPUTER
-ARCHITECTURE",3,1,4,1,S GURUNARAYANAN,F103,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,S Gurunarayanan,F103,Th,10,,
-,,Practical,,,,1,M Aalelai Vendhan,I013,Th,8 9,,
-,,,,,,2,M Aalelai Vendhan,I013,M,7 8,,
-,,,,,,3,TO BE ANNOUNCED,I013,T,8 9,,
-1318,CS F363,COMPILER CONSTRUCTION,2,1,3,1,RAGHUNATH REDDY M,F102,M W,5,16/03 - 4.00 - 5.30PM,20/05 AN
-,,Practical,,,,1,Sameera Muhamed Salam,D312,T,8 9,,
-,,,,,,,Akella Amruta,,,,,
-,,,,,,2,Sameera Muhamed Salam,I015,W,7 8,,
-,,,,,,,Sandeep Ravikanti,,,,,
-,,,,,,3,Raghunath Reddy M,I015,Th,8 9,,
-,,,,,,,K Simran,,,,,
-,,,,,,4,K Simran,I015,F,7 8,,
-,,,,,,,Akella Amruta,,,,,
-,,Tutorial,,,,1,Raghunath Reddy M,J107,T,7,,
-,,,,,,2,Raghunath Reddy M,J107,F,1,,
-,,,,,,3,Jabez J Christopher,I111,F,1,,
-1319,CS F364,DESIGN & ANAL OF ALGO,3,-,3,1,TATHAGATA RAY,F102,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,Tathagata Ray,F103,W,10,,
-,,Tutorial,,,,1,Apurba Das,I213,M,1,,
-,,,,,,,Mekala Kiran,,,,,
-,,,,,,2,Apurba Das,I213,W,1,,
-,,,,,,,Mekala Kiran,,,,,
-,,,,,,3,"Ramaswamy
-Venkatakrishna",J115,M,1,,
+,,,,,,3,Prajna Devi Upadhyay,D312,T,4 5,,
+,,,,,,,Banala Rajesh,,,,,
+,,,,,,4,Prajna Devi Upadhyay,D313,F,8 9,,
+,,,,,,,Banala Rajesh,,,,,
+1092,CS F213,OBJECT ORIENTED PROG,3,1,4,1,ARITRA MUKHERJEE,F102,M W F,2,06/12,FN
+,,Practical,,,,1,Aruna Malapati,D313,M,4 5,,
 ,,,,,,,Suchit bhai patel,,,,,
-,,,,,,4,"Ramaswamy
-Venkatakrishna",J115,W,1,,
+,,,,,,2,Aruna Malapati,D313,W,4 5,,
 ,,,,,,,Suchit bhai patel,,,,,
-1670,CS F366,LABORATORY PROJECT,-,-,3,1,"DIPANJAN
-CHAKRABORTY",,,,,
-1740,CS F367,LABORATORY PROJECT,-,-,3,1,"DIPANJAN
-CHAKRABORTY",,,,,
-1315,CS F372,OPERATING SYSTEMS,3,-,3,1,BARSHA MITRA,F106,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-,,,,,,,Alekhya gorrela,,,,,
-,,,,,,,Chavali Lalitha,,,,,
-,,,,,,,S Rasagna Vakkalanka,,,,,
-1689,CS F376,DESIGN PROJECT,-,-,3,1,"DIPANJAN
-CHAKRABORTY",,,,,
-1756,CS F377,DESIGN PROJECT,-,-,3,1,"DIPANJAN
-CHAKRABORTY",,,,,
-1333,CS F407,ARTIFICIAL INTELLIGENCE,3,-,3,1,ABHIJIT DAS,F106,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-,,,,,,,Attarde Pranjali Devidas,,,,,
+,,,,,,3,Abhijit Das,D313,T,4 5,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+,,,,,,4,Abhijit Das,D313,F,4 5,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+,,Tutorial,,,,1,Manik Gupta,I111,T,1,,
+,,,,,,2,Manik Gupta,I112,Th,1,,
+,,,,,,3,DipanJan Chakraborty,I112,T,1,,
+,,,,,,4,DipanJan Chakraborty,I111,Th,1,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+1090,CS F214,LOGIC IN COMPUTER SC,3,-,3,1,SAMEERA MUHAMED SALAM,F102,M W F,3,11/12,AN
+,,Tutorial,,,,1,Ramaswamy Venkatakrishnan,I113,T,1,,
+,,,,,,,Kokkiri Hasrith,,,,,
+,,,,,,2,Ramaswamy Venkatakrishnan,I113,Th,1,,
+,,,,,,,Kokkiri Hasrith,,,,,
+,,,,,,3,Tathagata Ray,I114,T,1,,
+,,,,,,,Sagarika Jana,,,,,
+,,,,,,4,Tathagata Ray,I114,Th,1,,
+,,,,,,,Sagarika Jana,,,,,
+1093,CS F215,DIGITAL DESIGN,3,1,4,1,PONNALAGU R N,F105,T Th,2,04/12,AN
+,,,,,,,Ponnalagu R N,F105,W,7,,
+,,,,,,2,BVVSN Prabhakar Rao,F102,T Th,2,,
+,,,,,,,Joyjit Mukherjee,,,,,
+,,,,,,,BVVSN Prabhakar Rao,F102,W,7,,
+,,,,,,,Joyjit Mukherjee,,,,,
+,,Practical,,,,1,Amgith.G.S,I012,W,4 5,,
+,,,,,,,Shubham Deepak Yadav,,,,,
+,,,,,,2,Amgith.G.S,I012,M,4 5,,
+,,,,,,,Shubham Deepak Yadav,,,,,
+,,,,,,3,Syed Ershad Ahmed,I013,Th,4 5,,
+,,,,,,,Nongthombam Joychandra Singh,,,,,
+,,,,,,,Sohel Siraj,,,,,
+,,,,,,4,Ponnalagu R N,I013,M,8 9,,
+,,,,,,,Nongthombam Joychandra Singh,,,,,
+,,,,,,,Sohel Siraj,,,,,
+,,,,,,5,Gowtham Polumati,I013,W,4 5,,
+,,,,,,,Mou Sarkar,,,,,
+,,,,,,6,Amit Kumar Panda,I012,T,6 7,,
+,,,,,,,Gowtham Polumati,,,,,
+,,,,,,,Mou Sarkar,,,,,
+,,,,,,7,Niranjan Raj,I012,M,8 9,,
+,,,,,,,Aditya Tiwari,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,N Praneeth,,,,,
+,,,,,,8,Neha Tak,I012,T,4 5,,
+,,,,,,,Aditya Tiwari,,,,,
+,,,,,,,N Praneeth,,,,,
+,,,,,,9,Neha Tak,I013,F,4 5,,
+,,,,,,,Isha Basumatary,,,,,
+,,,,,,,Vanmathi S,,,,,
+,,,,,,10,Ponnalagu R N,I012,F,4 5,,
+,,,,,,,Isha Basumatary,,,,,
+,,,,,,,Vanmathi S,,,,,
+,,,,,,11,Kandi Mounika,I012,M,6 7,,
+,,,,,,,Abbidi Shivani Reddy,,,,,
+,,,,,,12,Kandi Mounika,I013,T,4 5,,
+,,,,,,,Nandini Ashokkumar Trivedi,,,,,
+,,,,,,13,Baishali Paul,I013,M,6 7,,
+,,,,,,,Nandini Ashokkumar Trivedi,,,,,
+,,,,,,14,Baishali Paul,I013,T,6 7,,
+,,,,,,,Abbidi Shivani Reddy,,,,,
+,,,,,,15,Shaik sultan,I012,Th,4 5,,
+,,,,,,,Pavar Sai Kumar,,,,,
+,,,,,,16,Shaik sultan,I013,M,4 5,,
+,,,,,,,Pavar Sai Kumar,,,,,
+,,Tutorial,,,,1,TO BE ANNOUNCED,I113,T,9,,
+,,,,,,2,TO BE ANNOUNCED,I113,Th,9,,
+,,,,,,3,Ponnalagu R N,I114,T,9,,
+,,,,,,4,Ponnalagu R N,I114,Th,9,,
+,,,,,,5,BVVSN Prabhakar Rao,I122,T,9,,
+,,,,,,6,BVVSN Prabhakar Rao,I122,Th,9,,
+,,,,,,7,Soumya J,I210,Th,9,,
+,,,,,,8,Joyjit Mukherjee,I210,T,9,,
+,,,,,,9,Niranjan Raj,I212,T,9,,
+,,,,,,10,Pritesh Kumar Yadav,I221,T,9,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,11,Pritesh Kumar Yadav,I211,Th,9,,
+1091,CS F222,DISCR STRUC FOR COMP SCI,3,-,3,1,RAMASWAMY VENKATAKRISHNAN,F102,T W F,8,16/12,FN
+,,Tutorial,,,,1,NL Bhanumurthy,I111,T,9,,
+,,,,,,,Suchit bhai patel,,,,,
+,,,,,,2,NL Bhanumurthy,I112,Th,9,,
+,,,,,,,Suchit bhai patel,,,,,
+,,,,,,3,Apurba Das,I112,T,9,,
+,,,,,,,Harsha Priya G,,,,,
+,,,,,,4,Apurba Das,I111,Th,9,,
+,,,,,,,Harsha Priya G,,,,,
+1655,CS F266,STUDY PROJECT,-,-,3,1,NIKUMANI CHOUDHURY,,,,,
+1316,CS F301,PRINCIPLES OF PROGG LANG,2,-,2,1,ARUNA MALAPATI,F102,T Th,9,12/12,AN
+,,Tutorial,,,,1,Jabez J Christopher,I112,M,1,,
+,,,,,,,Praneeta Krishnaprasad Maganti,,,,,
+,,,,,,2,Jabez J Christopher,I112,W,1,,
+,,,,,,,Praneeta Krishnaprasad Maganti,,,,,
+,,,,,,3,R Gururaj,I113,M,1,,
 ,,,,,,,Madhusudan anand,,,,,
-,,,,,,,Priya baju,,,,,
-1322,CS F415,DATA MINING,3,-,3,1,ARUNA MALAPATI,F107,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
+,,,,,,4,R Gururaj,I113,W,1,,
+,,,,,,,Madhusudan anand,,,,,
+2439,CS F317,REINFORCEMENT LEARNING,3,-,3,1,PARESH SAXENA,I113,T Th,2,16/12,AN
+,,,,,,,S Shashank,,,,,
+,,,,,,,Paresh Saxena,I113,W,7,,
+,,,,,,,S Shashank,,,,,
+2266,CS F320,FOUNDATIONS OF DATA SCIENCE,3,-,3,1,NL BHANUMURTHY,F106,M W F,2,06/12,FN
+,,,,,,,Harsha Varun Marisetty,,,,,
+,,,,,,,P. Priyanka Chowdary,,,,,
+2624,CS F321,SYSTEM SECURITY,3,-,3,1,BARSHA MITRA,I113,M W F,3,11/12,FN
+,,,,,,,Alekhya gorrela,,,,,
+1317,CS F342,COMPUTER ARCHITECTURE,3,1,4,1,G GEETHAKUMARI,F102,M W F,5,07/12,AN
+,,Practical,,,,1,Nikumani Choudhury,I015,Th,4 5,,
+,,,,,,,Raziur rahman,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,2,Nikumani Choudhury,I015,T,7 8,,
+,,,,,,,Raziur rahman,,,,,
+,,,,,,3,Aritra Mukherjee,I015,Th,7 8,,
+,,,,,,,Asmita Biswas,,,,,
+,,,,,,4,Aritra Mukherjee,I015,F,8 9,,
+,,,,,,,Asmita Biswas,,,,,
+,,Tutorial,,,,1,Rajib Ranjan Maiti,I112,M,8,,
+,,,,,,2,Rajib Ranjan Maiti,I112,F,1,,
+,,,,,,3,Tamoghna Ojha,I113,M,8,,
+,,,,,,4,Tamoghna Ojha,I113,F,1,,
+1314,CS F351,THEORY OF COMPUTATION,3,-,3,1,R GURURAJ,F102,T Th,10,02/12,AN
+,,,,,,,R Gururaj,F102,F,7,,
+,,Tutorial,,,,1,Raghunath Reddy M,I122,F,1,,
+,,,,,,,Akella Amruta,,,,,
+,,,,,,2,Raghunath Reddy M,I122,W,1,,
+,,,,,,,Akella Amruta,,,,,
+,,,,,,3,Sameera Muhamed Salam,I114,F,1,,
+,,,,,,,K Simran,,,,,
+,,,,,,4,Sameera Muhamed Salam,I114,M,1,,
+,,,,,,,K Simran,,,,,
+1670,CS F366,LABORATORY PROJECT,-,-,3,1,NIKUMANI CHOUDHURY,,,,,
+1740,CS F367,LABORATORY PROJECT,-,-,3,1,NIKUMANI CHOUDHURY,,,,,
+1315,CS F372,OPERATING SYSTEMS,3,-,3,1,DIPANJAN CHAKRABORTY,F102,M W F,4,04/12,FN
+,,Tutorial,,,,1,G Geethakumari,D313,M,8,,
+,,,,,,,Soriful Momin Nazrul Haque Momin,,,,,
+,,,,,,2,G Geethakumari,D313,W,1,,
+,,,,,,,Soriful Momin Nazrul Haque Momin,,,,,
+,,,,,,3,TO BE ANNOUNCED,D312,M,1,,
+,,,,,,,Sandeep Ravikanti,,,,,
+,,,,,,4,TO BE ANNOUNCED,D312,M,8,,
+,,,,,,,Sandeep Ravikanti,,,,,
+1689,CS F376,DESIGN PROJECT,-,-,3,1,NIKUMANI CHOUDHURY,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+1756,CS F377,DESIGN PROJECT,-,-,3,1,NIKUMANI CHOUDHURY,,,,,
+1333,CS F407,ARTIFICIAL INTELLIGENCE,3,-,3,1,ABHIJIT DAS,F106,T Th,1,10/12,AN
+,,,,,,,Attarde Pranjali Devidas,,,,,
+,,,,,,,Abhijit Das,F106,M,7,,
+,,,,,,,Attarde Pranjali Devidas,,,,,
+2440,CS F425,DEEP LEARNING,3,-,3,1,ANEESH SREEVALLABH CHIVUKULA,G107,T Th,3,13/12,AN
 ,,,,,,,Danny muzata,,,,,
+,,,,,,,Aneesh Sreevallabh Chivukula,G107,F,10,,
+,,,,,,,Danny muzata,,,,,
+2444,CS F429,NATURAL LANGUAGE PROCESSING,3,-,3,1,PRAJNA DEVI UPADHYAY,J214,M W,10,09/12,FN
 ,,,,,,,Priya baju,,,,,
-,,,,,,,Suchit bhai patel,,,,,
-2629,CS F437,"GENERATIVE ARTIFICIAL
-INTELLIGENCE",3,-,3,1,NL BHANUMURTHY,F208,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-1857,CS F469,INFORMATION RETRIEVAL,3,-,3,1,"PRAJNA DEVI
-UPADHYAY",F108,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Shivram A,,,,,
-,,,,,,,Prajna Devi Upadhyay,F108,W,10,,
-507,CS G513,NETWORK SECURITY,3,1,4,1,RAJIB RANJAN MAITI,I112,M W F,5,12/03 - 9.30 - 11.00AM,08/05 FN
-,,Practical,,,,,Rajib Ranjan Maiti,D312,Th,8 9,,
-2449,CS G516,"ADVANCED DATABASE
-SYSTEMS",3,1,4,1,SUBHRAKANTA PANDA,I112,T Th,3,13/03 - 4.00 - 5.30PM,10/05 FN
-,,,,,,,Subhrakanta Panda,I112,F,1,,
-,,Practical,,,,,Subhrakanta Panda,D313,F,8 9,,
-2052,CS G523,"SOFTWARE FOR
-EMBEDDED SYS",3,2,5,1,SOUMYA J,I222,T Th,5,12/03 - 9.30 - 11.00AM,08/05 FN
-,,,,,,,Soumya J,I222,F,10,,
-,,Practical,,,,,Soumya J,J105,M W,7 8,,
-,,,,,,,Mekala Bindu Bhargavi,,,,,
-2006,CS G524,"ADV COMPUTER
-ARCHITECTURE",3,-,5,1,ARITRA MUKHERJEE,I113,M W F,3,14/03 - 9.30 - 11.00AM,13/05 FN
-,,Practical,,,,,Aritra Mukherjee,D311,M,8 9,,
-436,DE G514,FRACTURE MECHANICS,3,2,5,1,NITIN RAMESH K,F203,M W F,5,12/03 - 9.30 - 11.00AM,08/05 FN
-,,Practical,,,,,Aarjoo Jaimin,E004,T,8 9,,
-1384,ECE F241,"MICROPROC &
-INTERFACING",3,1,4,1,SUBHRADEEP PAL,F102,M W F,2,11/03 - 2.00 - 3.30PM,07/05 FN
-,,,,,,2,Anakhi Hazarika,G208,M W F,2,,
-,,,,,,3,S Gurunarayanan,F105,M W F,2,,
-,,Practical,,,,1,Runa Kumari,I012,T,2 3,,
-,,,,,,,Kandi Mounika,,,,,
+,,,,,,,Prajna Devi Upadhyay,J214,Th,6,,
+,,,,,,,Priya baju,,,,,
+2004,CS G525,ADV COMPUTER NETWORKS,3,2,5,1,NIKUMANI CHOUDHURY,I111,M W F,4,04/12,FN
+,,Practical,,,,,Nikumani Choudhury,I015,M W,8 9,,
+2005,CS G526,ADV ALGORITHMS & COMPLEXITY,3,2,5,1,TATHAGATA RAY,I111,M W F,5,06/12,AN
+,,Practical,,,,,Tathagata Ray,D312,T Th,7 8,,
+918,CS G553,RECONFIGURABLE COMPUTING,-,-,5,1,CHETAN KUMAR V,I221,T Th,2,06/12,AN
+,,,,,,,Chetan Kumar V,I221,Th,8,,
+,,Practical,,,,1,Chetan Kumar V,I124,W,7 8,,
+,,,,,,,R Nandagopal,,,,,
+,,,,,,,Chetan Kumar V,I124,M,10 11,,
+,,,,,,,R Nandagopal,,,,,
+,,,,,,2,Chetan Kumar V,I124,T,7 8,,
+,,,,,,,Himanshi Awasthi,,,,,
+,,,,,,,Chetan Kumar V,I124,W,10 11,,
+,,,,,,,Himanshi Awasthi,,,,,
+533,CS G554,DISTRIBUTED DATA SYSTEMS,3,2,5,1,MANIK GUPTA,I222,T Th,5,06/12,AN
+,,,,,,,Manik Gupta,I222,M,7,,
+,,Practical,,,,,Manik Gupta,I015,M W,2 3,,
+782,CS G623,ADVANCED OPERAT SYSTEMS,3,2,5,1,TAMOGHNA OJHA,I111,T Th,4,09/12,FN
+,,,,,,,Tamoghna Ojha,I111,W,7,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,Practical,,,,,Tamoghna Ojha,I015,T Th,9 10,,
+362,DE G531,PRODUCT DESIGN,3,2,5,1,NITIN RAMESH K,G203,M W F,8,02/12,AN
+,,Practical,,,,,Aarjoo Jaimin,D208 C,T Th,4 5,,
+678,DE G611,DYNAMICS & VIBRATION,3,2,5,1,G R SABAREESH,F205,T Th,1,09/12,FN
+,,,,,,,G R Sabareesh,F205,T,7,,
+,,Practical,,,,,Akashjyoti barman,LAB,T Th,8 9,,
+625,DE G631,MATERIALS TECH AND TESTING,-,-,5,1,SUJITH R,F204,M W F,5,11/12,FN
+,,Practical,,,,,Danavath Balu,LAB,T Th,2 3,,
+1380,ECE F211,ELECTRICAL MACHINES,3,1,4,1,ANKUR BHATTACHARJEE,F105,T W F,8,16/12,FN
+,,,,,,2,Mithun Mondal,F104,T W F,8,,
+,,Practical,,,,1,Pratyush Chakraborty,WS,F,4 5,,
+,,,,,,,Pam Paul Gyang,,,,,
+,,,,,,,Pragada Dheeraj Abhinav,,,,,
+,,,,,,2,Mithun Mondal,WS,M,6 7,,
+,,,,,,,Kommanaboina Mahender,,,,,
 ,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,2,Sourav Nandi,I013,T,2 3,,
-,,,,,,,Sanjana Mathew,,,,,
-,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,3,Subhradeep Pal,I013,F,6 7,,
-,,,,,,,Thalla Narasimha Swetha,,,,,
-,,,,,,,Keerthi C J,,,,,
-,,,,,,4,Anakhi Hazarika,I012,W,6 7,,
-,,,,,,,Thalla Narasimha Swetha,,,,,
-,,,,,,,Yuvraj Maphrio Mao,,,,,
-,,,,,,5,Ravikiran Yeleswarapu,I012,F,6 7,,
-,,,,,,,Abbidi Shivani Reddy,,,,,
-,,,,,,,Yuvraj Maphrio Mao,,,,,
-,,,,,,6,Ravikiran Yeleswarapu,I012,M,6 7,,
-,,,,,,,Abbidi Shivani Reddy,,,,,
-,,,,,,,Parvathy nair,,,,,
-,,,,,,7,Ravikiran Yeleswarapu,I013,Th,6 7,,
-,,,,,,,Krishnapriya G B,,,,,
-,,,,,,,Parvathy nair,,,,,
-,,,,,,8,TO BE ANNOUNCED,I013,Th,2 3,,
-,,,,,,,Ch Suresh Kumar,,,,,
-,,,,,,,Krishnapriya G B,,,,,
-,,,,,,9,Ramya K,I012,Th,2 3,,
-,,,,,,,"Balasubramanian
-Malayappa",,,,,
-,,,,,,,Gowtham Polumati,,,,,
-,,,,,,10,"Sree Rama Amrutha
-Lahari",I013,W,6 7,,
-,,,,,,,Gowtham Polumati,,,,,
+,,,,,,3,Alivelu Manga Parimi,WS,T,6 7,,
+,,,,,,,Gudavalli durga k prasad,,,,,
 ,,,,,,,Kurakula Anudeep,,,,,
-,,,,,,11,Keerthi C J,I012,Th,6 7,,
-,,,,,,,imran khan,,,,,
-,,,,,,,Kandi Mounika,,,,,
-,,,,,,12,Ramya K,I013,M,5 6,,
-,,,,,,,Isha Basumatary,,,,,
-,,,,,,,Ritesh Kumar Singh,,,,,
-,,,,,,13,"Sree Rama Amrutha
-Lahari",I012,T,6 7,,
-,,,,,,,Isha Basumatary,,,,,
-,,,,,,,Ritesh Kumar Singh,,,,,
-,,,,,,14,Kurakula Anudeep,I013,T,6 7,,
+,,,,,,4,Sudha Radhika,WS,Th,4 5,,
+,,,,,,,Gorityala Aishvaria,,,,,
+,,,,,,,Pam Paul Gyang,,,,,
+,,,,,,5,Ankur Bhattacharjee,WS,T,4 5,,
+,,,,,,,Pragada Dheeraj Abhinav,,,,,
 ,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,,Ch Suresh Kumar,,,,,
-,,Tutorial,,,,1,Soumya J,I113,T,9,,
-,,,,,,2,Soumya J,I113,Th,9,,
-,,,,,,3,Sourav Nandi,I114,T,9,,
-,,,,,,4,Sourav Nandi,I221,M,1,,
-,,,,,,5,Subhradeep Pal,I111,T,9,,
-,,,,,,6,Subhradeep Pal,I111,Th,9,,
-,,,,,,7,Anakhi Hazarika,I112,T,9,,
-,,,,,,8,Anakhi Hazarika,I112,Th,9,,
-,,,,,,9,Anakhi Hazarika,I111,M,5,,
-,,,,,,10,Ravikiran Yeleswarapu,I122,T,9,,
-,,,,,,11,Ravikiran Yeleswarapu,I122,Th,9,,
-,,,,,,12,Ravikiran Yeleswarapu,I122,W,5,,
-1385,ECE F242,CONTROL SYSTEMS,3,-,3,1,HARISH VIJAY DIXIT,F105,T Th,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,,,,,,Harish Vijay Dixit,F105,Th,10,,
-,,,,,,2,Ankur Bhattacharjee,F104,T Th,4,,
-,,,,,,,Ankur Bhattacharjee,F104,Th,10,,
-,,Tutorial,,,,1,Harish Vijay Dixit,J107,M,1,,
-,,,,,,2,Harish Vijay Dixit,I111,T,1,,
-,,,,,,3,Ankur Bhattacharjee,J119,M,1,,
-,,,,,,4,Ankur Bhattacharjee,I112,T,1,,
-,,,,,,5,Shaik sultan,J120,M,1,,
-,,,,,,6,Shaik sultan,I113,T,1,,
-,,,,,,7,Annaram Sowjanya,J121,M,1,,
-,,,,,,8,Annaram Sowjanya,I114,T,1,,
-1386,ECE F243,SIGNALS & SYSTEMS,3,-,3,1,"PRATYUSH
-CHAKRABORT",F105,M W F,9,15/03 - 9.30 - 11.00AM,16/05 FN
-,,,,,,2,Venkateswaran R,F104,M W F,9,,
-,,Tutorial,,,,1,Pratyush Chakraborty,I122,F,1,,
-,,,,,,2,Pratyush Chakraborty,I122,Th,1,,
-,,,,,,3,Venkateswaran R,I210,T,1,,
-,,,,,,4,Venkateswaran R,I210,Th,1,,
-,,,,,,5,S K Chatterjee,I211,F,1,,
-,,,,,,6,S K Chatterjee,I211,Th,1,,
-,,,,,,7,Rajesh Kumar Tripathy,I212,T,1,,
-,,,,,,8,Rajesh Kumar Tripathy,I212,Th,1,,
-1387,ECE F244,"MICROELECTRONIC
-CIRCUITS",3,-,3,1,SYED ERSHAD AHMED,F105,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,,,,,2,Niranjan Raj,F104,M W F,3,,
-,,Tutorial,,,,1,Syed Ershad Ahmed,I210,T,9,,
-,,,,,,2,Syed Ershad Ahmed,I210,Th,9,,
-,,,,,,3,"Parikshit Parshuram
-Sahatiy",I211,T,9,,
-,,,,,,4,"Parikshit Parshuram
-Sahatiy",I211,Th,9,,
-,,,,,,5,Surya Shankar Dan,I212,T,9,,
-,,,,,,6,Surya Shankar Dan,I212,Th,9,,
-,,,,,,7,Niranjan Raj,I213,T,9,,
-,,,,,,8,Niranjan Raj,I213,Th,9,,
+,,,,,,6,Alivelu Manga Parimi,WS,M,8 9,,
+,,,,,,,Gudavalli durga k prasad,,,,,
+,,,,,,,Kurakula Anudeep,,,,,
+,,,,,,7,Neha Tak,WS,M,4 5,,
+,,,,,,,Gorityala Aishvaria,,,,,
+,,,,,,,Swati patro,,,,,
+,,,,,,8,Neha Tak,WS,W,4 5,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Kommanaboina Mahender,,,,,
+,,,,,,,Swati patro,,,,,
+,,Tutorial,,,,1,Ankur Bhattacharjee,I122,T,1,,
+,,,,,,2,Ankur Bhattacharjee,I122,Th,7,,
+,,,,,,3,Mithun Mondal,I210,T,1,,
+,,,,,,4,Mithun Mondal,I210,Th,7,,
+,,,,,,5,Neha Tak,I211,T,1,,
+,,,,,,6,Neha Tak,I211,T,9,,
+,,,,,,7,Neha Tak,I211,Th,7,,
+1381,ECE F212,ELECTROMAGNETIC THEO I,3,-,3,1,Sashideep Gutti,G201,M W F,3,11/12,AN
+,,,,,,2,VSN Murthy,G202,M W F,3,,
+,,,,,,3,TO BE ANNOUNCED,G203,M W F,3,,
+,,,,,,4,RAHUL NIGAM,F103,M W F,3,,
+,,,,,,5,Swastik Bhattacharya,G204,M W F,3,,
+,,,,,,6,Asrarul Haque,G103,M W F,3,,
+,,Tutorial,,,,1,Sashideep Gutti,G201,Th,1,,
+,,,,,,2,VSN Murthy,G202,Th,1,,
+,,,,,,3,Debanjan Polley,G203,Th,1,,
+,,,,,,4,Rahul Nigam,F107,Th,1,,
+,,,,,,5,Swastik Bhattacharya,G204,Th,1,,
+,,,,,,6,Asrarul Haque,G103,Th,1,,
+1383,ECE F214,ELECTRONIC DEVICES,3,-,3,1,SAYAN KANUNGO,F105,M W F,2,06/12,AN
+,,,,,,2,S K Chatterjee,F104,M W F,2,,
+,,Tutorial,,,,1,Sayan Kanungo,I212,T,1,,
+,,,,,,2,S K Chatterjee,I213,Th,9,,
+,,,,,,3,S K Chatterjee,I213,T,1,,
+,,,,,,4,S K Chatterjee,I213,Th,7,,
+,,,,,,5,Parikshit Parshuram Sahatiya,I212,Th,7,,
+,,,,,,6,Sk Masum Nawaz,I221,T,1,,
+,,,,,,7,Sk Masum Nawaz,I221,Th,7,,
+1382,ECE F215,DIGITAL DESIGN,3,1,4,1,PONNALAGU R N,F105,T Th,2,04/12,AN
+,,,,,,,Ponnalagu R N,F105,W,7,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,2,BVVSN Prabhakar Rao,F102,T Th,2,,
+,,,,,,,Joyjit Mukherjee,,,,,
+,,,,,,,BVVSN Prabhakar Rao,F102,W,7,,
+,,,,,,,Joyjit Mukherjee,,,,,
+,,Practical,,,,1,Amgith.G.S,I012,W,4 5,,
+,,,,,,,Shubham Deepak Yadav,,,,,
+,,,,,,2,Amgith.G.S,I012,M,4 5,,
+,,,,,,,Shubham Deepak Yadav,,,,,
+,,,,,,3,Syed Ershad Ahmed,I013,Th,4 5,,
+,,,,,,,Nongthombam Joychandra Singh,,,,,
+,,,,,,,Sohel Siraj,,,,,
+,,,,,,4,Ponnalagu R N,I013,M,8 9,,
+,,,,,,,Nongthombam Joychandra Singh,,,,,
+,,,,,,,Sohel Siraj,,,,,
+,,,,,,5,Gowtham Polumati,I013,W,4 5,,
+,,,,,,,Mou Sarkar,,,,,
+,,,,,,6,Amit Kumar Panda,I012,T,6 7,,
+,,,,,,,Gowtham Polumati,,,,,
+,,,,,,,Mou Sarkar,,,,,
+,,,,,,7,Niranjan Raj,I012,M,8 9,,
+,,,,,,,Aditya Tiwari,,,,,
+,,,,,,,N Praneeth,,,,,
+,,,,,,8,Neha Tak,I012,T,4 5,,
+,,,,,,,Aditya Tiwari,,,,,
+,,,,,,,N Praneeth,,,,,
+,,,,,,9,Neha Tak,I013,F,4 5,,
+,,,,,,,Isha Basumatary,,,,,
+,,,,,,,Vanmathi S,,,,,
+,,,,,,10,Ponnalagu R N,I012,F,4 5,,
+,,,,,,,Isha Basumatary,,,,,
+,,,,,,,Vanmathi S,,,,,
+,,,,,,11,Kandi Mounika,I012,M,6 7,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Abbidi Shivani Reddy,,,,,
+,,,,,,12,Kandi Mounika,I013,T,4 5,,
+,,,,,,,Nandini Ashokkumar Trivedi,,,,,
+,,,,,,13,Baishali Paul,I013,M,6 7,,
+,,,,,,,Nandini Ashokkumar Trivedi,,,,,
+,,,,,,14,Baishali Paul,I013,T,6 7,,
+,,,,,,,Abbidi Shivani Reddy,,,,,
+,,,,,,15,Shaik sultan,I012,Th,4 5,,
+,,,,,,,Pavar Sai Kumar,,,,,
+,,,,,,16,Shaik sultan,I013,M,4 5,,
+,,,,,,,Pavar Sai Kumar,,,,,
+,,Tutorial,,,,1,TO BE ANNOUNCED,I113,T,9,,
+,,,,,,2,TO BE ANNOUNCED,I113,Th,9,,
+,,,,,,3,Ponnalagu R N,I114,T,9,,
+,,,,,,4,Ponnalagu R N,I114,Th,9,,
+,,,,,,5,BVVSN Prabhakar Rao,I122,T,9,,
+,,,,,,6,BVVSN Prabhakar Rao,I122,Th,9,,
+,,,,,,7,Soumya J,I210,Th,9,,
+,,,,,,8,Joyjit Mukherjee,I210,T,9,,
+,,,,,,9,Niranjan Raj,I212,T,9,,
+,,,,,,10,Pritesh Kumar Yadav,I221,T,9,,
+,,,,,,11,Pritesh Kumar Yadav,I211,Th,9,,
+2516,ECE F216,ELECTRONIC DEVICES SIMULATION LABORATORY,-,2,2,1,SAYAN KANUNGO,J114,T,7 8,,
+,,,,,,,Naresh Bahadursha,,,,,
+,,,,,,,Sayan Kanungo,J114,Th,4 5,,
+,,,,,,,Naresh Bahadursha,,,,,
 1701,ECE F266,STUDY PROJECT,-,-,3,1,S K CHATTERJEE,,,,,
-1894,ECE F312,"EM FIELDS LAB MICRO
-ENGG LAB",-,1,1,1,HARISH VIJAY DIXIT,K125,T,8 9,,
+1389,ECE F311,COMMUNICATION SYSTEMS,3,1,4,1,PRASANT KUMAR P,F105,M T Th,9,12/12,AN
+,,,,,,2,Pranay agarwal,F104,M T Th,9,,
+,,,,,,,Nitish Kumar Gupta,,,,,
+,,Practical,,,,1,Prasant Kumar P,H106,T,4 5,,
+,,,,,,,Chinthapalli Amulya,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Sanjana Mathew,,,,,
+,,,,,,2,Prasant Kumar P,H106,Th,4 5,,
+,,,,,,,Sree Rama Amrutha Lahari,,,,,
+,,,,,,,Yuvraj Maphrio Mao,,,,,
+,,,,,,3,Nitish Kumar Gupta,H106,W,9 10,,
+,,,,,,,Krishna KY KGR,,,,,
+,,,,,,,Yuvraj Maphrio Mao,,,,,
+,,,,,,4,Nitish Kumar Gupta,H106,Th,7 8,,
+,,,,,,,Krishna KY KGR,,,,,
 ,,,,,,,Neha Parmar,,,,,
-1391,ECE F341,ANALOG ELECTRONICS,3,1,4,1,"BVVSN PRABHAKAR
-RAO",F105,M W F,5,16/03 - 4.00 - 5.30PM,20/05 AN
-,,,,,,2,Ponnalagu R N,F104,M W F,5,,
-,,Practical,,,,1,BVVSN Prabhakar Rao,J106,T,8 9,,
-,,,,,,,Bishal kumar keshari,,,,,
-,,,,,,,Vanmathi S,,,,,
-,,,,,,2,BVVSN Prabhakar Rao,J106,Th,8 9,,
-,,,,,,,Vanmathi S,,,,,
-,,,,,,3,Prasant Kumar P,J106,W,7 8,,
-,,,,,,,Sohel Siraj,,,,,
-,,,,,,4,Prasant Kumar P,J106,S,4 5,,
-,,,,,,,Sohel Siraj,,,,,
-,,,,,,5,Amit Kumar Panda,J106,F,7 8,,
-,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,6,Amit Kumar Panda,J106,M,7 8,,
-,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,7,Ponnalagu R N,J106,S,2 3,,
-,,,,,,,Bishal kumar keshari,,,,,
-,,Tutorial,,,,1,BVVSN Prabhakar Rao,I114,M,1,,
-,,,,,,2,Ponnalagu R N,I111,M,1,,
-,,,,,,3,Ponnalagu R N,I111,W,1,,
-,,,,,,4,Prasant Kumar P,I112,M,1,,
-,,,,,,5,Prasant Kumar P,I112,W,1,,
-,,,,,,6,Amit Kumar Panda,I113,M,1,,
-,,,,,,7,Amit Kumar Panda,I113,W,1,,
-1595,ECE F343,"COMMUNICATION
-NETWORKS",3,-,3,1,S K SAHOO,F104,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,S K Sahoo,F107,W,10,,
-,,Tutorial,,,,1,S K Sahoo,I221,F,1,,
-,,,,,,2,S K Sahoo,I221,W,1,,
-,,,,,,3,S K Sahoo,I221,Th,7,,
-1390,ECE F344,INFO THEORY & CODING,3,-,3,1,RUNA KUMARI,F104,M W F,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,Tutorial,,,,1,Runa Kumari,I222,F,1,,
-,,,,,,2,Runa Kumari,I222,T,7,,
-,,,,,,3,Runa Kumari,I222,Th,7,,
-1702,ECE F366,LABORATORY PROJECT,-,-,3,1,SAYAN KANUNGO,,,,,
-1705,ECE F367,LABORATORY PROJECT,-,-,3,1,SAYAN KANUNGO,,,,,
+,,,,,,5,Subhradeep Pal,H106,T,7 8,,
+,,,,,,,Annaram Sowjanya,,,,,
+,,,,,,,Sanjana Mathew,,,,,
+,,,,,,6,Prasant Kumar P,H106,F,8 9,,
+,,,,,,,Chinthapalli Amulya,,,,,
+,,,,,,,Sree Rama Amrutha Lahari,,,,,
+,,Tutorial,,,,1,Prasant Kumar P,I211,W,8,,
+,,,,,,2,Prashant Wali,I210,M,1,,
+,,,,,,3,Prashant Wali,I210,W,1,,
+,,,,,,4,Nitish Kumar Gupta,I211,M,1,,
+,,,,,,5,Nitish Kumar Gupta,I211,W,1,,
+1388,ECE F314,EM FILEDS & MICRO ENGG,3,-,3,1,HARISH VIJAY DIXIT,F104,M W F,4,04/12,FN
+,,Tutorial,,,,1,Harish Vijay Dixit,I221,W,1,,
+,,,,,,2,Harish Vijay Dixit,I221,F,1,,
+,,,,,,3,Nitish Kumar Gupta,I213,F,1,,
+1391,ECE F341,ANALOG ELECTRONICS,3,1,4,1,AMIT KUMAR PANDA,I212,M W F,4,04/12,FN
+,,Practical,,,,,Amit Kumar Panda,LAB,Th,7 8,,
+,,Tutorial,,,,,Amit Kumar Panda,I221,M,1,,
+1702,ECE F366,LABORATORY PROJECT,-,-,3,1,STP SRINIVAS,,,,,
+1705,ECE F367,LABORATORY PROJECT,-,-,3,1,STP SRINIVAS,,,,,
 1703,ECE F376,DESIGN PROJECT,-,-,3,1,SOURAV NANDI,,,,,
 1706,ECE F377,DESIGN PROJECT,-,-,3,1,SOURAV NANDI,,,,,
-1023,ECON F211,"PRINCIPLES OF
-ECONOMICS",3,-,3,1,SUDATTA BANERJEE,F208,M W F,4,13/03 - 11.00 - 12.30PM,11/05 FN
-,,,,,,2,Archana Srivastava,F207,M W F,4,,
-,,,,,,3,Mini Thomas,F108,M W F,4,,
-,,Tutorial,,,,1,Sudatta Banerjee,F208,W,1,,
-,,,,,,2,Archana Srivastava,F207,W,1,,
-,,,,,,3,Mini Thomas,F108,W,1,,
-1120,ECON F212,"FUNDA OF FIN AND
-ACCOUNT",3,-,3,1,T NAGARAJU,F208,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,T Nagaraju,F208,M,10,,
-,,,,,,2,Sunny Kumar Singh,F205,T Th,2,,
-,,,,,,,Sunny Kumar Singh,F205,M,10,,
-2534,ECON F215,"COMPUTATIONAL
-METHODS FOR ECON",3,-,3,1,"BHEEMESHWAR REDDY
-A",J219,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Bheemeshwar Reddy A,J219,F,10,,
-1442,ECON F241,ECONOMETRIC METHODS,3,-,3,1,"BHEEMESHWAR REDDY
-A",F207,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,Tutorial,,,,,Bheemeshwar Reddy A,F207,Th,1,,
-1443,ECON F242,MICROECONOMICS,3,-,3,1,"VIVEKANANDA
-MUKHERJE",F207,T Th,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,,,,,,Vivekananda Mukherjee,F207,Th,10,,
-,,Tutorial,,,,,Vivekananda Mukherjee,F207,T,1,,
-1444,ECON F243,MACROECONOMICS,3,-,3,1,SUNNY KUMAR SINGH,F207,M W F,2,11/03 - 2.00 - 3.30PM,07/05 FN
-,,Tutorial,,,,,Sunny Kumar Singh,F207,Th,9,,
-1445,ECON F244,"ECONOMIC OF GROWTH &
-DEV",3,-,3,1,SUDATTA BANERJEE,F207,M W F,9,15/03 - 9.30 - 11.00AM,16/05 FN
-,,Tutorial,,,,,Sudatta Banerjee,F207,T,9,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+2492,ECE F424,SMART GRID FOR SUSTAINABLE ENERGY,3,-,3,1,STP SRINIVAS,I210,M W F,2,06/12,FN
+1392,ECE F434,DIGITAL SIGNAL PROCESS,3,1,4,1,RAJESH KUMAR TRIPATHY,F105,T Th,10,02/12,AN
+,,,,,,,S K Sahoo,,,,,
+,,,,,,,Rajesh Kumar Tripathy,F105,F,7,,
+,,,,,,,S K Sahoo,,,,,
+,,Practical,,,,1,BVVSN Prabhakar Rao,I011,F,8 9,,
+,,,,,,,Nishchitha N K,,,,,
+,,,,,,2,BVVSN Prabhakar Rao,I011,T,4 5,,
+,,,,,,,Nishchitha N K,,,,,
+,,,,,,3,S K Sahoo,I011,Th,4 5,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+,,,,,,4,BVVSN Prabhakar Rao,I011,W,9 10,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+,,Tutorial,,,,1,Rajesh Kumar Tripathy,I211,M,8,,
+,,,,,,2,Venkateswaran R,I210,M,8,,
+,,,,,,3,Venkateswaran R,I210,W,8,,
+1023,ECON F211,PRINCIPLES OF ECONOMICS,3,-,3,1,DUSHYANT KUMAR,F107,T Th,3,09/12,AN
+,,,,,,,Bheemeshwar Reddy A,,,,,
+,,,,,,,Dushyant Kumar,F107,F,10,,
+,,,,,,,Bheemeshwar Reddy A,,,,,
+,,,,,,2,Dushyant Kumar,F207,M W F,2,,
+,,,,,,,Bheemeshwar Reddy A,,,,,
+,,,,,,3,Vivekananda Mukherjee,F108,T Th,3,,
+,,,,,,,Shreya Biswas,,,,,
+,,,,,,,Vivekananda Mukherjee,F108,F,10,,
+,,,,,,,Shreya Biswas,,,,,
+,,,,,,4,Vivekananda Mukherjee,F207,T Th,7,,
+,,,,,,,Shreya Biswas,,,,,
+,,,,,,,Vivekananda Mukherjee,F207,M,7,,
+,,,,,,,Shreya Biswas,,,,,
+,,,,,,5,Mini Thomas,F103,T Th,3,,
+,,,,,,,Rishi Kumar,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Mini Thomas,F103,F,10,,
+,,,,,,,Rishi Kumar,,,,,
+,,,,,,6,Mini Thomas,F207,M W F,5,,
+,,,,,,,Rishi Kumar,,,,,
+1120,ECON F212,FUNDA OF FIN AND ACCOUNT,3,-,3,1,T NAGARAJU,F208,T Th,2,16/12,FN
+,,,,,,,T Nagaraju,F208,W,7,,
+,,,,,,2,Sunny Kumar Singh,G208,T Th,2,,
+,,,,,,,Sunny Kumar Singh,G208,W,7,,
+1121,ECON F213,MATHEMATIC & STAT METHOD,3,-,3,1,SUDATTA BANERJEE,F207,M W F,3,11/12,AN
+,,,,,,,Archana Srivastava,,,,,
+,,Tutorial,,,,,Sudatta Banerjee,F207,T,1,,
+,,,,,,,Archana Srivastava,,,,,
+1145,ECON F214,ECONOMIC ENV OF BUSINESS,3,-,3,1,SUDATTA BANERJEE,F207,T W F,8,04/12,AN
+,,Tutorial,,,,,Sudatta Banerjee,F207,Th,1,,
+1442,ECON F241,ECONOMETRIC METHODS,3,-,3,1,BHEEMESHWAR REDDY A,J219,M W,10,09/12,FN
+,,,,,,,Bheemeshwar Reddy A,J219,Th,6,,
+1443,ECON F242,MICROECONOMICS,3,-,3,1,VIVEKANANDA MUKHERJEE,J219,M W F,3,11/12,FN
 1656,ECON F266,STUDY PROJECT,-,-,3,1,ARCHANA SRIVASTAVA,,,,,
-1773,ECON F314,INDUSTRIAL ECONOMICS,3,-,3,1,DUSHYANT KUMAR,J220,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,Dushyant Kumar,J220,Th,10,,
-1923,ECON F315,FINANCIAL MANAGEMENT,3,-,3,1,Sravani Bharandev,G208,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Sravani Bharandev,G208,M,10,,
-,,,,,,2,NIVEDITA SINHA,F207,T Th,2,,
-,,,,,,,Nivedita Sinha,F207,M,10,,
-1449,ECON F341,PUBLIC FIN THEO & POLICY,3,-,3,1,MINI THOMAS,F207,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,Mini Thomas,F207,W,10,,
-,,Tutorial,,,,,Mini Thomas,F207,T,8,,
-1450,ECON F342,APPLIED ECONOMETRICS,3,-,3,1,RISHI KUMAR,G208,M W F,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,Tutorial,,,,,Rishi Kumar,G208,Th,8,,
-1451,ECON F343,"ECONOMIC ANAL OF PUB
-POL",3,-,3,1,DURGESH C PATHAK,F207,M W F,8,16/03 - 2.00 - 3.30PM,18/05 FN
-,,Tutorial,,,,,Durgesh C Pathak,F207,T,7,,
-2184,ECON F345,BEHAVIORAL ECONOMICS,3,-,3,1,DUSHYANT KUMAR,J220,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-1565,ECON F354,DERIVATIVES & RISK MGMT,3,-,3,1,SHREYA BISWAS,F207,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Shreya Biswas,F207,F,10,,
-,,,,,,2,TO BE ANNOUNCED,F208,T Th,3,,
-,,,,,,,TO BE ANNOUNCED,F208,F,10,,
-1547,ECON F355,BUSS ANAL & VALUATION,3,-,3,1,SRAVANI BHARANDEV,F208,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
+1446,ECON F311,INTERNATIONAL ECONOMICS,3,-,3,1,ARCHANA SRIVASTAVA,F207,T Th,3,13/12,FN
+,,,,,,,Archana Srivastava,F207,F,10,,
+,,Tutorial,,,,,Archana Srivastava,F207,T,10,,
+1447,ECON F312,MONEY BANKING & FIN MARKETS,3,-,3,1,SUNNY KUMAR SINGH,F207,M W F,1,10/12,AN
+,,Tutorial,,,,,Sunny Kumar Singh,F207,Th,10,,
+1448,ECON F313,ISSUES IN ECONOMIC DEV,3,-,3,1,DURGESH C PATHAK,F207,W F,9,02/12,FN
+,,,,,,,Durgesh C Pathak,F207,Th,8,,
+,,Tutorial,,,,,Durgesh C Pathak,F207,F,7,,
+1923,ECON F315,FINANCIAL MANAGEMENT,3,-,3,1,NIVEDITA SINHA,F207,T Th,2,16/12,AN
+,,,,,,,Nivedita Sinha,F207,W,7,,
+,,,,,,2,Sravani Bharandev,J115,T Th,2,,
+,,,,,,,Sravani Bharandev,J115,W,7,,
+2184,ECON F345,BEHAVIORAL ECONOMICS,3,-,3,1,DUSHYANT KUMAR,J220,M W,10,09/12,FN
+,,,,,,,Dushyant Kumar,J220,Th,6,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+1565,ECON F354,DERIVATIVES & RISK MGMT,3,-,3,1,ACV SUBRAHMANYAM,F208,M W,10,09/12,FN
+,,,,,,,ACV Subrahmanyam,F208,Th,6,,
+1547,ECON F355,BUSS ANAL & VALUATION,3,-,3,1,SRAVANI BHARANDEV,F208,M W F,2,06/12,FN
+,,,,,,2,Nivedita Sinha,J119,M W F,2,,
 1684,ECON F366,LABORATORY PROJECT,-,-,3,1,ARCHANA SRIVASTAVA,,,,,
 1741,ECON F367,LABORATORY PROJECT,-,-,3,1,ARCHANA SRIVASTAVA,,,,,
 1690,ECON F376,DESIGN PROJECT,-,-,3,1,ARCHANA SRIVASTAVA,,,,,
 1757,ECON F377,DESIGN PROJECT,-,-,3,1,ARCHANA SRIVASTAVA,,,,,
-1566,ECON F412,"SECUR ANAL & PORTFOL
-MGT",3,-,3,1,C H YAGANTI,F208,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-1590,ECON F416,REGIONAL ECONOMICS,3,-,3,1,"VIVEKANANDA
-MUKHERJE",J220,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-2536,ECON F420,"APPLIED
-MACROECONOMETRICS",3,-,3,1,SHREYA BISWAS,J218,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-1874,ECON F434,INTERNATIONAL BUSINESS,3,-,3,1,ARCHANA SRIVASTAVA,J219,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Archana Srivastava,J219,M,10,,
-1875,ECON F435,MARKETING RESEARCH,3,-,3,1,RISHI KUMAR,J220,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-1009,EEE F111,ELECTRICAL SCIENCES,3,-,3,1,MITHUN MONDAL,F103,T Th,1,15/03 - 2.00 - 3.30PM,17/05 FN
-,,,,,,,Mithun Mondal,F106,W,10,,
-,,,,,,2,"Balasubramanian
-Malayappa",F102,T Th,9,,
-,,,,,,,"Balasubramanian
-Malayappa",F102,M,10,,
-,,Tutorial,,,,1,"Balasubramanian
-Malayappa",I112,M,7,,
-,,,,,,2,"Balasubramanian
-Malayappa",I113,W,7,,
-,,,,,,3,Mithun Mondal,I111,T,8,,
-,,,,,,4,Mithun Mondal,I111,Th,8,,
-,,,,,,5,Mithun Mondal,I111,F,5,,
-,,,,,,6,Sayan Kanungo,I113,T,8,,
-,,,,,,7,Sayan Kanungo,I113,Th,8,,
-,,,,,,8,Sayan Kanungo,I113,F,5,,
-,,,,,,9,Sanket Goel,I112,T,8,,
-1238,EEE F241,"MICROPROC &
-INTERFACING",3,1,4,1,SUBHRADEEP PAL,F102,M W F,2,11/03 - 2.00 - 3.30PM,07/05 FN
-,,,,,,2,Anakhi Hazarika,G208,M W F,2,,
-,,,,,,3,S Gurunarayanan,F105,M W F,2,,
-,,Practical,,,,1,Runa Kumari,I012,T,2 3,,
-,,,,,,,Kandi Mounika,,,,,
+1566,ECON F412,SECUR ANAL & PORTFOL MGT,3,-,3,1,SHREYA BISWAS,F208,M W F,3,11/12,FN
+,,,,,,2,C H Yaganti,G208,M W F,3,,
+1553,ECON F415,NEW VENTURE CREATION,3,-,3,1,ARCHANA SRIVASTAVA,F101,T Th,11 12,,
+,,,,,,,Sudatta Banerjee,,,,,
+1874,ECON F434,INTERNATIONAL BUSINESS,3,-,3,1,MINI THOMAS,J220,M W F,2,06/12,FN
+1009,EEE F111,ELECTRICAL SCIENCES,3,-,3,1,SUDHA RADHIKA,F105,T Th,1,10/12,FN
+,,,,,,,Sudha Radhika,F105,M,7,,
+,,,,,,2,Pratyush Chakraborty,F104,T Th,4,,
+,,,,,,,Pratyush Chakraborty,F104,M,10,,
+,,Tutorial,,,,1,Pratyush Chakraborty,I114,T,8,,
+,,,,,,,Suhaib imtiaz,,,,,
+,,,,,,2,Sudha Radhika,I122,W,7,,
+,,,,,,,Suhaib imtiaz,,,,,
+,,,,,,3,Sourav Nandi,I122,T,3,,
+,,,,,,,Megha Y Bhat,,,,,
+,,,,,,4,Arindam Kushagra,I210,T,3,,
+,,,,,,,Megha Y Bhat,,,,,
+,,,,,,5,Sudha Radhika,I114,T,3,,
+,,,,,,6,Pratyush Chakraborty,I114,W,7,,
+,,,,,,7,Arindam Kushagra,I210,Th,8,,
+,,,,,,8,Kanika,I211,Th,3,,
+,,,,,,9,Kanika,I213,W,7,,
+1077,EEE F211,ELECTRICAL MACHINES,3,1,4,1,ANKUR BHATTACHARJEE,F105,T W F,8,16/12,FN
+,,,,,,2,Mithun Mondal,F104,T W F,8,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,Practical,,,,1,Pratyush Chakraborty,WS,F,4 5,,
+,,,,,,,Pam Paul Gyang,,,,,
+,,,,,,,Pragada Dheeraj Abhinav,,,,,
+,,,,,,2,Mithun Mondal,WS,M,6 7,,
+,,,,,,,Kommanaboina Mahender,,,,,
 ,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,2,Sourav Nandi,I013,T,2 3,,
-,,,,,,,Sanjana Mathew,,,,,
-,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,3,Subhradeep Pal,I013,F,6 7,,
-,,,,,,,Thalla Narasimha Swetha,,,,,
-,,,,,,,Keerthi C J,,,,,
-,,,,,,4,Anakhi Hazarika,I012,W,6 7,,
-,,,,,,,Thalla Narasimha Swetha,,,,,
-,,,,,,,Yuvraj Maphrio Mao,,,,,
-,,,,,,5,Ravikiran Yeleswarapu,I012,F,6 7,,
-,,,,,,,Abbidi Shivani Reddy,,,,,
-,,,,,,,Yuvraj Maphrio Mao,,,,,
-,,,,,,6,Ravikiran Yeleswarapu,I012,M,6 7,,
-,,,,,,,Abbidi Shivani Reddy,,,,,
-,,,,,,,Parvathy nair,,,,,
-,,,,,,7,Ravikiran Yeleswarapu,I013,Th,6 7,,
-,,,,,,,Krishnapriya G B,,,,,
-,,,,,,,Parvathy nair,,,,,
-,,,,,,8,TO BE ANNOUNCED,I013,Th,2 3,,
-,,,,,,,Ch Suresh Kumar,,,,,
-,,,,,,,Krishnapriya G B,,,,,
-,,,,,,9,Ramya K,I012,Th,2 3,,
-,,,,,,,"Balasubramanian
-Malayappa",,,,,
-,,,,,,,Gowtham Polumati,,,,,
-,,,,,,10,"Sree Rama Amrutha
-Lahari",I013,W,6 7,,
-,,,,,,,Gowtham Polumati,,,,,
+,,,,,,3,Alivelu Manga Parimi,WS,T,6 7,,
+,,,,,,,Gudavalli durga k prasad,,,,,
 ,,,,,,,Kurakula Anudeep,,,,,
-,,,,,,11,Keerthi C J,I012,Th,6 7,,
-,,,,,,,imran khan,,,,,
-,,,,,,,Kandi Mounika,,,,,
-,,,,,,12,Ramya K,I013,M,5 6,,
-,,,,,,,Isha Basumatary,,,,,
-,,,,,,,Ritesh Kumar Singh,,,,,
-,,,,,,13,"Sree Rama Amrutha
-Lahari",I012,T,6 7,,
-,,,,,,,Isha Basumatary,,,,,
-,,,,,,,Ritesh Kumar Singh,,,,,
-,,,,,,14,Kurakula Anudeep,I013,T,6 7,,
-,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,,Ch Suresh Kumar,,,,,
-,,Tutorial,,,,1,Soumya J,I113,T,9,,
-,,,,,,2,Soumya J,I113,Th,9,,
-,,,,,,3,Sourav Nandi,I114,T,9,,
-,,,,,,4,Sourav Nandi,I221,M,1,,
-,,,,,,5,Subhradeep Pal,I111,T,9,,
-,,,,,,6,Subhradeep Pal,I111,Th,9,,
-,,,,,,7,Anakhi Hazarika,I112,T,9,,
-,,,,,,8,Anakhi Hazarika,I112,Th,9,,
-,,,,,,9,Anakhi Hazarika,I111,M,5,,
-,,,,,,10,Ravikiran Yeleswarapu,I122,T,9,,
-,,,,,,11,Ravikiran Yeleswarapu,I122,Th,9,,
-,,,,,,12,Ravikiran Yeleswarapu,I122,W,5,,
-1239,EEE F242,CONTROL SYSTEMS,3,-,3,1,HARISH VIJAY DIXIT,F105,T Th,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,,,,,,Harish Vijay Dixit,F105,Th,10,,
-,,,,,,2,Ankur Bhattacharjee,F104,T Th,4,,
-,,,,,,,Ankur Bhattacharjee,F104,Th,10,,
-,,Tutorial,,,,1,Harish Vijay Dixit,J107,M,1,,
-,,,,,,2,Harish Vijay Dixit,I111,T,1,,
-,,,,,,3,Ankur Bhattacharjee,J119,M,1,,
-,,,,,,4,Ankur Bhattacharjee,I112,T,1,,
-,,,,,,5,Shaik sultan,J120,M,1,,
-,,,,,,6,Shaik sultan,I113,T,1,,
-,,,,,,7,Annaram Sowjanya,J121,M,1,,
-,,,,,,8,Annaram Sowjanya,I114,T,1,,
-1240,EEE F243,SIGNALS & SYSTEMS,3,-,3,1,"PRATYUSH
-CHAKRABORT",F105,M W F,9,15/03 - 9.30 - 11.00AM,16/05 FN
-,,,,,,2,Venkateswaran R,F104,M W F,9,,
-,,Tutorial,,,,1,Pratyush Chakraborty,I122,F,1,,
-,,,,,,2,Pratyush Chakraborty,I122,Th,1,,
-,,,,,,3,Venkateswaran R,I210,T,1,,
-,,,,,,4,Venkateswaran R,I210,Th,1,,
-,,,,,,5,S K Chatterjee,I211,F,1,,
-,,,,,,6,S K Chatterjee,I211,Th,1,,
-,,,,,,7,Rajesh Kumar Tripathy,I212,T,1,,
-,,,,,,8,Rajesh Kumar Tripathy,I212,Th,1,,
-1241,EEE F244,"MICROELECTRONIC
-CIRCUITS",3,-,3,1,SYED ERSHAD AHMED,F105,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,,,,,2,Niranjan Raj,F104,M W F,3,,
-,,Tutorial,,,,1,Syed Ershad Ahmed,I210,T,9,,
-,,,,,,2,Syed Ershad Ahmed,I210,Th,9,,
-,,,,,,3,"Parikshit Parshuram
-Sahatiy",I211,T,9,,
-,,,,,,4,"Parikshit Parshuram
-Sahatiy",I211,Th,9,,
-,,,,,,5,Surya Shankar Dan,I212,T,9,,
-,,,,,,6,Surya Shankar Dan,I212,Th,9,,
-,,,,,,7,Niranjan Raj,I213,T,9,,
-,,,,,,8,Niranjan Raj,I213,Th,9,,
-1889,EEE F245,"CONTROL SYSTEMS
-LABORATORY",-,1,1,1,ALIVELU MANGA PARIMI,K125,T,2 3,,
-,,,,,,,Manoj Samal,,,,,
-,,,,,,2,Gorityala Aishvaria,K125,Th,2 3,,
-,,,,,,,Manoj Samal,,,,,
-,,,,,,3,Krishna Tejus E M,K125,F,6 7,,
+,,,,,,4,Sudha Radhika,WS,Th,4 5,,
 ,,,,,,,Gorityala Aishvaria,,,,,
-,,,,,,4,Ponnalagu R N,K125,T,6 7,,
-,,,,,,,Krishna Tejus E M,,,,,
-,,,,,,,,,,,,
-1900,EEE F246,"ELECTRICAL &
-ELECTRONIC
-CIRCUITS LABORATORY",-,2,2,1,VENKATESWARAN R,H106,T Th,6 7,,
-,,,,,,,Naresh Bahadursha,,,,,
-,,,,,,,Syed Ershad Ahmed,,,,,
-,,,,,,,Sreejith V,,,,,
-,,,,,,2,Rajesh Kumar Tripathy,H106,M F,6 7,,
+,,,,,,,Pam Paul Gyang,,,,,
+,,,,,,5,Ankur Bhattacharjee,WS,T,4 5,,
+,,,,,,,Pragada Dheeraj Abhinav,,,,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+,,,,,,6,Alivelu Manga Parimi,WS,M,8 9,,
+,,,,,,,Gudavalli durga k prasad,,,,,
+,,,,,,,Kurakula Anudeep,,,,,
+,,,,,,7,Neha Tak,WS,M,4 5,,
+,,,,,,,Gorityala Aishvaria,,,,,
+,,,,,,,Swati patro,,,,,
+,,,,,,8,Neha Tak,WS,W,4 5,,
+,,,,,,,Kommanaboina Mahender,,,,,
+,,,,,,,Swati patro,,,,,
+,,Tutorial,,,,1,Ankur Bhattacharjee,I122,T,1,,
+,,,,,,2,Ankur Bhattacharjee,I122,Th,7,,
+,,,,,,3,Mithun Mondal,I210,T,1,,
+,,,,,,4,Mithun Mondal,I210,Th,7,,
+,,,,,,5,Neha Tak,I211,T,1,,
+,,,,,,6,Neha Tak,I211,T,9,,
+,,,,,,7,Neha Tak,I211,Th,7,,
+1078,EEE F212,ELECTROMAGNETIC THEO I,3,-,3,1,Sashideep Gutti,G201,M W F,3,11/12,AN
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,2,VSN Murthy,G202,M W F,3,,
+,,,,,,3,TO BE ANNOUNCED,G203,M W F,3,,
+,,,,,,4,RAHUL NIGAM,F103,M W F,3,,
+,,,,,,5,Swastik Bhattacharya,G204,M W F,3,,
+,,,,,,6,Asrarul Haque,G103,M W F,3,,
+,,Tutorial,,,,1,Sashideep Gutti,G201,Th,1,,
+,,,,,,2,VSN Murthy,G202,Th,1,,
+,,,,,,3,Debanjan Polley,G203,Th,1,,
+,,,,,,4,Rahul Nigam,F107,Th,1,,
+,,,,,,5,Swastik Bhattacharya,G204,Th,1,,
+,,,,,,6,Asrarul Haque,G103,Th,1,,
+1080,EEE F214,ELECTRONIC DEVICES,3,-,3,1,SAYAN KANUNGO,F105,M W F,2,06/12,AN
+,,,,,,2,S K Chatterjee,F104,M W F,2,,
+,,Tutorial,,,,1,Sayan Kanungo,I212,T,1,,
+,,,,,,2,S K Chatterjee,I213,Th,9,,
+,,,,,,3,S K Chatterjee,I213,T,1,,
+,,,,,,4,S K Chatterjee,I213,Th,7,,
+,,,,,,5,Parikshit Parshuram Sahatiya,I212,Th,7,,
+,,,,,,6,Sk Masum Nawaz,I221,T,1,,
+,,,,,,7,Sk Masum Nawaz,I221,Th,7,,
+1079,EEE F215,DIGITAL DESIGN,3,1,4,1,PONNALAGU R N,F105,T Th,2,04/12,AN
+,,,,,,,Ponnalagu R N,F105,W,7,,
+,,,,,,2,BVVSN Prabhakar Rao,F102,T Th,2,,
+,,,,,,,Joyjit Mukherjee,,,,,
+,,,,,,,BVVSN Prabhakar Rao,F102,W,7,,
+,,,,,,,Joyjit Mukherjee,,,,,
+,,Practical,,,,1,Amgith.G.S,I012,W,4 5,,
+,,,,,,,Shubham Deepak Yadav,,,,,
+,,,,,,2,Amgith.G.S,I012,M,4 5,,
+,,,,,,,Shubham Deepak Yadav,,,,,
+,,,,,,3,Syed Ershad Ahmed,I013,Th,4 5,,
+,,,,,,,Nongthombam Joychandra Singh,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Sohel Siraj,,,,,
+,,,,,,4,Ponnalagu R N,I013,M,8 9,,
+,,,,,,,Nongthombam Joychandra Singh,,,,,
+,,,,,,,Sohel Siraj,,,,,
+,,,,,,5,Gowtham Polumati,I013,W,4 5,,
+,,,,,,,Mou Sarkar,,,,,
+,,,,,,6,Amit Kumar Panda,I012,T,6 7,,
+,,,,,,,Gowtham Polumati,,,,,
+,,,,,,,Mou Sarkar,,,,,
+,,,,,,7,Niranjan Raj,I012,M,8 9,,
 ,,,,,,,Aditya Tiwari,,,,,
-,,,,,,,Niranjan Raj,,,,,
-,,,,,,,Pratyush Chakraborty,,,,,
-,,,,,,,TO BE ANNOUNCED,,,,,
+,,,,,,,N Praneeth,,,,,
+,,,,,,8,Neha Tak,I012,T,4 5,,
+,,,,,,,Aditya Tiwari,,,,,
+,,,,,,,N Praneeth,,,,,
+,,,,,,9,Neha Tak,I013,F,4 5,,
+,,,,,,,Isha Basumatary,,,,,
+,,,,,,,Vanmathi S,,,,,
+,,,,,,10,Ponnalagu R N,I012,F,4 5,,
+,,,,,,,Isha Basumatary,,,,,
+,,,,,,,Vanmathi S,,,,,
+,,,,,,11,Kandi Mounika,I012,M,6 7,,
+,,,,,,,Abbidi Shivani Reddy,,,,,
+,,,,,,12,Kandi Mounika,I013,T,4 5,,
+,,,,,,,Nandini Ashokkumar Trivedi,,,,,
+,,,,,,13,Baishali Paul,I013,M,6 7,,
+,,,,,,,Nandini Ashokkumar Trivedi,,,,,
+,,,,,,14,Baishali Paul,I013,T,6 7,,
+,,,,,,,Abbidi Shivani Reddy,,,,,
+,,,,,,15,Shaik sultan,I012,Th,4 5,,
+,,,,,,,Pavar Sai Kumar,,,,,
+,,,,,,16,Shaik sultan,I013,M,4 5,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Pavar Sai Kumar,,,,,
+,,Tutorial,,,,1,TO BE ANNOUNCED,I113,T,9,,
+,,,,,,2,TO BE ANNOUNCED,I113,Th,9,,
+,,,,,,3,Ponnalagu R N,I114,T,9,,
+,,,,,,4,Ponnalagu R N,I114,Th,9,,
+,,,,,,5,BVVSN Prabhakar Rao,I122,T,9,,
+,,,,,,6,BVVSN Prabhakar Rao,I122,Th,9,,
+,,,,,,7,Soumya J,I210,Th,9,,
+,,,,,,8,Joyjit Mukherjee,I210,T,9,,
+,,,,,,9,Niranjan Raj,I212,T,9,,
+,,,,,,10,Pritesh Kumar Yadav,I221,T,9,,
+,,,,,,11,Pritesh Kumar Yadav,I211,Th,9,,
 1657,EEE F266,STUDY PROJECT,-,-,3,1,S K CHATTERJEE,,,,,
-1244,EEE F312,POWER SYSTEMS,3,-,3,1,STP SRINIVAS,F107,M W F,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,,,,,,Alivelu Manga Parimi,,,,,
-,,Tutorial,,,,1,Alivelu Manga Parimi,J214,F,1,,
-,,,,,,2,Alivelu Manga Parimi,J214,T,7,,
-,,,,,,3,STP Srinivas,J217,F,1,,
-1245,EEE F341,ANALOG ELECTRONICS,3,1,4,1,"BVVSN PRABHAKAR
-RAO",F105,M W F,5,16/03 - 4.00 - 5.30PM,20/05 AN
-,,,,,,2,Ponnalagu R N,F104,M W F,5,,
-,,Practical,,,,1,BVVSN Prabhakar Rao,J106,T,8 9,,
-,,,,,,,Bishal kumar keshari,,,,,
-,,,,,,,Vanmathi S,,,,,
-,,,,,,2,BVVSN Prabhakar Rao,J106,Th,8 9,,
-,,,,,,,Vanmathi S,,,,,
-,,,,,,3,Prasant Kumar P,J106,W,7 8,,
-,,,,,,,Sohel Siraj,,,,,
-,,,,,,4,Prasant Kumar P,J106,S,4 5,,
-,,,,,,,Sohel Siraj,,,,,
-,,,,,,5,Amit Kumar Panda,J106,F,7 8,,
-,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,6,Amit Kumar Panda,J106,M,7 8,,
-,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,7,Ponnalagu R N,J106,S,2 3,,
-,,,,,,,Bishal kumar keshari,,,,,
-,,Tutorial,,,,1,BVVSN Prabhakar Rao,I114,M,1,,
-,,,,,,2,Ponnalagu R N,I111,M,1,,
-,,,,,,3,Ponnalagu R N,I111,W,1,,
-,,,,,,4,Prasant Kumar P,I112,M,1,,
-,,,,,,5,Prasant Kumar P,I112,W,1,,
-,,,,,,6,Amit Kumar Panda,I113,M,1,,
-,,,,,,7,Amit Kumar Panda,I113,W,1,,
-1246,EEE F342,POWER ELECTRONICS,3,1,4,1,SUDHA RADHIKA,F105,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Sudha Radhika,F105,F,10,,
-,,Practical,,,,1,Sudha Radhika,LAB,M,7 8,,
-,,,,,,,Kommanaboina Mahender,,,,,
-,,,,,,2,Sudha Radhika,LAB,F,7 8,,
-,,,,,,,Kommanaboina Mahender,,,,,
-,,,,,,3,STP Srinivas,LAB,T,8 9,,
-,,,,,,,N Praneeth,,,,,
-,,,,,,4,STP Srinivas,LAB,Th,8 9,,
-,,,,,,,N Praneeth,,,,,
-,,Tutorial,,,,1,Sudha Radhika,I122,M,1,,
-,,,,,,2,Sudha Radhika,I122,W,1,,
-,,,,,,3,STP Srinivas,I210,M,1,,
-,,,,,,4,STP Srinivas,I210,W,1,,
-1902,EEE F348,"FPGA BASED SYSTEM
-DESIGN LAB",-,2,2,1,AMIT KUMAR PANDA,I124,T Th,7 8,,
-,,,,,,,Himanshi Awasthi,,,,,
-1731,EEE F366,LABORATORY PROJECT,-,-,3,1,SAYAN KANUNGO,,,,,
-1742,EEE F367,LABORATORY PROJECT,-,-,3,1,SAYAN KANUNGO,,,,,
+1242,EEE F311,COMMUNICATION SYSTEMS,3,1,4,1,PRASANT KUMAR P,F105,M T Th,9,12/12,AN
+,,,,,,2,Pranay agarwal,F104,M T Th,9,,
+,,,,,,,Nitish Kumar Gupta,,,,,
+,,Practical,,,,1,Prasant Kumar P,H106,T,4 5,,
+,,,,,,,Chinthapalli Amulya,,,,,
+,,,,,,,Sanjana Mathew,,,,,
+,,,,,,2,Prasant Kumar P,H106,Th,4 5,,
+,,,,,,,Sree Rama Amrutha Lahari,,,,,
+,,,,,,,Yuvraj Maphrio Mao,,,,,
+,,,,,,3,Nitish Kumar Gupta,H106,W,9 10,,
+,,,,,,,Krishna KY KGR,,,,,
+,,,,,,,Yuvraj Maphrio Mao,,,,,
+,,,,,,4,Nitish Kumar Gupta,H106,Th,7 8,,
+,,,,,,,Krishna KY KGR,,,,,
+,,,,,,,Neha Parmar,,,,,
+,,,,,,5,Subhradeep Pal,H106,T,7 8,,
+,,,,,,,Annaram Sowjanya,,,,,
+,,,,,,,Sanjana Mathew,,,,,
+,,,,,,6,Prasant Kumar P,H106,F,8 9,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Chinthapalli Amulya,,,,,
+,,,,,,,Sree Rama Amrutha Lahari,,,,,
+,,Tutorial,,,,1,Prasant Kumar P,I211,W,8,,
+,,,,,,2,Prashant Wali,I210,M,1,,
+,,,,,,3,Prashant Wali,I210,W,1,,
+,,,,,,4,Nitish Kumar Gupta,I211,M,1,,
+,,,,,,5,Nitish Kumar Gupta,I211,W,1,,
+1243,EEE F313,ANALOG & DIGITAL VLSI DES,3,-,3,1,SYED ERSHAD AHMED,F105,M W F,5,07/12,AN
+,,Tutorial,,,,1,Syed Ershad Ahmed,I212,M,1,,
+,,,,,,2,Chetan Kumar V,I213,M,1,,
+,,,,,,3,Syed Ershad Ahmed,I212,W,1,,
+,,,,,,4,Surya Shankar Dan,I213,W,1,,
+1245,EEE F341,ANALOG ELECTRONICS,3,1,4,1,AMIT KUMAR PANDA,I212,M W F,4,04/12,FN
+,,Practical,,,,,Amit Kumar Panda,LAB,Th,7 8,,
+,,Tutorial,,,,,Amit Kumar Panda,I221,M,1,,
+1902,EEE F348,FPGA BASED SYSTEM DESIGN LAB,-,2,2,1,ANAKHI HAZARIKA,I124,Th,7 8,,
+,,,,,,,Aditi Sood,,,,,
+,,,,,,,Anakhi Hazarika,I124,F,8 9,,
+,,,,,,,Aditi Sood,,,,,
+1731,EEE F366,LABORATORY PROJECT,-,-,3,1,STP SRINIVAS,,,,,
+1742,EEE F367,LABORATORY PROJECT,-,-,3,1,STP SRINIVAS,,,,,
 1691,EEE F376,DESIGN PROJECT,-,-,3,1,SOURAV NANDI,,,,,
 1758,EEE F377,DESIGN PROJECT,-,-,3,1,SOURAV NANDI,,,,,
-1259,EEE F426,"FIBRE OPTICS &
-OPTOELECT",3,-,3,1,PRASANT KUMAR P,I222,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Prasant Kumar P,I222,M,10,,
-2497,EEE F428,"ENERGY STORAGE
-SYSTEMS",3,-,3,1,"ANKUR
-BHATTACHARJEE",I222,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-1257,EEE F435,"DIGITAL IMAGE
-PROCESSING",3,-,3,1,"RAJESH KUMAR
-TRIPATHY",G107,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-1855,EEE F474,"ANTENNA THEORY AND
-DESIGN",3,1,4,1,SOURAV NANDI,I222,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-,,Practical,,,,,Sourav Nandi,K125,Th,8 9,,
-1895,EEE F477,"MODELING OF FIELD-
-EFFECT NANO DEVICES",3,-,3,1,SAYAN KANUNGO,I222,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,Sayan Kanungo,I222,Th,10,,
-1901,EEE F478,POWER SYSTEMS LAB,-,2,2,1,ALIVELU MANGA PARIMI,K125,M W,7 8,,
-,,,,,,,Gudavalli durga k prasad,,,,,
-96,EEE G592,"MOBILE & PERSONAL
-COMMUNICATION",3,2,5,1,PRASHANT WALI,I221,M W F,5,14/03 - 2.00 - 3.30PM,14/05 FN
-,,Practical,,,,,Cynthia C,H106,M,8 9,,
-,,,,,,,Cynthia C,H106,W,7 8,,
-80,EEE G622,"ADVANCED DIGITAL
-COMMUNICATION",3,2,5,1,PRASHANT WALI,I221,T Th,4,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Prashant Wali,I221,Th,10,,
-,,Practical,,,,,Prashant Wali,I011,T,8 9,,
-,,,,,,,Prashant Wali,I011,F,9 10,,
-1539,FIN F311,DERIVATIVES & RISK MGMT,3,-,3,1,SHREYA BISWAS,F207,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Shreya Biswas,F207,F,10,,
-,,,,,,2,TO BE ANNOUNCED,F208,T Th,3,,
-,,,,,,,TO BE ANNOUNCED,F208,F,10,,
-1545,FIN F313,"SECUR ANAL & PORTFOL
-MGT",3,-,3,1,C H YAGANTI,F208,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-1542,FIN F315,FINANCIAL MANAGEMENT,3,-,3,1,Sravani Bharandev,G208,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Sravani Bharandev,G208,M,10,,
-,,,,,,2,NIVEDITA SINHA,F207,T Th,2,,
-,,,,,,,Nivedita Sinha,F207,M,10,,
-1942,FIN F414,"FINANCIAL RISK ANALYTICS
-AND MANAGEMENT",3,-,3,1,T NAGARAJU,J119,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-,,,,,,2,TO BE ANNOUNCED,J120,M W F,2,,
-1135,GS F223,INTRO TO MASS COMM,3,-,3,1,"SPANDAN
-BHATTACHARYA",J121,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Spandan Bhattacharya,J121,M,10,,
-1171,GS F233,PUBLIC POLICY,3,-,3,1,HARSH MITTAL,J120,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-1165,GS F245,EFFECTIVE PUBLIC SPEAK,2,1,3,1,SANTOSH MAHAPATRA,J115,M W F,8,16/03 - 11.00 - 12.30PM,18/05 AN
-1137,GS F322,CRITI ANAL OF LIT & CINE,3,-,3,1,MG PRASUNA,J119,M W F,8,16/03 - 11.00 - 12.30PM,18/05 AN
-1177,GS F333,PUBLIC ADMINISTRATION,3,-,3,1,LAVANYA SURESH,J107,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,Lavanya Suresh,J107,Th,10,,
-1164,GS F342,"COMPUTER MEDIATED
-COMM",3,-,3,1,SANTOSH MAHAPATRA,J115,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Santosh Mahapatra,J115,F,10,,
-2565,GS F345,CONSTITUTION OF INDIA,3,-,3,1,SUCHISMITA SATPATHY,J107,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Suchismita Satpathy,J107,F,10,,
-1603,HSS F222,LINGUISTICS,3,-,3,1,PRANESH BHARGAVA,J120,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Pranesh Bhargava,J120,F,10,,
-1627,HSS F235,"INTRODUCTORY
-PHILOSOPHY",3,-,3,1,JAYESH A K,J206,M W F,8,16/03 - 11.00 - 12.30PM,18/05 AN
-1903,HSS F237,"CONTEMPORARY INDIAN
-ENGLISH FICTION",3,-,3,1,MAYA VINAI,J206,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Maya Vinai,J206,F,10,,
-2426,HSS F248,"INTRODUCTION TO
-DISABILITY STUDIES",3,-,3,1,SHILPAA ANAND,J119,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Shilpaa Anand,J119,F,10,,
-1643,HSS F316,"POP LITER & CULT OF S
-ASIA",3,-,3,1,MAYA VINAI,J206,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-1645,HSS F317,INTRO TO GLOBALIZATION,3,-,3,1,SUCHISMITA SATPATHY,J107,M W F,8,16/03 - 11.00 - 12.30PM,18/05 AN
-,,,,,,,,,,,,
-1943,HSS F322,"SOCIAL AND POLITICAL
-ECOLOGY",3,-,3,1,LAVANYA SURESH,J115,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-1599,HSS F334,SRIMAD BHAGAVAD GITA,3,-,3,1,ARUNA LOLLA,J206,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,2,Aruna Lolla,J206,M,10,,
-1605,HSS F336,MODERN FICTION,3,-,3,1,VIJAY KUMAR T,J217,M W F,8,16/03 - 11.00 - 12.30PM,18/05 AN
-1606,HSS F337,"ENGLISH LITERARY FORMS
-AND MOVEMENTS",3,-,3,1,TONY SEBASTIAN,J214,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-1607,HSS F338,COMPARATIVE INDIAN LIT,3,-,3,1,MG PRASUNA,J119,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,MG Prasuna,J119,Th,10,,
-1832,HSS F340,"POST COLONIAL
-LITERATURE",3,-,3,1,VIJAY KUMAR T,J107,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Vijay Kumar T,J107,M,10,,
-2270,HSS F363,"DISASTER AND
-DEVELOPMENT",3,-,3,1,BISWANATH DASH,J115,M W F,7,12/03 - 9.30 - 11.00AM,08/05 FN
-2290,HSS F369,"CASTE AND GENDER IN
-INDIA",3,-,3,1,SHILPAA ANAND,J120,M W F,8,16/03 - 11.00 - 12.30PM,18/05 AN
-2566,HSS F378,"CINEMAS OF INDIA: FROM
-PAST TO PRESENT",3,-,3,1,"SPANDAN
-BHATTACHARYA",J121,M W F,8,16/03 - 11.00 - 12.30PM,18/05 AN
-2567,HSS F379,"INTRODUCTION TO
-PHILOSOPHY OF SCIENCE",3,,3,1,BISWANATH DASH,J115,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Biswanath Dash,J115,M,10,,
-2631,HSS F381,"ENVIRONMENTAL SUSTAIN
-VENTURES",3,,3,,LAVANYA SURESH,F101,M W F,11 12,13/03 - 4.00 - 5.30PM,10/05 FN
-2632,HSS F382,"HOUSING: PROGRAMS,
-POLICIES AND PRACTICES",3,-,3,1,HARSH MITTAL,J120,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Harsh Mittal,J120,M,10,,
-1341,INSTR F241,"MICROPROC &
-INTERFACING",3,1,4,1,SUBHRADEEP PAL,F102,M W F,2,11/03 - 2.00 - 3.30PM,07/05 FN
-,,,,,,2,Anakhi Hazarika,G208,M W F,2,,
-,,,,,,3,S Gurunarayanan,F105,M W F,2,,
-,,Practical,,,,1,Runa Kumari,I012,T,2 3,,
-,,,,,,,Kandi Mounika,,,,,
+2288,EEE F411,INTERNET OF THINGS,3,1,4,1,RAVIKIRAN YELESWARAPU,F104,M W F,3,11/12,FN
+,,Practical,,,,1,Ravikiran Yeleswarapu,J105,T,4 5,,
+,,,,,,,Krishnapriya G B,,,,,
+,,,,,,,Parvathy nair,,,,,
+,,,,,,2,Ravikiran Yeleswarapu,J105,Th,7 8,,
+,,,,,,,Abhishek Kumar,,,,,
+,,,,,,,Granthana Sen,,,,,
+,,,,,,3,Ravikiran Yeleswarapu,J105,Th,4 5,,
+,,,,,,,Parvathy nair,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Ritesh Kumar Singh,,,,,
+,,,,,,4,Balasubramanian Malayappan,J105,F,8 9,,
+,,,,,,,Granthana Sen,,,,,
+,,,,,,,Krishnapriya G B,,,,,
+1254,EEE F422,MODERN CONTROL SYSTEMS,3,-,3,1,ALIVELU MANGA PARIMI,I210,T Th,2,16/12,AN
+,,,,,,,Alivelu Manga Parimi,I210,W,7,,
+2496,EEE F424,SMART GRID FOR SUSTAINABLE ENERGY,3,-,3,1,STP SRINIVAS,I210,M W F,2,06/12,FN
+1256,EEE F434,DIGITAL SIGNAL PROCESS,3,1,4,1,RAJESH KUMAR TRIPATHY,F105,T Th,10,02/12,AN
+,,,,,,,S K Sahoo,,,,,
+,,,,,,,Rajesh Kumar Tripathy,F105,F,7,,
+,,,,,,,S K Sahoo,,,,,
+,,Practical,,,,1,BVVSN Prabhakar Rao,I011,F,8 9,,
+,,,,,,,Nishchitha N K,,,,,
+,,,,,,2,BVVSN Prabhakar Rao,I011,T,4 5,,
+,,,,,,,Nishchitha N K,,,,,
+,,,,,,3,S K Sahoo,I011,Th,4 5,,
 ,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,2,Sourav Nandi,I013,T,2 3,,
-,,,,,,,Sanjana Mathew,,,,,
+,,,,,,4,BVVSN Prabhakar Rao,I011,W,9 10,,
 ,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,3,Subhradeep Pal,I013,F,6 7,,
+,,Tutorial,,,,1,Rajesh Kumar Tripathy,I211,M,8,,
+,,,,,,2,Venkateswaran R,I210,M,8,,
+,,,,,,3,Venkateswaran R,I210,W,8,,
+1854,EEE F473,WIND ELECTRICAL SYSTEM,3,-,3,1,STP SRINIVAS,I210,M W,10,09/12,FN
+,,,,,,,STP Srinivas,I210,Th,6,,
+462,EEE G510,RF MICROELECTRONICS,-,-,5,1,PRITESH KUMAR YADAV,G106,M W F,1,13/12,AN
+,,Practical,,,,,Pritesh Kumar Yadav,K125,W F,6 7,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+324,EEE G512,EMBEDDED SYSTEM DESIGN,3,1,4,1,ANAKHI HAZARIKA,I114,M W F,3,09/12,FN
+,,Practical,,,,,Anakhi Hazarika,J105,T,7 8,,
 ,,,,,,,Thalla Narasimha Swetha,,,,,
+2511,EEE G513,MACHINE LEARNING FOR ELECTRONIC ENGINEERS,3,1,4,1,PRASHANT WALI,I221,M W F,4,09/12,AN
+,,Practical,,,,,Prashant Wali,I222,Th,7 8,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Cynthia C,,,,,
+698,EEE G581,RF & MICROWAVE ENGG,3,2,5,1,SOURAV NANDI,I222,M W F,5,13/12,FN
+,,Practical,,,,,Sourav Nandi,K125,Th,4 5,,
+,,,,,,,Mendhe Mrunali Vijay,,,,,
+712,EEE G591,OPTICAL COMMUNICATION,3,2,5,1,SUBHRADEEP PAL,I212,M W F,5,05/12,FN
+,,Practical,,,,,Subhradeep Pal,I212,T Th,4 5,,
 ,,,,,,,Keerthi C J,,,,,
-,,,,,,4,Anakhi Hazarika,I012,W,6 7,,
-,,,,,,,Thalla Narasimha Swetha,,,,,
-,,,,,,,Yuvraj Maphrio Mao,,,,,
-,,,,,,5,Ravikiran Yeleswarapu,I012,F,6 7,,
-,,,,,,,Abbidi Shivani Reddy,,,,,
-,,,,,,,Yuvraj Maphrio Mao,,,,,
-,,,,,,6,Ravikiran Yeleswarapu,I012,M,6 7,,
-,,,,,,,Abbidi Shivani Reddy,,,,,
-,,,,,,,Parvathy nair,,,,,
-,,,,,,7,Ravikiran Yeleswarapu,I013,Th,6 7,,
-,,,,,,,Krishnapriya G B,,,,,
-,,,,,,,Parvathy nair,,,,,
-,,,,,,8,TO BE ANNOUNCED,I013,Th,2 3,,
+707,EEE G612,CODING THEORY & PRACTICE,3,2,5,1,RUNA KUMARI,I222,M W F,4,04/12,FN
+,,Practical,,,,,Runa Kumari,H106,M W,7 8,,
 ,,,,,,,Ch Suresh Kumar,,,,,
-,,,,,,,Krishnapriya G B,,,,,
-,,,,,,9,Ramya K,I012,Th,2 3,,
-,,,,,,,"Balasubramanian
-Malayappa",,,,,
-,,,,,,,Gowtham Polumati,,,,,
-,,,,,,10,"Sree Rama Amrutha
-Lahari",I013,W,6 7,,
-,,,,,,,Gowtham Polumati,,,,,
+471,EEE G613,ADV DIGITAL SIGNAL PROC,-,-,5,1,RAJESH KUMAR TRIPATHY,I222,T Th,3,11/12,FN
+,,,,,,,Rajesh Kumar Tripathy,I222,W,9,,
+,,Practical,,,,,Rajesh Kumar Tripathy,I011,F,10 11,,
+,,,,,,,Rajesh Kumar Tripathy,I011,Th,6 7,,
+2512,EEE G614,ADVANCED WIRELESS COMMUNICATION,3,2,5,1,PRANAY AGARWAL,I221,M W F,2,07/12,FN
+,,Practical,,,,,Pranay agarwal,I011,W,7 8,,
+,,,,,,,Avula brahma tejaswini,,,,,
+,,,,,,,Pranay agarwal,I011,F,6 7,,
+,,,,,,,Avula brahma tejaswini,,,,,
+921,EEE G626,HARDWARE SOFTWARE CO-DSN,-,-,5,1,AMIT KUMAR PANDA,I213,T Th,3,13/12,FN
+,,,,,,,Amit Kumar Panda,I213,F,10,,
+,,Practical,,,,,Amit Kumar Panda,J105,W,9 10,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+1942,FIN F414,FINANCIAL RISK ANALYTICS AND MANAGEMENT,3,-,3,1,T NAGARAJU,G207,M W F,2,06/12,FN
+,,,,,,2,ACV Subrahmanyam,G206,M W F,2,,
+1131,GS F212,ENVIRON DEV & CLIMATE,3,-,3,1,LAVANYA SURESH,J119,M W F,1,10/12,AN
+1133,GS F221,BUSINESS COMMUNICATION,3,-,3,1,ARUNA LOLLA,J119,T Th,10,05/12,AN
+,,,,,,,Aruna Lolla,J119,F,7,,
+1135,GS F223,INTRO TO MASS COMM,3,-,3,1,TO BE ANNOUNCED,J217,T Th,5,03/12,FN
+,,,,,,,TO BE ANNOUNCED,J217,W,10,,
+1169,GS F231,DYNAMICS OF SOCIAL CHANGE,3,-,3,1,SUCHISMITA SATPATHY,J121,T Th,10,05/12,AN
+,,,,,,,Suchismita Satpathy,J121,F,7,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+1170,GS F232,INTRODUCTORY PSYCHOLOGY,3,-,3,1,MADHUSHREE CHAKRABARTY,J206,M W,10,09/12,FN
+,,,,,,,Madhushree Chakrabarty,J206,Th,6,,
+1158,GS F241,CREATIVE WRITING,3,-,3,1,TONY SEBASTIAN,J120,M W F,1,10/12,AN
+1159,GS F242,CULTURAL STUDIES,3,-,3,1,SHILPAA ANAND,J120,T Th,3,13/12,AN
+,,,,,,,Shilpaa Anand,J120,F,10,,
+1161,GS F244,REPORTING AND WRITING FOR MEDIA,3,-,3,1,KRISHNANUNNI HARI,J121,T Th,3,13/12,AN
+,,,,,,,Krishnanunni Hari,J121,F,10,,
+1165,GS F245,EFFECTIVE PUBLIC SPEAK,2,1,3,1,SANTOSH MAHAPATRA,J107,T Th,10,05/12,AN
+,,,,,,,Santosh Mahapatra,J107,F,7,,
+1174,GS F312,APPLIED PHILOSOPHY,3,-,3,1,JAYESH A K,J121,M W F,1,10/12,AN
+1137,GS F322,CRITI ANAL OF LIT & CINE,3,-,3,1,MG PRASUNA,J115,T Th,5,03/12,FN
+,,,,,,,MG Prasuna,J115,W,10,,
+1177,GS F333,PUBLIC ADMINISTRATION,3,-,3,1,LAVANYA SURESH,J218,T Th,5,03/12,FN
+,,,,,,,Lavanya Suresh,J218,W,10,,
+1603,HSS F222,LINGUISTICS,3,-,3,1,PRANESH BHARGAVA,J120,M W F,4,04/12,FN
+1622,HSS F234,MAIN CURRENT OF MODERN,3,-,3,1,MADHAVI JHA,J219,M W F,1,10/12,AN
+1627,HSS F235,HINISTRODUCTORY PHILOSOPHY,3,-,3,1,JAYESH A K,J121,T Th,2,16/12,FN
+,,,,,,,Jayesh A K,J121,W,7,,
+1645,HSS F317,INTRO TO GLOBALIZATION,3,-,3,1,KUNALJEET ROY,J115,T Th,10,05/12,AN
+,,,,,,,Kunaljeet Roy,J115,F,7,,
+1598,HSS F331,SANKARA'S THOUGHTS,3,-,3,1,MAYA VINAI,J120,T Th,10,05/12,AN
+,,,,,,,Maya Vinai,J120,F,7,,
+1601,HSS F332,CINEMATIC ART,-,-,3,1,SPANDAN BHATTACHARYA,J206,M W F,1,10/12,AN
+1599,HSS F334,SRIMAD BHAGAVAD GITA,3,-,3,1,ARUNA LOLLA,J119,M W F,3,11/12,FN
+1605,HSS F336,MODERN FICTION,3,-,3,1,VIJAY KUMAR T,J206,M W F,3,11/12,FN
+1832,HSS F340,POST COLONIAL LITERATURE,3,-,3,1,VIJAY KUMAR T,J206,T Th,10,05/12,AN
+,,,,,,,Vijay Kumar T,J206,F,7,,
+1626,HSS F346,INTERNATIONAL RELATIONS,3,-,3,1,SUCHISMITA SATPATHY,J121,M W F,4,04/12,FN
+2289,HSS F368,ASIAN CINEMAS AND CULTURES,3,-,3,1,SPANDAN BHATTACHARYA,J206,T Th,2,16/12,AN
+,,,,,,,Spandan Bhattacharya,J206,W,7,,
+2290,HSS F369,CASTE AND GENDER IN INDIA,3,-,3,1,SHILPAA ANAND,J121,M W F,2,06/12,FN
+2567,HSS F379,INTRODUCTION TO,3,3,3,1,BISWANATH DASH,J119,T Th,5,03/12,FN
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Biswanath Dash,J119,W,10,,
+1096,INSTR F211,ELECTRICAL MACHINES,3,1,4,1,ANKUR BHATTACHARJEE,F105,T W F,8,16/12,FN
+,,,,,,2,Mithun Mondal,F104,T W F,8,,
+,,Practical,,,,1,Pratyush Chakraborty,WS,F,4 5,,
+,,,,,,,Pam Paul Gyang,,,,,
+,,,,,,,Pragada Dheeraj Abhinav,,,,,
+,,,,,,2,Mithun Mondal,WS,M,6 7,,
+,,,,,,,Kommanaboina Mahender,,,,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+,,,,,,3,Alivelu Manga Parimi,WS,T,6 7,,
+,,,,,,,Gudavalli durga k prasad,,,,,
 ,,,,,,,Kurakula Anudeep,,,,,
-,,,,,,11,Keerthi C J,I012,Th,6 7,,
-,,,,,,,imran khan,,,,,
-,,,,,,,Kandi Mounika,,,,,
-,,,,,,12,Ramya K,I013,M,5 6,,
-,,,,,,,Isha Basumatary,,,,,
-,,,,,,,Ritesh Kumar Singh,,,,,
-,,,,,,13,"Sree Rama Amrutha
-Lahari",I012,T,6 7,,
-,,,,,,,Isha Basumatary,,,,,
-,,,,,,,Ritesh Kumar Singh,,,,,
-,,,,,,14,Kurakula Anudeep,I013,T,6 7,,
+,,,,,,4,Sudha Radhika,WS,Th,4 5,,
+,,,,,,,Gorityala Aishvaria,,,,,
+,,,,,,,Pam Paul Gyang,,,,,
+,,,,,,5,Ankur Bhattacharjee,WS,T,4 5,,
+,,,,,,,Pragada Dheeraj Abhinav,,,,,
 ,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,,Ch Suresh Kumar,,,,,
-,,Tutorial,,,,1,Soumya J,I113,T,9,,
-,,,,,,2,Soumya J,I113,Th,9,,
-,,,,,,3,Sourav Nandi,I114,T,9,,
-,,,,,,4,Sourav Nandi,I221,M,1,,
-,,,,,,5,Subhradeep Pal,I111,T,9,,
-,,,,,,6,Subhradeep Pal,I111,Th,9,,
-,,,,,,7,Anakhi Hazarika,I112,T,9,,
-,,,,,,8,Anakhi Hazarika,I112,Th,9,,
-,,,,,,9,Anakhi Hazarika,I111,M,5,,
-,,,,,,10,Ravikiran Yeleswarapu,I122,T,9,,
-,,,,,,11,Ravikiran Yeleswarapu,I122,Th,9,,
-,,,,,,12,Ravikiran Yeleswarapu,I122,W,5,,
-1342,INSTR F242,CONTROL SYSTEMS,3,-,3,1,HARISH VIJAY DIXIT,F105,T Th,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,,,,,,Harish Vijay Dixit,F105,Th,10,,
-,,,,,,2,Ankur Bhattacharjee,F104,T Th,4,,
-,,,,,,,Ankur Bhattacharjee,F104,Th,10,,
-,,Tutorial,,,,1,Harish Vijay Dixit,J107,M,1,,
-,,,,,,2,Harish Vijay Dixit,I111,T,1,,
-,,,,,,3,Ankur Bhattacharjee,J119,M,1,,
-,,,,,,4,Ankur Bhattacharjee,I112,T,1,,
-,,,,,,5,Shaik sultan,J120,M,1,,
-,,,,,,6,Shaik sultan,I113,T,1,,
-,,,,,,7,Annaram Sowjanya,J121,M,1,,
-,,,,,,8,Annaram Sowjanya,I114,T,1,,
-1343,INSTR F243,SIGNALS & SYSTEMS,3,-,3,1,"PRATYUSH
-CHAKRABORT",F105,M W F,9,15/03 - 9.30 - 11.00AM,16/05 FN
-,,,,,,2,Venkateswaran R,F104,M W F,9,,
-,,Tutorial,,,,1,Pratyush Chakraborty,I122,F,1,,
-,,,,,,2,Pratyush Chakraborty,I122,Th,1,,
-,,,,,,3,Venkateswaran R,I210,T,1,,
-,,,,,,4,Venkateswaran R,I210,Th,1,,
-,,,,,,5,S K Chatterjee,I211,F,1,,
-,,,,,,6,S K Chatterjee,I211,Th,1,,
-,,,,,,7,Rajesh Kumar Tripathy,I212,T,1,,
-,,,,,,8,Rajesh Kumar Tripathy,I212,Th,1,,
-1344,INSTR F244,"MICROELECTRONIC
-CIRCUITS",3,-,3,1,SYED ERSHAD AHMED,F105,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,,,,,2,Niranjan Raj,F104,M W F,3,,
-,,Tutorial,,,,1,Syed Ershad Ahmed,I210,T,9,,
-,,,,,,2,Syed Ershad Ahmed,I210,Th,9,,
-,,,,,,3,"Parikshit Parshuram
-Sahatiy",I211,T,9,,
-,,,,,,4,"Parikshit Parshuram
-Sahatiy",I211,Th,9,,
-,,,,,,5,Surya Shankar Dan,I212,T,9,,
-,,,,,,6,Surya Shankar Dan,I212,Th,9,,
-,,,,,,7,Niranjan Raj,I213,T,9,,
-,,,,,,8,Niranjan Raj,I213,Th,9,,
+,,,,,,6,Alivelu Manga Parimi,WS,M,8 9,,
+,,,,,,,Gudavalli durga k prasad,,,,,
+,,,,,,,Kurakula Anudeep,,,,,
+,,,,,,7,Neha Tak,WS,M,4 5,,
+,,,,,,,Gorityala Aishvaria,,,,,
+,,,,,,,Swati patro,,,,,
+,,,,,,8,Neha Tak,WS,W,4 5,,
+,,,,,,,Kommanaboina Mahender,,,,,
+,,,,,,,Swati patro,,,,,
+,,Tutorial,,,,1,Ankur Bhattacharjee,I122,T,1,,
+,,,,,,2,Ankur Bhattacharjee,I122,Th,7,,
+,,,,,,3,Mithun Mondal,I210,T,1,,
+,,,,,,4,Mithun Mondal,I210,Th,7,,
+,,,,,,5,Neha Tak,I211,T,1,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,6,Neha Tak,I211,T,9,,
+,,,,,,7,Neha Tak,I211,Th,7,,
+1097,INSTR F212,ELECTROMAGNETIC THEORY I,3,-,3,1,Sashideep Gutti,G201,M W F,3,11/12,AN
+,,,,,,2,VSN Murthy,G202,M W F,3,,
+,,,,,,3,TO BE ANNOUNCED,G203,M W F,3,,
+,,,,,,4,RAHUL NIGAM,F103,M W F,3,,
+,,,,,,5,Swastik Bhattacharya,G204,M W F,3,,
+,,,,,,6,Asrarul Haque,G103,M W F,3,,
+,,Tutorial,,,,1,Sashideep Gutti,G201,Th,1,,
+,,,,,,2,VSN Murthy,G202,Th,1,,
+,,,,,,3,Debanjan Polley,G203,Th,1,,
+,,,,,,4,Rahul Nigam,F107,Th,1,,
+,,,,,,5,Swastik Bhattacharya,G204,Th,1,,
+,,,,,,6,Asrarul Haque,G103,Th,1,,
+1099,INSTR F214,ELECTRONIC DEVICES,3,-,3,1,SAYAN KANUNGO,F105,M W F,2,06/12,AN
+,,,,,,2,S K Chatterjee,F104,M W F,2,,
+,,Tutorial,,,,1,Sayan Kanungo,I212,T,1,,
+,,,,,,2,S K Chatterjee,I213,Th,9,,
+,,,,,,3,S K Chatterjee,I213,T,1,,
+,,,,,,4,S K Chatterjee,I213,Th,7,,
+,,,,,,5,Parikshit Parshuram Sahatiya,I212,Th,7,,
+,,,,,,6,Sk Masum Nawaz,I221,T,1,,
+,,,,,,7,Sk Masum Nawaz,I221,Th,7,,
+1098,INSTR F215,DIGITAL DESIGN,3,1,4,1,PONNALAGU R N,F105,T Th,2,04/12,AN
+,,,,,,,Ponnalagu R N,F105,W,7,,
+,,,,,,2,BVVSN Prabhakar Rao,F102,T Th,2,,
+,,,,,,,Joyjit Mukherjee,,,,,
+,,,,,,,BVVSN Prabhakar Rao,F102,W,7,,
+,,,,,,,Joyjit Mukherjee,,,,,
+,,Practical,,,,1,Amgith.G.S,I012,W,4 5,,
+,,,,,,,Shubham Deepak Yadav,,,,,
+,,,,,,2,Amgith.G.S,I012,M,4 5,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Shubham Deepak Yadav,,,,,
+,,,,,,3,Syed Ershad Ahmed,I013,Th,4 5,,
+,,,,,,,Nongthombam Joychandra Singh,,,,,
+,,,,,,,Sohel Siraj,,,,,
+,,,,,,4,Ponnalagu R N,I013,M,8 9,,
+,,,,,,,Nongthombam Joychandra Singh,,,,,
+,,,,,,,Sohel Siraj,,,,,
+,,,,,,5,Gowtham Polumati,I013,W,4 5,,
+,,,,,,,Mou Sarkar,,,,,
+,,,,,,6,Amit Kumar Panda,I012,T,6 7,,
+,,,,,,,Gowtham Polumati,,,,,
+,,,,,,,Mou Sarkar,,,,,
+,,,,,,7,Niranjan Raj,I012,M,8 9,,
+,,,,,,,Aditya Tiwari,,,,,
+,,,,,,,N Praneeth,,,,,
+,,,,,,8,Neha Tak,I012,T,4 5,,
+,,,,,,,Aditya Tiwari,,,,,
+,,,,,,,N Praneeth,,,,,
+,,,,,,9,Neha Tak,I013,F,4 5,,
+,,,,,,,Isha Basumatary,,,,,
+,,,,,,,Vanmathi S,,,,,
+,,,,,,10,Ponnalagu R N,I012,F,4 5,,
+,,,,,,,Isha Basumatary,,,,,
+,,,,,,,Vanmathi S,,,,,
+,,,,,,11,Kandi Mounika,I012,M,6 7,,
+,,,,,,,Abbidi Shivani Reddy,,,,,
+,,,,,,12,Kandi Mounika,I013,T,4 5,,
+,,,,,,,Nandini Ashokkumar Trivedi,,,,,
+,,,,,,13,Baishali Paul,I013,M,6 7,,
+,,,,,,,Nandini Ashokkumar Trivedi,,,,,
+,,,,,,14,Baishali Paul,I013,T,6 7,,
+,,,,,,,Abbidi Shivani Reddy,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,15,Shaik sultan,I012,Th,4 5,,
+,,,,,,,Pavar Sai Kumar,,,,,
+,,,,,,16,Shaik sultan,I013,M,4 5,,
+,,,,,,,Pavar Sai Kumar,,,,,
+,,Tutorial,,,,1,TO BE ANNOUNCED,I113,T,9,,
+,,,,,,2,TO BE ANNOUNCED,I113,Th,9,,
+,,,,,,3,Ponnalagu R N,I114,T,9,,
+,,,,,,4,Ponnalagu R N,I114,Th,9,,
+,,,,,,5,BVVSN Prabhakar Rao,I122,T,9,,
+,,,,,,6,BVVSN Prabhakar Rao,I122,Th,9,,
+,,,,,,7,Soumya J,I210,Th,9,,
+,,,,,,8,Joyjit Mukherjee,I210,T,9,,
+,,,,,,9,Niranjan Raj,I212,T,9,,
+,,,,,,10,Pritesh Kumar Yadav,I221,T,9,,
+,,,,,,11,Pritesh Kumar Yadav,I211,Th,9,,
 1660,INSTR F266,STUDY PROJECT,-,-,3,1,S K CHATTERJEE,,,,,
-1348,INSTR F341,ANALOG ELECTRONICS,3,1,4,1,"BVVSN PRABHAKAR
-RAO",F105,M W F,5,16/03 - 4.00 - 5.30PM,20/05 AN
-,,,,,,2,Ponnalagu R N,F104,M W F,5,,
-,,Practical,,,,1,BVVSN Prabhakar Rao,J106,T,8 9,,
-,,,,,,,Bishal kumar keshari,,,,,
-,,,,,,,Vanmathi S,,,,,
-,,,,,,2,BVVSN Prabhakar Rao,J106,Th,8 9,,
-,,,,,,,Vanmathi S,,,,,
-,,,,,,3,Prasant Kumar P,J106,W,7 8,,
-,,,,,,,Sohel Siraj,,,,,
-,,,,,,4,Prasant Kumar P,J106,S,4 5,,
-,,,,,,,Sohel Siraj,,,,,
-,,,,,,5,Amit Kumar Panda,J106,F,7 8,,
-,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,6,Amit Kumar Panda,J106,M,7 8,,
-,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,7,Ponnalagu R N,J106,S,2 3,,
-,,,,,,,Bishal kumar keshari,,,,,
-,,Tutorial,,,,1,BVVSN Prabhakar Rao,I114,M,1,,
-,,,,,,2,Ponnalagu R N,I111,M,1,,
-,,,,,,3,Ponnalagu R N,I111,W,1,,
-,,,,,,4,Prasant Kumar P,I112,M,1,,
-,,,,,,5,Prasant Kumar P,I112,W,1,,
-,,,,,,6,Amit Kumar Panda,I113,M,1,,
-,,,,,,7,Amit Kumar Panda,I113,W,1,,
-1349,INSTR F342,POWER ELECTRONICS,3,1,4,1,SUDHA RADHIKA,F105,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Sudha Radhika,F105,F,10,,
-,,Practical,,,,1,Sudha Radhika,LAB,M,7 8,,
-,,,,,,,Kommanaboina Mahender,,,,,
-,,,,,,2,Sudha Radhika,LAB,F,7 8,,
-,,,,,,,Kommanaboina Mahender,,,,,
-,,,,,,3,STP Srinivas,LAB,T,8 9,,
-,,,,,,,N Praneeth,,,,,
-,,,,,,4,STP Srinivas,LAB,Th,8 9,,
-,,,,,,,N Praneeth,,,,,
-,,Tutorial,,,,1,Sudha Radhika,I122,M,1,,
-,,,,,,2,Sudha Radhika,I122,W,1,,
-,,,,,,3,STP Srinivas,I210,M,1,,
-,,,,,,4,STP Srinivas,I210,W,1,,
-1350,INSTR F343,"INDUS INSTRUMENT &
-CONT",3,-,3,1,JOYJIT MUKHERJEE,G107,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,Joyjit Mukherjee,G105,W,10,,
-,,Tutorial,,,,1,Joyjit Mukherjee,J217,T,7,,
-,,,,,,2,Joyjit Mukherjee,J217,Th,7,,
-1734,INSTR F366,LABORATORY PROJECT,-,-,3,1,SAYAN KANUNGO,,,,,
-1745,INSTR F367,LABORATORY PROJECT,-,-,3,1,SAYAN KANUNGO,,,,,
+1345,INSTR F311,ELECTRO INST & INST TECH,3,1,4,1,SK MASUM NAWAZ,G108,M T Th,9,12/12,AN
+,,Practical,,,,1,Sk Masum Nawaz,K125,T,4 5,,
+,,,,,,,Ramya K,,,,,
+,,,,,,2,Balasubramanian Malayappan,K125,Th,7 8,,
+,,,,,,,Ramya K,,,,,
+,,Tutorial,,,,1,Balasubramanian Malayappan,I222,M,1,,
+,,,,,,2,Balasubramanian Malayappan,I222,W,1,,
+1346,INSTR F312,TRANSD & MEASUREMENT TEC,3,-,3,1,ARINDAM KUSHAGRA,G107,M W F,4,04/12,FN
+,,Tutorial,,,,1,Arindam Kushagra,G107,F,1,,
+,,,,,,2,Sanket Goel,J214,F,1,,
+1347,INSTR F313,ANALOG & DIGITAL VLSI DES,3,-,3,1,SYED ERSHAD AHMED,F105,M W F,5,07/12,AN
+,,Tutorial,,,,1,Syed Ershad Ahmed,I212,M,1,,
+,,,,,,2,Chetan Kumar V,I213,M,1,,
+,,,,,,3,Syed Ershad Ahmed,I212,W,1,,
+,,,,,,4,Surya Shankar Dan,I213,W,1,,
+1348,INSTR F341,ANALOG ELECTRONICS,3,1,4,1,AMIT KUMAR PANDA,I212,M W F,4,04/12,FN
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,Practical,,,,,Amit Kumar Panda,LAB,Th,7 8,,
+,,Tutorial,,,,,Amit Kumar Panda,I221,M,1,,
+1734,INSTR F366,LABORATORY PROJECT,-,-,3,1,STP SRINIVAS,,,,,
+1745,INSTR F367,LABORATORY PROJECT,-,-,3,1,STP SRINIVAS,,,,,
 1694,INSTR F376,DESIGN PROJECT,-,-,3,1,SOURAV NANDI,,,,,
 1761,INSTR F377,DESIGN PROJECT,-,-,3,1,SOURAV NANDI,,,,,
-1529,IS F341,SOFTWARE ENGINEERING,3,1,4,1,NARASIMHA BOLLOJU,I113,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-,,Practical,,,,,Narasimha Bolloju,I015,T,7 8,,
-1011,MATH F112,MATHEMATICS II,3,-,3,1,Deepika,F108,M W F,2,11/03 - 11.00 - 12.30PM,06/05 AN
-,,,,,,2,Pratyusha Chattopadhyaa,F103,M W F,8,,
-,,,,,,3,Debopam Chakraborthy,F107,M W F,2,,
-,,,,,,4,NIJJWAL KARAK,F104,M W F,2,,
-,,,,,,5,Anil Nemili,F105,M W F,8,,
-,,,,,,6,Sharan Gopal,F104,M W F,8,,
-,,,,,,7,A Michael Alphonse,F103,M W F,2,,
-,,Tutorial,,,,1,Deepika,G202,T,7,,
-,,,,,,,Ruddarraju Amrutha,,,,,
-,,,,,,2,Pratyusha Chattopadhyaa,G201,T,7,,
-,,,,,,,Lokesh Kumar Duchaniya,,,,,
-,,,,,,3,Debopam Chakraborthy,G204,T,7,,
-,,,,,,,Debismita Nayak,,,,,
-,,,,,,4,Nijjwal Karak,G205,T,7,,
-,,,,,,,Rahul Vijay Bhagat,,,,,
-,,,,,,5,Anil Nemili,G206,T,7,,
-,,,,,,,Ankur Pandey,,,,,
-,,,,,,6,Sharan Gopal,G207,T,7,,
-,,,,,,,Sandhya Mel,,,,,
-,,,,,,7,A Michael Alphonse,G208,T,7,,
-,,,,,,,Ameya kolhatkar,,,,,
-,,,,,,8,PK Sahoo,G101,T,7,,
-,,,,,,,Sai Swagat Mishra,,,,,
-,,,,,,9,TSL Radhika,G102,T,7,,
-,,,,,,,"Moreshwar Jagadeorao
-Tayd",,,,,
-,,,,,,10,K Bhargav Kumar,G103,T,7,,
-,,,,,,,Nitin Kumar Sharma,,,,,
-,,,,,,11,G Murali Mohan Reddy,G104,T,7,,
+2502,INSTR F424,SMART GRID FOR SUSTAINABLE ENERGY,3,-,3,1,STP SRINIVAS,I210,M W F,2,06/12,FN
+275,ITEB G621,SUPPLY CHAIN MANAGEMENT,-,-,4,1,C P KIRAN,G206,T Th,2,06/12,FN
+,,,,,,,C P Kiran,G206,W,7,,
+1010,MATH F111,MATHEMATICS I,3,-,3,1,Rohit Gupta,F107,T Th,5,03/12,AN
+,,,,,,,Rohit Gupta,F107,W,10,,
+,,,,,,2,Sumit Kumar V,F105,T Th,5,,
+,,,,,,,Sumit Kumar V,F105,W,10,,
+,,,,,,3,SAJITH P,F105,M W F,1,,
+,,,,,,4,B Mishra,F104,T Th,5,,
+,,,,,,,B Mishra,F104,W,10,,
+,,,,,,5,Sushil Bhunia,F107,M W F,1,,
+,,,,,,6,K Venkata Ratnam,F106,T Th,5,,
+,,,,,,,K Venkata Ratnam,F106,W,10,,
+,,,,,,7,Nijjwal Karak,F106,M W F,1,,
+,,Tutorial,,,,1,B Mishra,I111,F,7,,
+,,,,,,2,Sumit Kumar V,I112,F,7,,
+,,,,,,3,Sajith P,I113,F,7,,
+,,,,,,4,K Venkata Ratnam,I114,F,7,,
+,,,,,,5,Sushil Bhunia,I122,F,7,,
+,,,,,,6,Rohit Gupta,I210,F,7,,
+,,,,,,7,Nijjwal Karak,I211,F,7,,
+,,,,,,8,Sayantan Ghosh,I212,F,7,,
+,,,,,,9,Shayon Bhadra,I213,F,7,,
+,,,,,,10,Purohit Nisarg Bharatbhi,I221,F,7,,
+,,,,,,11,Shravani rao,I222,F,7,,
+,,,,,,12,Amya Ranjan Ray,G101,F,7,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,13,Komal Kumar,J220,F,7,,
+,,,,,,14,Naorem Priyobarta Singh,G103,F,7,,
+,,,,,,15,Aaqid Mohi Ud Din Bhat,J214,F,7,,
+,,,,,,16,Suman Prabha Yadav,G105,F,7,,
+,,,,,,17,Md Imdadul Islam,G107,F,7,,
+,,,,,,18,Rahul Vijay Bhagat,G201,F,7,,
+,,,,,,19,Yengkhom Kalpana Devi,G202,F,7,,
+,,,,,,20,Dhrubajyoti Sarkar,G203,F,7,,
+,,,,,,21,Nitin Kumar Sharma,G204,F,7,,
+1022,MATH F211,MATHEMATICS III,3,-,3,1,K Bhargav Kumar,F106,W F,9,02/12,FN
+,,,,,,,K Bhargav Kumar,F106,Th,8,,
+,,,,,,2,TSL Radhika,F102,T Th,3,,
+,,,,,,,TSL Radhika,F102,F,10,,
+,,,,,,3,Jagan Mohan J,F105,W F,9,,
+,,,,,,,Jagan Mohan J,F105,Th,8,,
+,,,,,,4,Kishore Kumar,G208,T Th,3,,
+,,,,,,,Kishore Kumar,G208,T,7,,
+,,,,,,5,PK Sahoo,F105,T Th,3,,
+,,,,,,,PK Sahoo,F105,F,10,,
+,,,,,,6,G Murali Mohan Reddy,F103,W F,9,,
+,,,,,,,G Murali Mohan Reddy,F103,Th,8,,
+,,,,,,7,SANTANU KOLEY,F104,W F,9,,
+,,,,,,,Santanu Koley,F104,Th,8,,
+,,Tutorial,,,,1,K Bhargav Kumar,I112,M,10,,
+,,,,,,2,TSL Radhika,I113,M,10,,
+,,,,,,3,Jagan Mohan J,I114,M,10,,
+,,,,,,4,Santanu Koley,I122,M,10,,
+,,,,,,5,PK Sahoo,J217,M,10,,
+,,,,,,6,G Murali Mohan Reddy,I211,M,10,,
+,,,,,,7,Kishore Kumar,I212,M,10,,
+,,,,,,8,Kailash Chand Swami,I213,M,10,,
+,,,,,,9,Shubham Atmaram Narawade,I221,M,10,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,10,Santanu Kumar Dash,J119,M,10,,
+,,,,,,11,Ameya kolhatkar,J120,M,10,,
+,,,,,,12,Lokesh Kumar Duchaniya,J121,M,10,,
+,,,,,,13,Bhawna,G207,M,10,,
+,,,,,,14,Subhendu Paul,J218,M,10,,
+,,,,,,15,Mayuri Verma,G102,M,10,,
+,,,,,,16,Sai Swagat Mishra,G103,M,10,,
+,,,,,,17,Priyanka Vishwakarma,G107,M,10,,
+,,,,,,18,Debasmita Mohanty,G108,M,10,,
+,,,,,,19,Dheeraj Singh Rana,G203,M,10,,
+,,,,,,20,Debismita Nayak,G205,M,10,,
+1122,MATH F212,OPTIMIZATION,3,-,3,1,DK SATPATHI,G108,M W F,4,14/12,AN
+,,,,,,2,K Venkata Ratnam,G108,M W F,3,,
+,,,,,,3,PK Sahoo,G208,M W F,4,,
+,,Tutorial,,,,1,DK Satpathi,I211,F,1,,
+,,,,,,,Maheswaran S,,,,,
+,,,,,,2,K Venkata Ratnam,I212,F,1,,
+,,,,,,,A Gurucharan,,,,,
+,,,,,,3,PK Sahoo,I222,F,1,,
 ,,,,,,,Akankshya Sahu,,,,,
-,,,,,,12,Jhuma Sen Gupta,G105,T,7,,
-,,,,,,,Dheeraj Singh Rana,,,,,
-,,,,,,13,Rohit Gupta,G106,T,7,,
-,,,,,,,"Shubham Atmaram
-Narawad",,,,,
-,,,,,,14,Sushil Bhunia,G107,T,7,,
-,,,,,,,Aaqid Mohi Ud Din Bhat,,,,,
-,,,,,,,Amritanshu Rai,,,,,
-,,,,,,,Mayuri Verma,,,,,
-,,,,,,,Sunita Kumawat,,,,,
-1012,MATH F113,"PROBABILITY AND
-STATISTICS",3,-,3,1,Sayan Ghosh,F102,M W F,8,13/03 - 9.30 - 11.00AM,10/05 AN
-,,,,,,2,Sabyasachi Dey,F107,T Th,3,,
-,,,,,,,Sabyasachi Dey,F107,F,10,,
-,,,,,,3,Farida Parvez Barbhuiya,F108,M W F,8,,
-,,,,,,4,NIRMAN GANGULY,F104,T Th,3,,
-,,,,,,,Nirman Ganguly,F104,F,10,,
-,,,,,,5,PTV Praveen Kumar,F106,M W F,8,,
-,,,,,,6,DK Satpathi,F102,T Th,3,,
-,,,,,,,DK Satpathi,F102,F,10,,
-,,,,,,7,Manish Kumar,F107,M W F,8,,
-,,Tutorial,,,,1,Sayan Ghosh,G202,Th,7,,
-,,,,,,,Tathe Kartik Vilasrao,,,,,
-,,,,,,2,Sabyasachi Dey,G203,Th,7,,
-,,,,,,,Bhawna,,,,,
-,,,,,,3,Farida Parvez Barbhuiya,G204,Th,7,,
-,,,,,,,Subhendu Paul,,,,,
-,,,,,,4,Nirman Ganguly,G205,Th,7,,
-,,,,,,,Sneha Pradhan,,,,,
-,,,,,,5,PTV Praveen Kumar,G206,Th,7,,
-,,,,,,,"Gaurav Narayanrao
-Gadbail",,,,,
-,,,,,,6,DK Satpathi,G207,Th,7,,
-,,,,,,,Dhrubajyoti Sarkar,,,,,
-,,,,,,7,Manish Kumar,G208,Th,7,,
-,,,,,,,Debasmita Mohanty,,,,,
-,,,,,,8,B Mishra,G101,Th,7,,
-,,,,,,,Sayantan Ghosh,,,,,
-,,,,,,9,K Venkata Ratnam,G102,Th,7,,
+1123,MATH F213,DISCRETE MATHEMATICS,3,-,3,1,B MISHRA,G108,M W F,2,06/12,AN
+,,Tutorial,,,,,B Mishra,G108,T,1,,
 ,,,,,,,Ashwini S,,,,,
-,,,,,,10,Jagan Mohan J,G201,Th,7,,
-,,,,,,,Shravani rao,,,,,
-,,,,,,11,Kishore Kumar,G104,Th,7,,
-,,,,,,,Lakhan Valmik Jaybhaye,,,,,
-,,,,,,12,Sumit Kumar V,G105,Th,7,,
-,,,,,,,Animesh Singh,,,,,
-,,,,,,13,Santanu Koley,G106,Th,7,,
-,,,,,,,Suman Prabha Yadav,,,,,
-,,,,,,14,Sajith P,G107,Th,7,,
-,,,,,,,Komal Kumar,,,,,
-,,,,,,,Md Imdadul Islam,,,,,
-,,,,,,,Rabindranath chakrabortty,,,,,
-,,,,,,,Sushil Pathak,,,,,
-1123,MATH F213,DISCRETE MATHEMATICS,3,-,3,1,PK SAHOO,I111,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-1340,MATH F231,NUMBER THEORY,3,-,3,1,ROHIT GUPTA,I111,M W F,7,12/03 - 9.30 - 11.00AM,08/05 FN
-1465,MATH F241,MATHEMATICAL METHODS,3,-,3,1,K BHARGAV KUMAR,G108,T Th,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,,,,,,K Bhargav Kumar,G108,Th,10,,
-,,Tutorial,,,,,K Bhargav Kumar,G108,M,6,,
-,,,,,,,Kailash Chand Swami,,,,,
-,,,,,,,Purohit Nisarg Bharatbhi,,,,,
-1466,MATH F242,OPERATIONS RESEARCH,3,-,3,1,SAJITH P,G108,M W F,2,11/03 - 2.00 - 3.30PM,07/05 FN
-,,Tutorial,,,,,Sajith P,G108,Th,1,,
-,,,,,,,Amya Ranjan Ray,,,,,
-,,,,,,,Santanu Kumar Dash,,,,,
-1467,MATH F243,GRAPHS AND NETWORKS,3,-,3,1,SABYASACHI DEY,G108,M W,9,15/03 - 9.30 - 11.00AM,16/05 FN
-,,,,,,,Sabyasachi Dey,G108,F,6,,
-,,Tutorial,,,,,Sabyasachi Dey,G108,T,9,,
-,,,,,,,Anshid Aboobacker,,,,,
-,,,,,,,Pankaj Patel,,,,,
-1468,MATH F244,MEASURE & INTEGRATION,3,-,3,1,SHARAN GOPAL,G108,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,Tutorial,,,,,Sharan Gopal,G108,T,1,,
-,,,,,,,Debarati Mondal,,,,,
-,,,,,,,Shayon Bhadra,,,,,
-1662,MATH F266,STUDY PROJECT,-,-,3,1,K BHARGAV KUMAR,,,,,
-2559,MATH F315,"INTRO TO STATISTICAL
-INFERENCE",3,-,3,1,"FARIDA PARVEZ
-BARBHUI",I111,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-1472,MATH F341,"INTRO TO FUNCTIONAL
-ANAL",3,-,3,1,JHUMA SEN GUPTA,G108,M W F,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,Tutorial,,,,,Jhuma Sen Gupta,G108,Th,7,,
+1124,MATH F214,ELEMENTARY REAL ANALYSIS,3,-,3,1,NIJJWAL KARAK,G108,T Th,2,16/12,AN
+,,,,,,,Nijjwal Karak,G108,W,7,,
+,,Tutorial,,,,,Nijjwal Karak,G108,Th,7,,
 ,,,,,,,Sangeeta Dhawan,,,,,
-,,,,,,,Sunil Rampuria,,,,,
-1473,MATH F342,DIFFERENTIAL GEOMETRY,3,-,3,1,SUMIT KUMAR V,G108,M W F,8,16/03 - 2.00 - 3.30PM,18/05 FN
-,,Tutorial,,,,,Sumit Kumar V,G108,T,8,,
-,,,,,,,Hirendra Kumar Garai,,,,,
+1125,MATH F215,ALGEBRA I,3,-,3,1,PRATYUSHA CHATTOPADHYAA,G108,T W F,8,04/12,AN
+,,Tutorial,,,,,Pratyusha Chattopadhyaa,G108,Th,1,,
+,,,,,,,Rabindranath chakrabortty,,,,,
+1662,MATH F266,STUDY PROJECT,-,-,3,1,PRATYUSHA CHATTOPADHYAA,,,,,
+1469,MATH F311,INTRODUCTION TO TOPOLOGY,3,-,3,1,SHARAN GOPAL,G108,W F,9,02/12,FN
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Sharan Gopal,G108,Th,8,,
+,,Tutorial,,,,,Sharan Gopal,G108,T,10,,
 ,,,,,,,Jahir Abbas Sardar,,,,,
-1474,MATH F343,PARTIAL DIFF EQUATIONS,3,-,3,1,"G MURALI MOHAN
-REDDY",G108,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,G Murali Mohan Reddy,G108,W,10,,
-,,Tutorial,,,,,G Murali Mohan Reddy,G108,Th,8,,
-,,,,,,,Amit Kumar Pal,,,,,
-,,,,,,,Shivangi Joshi,,,,,
-1479,MATH F353,STATISTICAL INFER & APP,3,-,3,1,SAYAN GHOSH,I111,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Sayan Ghosh,I111,M,10,,
-1679,MATH F366,LABORATORY PROJECT,-,-,3,1,SUSHIL BHUNIA,,,,,
-1747,MATH F367,LABORATORY PROJECT,-,-,3,1,SUSHIL BHUNIA,,,,,
-1696,MATH F376,DESIGN PROJECT,-,-,3,1,"DEBOPAM
-CHAKRABORTH",,,,,
-1763,MATH F377,DESIGN PROJECT,-,-,3,1,"DEBOPAM
-CHAKRABORTH",,,,,
-1480,MATH F421,"COMBINATORIAL
-MATHEMATICS",3,-,3,1,"DEBOPAM
-CHAKRABORTH",I111,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,Debopam Chakraborthy,I111,Th,10,,
-1880,MATH F456,COSMOLOGY,3,-,3,1,B MISHRA,I112,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-1476,MATH F471,NONLINEAR OPTIMIZATION,3,-,3,1,K VENKATA RATNAM,I111,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-1477,MATH F481,COMMUTATIVE ALGEBRA,3,-,3,1,"PRATYUSHA
-CHATTOPADH",I112,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-1013,ME F112,WORKSHOP PRACTICE,1,1,2,1,SUJITH R,F105,F,1,16/03 - 9.30 - 11.00AM,20/05 FN
-,,,,,,2,Prabakaran Saravanan,F104,F,1,,
-,,Practical,,,,1,Ravi Shanker Vidyarthy,WS,Th,3 4 5,,
+1470,MATH F312,ORDINARY DIFF EQUATIONS,3,-,3,1,K BHARGAV KUMAR,G108,T Th,3,13/12,FN
+,,,,,,,K Bhargav Kumar,G108,T,7,,
+,,Tutorial,,,,,K Bhargav Kumar,G108,F,10,,
+,,,,,,,Sneha Pradhan,,,,,
+1471,MATH F313,NUMERICAL ANALYSIS,3,-,3,1,G MURALI MOHAN REDDY,G108,M W F,1,10/12,AN
+,,Tutorial,,,,,G Murali Mohan Reddy,G108,Th,10,,
+,,,,,,,Sandhya Mel,,,,,
+1475,MATH F314,ALGEBRA-II,3,-,3,1,DEBOPAM CHAKRABORTHY,I112,T Th,3,13/12,AN
+,,,,,,,Debopam Chakraborthy,I112,F,10,,
+1679,MATH F366,LABORATORY PROJECT,-,-,3,1,JHUMA SEN GUPTA,,,,,
+1747,MATH F367,LABORATORY PROJECT,-,-,3,1,JHUMA SEN GUPTA,,,,,
+1696,MATH F376,DESIGN PROJECT,-,-,3,1,FARIDA PARVEZ BARBHUIYA,,,,,
+1763,MATH F377,DESIGN PROJECT,-,-,3,1,FARIDA PARVEZ BARBHUIYA,,,,,
+1882,MATH F420,MATHEMATICAL MODELLING,3,-,3,1,SANTANU KOLEY,I111,M W F,2,06/12,FN
+1480,MATH F421,COMBINATORIAL MATHEMATICS,3,-,3,1,SAJITH P,I112,T Th,2,16/12,AN
+,,,,,,,Sajith P,I112,W,7,,
+2273,MATH F432,APPLIED STATISTICAL METHODS,3,-,3,1,FARIDA PARVEZ BARBHUIYA,J120,T Th,2,16/12,AN
+,,,,,,,Farida Parvez Barbhuiya,J120,W,7,,
+1013,ME F112,WORKSHOP PRACTICE,1,1,2,1,SUJITH R,F105,T,7,16/12,AN
+,,,,,,2,Prabakaran Saravanan,F104,T,7,,
+,,Practical,,,,1,Ahsan Ul Haq,WS,M,2 3 4,,
 ,,,,,,,Pichika S V V S Narayana,,,,,
+,,,,,,,Vishista kaushik,,,,,
+,,,,,,2,Bagadi Ramana Murthy,WS,W,2 3 4,,
+,,,,,,,Pichika S V V S Narayana,,,,,
+,,,,,,,Vishista kaushik,,,,,
+,,,,,,3,KRC Murthy,WS,F,2 3 4,,
+,,,,,,,Mrinmoy saha,,,,,
+,,,,,,,Shine jude hamilton a,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,4,Mrinmoy saha,WS,W,7 8 9,,
+,,,,,,,Akashjyoti barman,,,,,
+,,,,,,,Shine jude hamilton a,,,,,
+,,,,,,5,Y S Prasanna,WS,Th,8 9 10,,
+,,,,,,,G Prashanth Kumar Reddy,,,,,
+,,,,,,,Himanshu shukla,,,,,
+,,,,,,6,Y S Prasanna,WS,F,8 9 10,,
+,,,,,,,G Prashanth Kumar Reddy,,,,,
+,,,,,,,Himanshu shukla,,,,,
+1083,ME F211,MECHANICS OF SOLIDS,3,-,3,1,AMIT KUMAR GUPTA,F107,M W F,2,06/12,AN
+,,,,,,2,Aritra Chatterjee,F108,M W F,2,,
+,,Tutorial,,,,1,Amit Kumar Gupta,F201,T,1,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+,,,,,,2,Aritra Chatterjee,F202,T,1,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+,,,,,,3,Huzef Ur Rahman,F203,T,1,,
+,,,,,,4,TO BE ANNOUNCED,F204,T,1,,
+1082,ME F212,FLUID MECHANICS,3,-,3,1,SAYAN DAS,F107,M W F,3,11/12,AN
+,,,,,,2,Supradeepan K,F108,M W F,3,,
+,,Tutorial,,,,1,Sayan Das,F202,Th,1,,
+,,,,,,,Suhas shreekrishna,,,,,
+,,,,,,2,Supradeepan K,F203,Th,1,,
+,,,,,,,Suhas shreekrishna,,,,,
+,,,,,,3,Jeevan Jaidi,F204,Th,1,,
+,,,,,,,Suhas shreekrishna,,,,,
+,,,,,,4,Sibin V Mathew,F201,Th,1,,
+2394,ME F216,MATERIALS SCIENCE AND ENGINEER,2,1,3,1,PIYUSH CHANDRA VERMA,F107,W F,8,04/12,AN
+,,,,,,2,Prabakaran Saravanan,F108,W F,8,,
+,,Practical,,,,1,Piyush Chandra Verma,E002,M,4 5,,
+,,,,,,,Aditya Nema,,,,,
+,,,,,,,Ashish Saurabh,,,,,
+,,,,,,2,Prabakaran Saravanan,E002,W,4 5,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Aditya Nema,,,,,
+,,,,,,,M Abhinav,,,,,
+,,,,,,3,Nagarani s,E002,T,4 5,,
+,,,,,,,Kandula Uday Kumar Reddy,,,,,
+,,,,,,,Suswanth Poluru,,,,,
+,,,,,,4,Sreejith S,E002,Th,4 5,,
+,,,,,,,Nagarani s,,,,,
+,,,,,,,Vicky Lad,,,,,
+,,Tutorial,,,,1,Piyush Chandra Verma,F202,Th,9,,
+,,,,,,,Kandula Uday Kumar Reddy,,,,,
+,,,,,,2,Prabakaran Saravanan,F203,Th,9,,
+,,,,,,,Kandula Uday Kumar Reddy,,,,,
+,,,,,,3,Ashish Saurabh,F204,Th,9,,
+,,,,,,4,M Abhinav,F201,Th,9,,
+2396,ME F217,APPLIED THERMODYNAMICS,3,1,4,1,SATISH K DUBEY,F107,T Th,2,16/12,FN
+,,,,,,,Satish K Dubey,F107,W,7,,
+,,,,,,2,Jayaprakash K S,F108,T Th,2,,
+,,,,,,,Jayaprakash K S,F108,W,7,,
+,,Practical,,,,1,Satish K Dubey,E122,F,4 5,,
+,,,,,,,Dhoni Nagaraj,,,,,
+,,,,,,,Meduri Sitaram,,,,,
+,,,,,,2,Shaik Gouse Ahammad,E122,T,6 7,,
 ,,,,,,,Sanjeet Kumar,,,,,
-,,,,,,,Y S Prasanna,,,,,
-,,,,,,2,Piyush Chandra Verma,WS,T,3 4 5,,
-,,,,,,,Gururaja S,,,,,
-,,,,,,,Sanjeet Kumar,,,,,
-,,,,,,,Y S Prasanna,,,,,
-,,,,,,3,Sujith R,WS,W,3 4 5,,
-,,,,,,,"Gudlavalleti Deepak
-Kumar",,,,,
-,,,,,,,Gururaja S,,,,,
-,,,,,,,"Kandula Uday Kumar
-Reddy",,,,,
-,,,,,,4,Ravi Shanker Vidyarthy,WS,S,3 4 5,,
-,,,,,,,Ahsan Ul Haq,,,,,
-,,,,,,,"Kandula Uday Kumar
-Reddy",,,,,
-,,,,,,,"Mada Rukmini Sai Rupa
-Sri",,,,,
-,,,,,,5,Ronanki Suresh,WS,M,3 4 5,,
-,,,,,,,Kaleru Sai Kiran,,,,,
-,,,,,,,Rahul kumar,,,,,
-,,,,,,6,Prabakaran Saravanan,WS,F,3 4 5,,
-,,,,,,,Ahsan Ul Haq,,,,,
-,,,,,,,Ronanki Suresh,,,,,
-2397,ME F218,"ADVANCED MECHANICS OF
-SOLIDS",2,-,2,1,"BRAJESH KUMAR
-PANIGR",G206,M W,2,11/03 - 2.00 - 3.30PM,07/05 FN
-,,,,,,2,Amol Vuppuluri,G207,M W,2,,
-,,Tutorial,,,,1,Aritra chatterjee,F201,Th,1,,
-,,,,,,,"Mada Rukmini Sai Rupa
-Sri",,,,,
-,,,,,,2,TO BE ANNOUNCED,F202,Th,1,,
-,,,,,,,"Mada Rukmini Sai Rupa
-Sri",,,,,
-,,,,,,3,Brajesh Kumar Panigrahi,F203,Th,1,,
-,,,,,,,"Gudlavalleti Deepak
-Kumar",,,,,
-,,,,,,4,Amol Vuppuluri,F204,Th,1,,
-,,,,,,,"Gudlavalleti Deepak
-Kumar",,,,,
-2398,ME F219,"MANUFACTURING
-PROCESSES",3,1,4,1,"N SURESH KUMAR
-REDDY",F108,M W F,9,15/03 - 9.30 - 11.00AM,16/05 FN
-,,,,,,2,Amritha Priyadarshini,G208,M W F,9,,
-,,Practical,,,,1,Anka datta,WS,Th,6 7,,
+,,,,,,,Suhas shreekrishna,,,,,
+,,,,,,3,Kiran Somisetti,E122,M,4 5,,
+,,,,,,,Joshua Kumar Saladi,,,,,
+,,,,,,,Sibin V Mathew,,,,,
+,,,,,,4,Lingampally Swetha,E122,W,4 5,,
+,,,,,,,Dhoni Nagaraj,,,,,
+,,,,,,,Kalyani Panigrahi,,,,,
+,,Tutorial,,,,1,Satish K Dubey,F202,T,9,,
+,,,,,,,Shaik Gouse Ahammad,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,2,Jayaprakash K S,F203,T,9,,
+,,,,,,,Shaik Gouse Ahammad,,,,,
+,,,,,,3,S S Deshmukh,F204,T,9,,
+,,,,,,,Kiran Somisetti,,,,,
+,,,,,,4,Mrinal Ketan Jagirdar,F201,T,9,,
+,,,,,,,Kiran Somisetti,,,,,
+1663,ME F266,STUDY PROJECT,-,-,3,1,ARSHAD JAVED,,,,,
+2401,ME F314,DESIGN OF MACHINE ELEMENTS,3,-,3,1,SP REGALLA,F108,M W F,4,04/12,FN
+,,,,,,2,Pavan Kumar P,F107,M W F,4,,
+,,Tutorial,,,,1,SP Regalla,F202,M,1,,
+,,,,,,,Suswanth Poluru,,,,,
+,,,,,,2,Pavan Kumar P,F203,M,1,,
+,,,,,,,Suswanth Poluru,,,,,
+,,,,,,3,Veeraiahgari Vamshi,F204,M,1,,
+,,,,,,4,Vicky Lad,F201,M,1,,
+2403,ME F315,ADVANCED MANUFACTURING PROCESSES,2,1,3,1,N SURESH KUMAR REDDY,F108,M W,5,07/12,AN
+,,,,,,2,Amritha Priyadarshini,F107,M W,5,,
+,,Practical,,,,1,N Suresh Kumar Reddy,WS,Th,4 5,,
 ,,,,,,,Gunashekar G,,,,,
-,,,,,,,N Suresh Kumar Reddy,,,,,
-,,,,,,2,Danavath Balu,WS,W,6 7,,
+,,,,,,,Rahul kumar,,,,,
+,,,,,,2,Alok Kumar,WS,T,7 8,,
+,,,,,,,Gunashekar G,,,,,
+,,,,,,,Jose Santo,,,,,
+,,,,,,3,Anka datta,WS,F,8 9,,
+,,,,,,,Gururaja S,,,,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+,,,,,,4,Awadhesh,WS,T,4 5,,
 ,,,,,,,Jose Santo,,,,,
 ,,,,,,,TO BE ANNOUNCED,,,,,
-,,,,,,3,Rahul kumar,WS,F,6 7,,
-,,,,,,,Kaleru Sai Kiran,,,,,
-,,,,,,,Petla Sivateja,,,,,
-,,,,,,4,Nagarani s,WS,T,6 7,,
-,,,,,,,Gunashekar G,,,,,
-,,,,,,,Petla Sivateja,,,,,
-,,Tutorial,,,,1,Gunashekar G,F201,T,1,,
-,,,,,,,N Suresh Kumar Reddy,,,,,
-,,,,,,2,Danavath Balu,F202,T,1,,
-,,,,,,,N Suresh Kumar Reddy,,,,,
-,,,,,,3,Nagarani s,F203,T,1,,
-,,,,,,,Amritha Priyadarshini,,,,,
-,,,,,,4,Sreejith S,F204,T,1,,
-,,,,,,,Amritha Priyadarshini,,,,,
-2430,ME F220,HEAT TRANSFER,3,1,4,1,SATISH K DUBEY,F107,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,,,,,2,Mrinal Ketan Jagirdar,F108,M W F,3,,
-,,Practical,,,,1,Suhas shreekrishna,E111,T,6 7,,
-,,,,,,,Kalyani Panigrahi,,,,,
-,,,,,,,Mrinal Ketan Jagirdar,,,,,
-,,,,,,2,Kiran Somisetti,E111,M,6 7,,
-,,,,,,,Kalyani Panigrahi,,,,,
-,,,,,,,Shaik Gouse Ahammad,,,,,
-,,,,,,3,Shine jude hamilton a,E111,W,6 7,,
-,,,,,,,Satish K Dubey,,,,,
-,,,,,,,Shaik Gouse Ahammad,,,,,
-,,,,,,4,Shine jude hamilton a,E111,F,6 7,,
-,,,,,,,M Srinivas,,,,,
-,,,,,,,Vemu Sahiti,,,,,
-,,Tutorial,,,,1,Satish K Dubey,F201,Th,9,,
-,,,,,,,Suhas shreekrishna,,,,,
-,,,,,,2,Mrinal Ketan Jagirdar,F202,Th,9,,
-,,,,,,,Suhas shreekrishna,,,,,
-,,,,,,3,M Srinivas,F203,Th,9,,
-,,,,,,,Kiran Somisetti,,,,,
-,,,,,,4,KRC Murthy,F204,Th,9,,
-,,,,,,,Kiran Somisetti,,,,,
-2399,ME F221,"MECHANISMS AND
-MACHINES",3,-,3,1,YV DASESWARA RAO,F107,T Th,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,,,,,,YV Daseswara Rao,F107,Th,10,,
-,,,,,,2,Brajesh Kumar Panigrahi,F108,T Th,4,,
-,,,,,,,Arshad Javed,,,,,
-,,,,,,,Brajesh Kumar Panigrahi,F108,Th,10,,
-,,,,,,,Arshad Javed,,,,,
-,,Tutorial,,,,1,YV Daseswara Rao,D208 A,T,9,,
-,,,,,,,George Yuvaraj,,,,,
-,,,,,,2,Brajesh Kumar Panigrahi,D208 B,T,9,,
-,,,,,,,George Yuvaraj,,,,,
-,,,,,,3,Arshad Javed,D208 C,T,9,,
-,,,,,,,Balija Upendra,,,,,
-,,,,,,4,Piyush Chandra Verma,D208 C,T,9,,
-,,,,,,,Balija Upendra,,,,,
-1263,ME F241,"MACHINE DESIGN &
-DRAWING",3,1,4,1,G R SABAREESH,F201,M W F,8,16/03 - 2.00 - 3.30PM,18/05 FN
-1264,ME F242,IC ENGINES,2,-,2,1,KRC MURTHY,F202,M W F,9,15/03 - 9.30 - 11.00AM,16/05 FN
-1265,ME F243,"PRODUCTION TECHNIQUES
-I",2,1,3,1,"N SURESH KUMAR
-REDDY",G206,M W,2,11/03 - 2.00 - 3.30PM,07/05 FN
-,,Practical,,,,,N Suresh Kumar Reddy,LAB,F,2 3,,
-,,Tutorial,,,,,N Suresh Kumar Reddy,F201,Th,1,,
-1663,ME F266,STUDY PROJECT,-,-,3,1,SANTANU DATTA,,,,,
-2406,ME F318,COMPUTER-AIDED DESIGN,2,1,3,1,SP REGALLA,F103,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,Practical,,,,1,TO BE ANNOUNCED,D208 B,M,7 8,,
-,,,,,,,Aditya Nema,,,,,
-,,,,,,,Suswanth Poluru,,,,,
-,,,,,,2,Kolla Lakshman Rao,D208 B,Th,7 8,,
-,,,,,,,Himanshu shukla,,,,,
-,,,,,,,Veeraiahgari Vamshi,,,,,
-,,,,,,,Vicky Lad,,,,,
-,,,,,,3,Kolla Lakshman Rao,D208 B,F,7 8,,
-,,,,,,,Aditya Nema,,,,,
-,,,,,,,Alok Kumar,,,,,
-,,,,,,4,Mrinmoy saha,D208 B,T,7 8,,
-,,,,,,,Alok Kumar,,,,,
-,,,,,,,Suswanth Poluru,,,,,
-,,Tutorial,,,,1,TO BE ANNOUNCED,G205,W,10,,
-,,,,,,2,Vicky Lad,G206,W,10,,
-,,,,,,3,"Pardha Saradhi
-Gurugubelli",G207,W,10,,
-,,,,,,4,Veeraiahgari Vamshi,G208,W,10,,
-2407,ME F319,VIBRATIONS AND CONTROL,3,-,3,1,G R SABAREESH,F103,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Aritra chatterjee,,,,,
-,,,,,,,G R Sabareesh,F103,F,10,,
-,,,,,,,Aritra chatterjee,,,,,
-,,Tutorial,,,,1,Pichika S V V S Narayana,F105,W,1,,
-,,,,,,,G R Sabareesh,,,,,
-,,,,,,2,Himanshu shukla,F107,W,1,,
-,,,,,,,G R Sabareesh,,,,,
-,,,,,,3,Anka datta,G208,W,1,,
-,,,,,,,Aritra chatterjee,,,,,
-,,,,,,4,Akashjyoti barman,G207,W,1,,
-,,,,,,,Aritra chatterjee,,,,,
-2408,ME F320,"ENGINEERING
-OPTIMIZATION",3,-,3,1,C P KIRAN,F103,M W F,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,Tutorial,,,,1,C P Kiran,G207,M,1,,
-,,,,,,,Vardhanapu Muralidhar,,,,,
-,,,,,,2,"Pardha Saradhi
-Gurugubelli",G208,M,1,,
-,,,,,,,Vardhanapu Muralidhar,,,,,
-,,,,,,3,Abhishek Sarkar,F207,M,1,,
-,,,,,,,Vishista kaushik,,,,,
-,,,,,,4,TO BE ANNOUNCED,F208,M,1,,
-,,,,,,,Vishista kaushik,,,,,
-2538,ME F321,"DATA MINING IN
-MECHANICAL SCI",2,1,3,1,KUNDAN KUMAR SINGH,G207,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-2539,ME F323,"ENERGY STORAGE
-TECHNOLOGIES",3,-,3,1,R PARAMESHWARAN,G103,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-1270,ME F341,"PRIMEMOVERS & FLUID
-MACH",2,1,3,1,S S DESHMUKH,F103,M W,5,16/03 - 4.00 - 5.30PM,20/05 AN
-,,Practical,,,,1,S S Deshmukh,E122,T,7 8,,
-,,,,,,,Kolanu Sai sandeep,,,,,
-,,,,,,,Meduri Sitaram,,,,,
-,,,,,,2,Supradeepan K,E122,M,7 8,,
-,,,,,,,Lingampally Swetha,,,,,
-,,,,,,,Meduri Sitaram,,,,,
-,,,,,,3,G Prashanth Kumar Reddy,E122,W,7 8,,
-,,,,,,,Lingampally Swetha,,,,,
-,,,,,,,Sibin V Mathew,,,,,
-,,,,,,4,G Prashanth Kumar Reddy,E122,F,7 8,,
-,,,,,,,Dole mahesh,,,,,
-,,,,,,,Sibin V Mathew,,,,,
-,,Tutorial,,,,1,S S Deshmukh,G208,F,5,,
-,,,,,,,Kolanu Sai sandeep,,,,,
-,,,,,,2,Supradeepan K,G207,F,5,,
-,,,,,,,Kolanu Sai sandeep,,,,,
-,,,,,,3,N Jalaiah,G206,F,5,,
-,,,,,,,Joshua Kumar Saladi,,,,,
-,,,,,,4,Santanu Prasad Datta,G205,F,5,,
-,,,,,,,Joshua Kumar Saladi,,,,,
-1680,ME F366,LABORATORY PROJECT,-,-,3,1,ARITRA CHATTERJEE,,,,,
-1748,ME F367,LABORATORY PROJECT,-,-,3,1,ARITRA CHATTERJEE,,,,,
-1697,ME F376,DESIGN PROJECT,-,-,3,1,G R SABAREESH,,,,,
-1764,ME F377,DESIGN PROJECT,-,-,3,1,G R SABAREESH,,,,,
-1810,ME F423,MICRO-FLUIDICS & ITS APP,-,-,4,1,SATISH K DUBEY,F203,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,Sayan Das,,,,,
-,,,,,,,Satish K Dubey,F203,M,6,,
-,,,,,,,Sayan Das,,,,,
-,,Practical,,,,,Sayan Das,J204,F,7 8,,
-,,,,,,,P Ramya Priya,,,,,
-2311,ME F426,"INDUSTRY 4.0 IN
-MANUFACTURING",3,-,3,1,KUNDAN KUMAR SINGH,G207,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,Kundan Kumar Singh,G207,Th,10,,
-1867,ME F483,WIND ENERGY,3,-,3,1,M SRINIVAS,F203,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-1868,ME F484,"AUTOMOTIVE
-TECHNOLOGY",3,-,3,1,SUPRADEEPAN K,G108,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Supradeepan K,G108,M,10,,
-410,ME G515,COMPUT FLUID DYNAMICS,3,2,5,1,JEEVAN JAIDI,G104,T Th,2,13/03 - 4.00 - 5.30PM,10/05 FN
-,,,,,,,Jeevan Jaidi,G104,M,10,,
-,,Practical,,,,,Jeevan Jaidi,D208 C,T,6 7,,
-,,,,,,,Bagadi Ramana Murthy,,,,,
-2086,ME G538,"TOYOTA PRODUCTION
-SYSTEM",3,2,5,1,AMIT KUMAR GUPTA,G103,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Amit Kumar Gupta,G103,M,10,,
-,,Practical,,,,,Vardhanapu Muralidhar,LAB,T,6 7,,
-2087,ME G539,"COMP INTEGRATED
-MANUFACT",3,2,5,1,KURRA SURESH,F204,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,Kurra Suresh,F204,T,10,,
-,,Practical,,,,,Kurra Suresh,E112,Th,8 9,,
-,,,,,,,Vishista kaushik,,,,,
-266,ME G611,"COMP AIDED ANAL &
-DESIGN",2,3,5,1,KURRA SURESH,F203,M W F,4,11/03 - 11.00 - 12.30PM,06/05 AN
-,,Practical,,,,,Kurra Suresh,E112,M W,7 8 9,,
-,,,,,,,Gaurav Sharma,,,,,
-739,ME G631,"ADVANCED HEAT
-TRANSFER",3,2,5,1,"SANTANU PRASAD
-DATTA",F203,T Th,5,12/03 - 9.30 - 11.00AM,08/05 FN
-,,,,,,,Santanu Kumar Dash,F201,W,10,,
-,,Practical,,,,,Joshua Kumar Saladi,LAB,Th,8 9,,
-500,MEL G623,ADVANCED VLSI DESIGN,-,-,5,1,SURYA SHANKAR DAN,I213,T Th,4,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Surya Shankar Dan,I213,M,10,,
-,,Practical,,,,1,Surya Shankar Dan,I213,M F,2 3,,
-,,,,,,,Soumi Saha,,,,,
-,,,,,,2,Surya Shankar Dan,I213,W,2 3,,
-,,,,,,,Soumi Saha,,,,,
-,,,,,,,Surya Shankar Dan,I213,F,8 9,,
-,,,,,,,Soumi Saha,,,,,
-224,MEL G632,ANALOG IC DESIGN,3,2,5,1,"PARIKSHIT PARSHURAM
-S",I222,M W F,5,12/03 - 9.30 - 11.00AM,08/05 FN
-,,Practical,,,,,"Parikshit Parshuram
-Sahatiy",I124,M W,7 8,,
-,,,,,,,Anshul Awasthi,,,,,
-484,MEL G641,CAD FOR IC DESIGN,3,2,5,1,S K CHATTERJEE,I213,T Th,5,14/03 - 2.00 - 3.30PM,14/05 FN
-,,,,,,,S K Chatterjee,I213,F,10,,
-,,Practical,,,,,S K Chatterjee,I124,M F,2 3,,
+,,Tutorial,,,,1,N Suresh Kumar Reddy,F201,F,1,,
+,,,,,,,Rahul kumar,,,,,
+,,,,,,2,Amritha Priyadarshini,F202,F,1,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Rahul kumar,,,,,
+,,,,,,3,Alok Kumar,F203,F,1,,
+,,,,,,4,Anka datta,F204,F,1,,
+2404,ME F316,MANUFACTURING MANAGEMENT,2,-,2,1,AMRITHA PRIYADARSHINI,F103,T Th,9,12/12,AN
+,,Tutorial,,,,1,Amritha Priyadarshini,F201,W,1,,
 ,,,,,,,TO BE ANNOUNCED,,,,,
-817,MEL G642,VLSI ARCHITECTURE,2,2,4,1,S K SAHOO,G201,M W,4,13/03 - 4.00 - 5.30PM,10/05 FN
-,,,,,,,Chetan Kumar V,,,,,
-,,Practical,,,,,Ramyavani p,I124,T Th,9 10,,
-1417,MF F418,LEAN MANUFACTURING,3,-,3,1,AMIT KUMAR GUPTA,G103,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Amit Kumar Gupta,G103,M,10,,
-1418,MF F421,"SUPPLY CHAIN
-MANAGEMENT",-,-,4,1,C P KIRAN,G102,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,C P Kiran,G102,Th,10,,
-1884,MF F485,"SUSTAINABLE
-MANUFACTURING",3,-,3,1,"RAVI SHANKER
-VIDYARTH",G102,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-1024,MGTS F211,"PRINCIPLES OF
-MANAGEMENT",3,-,3,1,R RAGHUNATHAN,F106,M W F,4,13/03 - 11.00 - 12.30PM,11/05 FN
-,,Tutorial,,,,,R Raghunathan,F106,W,1,,
-2544,MGTS F311,MARKETING,3,-,3,1,SWATI ALOK,J218,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-2546,MGTS F314,"ESSENTIALS OF FINANCIAL
-MGT.",3,-,3,1,NIVEDITA SINHA,J218,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-2547,MGTS F315,"FOUNDATIONS OF
-BUSINESS ANALYTICS",-,-,3,1,RISHI KUMAR,J219,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,Rishi Kumar,J219,Th,10,,
-2548,MGTS F316,"MANAGERIAL &
-LEADERSHIP SKILLS",3,-,3,1,R RAGHUNATHAN,J219,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-389,MSE G512,"MANUFACT PLANNING &
-CONT",-,-,4,1,"AMRITHA
-PRIYADARSHINI",G106,M W F,2,12/03 - 9.30 - 11.00AM,08/05 FN
-,,Practical,,,,,Sreejith S,WS,M W,8 9,,
-2066,MST G522,ADVANCED COMPOSITES,3,2,5,1,PAVAN KUMAR P,G104,T Th,5,15/03 - 2.00 - 3.30PM,17/05 FN
-,,,,,,,Pavan Kumar P,G104,W,10,,
-,,Practical,,,,,Jose Santo,LAB,Th,8 9,,
-1087,PHA F214,"ANATOMY PHYSIO &
-HYGIENE",2,1,3,1,ARTI DHAR,G105,T Th,9,12/03 - 2.00 - 3.30PM,08/05 AN
-,,Practical,,,,1,Arti Dhar,A009,M,7 8,,
-,,,,,,,Jegadheeswari V,,,,,
-,,,,,,,Karnik aaditi sameer,,,,,
-,,,,,,,Sai Shreya,,,,,
-,,,,,,,Suraj.s,,,,,
-,,,,,,,Trupti Ghatage,,,,,
-,,,,,,2,Arti Dhar,A009,W,7 8,,
-,,,,,,,Jegadheeswari V,,,,,
-,,,,,,,Karnik aaditi sameer,,,,,
-,,,,,,,Sai Shreya,,,,,
-,,,,,,,Suraj.s,,,,,
-,,,,,,,Trupti Ghatage,,,,,
-,,,,,,3,Arti Dhar,A009,F,7 8,,
-,,,,,,,Jegadheeswari V,,,,,
-,,,,,,,Karnik aaditi sameer,,,,,
-,,,,,,,Sai Shreya,,,,,
-,,,,,,,Suraj.s,,,,,
-,,,,,,,Trupti Ghatage,,,,,
-,,Tutorial,,,,,Arti Dhar,G105,M,10,,
-2504,PHA F216,"PHARMACEUTICAL
-FORMULATIONS I",2,1,3,1,D SRIRAM,G206,M W,3,15/03 - 2.00 - 3.30PM,17/05 FN
-,,,,,,,Yuvaraj Singh,,,,,
-,,Practical,,,,1,D Sriram,A001,T,4 5,,
-,,,,,,,Aditi pradhan,,,,,
-,,,,,,,Deepika K,,,,,
-,,,,,,,K Vandana,,,,,
-,,,,,,,Priyadarshini Sathe,,,,,
-,,,,,,,Rupal Kothari,,,,,
-,,,,,,,"SONAL SUKHADEO
-FANDE",,,,,
-,,,,,,,Yuvaraj Singh,,,,,
-,,,,,,2,D Sriram,A001,Th,4 5,,
-,,,,,,,Aditi pradhan,,,,,
-,,,,,,,Deepika K,,,,,
-,,,,,,,K Vandana,,,,,
-,,,,,,,Priyadarshini Sathe,,,,,
-,,,,,,,Rupal Kothari,,,,,
-,,,,,,,"SONAL SUKHADEO
-FANDE",,,,,
-,,,,,,,Yuvaraj Singh,,,,,
-,,,,,,3,D Sriram,A001,F,6 7,,
-,,,,,,,Aditi pradhan,,,,,
-,,,,,,,Deepika K,,,,,
-,,,,,,,K Vandana,,,,,
-,,,,,,,Priyadarshini Sathe,,,,,
-,,,,,,,Rupal Kothari,,,,,
-,,,,,,,"SONAL SUKHADEO
-FANDE",,,,,
-,,Tutorial,,,,,D Sriram,G206,F,3,,
-,,,,,,,Yuvaraj Singh,,,,,
-1291,PHA F241,"PHARMACEUTICAL
-CHEMISTRY",2,1,3,1,D SRIRAM,G206,M W,9,15/03 - 9.30 - 11.00AM,16/05 FN
-,,Practical,,,,1,D Sriram,A001,M,6 7,,
+,,,,,,2,Sreejith S,F202,W,1,,
+,,,,,,3,Awadhesh,F203,W,1,,
+,,,,,,4,Sanjeet Kumar,F204,W,1,,
+2405,ME F317,"ENGINES, MOTORS AND MOBILITY",2,-,2,1,R PARAMESHWARAN,F107,T Th,10,02/12,AN
+,,,,,,2,N Jalaiah,F108,T Th,10,,
+,,Tutorial,,,,1,R Parameshwaran,F202,M,8,,
+,,,,,,,Joshua Kumar Saladi,,,,,
+,,,,,,2,N Jalaiah,F201,M,8,,
+,,,,,,,Joshua Kumar Saladi,,,,,
+,,,,,,3,Meduri Sitaram,F203,M,8,,
+,,,,,,4,Lingampally Swetha,F204,M,8,,
+1680,ME F366,LABORATORY PROJECT,-,-,3,1,KUNDAN KUMAR SINGH,,,,,
+1748,ME F367,LABORATORY PROJECT,-,-,3,1,KUNDAN KUMAR SINGH,,,,,
+1697,ME F376,DESIGN PROJECT,-,-,3,1,MRINAL KETAN JAGIRDAR,,,,,
+1764,ME F377,DESIGN PROJECT,-,-,3,1,MRINAL KETAN JAGIRDAR,,,,,
+1280,ME F418,ROCKET AND SPACECRAFT PROPULSION,3,-,3,1,SUPRADEEPAN K,G205,T Th,2,16/12,AN
+,,,,,,,Supradeepan K,G205,W,7,,
+2309,ME F424,ENERGY MANAGEMENT,3,-,3,1,S S DESHMUKH,G205,M W F,3,11/12,FN
+2310,ME F425,ADDITIVE MANUFACTURING,3,-,3,1,JEEVAN JAIDI,G205,M W F,2,06/12,FN
+2311,ME F426,INDUSTRY 4.0 IN MANUFACTURING,3,-,3,1,KUNDAN KUMAR SINGH,J214,M W F,3,11/12,FN
+2541,ME F428,SMART MATERIALS,3,1,4,1,AMIT KUMAR GUPTA,G205,T Th,3,13/12,AN
+,,,,,,,Amit Kumar Gupta,G205,F,10,,
+,,Practical,,,,,Pardha Saradhi Gurugubelli V,LAB,Th,7 8,,
+1284,ME F443,QUALI CONTRO ASSUR & REL,3,-,3,1,C P KIRAN,G207,M W F,3,11/12,FN
+1287,ME F461,REFRIGERATION & AIRCOND,3,-,3,1,R PARAMESHWARAN,G204,M W F,2,06/12,FN
+741,ME G511,MECHANISMS & ROBOTICS,2,3,5,1,ABHISHEK SARKAR,G106,T Th,4,04/12,FN
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Abhishek Sarkar,G106,M,10,,
+,,Practical,,,,,YV Daseswara Rao,D208 B,M F,6 7 8,,
+,,,,,,,George Yuvaraj,,,,,
+322,ME G512,FINITE ELEMENT METHOD,-,-,5,1,Amol Vuppuluri,G204,T Th,5,06/12,FN
+,,,,,,,Amol Vuppuluri,G204,W,10,,
+,,Practical,,,,,GAURAV SHARMA,D208 B,T Th,9 10,,
+2059,ME G513,HEATING & COOL OF BUILD,3,2,5,1,MRINAL KETAN JAGIRDAR,G203,M W F,4,13/12,FN
+,,Practical,,,,,Kolanu Sai sandeep,LAB,T Th,8 9,,
+189,ME G521,MECHANICAL SYSTEM DESIGN,2,3,5,1,ARNAB GUHA,F204,M W F,10,13/12,FN
+,,,,,,,G R Sabareesh,,,,,
+,,Practical,,,,,Arnab Guha,LAB,Th F,6 7,,
+262,ME G532,MACHINE TOOL ENGINEERING,3,2,5,1,KUNDAN KUMAR SINGH,G103,M W F,9,09/12,FN
+,,Practical,,,,,Gururaja S,LAB,T Th,2 3,,
+2079,ME G535,ADV ENGG MATHEMATICS,3,2,5,1,KRC MURTHY,G105,M W F,9,09/12,FN
+,,Practical,,,,,KRC Murthy,D208 B,T Th,7 8,,
+,,,,,,,Aritra Chatterjee,,,,,
+739,ME G631,ADVANCED HEAT TRANSFER,3,2,5,1,SANTANU PRASAD DATTA,G201,M W F,8,02/12,AN
+,,,,,,,Sayan Das,,,,,
+,,Practical,,,,,Santanu Prasad Datta,LAB,T Th,4 5,,
+740,ME G641,THEORY OF ELASTICITY & PLAST,3,2,5,1,BRAJESH KUMAR PANIGRAHI,I114,M W F,2,06/12,FN
+,,Practical,,,,,Gudlavalleti Deepak Kumar,LAB,M W,6 7,,
+742,MEL G611,IC FABRICATION TECHNOLOGY,3,2,5,1,PARIKSHIT PARSHURAM SAHATIYA,I213,M W F,4,11/12,FN
+,,Practical,,,,,Parikshit Parshuram Sahatiya,I214,Th,4 5,,
+,,,,,,,Bishal kumar keshari,,,,,
+,,,,,,,Parikshit Parshuram Sahatiya,I214,M,9 10,,
+,,,,,,,Bishal kumar keshari,,,,,
+743,MEL G621,VLSI DESIGN,3,2,5,1,S GURUNARAYANAN,G201,M W F,2,16/12,FN
+,,Practical,,,,1,Kanika,I124,T,4 5,,
+,,,,,,,M Aalelai Vendhan,,,,,
+,,,,,,,Kanika,I124,F,6 7,,
+,,,,,,,M Aalelai Vendhan,,,,,
+,,,,,,2,Kanika,I124,T Th,9 10,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Anshul Awasthi,,,,,
+2063,MEL G622,INTRO TO ARTIF NEURAL NET,2,2,4,1,VENKATESWARAN R,I222,T Th,2,03/12,FN
+,,Practical,,,,,Venkateswaran R,J105,T Th,9 10,,
+,,,,,,,Sreejith v,,,,,
+2064,MEL G624,ADV VLSI ARCHITECTURES,-,-,5,1,S K SAHOO,F101,M W F,2,07/12,FN
+,,,,,,,S K Sahoo,I214,M,7 8,,
+,,Practical,,,,,Ramyavani p,J114,W,7 8,,
+606,MEL G626,VLSI TEST & TESTABILITY,-,-,5,1,NIRANJAN RAJ,I213,M W F,5,05/12,FN
+,,Practical,,,,,Niranjan Raj,J114,T,4 5,,
+,,,,,,,K Gopikrishna,,,,,
+,,,,,,,Niranjan Raj,I124,Th,4 5,,
+,,,,,,,K Gopikrishna,,,,,
+744,MEL G631,PHYSICS AND MODELLING OF MICROELECTRONIC DEVICES,3,2,5,1,SURYA SHANKAR DAN,I221,T Th,3,04/12,FN
+,,,,,,,Surya Shankar Dan,I221,W,10,,
+,,Practical,,,,,Surya Shankar Dan,J114,Th,6 7,,
+,,,,,,,Surya Shankar Dan,J114,F,9 10,,
+1402,MF F311,MECHATRONICS & AUTOMAT,2,1,3,1,ARSHAD JAVED,G206,M W F,3,11/12,FN
+,,Practical,,,,,Arshad Javed,LAB,T,7 8,,
+1418,MF F421,SUPPLY CHAIN MANAGEMENT,-,-,4,1,C P KIRAN,G206,T Th,2,16/12,AN
+,,,,,,,C P Kiran,G206,W,7,,
+1024,MGTS F211,PRINCIPLES OF MANAGEMENT,3,-,3,1,SWATI ALOK,F104,T Th,3,09/12,AN
+,,,,,,,Swati Alok,F104,F,10,,
+,,Tutorial,,,,,Swati Alok,F104,Th,7,,
+2548,MGTS F316,MANAGERIAL & LEADERSHIP SKILLS,3,-,3,1,R RAGHUNATHAN,J218,M W F,3,11/12,FN
+369,MSE G511,MECHATRONICS,3,2,5,1,ARSHAD JAVED,G206,M W F,3,11/12,FN
+,,Practical,,,,,Arshad Javed,LAB,M W,6 7,,
+649,MSE G521,WORLD-CLASS MANUFACTUR,3,2,5,1,RAVI SHANKER VIDYARTHY,G107,M W F,9,09/12,FN
+,,Practical,,,,,Kaleru Sai Kiran,LAB,T Th,2 3,,
+1086,PHA F211,PHARMACEUTICAL ANALYSIS,2,1,3,1,BALRAM GHOSH,G107,M W,2,06/12,AN
+,,Practical,,,,1,Balram Ghosh,B212,T,4 5,,
 ,,,,,,,Ambati Himaja,,,,,
+,,,,,,,Debo Jyothi Halder,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Denishkumar Jayvadanbhai Prajapati,,,,,
 ,,,,,,,Regula sanjeev,,,,,
-,,,,,,2,D Sriram,A001,W,6 7,,
+,,,,,,2,Balram Ghosh,B212,Th,4 5,,
 ,,,,,,,Ambati Himaja,,,,,
+,,,,,,,Debo Jyothi Halder,,,,,
+,,,,,,,Denishkumar Jayvadanbhai Prajapati,,,,,
 ,,,,,,,Regula sanjeev,,,,,
-,,Tutorial,,,,,D Sriram,G206,F,9,,
-1292,PHA F242,BIOLOGICAL CHEMISTRY,2,1,3,1,BALRAM GHOSH,G105,M W,2,11/03 - 2.00 - 3.30PM,07/05 FN
-,,Practical,,,,1,Balram Ghosh,A025,M,6 7,,
+,,Tutorial,,,,,Balram Ghosh,G107,F,2,,
+1863,PHA F215,INTRODUCTION TO MOLECULAR BIO,3,-,3,1,ARTI DHAR,G107,W F,8,04/12,AN
+,,Practical,,,,1,Arti Dhar,A009,M,4 5,,
+,,,,,,,Choudhary Heena Bholaram,,,,,
+,,,,,,,Karnik aaditi sameer,,,,,
+,,,,,,,Kothari prafful pradeep,,,,,
+,,,,,,,Lahane Ganesh Panditrao,,,,,
+,,,,,,,Shivani,,,,,
+,,,,,,,Vesmaker Kushal Nalin,,,,,
+,,,,,,2,Arti Dhar,A009,W,4 5,,
+,,,,,,,Choudhary Heena Bholaram,,,,,
+,,,,,,,Karnik aaditi sameer,,,,,
+,,,,,,,Kothari prafful pradeep,,,,,
+,,,,,,,Lahane Ganesh Panditrao,,,,,
+,,,,,,,Shivani,,,,,
+,,,,,,,Vesmaker Kushal Nalin,,,,,
+,,Tutorial,,,,,Arti Dhar,G107,T,8,,
+2505,PHA F217,PHARMACEUTICAL MICROBIOLOGY,2,1,3,1,D SRIRAM,G107,M W,3,16/12,FN
+,,Practical,,,,1,D Sriram,A025,M,8 9,,
+,,,,,,,Deepika K,,,,,
+,,,,,,,Sonal sukhadeo fande,,,,,
+,,,,,,2,D Sriram,A025,Th,9 10,,
+,,,,,,,Aditi pradhan,,,,,
+,,,,,,,Jegadheeswari V,,,,,
+,,Tutorial,,,,,D Sriram,G107,F,3,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+1294,PHA F244,PHYSICAL PHARMACY,2,1,3,1,V V KRISHNA VENUGANTI,G106,M W,4,04/12,FN
+,,Practical,,,,1,V V Krishna Venuganti,A022,W,9 10,,
+,,,,,,,Arawindh R,,,,,
+,,,,,,,Bollareddy Srivarsha Reddy,,,,,
+,,,,,,,Harshala Ramesh Patil,,,,,
+,,,,,,,Rupal Kothari,,,,,
+,,,,,,2,V V Krishna Venuganti,A022,F,8 9,,
+,,,,,,,Arawindh R,,,,,
+,,,,,,,Bollareddy Srivarsha Reddy,,,,,
+,,,,,,,Harshala Ramesh Patil,,,,,
+,,,,,,,Rupal Kothari,,,,,
+,,Tutorial,,,,,V V Krishna Venuganti,G106,F,4,,
+1665,PHA F266,STUDY PROJECT,-,-,3,1,ABHIJEET RAJENDRA JOSHI,,,,,
+1295,PHA F311,PHARMACOLOGY I,2,1,3,1,ONKAR KULKARNI,G106,T Th,9,12/12,AN
+,,Practical,,,,1,Onkar Kulkarni,A009,F,8 9,,
+,,,,,,,Abhipshit kalita,,,,,
 ,,,,,,,Aparajita Ghosh,,,,,
-,,,,,,,Priyanka ghosh,,,,,
-,,,,,,,Sripathi Nikhitha,,,,,
-,,,,,,2,Balram Ghosh,A025,F,6 7,,
+,,,,,,,Praveen kumar,,,,,
+,,,,,,2,Onkar Kulkarni,A009,W,9 10,,
+,,,,,,,Abhipshit kalita,,,,,
 ,,,,,,,Aparajita Ghosh,,,,,
-,,,,,,,Priyanka ghosh,,,,,
-,,,,,,,Sripathi Nikhitha,,,,,
-,,Tutorial,,,,,Balram Ghosh,G105,F,2,,
-1665,PHA F266,STUDY PROJECT,-,-,3,1,"ABHIJEET RAJENDRA
-JOS",,,,,
-1299,PHA F313,INSTRU METHODS OF ANAL,3,1,4,1,A SAJELI BEGUM,G105,T Th,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,Practical,,,,,A Sajeli Begum,B108,T,6 7 8,,
-,,,,,,,"Gupta Suraj Pyarelal
-Meena",,,,,
+,,,,,,,Praveen kumar,,,,,
+,,Tutorial,,,,,Onkar Kulkarni,G106,M,9,,
+1297,PHA F312,MEDICINAL CHEMISTRY I,2,1,3,1,VIJAYKUMAR DAYARAM NIMBARTE,G106,M W,5,07/12,AN
+,,,,,,,P Yogeeswari,,,,,
+,,Practical,,,,1,P Yogeeswari,A025,Th,4 5,,
+,,,,,,,Darakhshan Begum,,,,,
+,,,,,,,Deepu Raveend,,,,,
+,,,,,,,Shreya Shrikant Sonak,,,,,
+,,,,,,,Suraj paulkar.s,,,,,
+,,,,,,,Tonmoy Banerjee,,,,,
+,,,,,,,Vijaykumar Dayaram Nimbarte,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,2,P Yogeeswari,A025,T,4 5,,
+,,,,,,,Darakhshan Begum,,,,,
+,,,,,,,Deepu Raveend,,,,,
+,,,,,,,Shreya Shrikant Sonak,,,,,
+,,,,,,,Suraj paulkar.s,,,,,
+,,,,,,,Tonmoy Banerjee,,,,,
+,,,,,,,Vijaykumar Dayaram Nimbarte,,,,,
+,,Tutorial,,,,,Vijaykumar Dayaram Nimbarte,G106,F,5,,
+,,,,,,,P Yogeeswari,,,,,
+2506,PHA F315,PHARMACEUTICAL FORMULATIONS,2,1,3,1,NIRMAL J,G106,T Th,10,02/12,AN
+,,Practical,,,,1,Nirmal J,A022,Th,4 5,,
+,,,,,,,Kendre sandhya rani,,,,,
+,,,,,,,Manthan S Hiremath,,,,,
+,,,,,,,Mhamane Shruti Rajendranath,,,,,
+,,,,,,,Raj selva,,,,,
+,,,,,,,Sai Shreya,,,,,
+,,,,,,2,Nirmal J,A022,T,4 5,,
+,,,,,,,Kendre sandhya rani,,,,,
+,,,,,,,Manthan S Hiremath,,,,,
+,,,,,,,Mhamane Shruti Rajendranath,,,,,
+,,,,,,,Raj selva,,,,,
+,,,,,,,Sai Shreya,,,,,
+,,Tutorial,,,,,Nirmal J,G106,F,7,,
+1682,PHA F366,LABORATORY PROJECT,-,-,3,1,ABHIJEET RAJENDRA JOSHI,,,,,
+1750,PHA F367,LABORATORY PROJECT,-,-,3,1,ABHIJEET RAJENDRA JOSHI,,,,,
+1699,PHA F376,DESIGN PROJECT,-,-,3,1,ABHIJEET RAJENDRA JOSHI,,,,,
+1766,PHA F377,DESIGN PROJECT,-,-,3,1,ABHIJEET RAJENDRA JOSHI,,,,,
+1305,PHA F415,PATHOPHYSIOLOGY,3,-,3,1,ABHIJEET RAJENDRA JOSHI,G103,M W F,2,06/12,FN
+1308,PHA F422,COSMETIC SCIENCE,2,1,3,1,D SRIRAM,G201,T Th,3,13/12,AN
+,,,,,,,Swati Biswas,,,,,
+,,Practical,,,,,D Sriram,B212,T,7 8,,
+,,,,,,,K Vandana,,,,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Zinataman Sarkar,,,,,
+2382,PHA G535,BIOMATERIALS,-,-,5,1,NIRMAL J,G101,M W F,4,04/12,FN
+2384,PHA G537,PARENTERAL PRODUCT DEVELOPMENT,-,-,5,1,AKASH C,I112,M W F,3,11/12,FN
+2385,PHA G538,IMMUNOPHARMACOLOGY,3,2,5,1,ONKAR KULKARNI,G201,M W F,4,04/12,FN
+2387,PHA G540,MODERN PHARMACEUTICAL ANALYTICAL TECHNIQUES,3,1,4,1,A SAJELI BEGUM,G104,T Th,5,09/12,FN
+,,,,,,,A Sajeli Begum,G104,W,10,,
+,,Practical,,,,,A Sajeli Begum,B108,M,8 9,,
+,,,,,,,Gupta Suraj Pyarelal Meena,,,,,
+,,,,,,,Mogapothula Surya Teja,,,,,
+,,,,,,,P. S Lakshmi Soukya,,,,,
+,,,,,,,Tamizhmadi,,,,,
+653,PHA G542,ADVANCE PHYSICAL PHARMA,3,2,5,1,V V KRISHNA VENUGANTI,G104,T Th,4,06/12,FN
+,,,,,,,V V Krishna Venuganti,G104,M,10,,
+,,Practical,,,,,V V Krishna Venuganti,B212,Th,7 8 9 10,,
 ,,,,,,,Naik Sharayu Sunil jyoti,,,,,
 ,,,,,,,Sankar Shridula,,,,,
-,,,,,,,"Shreya Shashank
-Chauhan",,,,,
-,,,,,,,Tamizhmadi,,,,,
-,,,,,,,Velmurugan K,,,,,
-,,Tutorial,,,,,A Sajeli Begum,G201,T,1,,
-1296,PHA F341,PHARMACOLOGY II,2,1,3,1,ONKAR KULKARNI,G105,M W,5,16/03 - 4.00 - 5.30PM,20/05 AN
-,,Practical,,,,,Onkar Kulkarni,A009,T,8 9,,
-,,,,,,,Abhipshit kalita,,,,,
-,,,,,,,Lavanya S,,,,,
-,,,,,,,Praveen kumar,,,,,
-,,Tutorial,,,,,Onkar Kulkarni,G105,F,5,,
-1298,PHA F342,MEDICINAL CHEMISTRY II,2,1,3,1,P YOGEESWARI,G105,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,Practical,,,,,P Yogeeswari,A025,W,7 8,,
-,,,,,,,Darakhshan Begum,,,,,
-,,,,,,,Purbali Chakraborty,,,,,
-,,,,,,,Sri Ganga,,,,,
-,,Tutorial,,,,,P Yogeeswari,G105,F,1,,
-1301,PHA F343,FORENSIC PHARMACY,2,-,2,1,BALRAM GHOSH,G105,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,Tutorial,,,,,Balram Ghosh,G201,W,10,,
-1302,PHA F344,NATURAL DRUGS,2,1,3,1,A SAJELI BEGUM,G105,M W,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,Practical,,,,,A Sajeli Begum,A009,Th,8 9,,
-,,,,,,,"Bollareddy Srivarsha
-Reddy",,,,,
-,,,,,,,Erram Venkatesh,,,,,
-,,,,,,,P. S Lakshmi Soukya,,,,,
-,,,,,,,Shivani,,,,,
-,,Tutorial,,,,,A Sajeli Begum,G105,F,4,,
-1682,PHA F366,LABORATORY PROJECT,-,-,3,1,"ABHIJEET RAJENDRA
-JOS",,,,,
-1750,PHA F367,LABORATORY PROJECT,-,-,3,1,"ABHIJEET RAJENDRA
-JOS",,,,,
-1699,PHA F376,DESIGN PROJECT,-,-,3,1,"ABHIJEET RAJENDRA
-JOS",,,,,
-1766,PHA F377,DESIGN PROJECT,-,-,3,1,"ABHIJEET RAJENDRA
-JOS",,,,,
-1303,PHA F413,"PHARMA MANG & QUAL
-CONTR",3,-,3,1,"V V KRISHNA
-VENUGANTI",G205,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-1304,PHA F414,BIOPHARMACEUTICS,3,-,3,1,NIRMAL J,G106,M W F,3,12/03 - 4.00 - 5.30PM,09/05 AN
-1307,PHA F417,PHARMACOECONOMICS,3,-,3,1,"ABHIJEET RAJENDRA
-JOS",G106,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,Abhijeet Rajendra Joshi,G106,Th,10,,
-351,PHA G532,"Q A & REGULATORY
-AFFAIRS",3,2,5,1,AKASH C,G106,M W F,5,12/03 - 9.30 - 11.00AM,08/05 FN
-,,Practical,,,,,Akash C,LAB,T,"7 8 9
-10",,
-,,,,,,,Padhi sriddhant,,,,,
-,,,,,,,"Panchal Kanan Jayesh
-Pann",,,,,
-2292,PHA G546,"PHARMACEUTICAL BIO
-STATISTICS",3,-,3,1,R PUNNA RAO,G106,M W F,4,13/03 - 4.00 - 5.30PM,15/05 AN
-67,PHA G611,"ADVANCED
-PHARMACOLOGY",2,3,5,1,ARTI DHAR,G106,T Th,3,11/03 - 11.00 - 12.30PM,06/05 AN
-,,,,,,,Onkar Kulkarni,,,,,
-,,,,,,,Arti Dhar,G106,F,10,,
-,,,,,,,Onkar Kulkarni,,,,,
-,,Practical,,,,,Arti Dhar,A009,T Th,5 6,,
-,,,,,,,"Ashutosh Balasaheb
-Mahale",,,,,
-,,,,,,,Lahane Ganesh Panditrao,,,,,
-,,,,,,,Onkar Kulkarni,,,,,
+55,PHA G543,CLINICAL RESEARCH,3,-,5,1,ARTI DHAR,G203,T Th,3,11/12,FN
+,,,,,,,Arti Dhar,G203,M,7,,
+2132,PHA G545,IPR AND PHARMACEUTICALS,3,-,3,1,P YOGEESWARI,G102,M W F,9,06/12,FN
+,,,,,,,Yuvaraj Singh,,,,,
+2293,PHA G547,QUALI-BY-DESIGN IN PHARMACEUTICAL PROD,-,-,5,1,R PUNNA RAO,G106,T Th,5,09/12,FN
+,,,,,,,R Punna Rao,G106,W,10,,
+,,Practical,,,,,R Punna Rao,A022,Th,7 8 9 10,,
+,,,,,,,Swagata Sinha,,,,,
+955,PHA G613,PHARMACEUTICAL BIOTECH,3,2,5,1,SWATI BISWAS,G103,M W F,8,11/12,FN
+,,Practical,,,,,Swati Biswas,A009,M W,2 3,,
+,,,,,,,Are Varshini,,,,,
+,,,,,,,Naithik jain,,,,,
+,,,,,,,Shishira,,,,,
+,,,,,,,Sripathi Nikhitha,,,,,
+2105,PHA G619,SCR METHOD & TECH IN PHA,3,2,5,1,SRINIVAS PRASAD K,G104,M W F,5,06/12,FN
+,,Practical,,,,,Srinivas Prasad K,A009,W,7 8,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Amit Lalwani,,,,,
 ,,,,,,,Sonam Dolma,,,,,
 ,,,,,,,Wadkar Avinash Rudrappa,,,,,
-747,PHA G612,PHARM KINET & CLINIC PHA,3,2,5,1,R PUNNA RAO,G107,T Th,4,13/03 - 4.00 - 5.30PM,10/05 FN
-,,,,,,,R Punna Rao,G107,Th,10,,
-,,Practical,,,,,R Punna Rao,LAB,M,"7 8 9
-10",,
+,,,,,,,Srinivas Prasad K,A009,F,10 11,,
+2391,PHA G625,CELLULAR AND MOLECULAR PHARMACOLOGY,3,2,5,1,SRINIVAS PRASAD K,G105,T Th,4,13/12,FN
+,,,,,,,Srinivas Prasad K,G105,M,10,,
+2392,PHA G626,PHARMACOVIGILANCE,4,-,4,1,ABHIJEET RAJENDRA JOSHI,G102,M W F,8,09/12,FN
+721,PHA G632,DOSAGE FORM DESIGN,3,2,5,1,R PUNNA RAO,G101,M W F,5,13/12,FN
+,,Practical,,,,,R Punna Rao,A022,T,7 8 9 10,,
 ,,,,,,,Radhika Rajiv Mahajan,,,,,
-,,,,,,,Swagata Sinha,,,,,
-145,PHA G617,"ADV DRUG DELIVERY
-SYSTEM",3,2,5,1,SWATI BISWAS,G106,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,Swati Biswas,G106,W,10,,
-,,Practical,,,,,Swati Biswas,LAB,T Th,2 3,,
-,,,,,,,Kothari prafful pradeep,,,,,
-,,,,,,,Naithik jain,,,,,
-2390,PHA G624,"PRINCIPLES OF
-TOXICOLOGY",-,-,5,1,"ABHIJEET RAJENDRA
-JOS",G107,M W F,3,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,Srinivas Prasad K,,,,,
-1014,PHY F110,PHYSICS LABORATORY,-,2,1,1,Prasant Samantray,A222,M,3 4,,15/05 AN
-,,,,,,,Aiswarya N M,,,,,
-,,,,,,2,Asrarul Haque,A222,M,6 7,,
-,,,,,,,Suraj Kumar Maurya,,,,,
-,,,,,,3,Suvadip Das,A222,F,3 4,,
-,,,,,,,Aprajita srivastav,,,,,
-,,,,,,4,Swastik Bhattacharya,A222,T,5 6,,
-,,,,,,,Anamika Avinash Pathak,,,,,
-,,,,,,5,Suvadip Das,A222,F,6 7,,
-,,,,,,,Kulkarni akshay avinash,,,,,
-,,,,,,6,RAHUL NIGAM,A222,Th,5 6,,
-,,,,,,,ViswaKannan R K,,,,,
-,,,,,,7,Aranya Bhuti Bhattacherjee,A222,W,3 4,,
-,,,,,,,Akhil U Nair,,,,,
-,,,,,,8,Asrarul Haque,A222,W,6 7,,
+,,,,,,,Sonali Singh,,,,,
+,,,,,,,Yuvaraj Singh,,,,,
+2069,PHA G642,LABORATORY PROJECT,-,6,6,1,SWATI BISWAS,,,,,
+1014,PHY F110,PHYSICS LABORATORY,-,2,1,1,Suvadip Das,A222,M,2 3,07/12,FN
+,,,,,,,Lekshmi S M,,,,,
+,,,,,,2,Rahul Nigam,A222,M,8 9,,
+,,,,,,,Dharana Joshi,,,,,
+,,,,,,3,TO BE ANNOUNCED,A222,Th,9 10,,
+,,,,,,,Surajit Das,,,,,
+,,,,,,4,Swastik Bhattacharya,A222,T,9 10,,
 ,,,,,,,Rakesh kumar jha,,,,,
-,,,,,,9,Tanay Nag,A222,T,3 4,,
-,,,,,,,Urjjarani Patel,,,,,
-,,,,,,10,Tanay Nag,A222,Th,3 4,,
-,,,,,,,Gourab das,,,,,
-,,,,,,11,Subhash N. Karbelkar,A222,F,9 10,,
-,,,,,,,Hiwase Prajakta Mohanrao,,,,,
-1015,PHY F111,MECH OSCIL & WAVES,3,-,3,1,PK Thiruvikraman,F102,T Th,1,12/03 - 2.00 - 3.30PM,08/05 AN
-,,,,,,,Rickmoy Samanta,,,,,
-,,,,,,,PK Thiruvikraman,F102,W,10,,
-,,,,,,2,PK Thiruvikraman,F103,T Th,9,,
-,,,,,,,Rickmoy Samanta,,,,,
-,,,,,,,PK Thiruvikraman,F103,M,10,,
-,,,,,,,Rickmoy Samanta,,,,,
-,,Tutorial,,,,1,Tanay Nag,G201,T Th,8,,
-,,,,,,2,Suvadip Das,G202,T Th,8,,
-,,,,,,3,SUBHADEEP ROY,F203,T Th,8,,
-,,,,,,4,"Subrahmanya Bhima
-Sankar",G204,T Th,8,,
-,,,,,,5,Rickmoy Samanta,G204,T Th,5,,
-,,,,,,6,Tanay Nag,G201,M W,5,,
-,,,,,,7,Suvadip Das,G202,M W,5,,
-,,,,,,8,Subhadeep Roy,G203,M W,5,,
-1493,PHY F215,"INTRO TO ASTRO &
-ASTROPH",3,-,3,1,"SUBHASH N.
-KARBELKAR",G203,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-1482,PHY F241,"ELECTROMAGNETIC
-THEORY II",3,1,4,1,SASHIDEEP GUTTI,G203,M W,9,15/03 - 9.30 - 11.00AM,16/05 FN
-,,,,,,,Sarmistha Banik,,,,,
-,,,,,,,Sashideep Gutti,G203,F,6,,
-,,Tutorial,,,,,Sashideep Gutti,G203,Th,1,,
-,,,,,,,Sarmistha Banik,,,,,
-1483,PHY F242,QUANTUM MECHANICS I,3,-,3,1,ARAVINDA N RAGHAVAN,G203,T Th,4,14/03 - 4.00 - 5.30PM,14/05 AN
-,,,,,,,Aravinda N Raghavan,G202,Th,10,,
-,,Tutorial,,,,,Aravinda N Raghavan,G203,T,1,,
-1484,PHY F243,"MATHEMATICAL METHODS
-OF PHYSICS",3,-,3,1,"SWASTIK
-BHATTACHARYA",G203,M W F,3,12/03 - 11.00 - 12.30PM,09/05 FN
-,,Tutorial,,,,,Debanjan Guha Roy,G203,T,9,,
-1485,PHY F244,MODERN PHYSICS LAB,-,2,2,1,VSN MURTHY,A210,M W,6 7,,
-,,,,,,,K V Shiv Chaitanya,,,,,
-,,,,,,,Tamali Mukherjee,,,,,
-,,,,,,2,Kannan Ramaswamy,A211,T Th,6 7,,
-,,,,,,,Meenakshi V,,,,,
-,,,,,,,Nilofar Naaz,,,,,
-1666,PHY F266,STUDY PROJECT,-,-,3,1,TANAY NAG,,,,,
-1494,PHY F315,THEORY OF RELATIVITY,3,-,3,1,SASHIDEEP GUTTI,G202,T Th,3,11/03 - 9.30 - 11.00AM,06/05 FN
-,,,,,,,Sashideep Gutti,G202,F,10,,
-1489,PHY F341,SOLID STATE PHYSICS,3,-,3,1,SOURI BANERJEE,G203,T,10 11,16/03 - 2.00 - 3.30PM,18/05 FN
-,,,,,,,Souri Banerjee,G203,F,8,,
-,,Tutorial,,,,,Souri Banerjee,G203,T,7,,
-1490,PHY F342,ATOMIC & MOLECULAR PHY,3,-,3,1,K V SHIV CHAITANYA,G203,T Th,5,14/03 - 9.30 - 11.00AM,13/05 FN
-,,,,,,,K V Shiv Chaitanya,G203,W,10,,
-,,Tutorial,,,,,K V Shiv Chaitanya,G203,T,8,,
-1491,PHY F343,NUCLEAR & PARTICLE PHY,3,-,3,1,SARMISTHA BANIK,G203,M W F,4,13/03 - 2.00 - 3.30PM,11/05 AN
-,,,,,,,Asrarul Haque,,,,,
-,,Tutorial,,,,,Asrarul Haque,G205,Th,8,,
+,,,,,,5,Aranya Bhuti Bhattacherjee,A222,M,4 5,,
+,,,,,,,TO BE ANNOUNCED,,,,,
+,,,,,,6,SUBRAHMANYA BHIMA SANKAR D,A223,W,4 5,,
+,,,,,,,Yash Pareek,,,,,
+,,,,,,7,Sashideep Gutti,A222,F,8 9,,
 ,,,,,,,Anagh Venneti,,,,,
-1492,PHY F344,ADVANCED PHYSICS LAB,-,3,3,1,"SUBRAHMANYA BHIMA
-SA",B214,M W,6 7 8,,
-,,,,,,,B Harihara Venkataraman,,,,,
-,,,,,,,Geetika Sahu,,,,,
-,,,,,,,Greeshma Gopinath,,,,,
-,,,,,,,Priyanka Mitra,,,,,
-,,,,,,,Sreeshna S,,,,,
-1683,PHY F366,LABORATORY PROJECT,3,-,3,1,RICKMOY SAMANTA,,,,,
-1751,PHY F367,LABORATORY PROJECT,-,-,3,1,RICKMOY SAMANTA,,,,,
-1700,PHY F376,DESIGN PROJECT,3,-,3,1,SUVADIP DAS,,,,,
-1767,PHY F377,DESIGN PROJECT,-,-,3,1,SUVADIP DAS,,,,,
-2136,PHY F379,THIN FILM TECHNOLOGY,3,-,3,1,"B HARIHARA
-VENKATARA",G202,T Th,4,14/03 - 2.00 - 3.30PM,15/05 FN
-,,,,,,,VSN Murthy,,,,,
-,,,,,,,B Harihara Venkataraman,G206,Th,10,,
-1495,PHY F412,"INTRO TO QUAN FIELD
-THEO",3,1,4,1,PRASANT SAMANTRAY,G202,M W F,9,15/03 - 11.00 - 12.30PM,16/05 AN
-1496,PHY F413,PARTICLE PHYSICS,3,1,4,1,RAHUL NIGAM,G202,M W F,2,11/03 - 4.00 - 5.30PM,07/05 AN
-1504,PHY F420,QUANTUM OPTICS,3,1,4,1,"ARANYA BHUTI
-BHATTACH",G202,T Th,2,15/03 - 4.00 - 5.30PM,17/05 AN
-,,,,,,,Aranya Bhuti Bhattacherjee,G202,M,10,,
+,,,,,,8,Sarmistha Banik,A222,F,4 5,,
+,,,,,,,Aprajita srivastav,,,,,
+,,,,,,9,Asrarul Haque,A222,W,8 9,,
+,,,,,,,Akhil U Nair,,,,,
+,,,,,,10,Prasant Samantray,A222,W,2 3,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+,,,,,,,Kulkarni akshay avinash,,,,,
+,,,,,,11,Debanjan Polley,A222,F,2 3,,
+,,,,,,,Anamika Avinash Pathak,,,,,
+1015,PHY F111,MECH OSCIL & WAVES,3,-,3,1,RICKMOY SAMANTA,F102,M W,1,12/12,FN
+,,,,,,,PK Thiruvikraman,,,,,
+,,,,,,2,Rickmoy Samanta,F103,T Th,5,,
+,,,,,,,PK Thiruvikraman,,,,,
+,,Tutorial,,,,1,Tanay Nag,I114,T Th,2,,
+,,,,,,2,Suvadip Das,I122,T Th,2,,
+,,,,,,3,Subhadeep Roy,I212,T Th,2,,
+,,,,,,4,Subrahmanya Bhima Sankar D,I213,T Th,2,,
+,,,,,,5,Tanay Nag,G206,T Th,8,,
+,,,,,,6,Suvadip Das,G207,T Th,8,,
+,,,,,,7,Subhadeep Roy,G208,T Th,8,,
+,,,,,,8,Subrahmanya Bhima Sankar D,F201,T Th,8,,
+1859,PHY F112,GENERAL PHYSICS,3,-,3,1,B HARIHARA VENKATARAMAN,G102,T Th,5,12/12,FN
+,,,,,,,B Harihara Venkataraman,G102,W,10,,
+,,Tutorial,,,,,B Harihara Venkataraman,G103,T,8,,
+1126,PHY F211,CLASSICAL MECHANICS,3,1,4,1,ARAVINDA N RAGHAVAN,G202,M W F,2,06/12,AN
+,,Tutorial,,,,,Aravinda N Raghavan,G202,T,1,,
+1127,PHY F212,ELECTROMAGNETIC THEO I,3,-,3,1,Sashideep Gutti,G201,M W F,3,11/12,AN
+,,,,,,2,VSN Murthy,G202,M W F,3,,
+,,,,,,3,TO BE ANNOUNCED,G203,M W F,3,,
+,,,,,,4,RAHUL NIGAM,F103,M W F,3,,
+,,,,,,5,Swastik Bhattacharya,G204,M W F,3,,
+,,,,,,6,Asrarul Haque,G103,M W F,3,,
+,,Tutorial,,,,1,Sashideep Gutti,G201,Th,1,,
+,,,,,,2,VSN Murthy,G202,Th,1,,
+,,,,,,3,Debanjan Polley,G203,Th,1,,
+,,,,,,4,Rahul Nigam,F107,Th,1,,
+,,,,,,5,Swastik Bhattacharya,G204,Th,1,,
+,,,,,,6,Asrarul Haque,G103,Th,1,,
+TIMETABLE & EXAMS,,,,,,,,,,,,
+FIRST SEMESTER TIMETABLE 2024 -25,,,,,,,,,,,,
+"COM
+CODE",COURSE NO.,COURSE TITLE,CREDIT,,,,"INSTRUCTOR-IN-
+CHARGE/INSTRUCTOR",ROOM,DAYS,HOURS,"COMPRE
+DATE","SESSIO
+N"
+,,,L,P,U,SEC,,,,,,
+1128,PHY F213,OPTICS,3,-,3,1,MEENAKSHI V,G202,T W F,8,04/12,AN
+,,Tutorial,,,,,Meenakshi V,G202,Th,9,,
+1129,PHY F214,ELEC MAGNET & OPTICS LAB,-,2,2,1,SUBHASH N. KARBELKAR,A210,M W,4 5,,
+,,,,,,,K V Shiv Chaitanya,,,,,
+,,,,,,2,Subhash N. Karbelkar,A211,T Th,4 5,,
+,,,,,,,K V Shiv Chaitanya,,,,,
+1666,PHY F266,STUDY PROJECT,-,-,3,1,SWASTIK BHATTACHARYA,,,,,
+1486,PHY F311,QUANTUM MECHANICS II,3,-,3,1,PRASANT SAMANTRAY,I113,W F,9,02/12,FN
+,,,,,,,Prasant Samantray,I113,Th,8,,
+,,Tutorial,,,,,Prasant Samantray,G202,T,10,,
+1487,PHY F312,STATISTICAL MECHANICS,3,-,3,1,SARMISTHA BANIK,G202,T Th,3,13/12,FN
+,,,,,,,Sarmistha Banik,G202,F,10,,
+,,Tutorial,,,,,Sarmistha Banik,G202,T,7,,
+,,,,,,,Debanjan Guha Roy,,,,,
+,,,,,,,Suraj Kumar Maurya,,,,,
+1488,PHY F313,COMPUTATIONAL PHYSICS,3,-,3,1,SUBHADEEP ROY,G202,M W F,1,10/12,AN
+,,Tutorial,,,,,Subhadeep Roy,G202,Th,10,,
+,,,,,,,ViswaKannan R K,,,,,
+2192,PHY F316,MUSICAL ACOUSTICS,3,-,3,1,K V SHIV CHAITANYA,G203,M W F,2,06/12,FN
+2176,PHY F345,QUANTUM MECHANICS FOR ENGINEERS,3,-,3,1,KANNAN RAMASWAMY,G106,M W F,3,11/12,FN
+2448,PHY F346,LASER SCIENCE & TECHNOLOGY,3,-,3,1,ARANYA BHUTI BHATTACHERJEE,G106,M W F,2,06/12,FN
+1700,PHY F376,DESIGN PROJECT,3,-,3,1,SARMISTHA BANIK,,,,,
+1767,PHY F377,DESIGN PROJECT,-,-,3,1,SARMISTHA BANIK,,,,,
+1498,PHY F415,GENERAL THEORY OF RELATIVITY AND COSMOLOGY,3,1,4,1,RICKMOY SAMANTA,G105,T Th,1,10/12,AN
+,,,,,,,Rickmoy Samanta,G105,M,7,,
+2327,PHY F428,QUANTUM INFO THEORY,3,-,3,1,TANAY NAG,G202,M W,10,09/12,FN
+,,,,,,,Tanay Nag,G202,Th,6,,
+958,SS G515,DATA WAREHOUSING,3,2,5,1,NARASIMHA BOLLOJU,I112,M W F,4,09/12,FN
+,,Practical,,,,,Narasimha Bolloju,I015,T Th,2 3,,
