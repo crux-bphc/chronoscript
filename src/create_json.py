@@ -125,21 +125,21 @@ def create_json_file(
     tt.loc[:, cols] = tt.loc[:, cols].ffill()
 
     # fix for 2024-2025 sem 1 draft timetable
-    tt["compre"] = tt["midsem"] + " " + tt["compre"]
-    tt = tt.assign(midsem="NaN")
-    tt = tt[tt["course_code"] != "COURSE NO."]
-    tt = tt[tt["course_code"].notna()]
+    # tt["compre"] = tt["midsem"] + " " + tt["compre"]
+    # tt = tt.assign(midsem="NaN")
+    # tt = tt[tt["course_code"] != "COURSE NO."]
+    # tt = tt[tt["course_code"].notna()]
 
     # note that this automates the boring stuff, it does not automate the truly fascinating spliced fuckups
-    f = -1
-    for i, row in tt.iterrows():
-        if f == -1 or row["course_name"] in ["Lecture", "Tutorial", "Practical"] or prev_row["course_name"] in ["Lecture", "Tutorial", "Practical"]:
-            prev_row = row
-            f = 1
-            continue
-        if row["course_code"] == prev_row["course_code"] and row["course_name"].strip() != prev_row["course_name"].strip():
-            print(prev_row["course_name"], row["course_name"])
-        prev_row = row
+    # f = -1
+    # for i, row in tt.iterrows():
+    #     if f == -1 or row["course_name"] in ["Lecture", "Tutorial", "Practical"] or prev_row["course_name"] in ["Lecture", "Tutorial", "Practical"]:
+    #         prev_row = row
+    #         f = 1
+    #         continue
+    #     if row["course_code"] == prev_row["course_code"] and row["course_name"].strip() != prev_row["course_name"].strip():
+    #         print(prev_row["course_name"], row["course_name"])
+    #     prev_row = row
     
     for _, row in tt.iterrows():
         course_code = row["course_code"]
