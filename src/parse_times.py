@@ -14,7 +14,10 @@ def parse_time(time: str, year: int, midsem=True) -> str:
     """
     if midsem:
         time = time.split()
-        time.pop(1)
+        
+        # New 2024-25 Draft timetable for sem 2 doesn't have an extra '-' to be removed
+        #time.pop(1)
+        
         time = " ".join(time)
 
     parts = time.split()
