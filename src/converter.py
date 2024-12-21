@@ -53,11 +53,11 @@ def convert_timetable_to_csv(
 
 if __name__ == "__main__":
     # headers to remove from the table
-    headers: list[str] = ["COM\nCOD", "TIMETABLE FIRST SEMESTER 2023-2024"]
+    headers: list[str] = ["COMP\nCODE", "DRAFT TIMETABLE II SEMESTER 2024 -25"]
 
     # page range to extract the timetable from
     # [from, to]
-    page_range: list[int] = [7, 64]
+    page_range: list[int] = [1, 66]
 
     # path to the pdf file
     file: str = r"./files/timetable.pdf"
