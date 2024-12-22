@@ -157,16 +157,20 @@ def create_json_file(
 
         # make sure sections of different kinds of classes (lecture, tutorial, practical) are not overwritten by each other
         # to make sure of that, and for common lingo, we add a prefix to the section number
-        section = int(row["section"])
-        if row["course_name"] == "Tutorial":
-            section = "T" + str(section)
-        elif (row["course_name"] == "Practical") or (
-            course_json[course_code]["lecture units"] == "-"
-            and course_json[course_code]["practical units"] != "-"
-        ):
-            section = "P" + str(section)
-        else:
-            section = "L" + str(section)
+
+        # section = int(row["section"])
+        # if row["course_name"] == "Tutorial":
+        #     section = "T" + str(section)
+        # elif (row["course_name"] == "Practical") or (
+        #     course_json[course_code]["lecture units"] == "-"
+        #     and course_json[course_code]["practical units"] != "-"
+        # ):
+        #     section = "P" + str(section)
+        # else:
+        #     section = "L" + str(section)
+
+        # New 2024-25 Draft timetable for sem 2 already has the above part formatted
+        section = row["section"]
 
         # initialize section and section details if not already initialized
         if course_json[course_code]["sections"].get(section) is None:
